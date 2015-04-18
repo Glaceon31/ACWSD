@@ -1,0 +1,35 @@
+<character value="腊">
+	<introduce>
+		<pinyin value="la4" writing="là" />
+		<pinyin value="xi1" writing="xī" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="撇折横横横竖竖横竖折横横" />
+	</introduce>
+	<pron value="là">
+		<sense tag="名" vernacular="古时十二月对众神的一种祭祀，有时也指腊祭的日子">
+			<exam article="《五蠹》" ref="夫山居而谷汲者，娄腊而相遗以水。" />
+		</sense>
+	</pron>
+	<pron value="xī">
+		<sense tag="名" vernacular="干肉">
+			<exam article="《易经·噬嗑》" ref="噬腊肉，遇毒。" />
+		</sense>
+		<sense tag="动" vernacular="制成干肉；干枯">
+			<exam article="《捕蛇者说》" ref="然得而腊之以为饵，可以已大风、挛踠、瘘、疠。" />
+		</sense>
+		<sense tag="副" vernacular="极，很">
+			<exam article="《国语·周语下》" ref="厚味寔腊毒。" />
+		</sense>
+	</pron>
+	<phrase value="腊鼓">
+		<sense value="古时于腊日或腊前一日击鼓驱疫的民俗" />
+	</phrase>
+	<phrase value="腊破">
+		<sense value="腊尽，年终" />
+	</phrase>
+	<phrase value="腊日">
+		<sense value="古时一年结束时祭祀众神的日子" />
+	</phrase>
+</character>

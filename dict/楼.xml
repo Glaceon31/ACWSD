@@ -1,0 +1,17 @@
+<character value="楼">
+	<introduce>
+		<pinyin value="lou2" writing="lóu" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="横竖撇捺捺撇横竖撇捺折撇横" />
+	</introduce>
+	<pron value="lóu">
+		<sense tag="名" vernacular="两层以上的房屋建筑">
+			<exam article="《黄冈竹楼记》" ref="因作小楼二间，与月波楼通。" />
+		</sense>
+		<sense tag="名" vernacular="指酒店、茶馆、歌舞游乐场">
+			<exam article="《鲁提辖拳打镇关西》" ref="三人来到潘家酒楼上。" />
+		</sense>
+	</pron>
+</character>

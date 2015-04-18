@@ -1,0 +1,14 @@
+<character value="皲">
+	<introduce>
+		<pinyin value="jun1" writing="jūn" />
+		<bushou value="皮" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="捺折横折竖横折撇竖折捺" />
+	</introduce>
+	<pron value="jūn">
+		<sense tag="动" vernacular="皮肤因寒冷、二燥而裂口">
+			<exam article="《送东阳马生序》" ref="足胅皲裂而不知。" />
+		</sense>
+	</pron>
+</character>

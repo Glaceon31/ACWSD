@@ -1,0 +1,33 @@
+<character value="音">
+	<introduce>
+		<pinyin value="yin1" writing="yīn" />
+		<bushou value="音" />
+		<bushoustroke value="9" />
+		<stroke value="9" />
+		<order value="捺横捺撇横竖折横横" />
+	</introduce>
+	<pron value="yīn">
+		<sense tag="名" vernacular="声音">
+			<exam article="《琵琶行并序》" ref="听其音，铮铮然有京都声。" />
+		</sense>
+		<sense tag="名" vernacular="音乐">
+			<exam article="《廉颇蔺相如列传》" ref="寡人窃闻赵王好音。" />
+		</sense>
+		<sense tag="名" vernacular="音律">
+			<exam article="《庖丁解牛》" ref="奏刀騞騞然，莫不中音。" />
+		</sense>
+		<sense tag="名" vernacular="口音">
+			<exam article="《回乡偶书》" ref="乡音无改鬓毛衰。" />
+		</sense>
+		<sense tag="名" vernacular="字的读音">
+			<exam article="《游褒禅山记》" ref="今言‘华’如‘华实’之‘华’者，盖音谬也。" />
+		</sense>
+		<sense tag="名" vernacular="通“荫”">
+			<exam article="《左传·文公十七年》" ref="鹿死不择音。" />
+		</sense>
+	</pron>
+	<phrase value="音翰">
+		<sense value="诗文；文辞" />
+		<sense value="书信" />
+	</phrase>
+</character>

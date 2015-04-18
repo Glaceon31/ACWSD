@@ -1,0 +1,29 @@
+<character value="絮">
+	<introduce>
+		<pinyin value="xu4" writing="xù" />
+		<bushou value="糸" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="折撇横竖折横折折捺竖撇捺" />
+	</introduce>
+	<pron value="xù">
+		<sense tag="名" vernacular="粗丝棉；棉絮">
+			<exam article="《卖柑者言》" ref="视其中，则干若败絮。" />
+		</sense>
+		<sense tag="名" vernacular="像丝絮或棉絮那样的东西">
+			<exam article="《过零丁洋》" ref="山河破碎风飘絮。" />
+		</sense>
+		<sense tag="动" vernacular="在农服、被褥里铺丝棉">
+			<exam article="《子夜吴歌》" ref="明朝驿使发，一夜絮征袍。" />
+		</sense>
+	</pron>
+	<phrase value="絮烦">
+		<sense value="说话啰嗦使人厌烦" />
+	</phrase>
+	<phrase value="絮聒">
+		<sense value="说话啰唆" />
+	</phrase>
+	<phrase value="絮絮">
+		<sense value="说话不停的样子" />
+	</phrase>
+</character>

@@ -1,0 +1,16 @@
+<character value="愔">
+	<introduce>
+		<pinyin value="yin1" writing="yīn" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺竖捺横捺撇横竖折横横" />
+	</introduce>
+	<pron value="yīn">
+		<sense vernacular="见“愔愔”" />
+	</pron>
+	<phrase value="愔愔">
+		<sense value="1" />
+		<sense value="和悦；和谐" />
+	</phrase>
+</character>

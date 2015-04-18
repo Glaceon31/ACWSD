@@ -1,0 +1,21 @@
+<character value="镂">
+	<introduce>
+		<pinyin value="lou4" writing="lòu" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="14" />
+		<order value="撇横横横折捺撇横竖撇捺折撇横" />
+	</introduce>
+	<pron value="lòu">
+		<sense tag="动" vernacular="本指可供雕刻的钢铁" />
+		<sense tag="动" vernacular="开凿；凿通">
+			<exam article="《难蜀父老》" ref="镂灵山。" />
+		</sense>
+	</pron>
+	<phrase value="镂冰雕朽">
+		<sense value="雕刻冰块和朽木，比喻徒劳无功" />
+	</phrase>
+	<phrase value="镂月裁云">
+		<sense value="比喻精巧" />
+	</phrase>
+</character>

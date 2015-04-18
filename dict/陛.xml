@@ -1,0 +1,18 @@
+<character value="陛">
+	<introduce>
+		<pinyin value="bi4" writing="bì" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="折竖横折撇折横竖横" />
+	</introduce>
+	<pron value="bì">
+		<sense tag="名" vernacular="宫殿的台阶">
+			<exam article="《荆轲刺秦王》" ref="至陛下，秦武阳色变振恐。" />
+		</sense>
+	</pron>
+	<phrase value="陛下">
+		<sense value="对君主的敬称" />
+		<sense value="“陛下”本指陛下站的侍臣，臣下与君主说话，不敢直对君主，呼君主的侍臣转告，以示尊重，后来变成对君主的敬称" />
+	</phrase>
+</character>

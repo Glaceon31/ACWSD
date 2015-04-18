@@ -1,0 +1,15 @@
+<character value="谚">
+	<introduce>
+		<pinyin value="yan4" writing="yàn" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="捺折捺横捺撇横撇撇撇撇" />
+	</introduce>
+	<pron value="yàn">
+		<sense tag="名" vernacular="谚语">
+			<exam article="《左传·昭公十九年》" ref="谚所谓室于怒市于色者。" />
+			<exam article="《过秦论》" ref="野谚曰：‘前事之不忘，后事之师也。’" />
+		</sense>
+	</pron>
+</character>

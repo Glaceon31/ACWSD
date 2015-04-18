@@ -1,0 +1,26 @@
+<character value="继">
+	<introduce>
+		<pinyin value="ji4" writing="jì" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="折折横捺撇横竖撇捺折" />
+	</introduce>
+	<pron value="jì">
+		<sense tag="动" vernacular="继续；连续">
+			<exam article="《殽之战》" ref="攻之不克，围之不继，吾其还也。" />
+		</sense>
+		<sense tag="动" vernacular="接济；补偿">
+			<exam article="《墨子·非命上》" ref="古者汤封于亳，绝长继短，方地百里。" />
+		</sense>
+		<sense tag="动" vernacular="继承；承接">
+			<exam article="《左忠毅公逸事》" ref="吾诸儿碌碌，他日继吾志事，惟此生耳。" />
+		</sense>
+		<sense tag="名" vernacular="继承人">
+			<exam article="《触龙说赵太后》" ref="赵主之子孙侯者，其继有在者乎？。" />
+		</sense>
+		<sense tag="副" vernacular="接着；随后">
+			<exam article="《六国论》" ref="齐人未尝赂秦，而终继五国迁灭。" />
+		</sense>
+	</pron>
+</character>

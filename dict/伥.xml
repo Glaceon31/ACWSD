@@ -1,0 +1,17 @@
+<character value="伥">
+	<introduce>
+		<pinyin value="chang1" writing="chāng" />
+		<pinyin value="tang3" writing="tăng" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇竖撇横折捺" />
+	</introduce>
+	<pron value="chāng">
+		<sense tag="名" vernacular="古时传说被老虎吃掉的人，死后变成伥鬼，引虎食人，如“为虎作伥" />
+		<sense tag="形" vernacular="无所适从时样子" />
+	</pron>
+	<phrase value="伥伥">
+		<sense value="茫然不知所措的样子" />
+	</phrase>
+</character>

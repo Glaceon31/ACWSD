@@ -1,0 +1,26 @@
+<character value="社">
+	<introduce>
+		<pinyin value="she4" writing="shè" />
+		<bushou value="礻" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="捺折竖捺横竖横" />
+	</introduce>
+	<pron value="shè">
+		<sense tag="名" vernacular="土地神">
+			<exam article="《左传·昭公二十九年》" ref="后土为社。" />
+		</sense>
+		<sense tag="名" vernacular="祭祀土地神的地方（古人认为是土地神灵依附止息的地方）">
+			<exam article="《柳毅传》" ref="洞庭之阴，有大橘树焉，乡人谓之社橘。" />
+		</sense>
+		<sense tag="名" vernacular="祭祀土地神的活动、节日">
+			<exam article="《永遇乐·京口北固亭怀古》" ref="佛里祠下，一片神鸦社鼓。" />
+		</sense>
+		<sense tag="名" vernacular="古代居民单位，二十五家（一说二十家）为一社">
+			<exam article="《左传·昭公二十五年》" ref="请致千社。" />
+		</sense>
+		<sense tag="名" vernacular="社团；团体">
+			<exam article="《五人墓碑记》" ref="吾社之行为士先者，为之声义。" />
+		</sense>
+	</pron>
+</character>

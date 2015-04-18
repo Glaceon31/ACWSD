@@ -1,0 +1,22 @@
+<character value="隶">
+	<introduce>
+		<pinyin value="li4" writing="lì" />
+		<bushou value="隶" />
+		<bushoustroke value="8" />
+		<stroke value="8" />
+		<order value="折横横竖捺横撇捺" />
+	</introduce>
+	<pron value="lì">
+		<sense tag="名" vernacular="奴隶的一个等级，也泛指奴隶、奴仆">
+			<exam article="《过秦论》" ref="然陈涉瓮牖绳枢之子，甿隶之人，而迁徙这徒也。" />
+			<exam article="《五人墓碑记》" ref="人皆得以隶使之。" />
+		</sense>
+		<sense tag="动" vernacular="隶属；属于">
+			<exam article="《伤仲永》" ref="金溪民方仲永，世隶耕。" />
+		</sense>
+		<sense tag="名" vernacular="汉字的一种字体，即隶书" />
+	</pron>
+	<phrase value="隶人">
+		<sense value="古代因罪没入官为奴隶、从事劳役的人" />
+	</phrase>
+</character>

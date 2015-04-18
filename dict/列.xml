@@ -1,0 +1,53 @@
+<character value="列">
+	<introduce>
+		<pinyin value="lie4" writing="liè" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="横撇折捺竖竖" />
+	</introduce>
+	<pron value="liè">
+		<sense tag="动" vernacular="通“裂”">
+			<exam article="《荀子·大略》" ref="古者列地建国。" />
+			<exam article="《梦游天姥吟留别》" ref="列缺霹雳，丘峦崩摧。" />
+		</sense>
+		<sense tag="名" vernacular="行列；位次">
+			<exam article="《屈原列传》" ref="上官大夫与之同列。" />
+		</sense>
+		<sense tag="动" vernacular="排列；陈列">
+			<exam article="《梦游天姥吟留别》" ref="仙之人兮列如麻。" />
+		</sense>
+		<sense tag="动" vernacular="开列；列出">
+			<exam article="《记王忠肃公翱事》" ref="乃伪为屋券，列贾五百金。" />
+		</sense>
+		<sense tag="形" vernacular="众，各">
+			<exam article="《货殖列传序》" ref="富于列国之君。" />
+		</sense>
+		<sense tag="形" vernacular="一般的；普通的">
+			<exam article="《廉颇蔺相如列传》" ref="大王见臣列观。" />
+		</sense>
+		<sense tag="动" vernacular="通“烈”，焚烧">
+			<exam article="《祭鳄鱼文》" ref="昔先王既有天下，列山泽，罔绳擉刀，以除虫蛇恶物为民害者。" />
+		</sense>
+		<sense tag="形" vernacular="通“烈”">
+			<exam article="《汉书·贾谊传》" ref="贪夫殉财兮，列士殉名。" />
+		</sense>
+	</pron>
+	<phrase value="列列">
+		<sense value="形容高高耸立的样子" />
+		<sense value="形容行列分明的样子" />
+		<sense value="形容风吹动" />
+	</phrase>
+	<phrase value="列眉">
+		<sense value="像眉毛一样暴露无遗" />
+		<sense value="表示显而易见，无可怀疑" />
+	</phrase>
+	<phrase value="列缺">
+		<sense value="高空" />
+		<sense value="闪电" />
+	</phrase>
+	<phrase value="列士">
+		<sense value="指有名望的人" />
+		<sense value="同“烈士”" />
+	</phrase>
+</character>

@@ -1,0 +1,20 @@
+<character value="沥">
+	<introduce>
+		<pinyin value="li4" writing="lì" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺横横撇折撇" />
+	</introduce>
+	<pron value="lì">
+		<sense tag="动" vernacular="下滴">
+			<exam article="《聚蚊谣》" ref="露华滴沥月上天。" />
+		</sense>
+		<sense tag="动" vernacular="以酒洒地而祭">
+			<exam article="《虬髯客传》" ref="一妹与李郎可沥酒东南相贺。" />
+		</sense>
+		<sense tag="名" vernacular="酒">
+			<exam article="《史记·滑稽列传》" ref="侍酒于前，时赐余沥。" />
+		</sense>
+	</pron>
+</character>

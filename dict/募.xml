@@ -1,0 +1,18 @@
+<character value="募">
+	<introduce>
+		<pinyin value="mu4" writing="mù" />
+		<bushou value="力" />
+		<bushoustroke value="2" />
+		<stroke value="12" />
+		<order value="横竖竖竖折横横横撇捺折撇" />
+	</introduce>
+	<pron value="mù">
+		<sense tag="动" vernacular="征求；招募">
+			<exam article="《捕蛇者说》" ref="募有能捕之者，当其租入。" />
+		</sense>
+	</pron>
+	<phrase value="募格">
+		<sense value="为招募人才而先立下的赏格" />
+		<sense value="写有募格的布告" />
+	</phrase>
+</character>

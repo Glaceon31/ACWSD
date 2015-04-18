@@ -1,0 +1,24 @@
+<character value="媚">
+	<introduce>
+		<pinyin value="mei4" writing="mèi" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折撇横折竖横撇竖折横横横" />
+	</introduce>
+	<pron value="mèi">
+		<sense tag="形" vernacular="美好可爱">
+			<exam article="《满井游记》" ref="山峦为晴雪所洗，娟然如拭，鲜妍明媚。" />
+		</sense>
+		<sense tag="动" vernacular="喜欢；喜爱">
+			<exam article="《诗经·下武》" ref="媚兹，而士宦亦有之。" />
+			<exam article="《促织》" ref="有华阴令欲媚上官。" />
+		</sense>
+	</pron>
+	<phrase value="媚行">
+		<sense value="慢走" />
+	</phrase>
+	<phrase value="媚灶">
+		<sense value="谄媚灶神，比喻巴结权贵" />
+	</phrase>
+</character>

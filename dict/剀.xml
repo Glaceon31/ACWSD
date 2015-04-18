@@ -1,0 +1,17 @@
+<character value="剀">
+	<introduce>
+		<pinyin value="kai3" writing="kăi" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="竖折竖折横折竖竖" />
+	</introduce>
+	<pron value="kǎi">
+		<sense tag="动" vernacular="讽喻；以此喻彼">
+			<exam article="《新唐书·杜如晦传》" ref="谓一人不可总数职，阴剀讽如晦等。" />
+		</sense>
+		<sense tag="副" vernacular="切实">
+			<exam article="《新唐书·刘昌裔传》" ref="为环檄李纳，剀晓大义。" />
+		</sense>
+	</pron>
+</character>

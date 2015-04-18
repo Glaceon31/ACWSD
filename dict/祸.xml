@@ -1,0 +1,17 @@
+<character value="祸">
+	<introduce>
+		<pinyin value="huo4" writing="huò" />
+		<bushou value="礻" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="捺折竖捺竖折横竖折撇捺" />
+	</introduce>
+	<pron value="huò">
+		<sense tag="名" vernacular="灾难；灾祸">
+			<exam article="《老子》" ref="祸兮福所倚。" />
+		</sense>
+		<sense tag="动" vernacular="危害；降祸">
+			<exam article="《左传·昭公元年》" ref="子木有祸人之心。" />
+		</sense>
+	</pron>
+</character>

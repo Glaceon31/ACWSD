@@ -1,0 +1,33 @@
+<character value="迁">
+	<introduce>
+		<pinyin value="qian1" writing="qiān" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="撇横竖捺折捺" />
+	</introduce>
+	<pron value="qiān">
+		<sense tag="动" vernacular="迁移；迁徙">
+			<exam article="《史记·秦始皇本纪》" ref="迁其民于临洮。" />
+		</sense>
+		<sense tag="动" vernacular="特指迁都">
+			<exam article="《答司马谏议书》" ref="盘庚之迁，胥怨者民也。" />
+			<exam article="《&lt;指南录&gt;后序》" ref="时北兵已迫修门外，战、守、迁皆不及施。" />
+		</sense>
+		<sense tag="动" vernacular="变动；变更">
+			<exam article="《六国论》" ref="齐人未尝赂秦，终继五国迁灭，何哉？" />
+		</sense>
+		<sense tag="动" vernacular="调动；重新任命">
+			<exam article="《张衡传》" ref="公车特征拜郎中，再迁为太史令。" />
+		</sense>
+		<sense tag="动" vernacular="放逐；流放">
+			<exam article="《屈原列传》" ref="顷襄王怒而迁之。" />
+		</sense>
+	</pron>
+	<phrase value="迁客">
+		<sense value="被贬谪到京城以外做官的人" />
+	</phrase>
+	<phrase value="迁怒">
+		<sense value="怒此而移于彼" />
+	</phrase>
+</character>

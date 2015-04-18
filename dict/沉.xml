@@ -1,0 +1,72 @@
+<character value="沉">
+	<introduce>
+		<pinyin value="chen2" writing="chén" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺横捺折撇折" />
+	</introduce>
+	<pron value="chén">
+		<sense tag="动" vernacular="沉入水中；沉没">
+			<exam article="《酬乐天扬州初逢席上见赠》" ref="沉舟侧畔千帆过，病树前头万木春。" />
+			<exam article="《岳阳楼记》" ref="浮光跃金，静影沉璧。" />
+		</sense>
+		<sense tag="动" vernacular="泛指下落；沉陷">
+			<exam article="《过零丁洋》" ref="山河破碎风飘絮，身世浮沉雨打萍。" />
+		</sense>
+		<sense tag="动" vernacular="沉溺；陷入">
+			<exam article="《冯谖客孟尝君》" ref="沉于国家之事，开罪于先生。" />
+		</sense>
+		<sense tag="形" vernacular="重；沉重">
+			<exam article="《采草药》" ref="无苗时采，则实而沉。" />
+		</sense>
+		<sense tag="形" vernacular="深；深沉">
+			<exam article="《如梦令》" ref="常记溪亭日幕，沉醉不知归路。" />
+		</sense>
+	</pron>
+	<phrase value="沉沉">
+		<sense value="1" />
+		<sense value="深沉、凝重的样子" />
+		<sense value="2" />
+		<sense value="昏愦不清的样子" />
+	</phrase>
+	<phrase value="沉浮">
+		<sense value="1" />
+		<sense value="在水面上出没" />
+		<sense value="2" />
+		<sense value="亦作“浮沉”" />
+		<sense value="比喻人事的升降、盛衰、消长" />
+	</phrase>
+	<phrase value="沉沦">
+		<sense value="1" />
+		<sense value="沉没；沉溺" />
+	</phrase>
+	<phrase value="沉迷">
+		<sense value="陷溺；迷惑" />
+	</phrase>
+	<phrase value="沉湎">
+		<sense value="沉溺于酒" />
+	</phrase>
+	<phrase value="沉抑">
+		<sense value="1" />
+		<sense value="郁结而不顺畅" />
+	</phrase>
+	<phrase value="沉毅">
+		<sense value="沉着而刚毅" />
+	</phrase>
+	<phrase value="沉吟">
+		<sense value="1" />
+		<sense value="沉思" />
+	</phrase>
+	<phrase value="沉郁">
+		<sense value="1" />
+		<sense value="积滞而不通畅" />
+	</phrase>
+	<phrase value="沉鸷">
+		<sense value="深沉勇猛" />
+	</phrase>
+	<phrase value="沉滞">
+		<sense value="1" />
+		<sense value="积滞而不通畅" />
+	</phrase>
+</character>

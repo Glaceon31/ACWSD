@@ -1,0 +1,21 @@
+<character value="早">
+	<introduce>
+		<pinyin value="zao3" writing="zăo" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="竖折横横横竖" />
+	</introduce>
+	<pron value="zǎo">
+		<sense tag="名" vernacular="早晨">
+			<exam article="《过小孤山大孤山》" ref="二日早，行未二里，忽风云腾涌。" />
+		</sense>
+		<sense tag="名" vernacular="某一时间的开始阶段">
+			<exam article="《宫词》" ref="早春杨柳引长条，倚岸沿堤一面高。" />
+		</sense>
+		<sense tag="副" vernacular="趁早；早些">
+			<exam article="《赤壁之战》" ref="若能以吴，越之众与中国抗衡，不如早与之绝。" />
+		</sense>
+		<sense tag="副" vernacular="幸而" />
+	</pron>
+</character>

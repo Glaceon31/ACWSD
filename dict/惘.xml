@@ -1,0 +1,15 @@
+<character value="惘">
+	<introduce>
+		<pinyin value="wang3" writing="wăng" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺竖竖折捺撇横捺横折" />
+	</introduce>
+	<pron value="wǎng">
+		<sense vernacular="见“惘然”" />
+	</pron>
+	<phrase value="惘然">
+		<sense value="失意，精神恍惚的样子" />
+	</phrase>
+</character>

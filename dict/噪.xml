@@ -1,0 +1,15 @@
+<character value="噪">
+	<introduce>
+		<pinyin value="zao4" writing="zào" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="竖折横竖折横竖折横竖折横横竖撇捺" />
+	</introduce>
+	<pron value="zào">
+		<sense tag="动" vernacular="许多鸟或虫子乱叫" />
+		<sense tag="动" vernacular="喧哗，很多人在一起叫嚷">
+			<exam article="《北史·流求传》" ref="勇者三五人出前跳噪。" />
+		</sense>
+	</pron>
+</character>

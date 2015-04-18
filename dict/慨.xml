@@ -1,0 +1,18 @@
+<character value="慨">
+	<introduce>
+		<pinyin value="kai3" writing="kăi" />
+		<pinyin value="kai4" writing="kài" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺竖折横横折捺横折撇折" />
+	</introduce>
+	<pron value="kǎi">
+		<sense tag="动" vernacular="感慨；感叹">
+			<exam article="《东京赋》" ref="慨长思而怀古。" />
+		</sense>
+		<sense tag="动" vernacular="激昂；激愤">
+			<exam article="《短歌行》" ref="慨当以慷，忧思难忘。" />
+		</sense>
+	</pron>
+</character>

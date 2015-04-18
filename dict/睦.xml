@@ -1,0 +1,23 @@
+<character value="睦">
+	<introduce>
+		<pinyin value="mu4" writing="mù" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="竖折横横横横竖横撇捺横竖横" />
+	</introduce>
+	<pron value="mù">
+		<sense tag="形" vernacular="和好；和睦">
+			<exam article="《出师表》" ref="愚以为营中之事，悉以咨之，必能行阵和睦。" />
+		</sense>
+		<sense tag="形" vernacular="亲睦；亲密">
+			<exam article="《汉书·韦贤传》" ref="嗟嗟我王，汉之睦亲。" />
+		</sense>
+		<sense tag="动" vernacular="顺从；服从">
+			<exam article="《左传·僖公二十二年》" ref="吾兄弟之不协，焉能怨诸侯之不睦。" />
+		</sense>
+	</pron>
+	<phrase value="睦睦">
+		<sense value="恭敬的样子" />
+	</phrase>
+</character>

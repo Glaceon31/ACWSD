@@ -1,0 +1,17 @@
+<character value="觏">
+	<introduce>
+		<pinyin value="gou4" writing="gòu" />
+		<bushou value="见" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="横横竖竖横竖折竖横横竖折撇折" />
+	</introduce>
+	<pron value="gòu">
+		<sense tag="动" vernacular="遇；遇见">
+			<exam article="《诗经·邶风·柏舟》" ref="觏闵既多，受侮不少。" />
+		</sense>
+		<sense tag="动" vernacular="通“构”">
+			<exam article="《左传·成公六年》" ref="其恶易觏。" />
+		</sense>
+	</pron>
+</character>

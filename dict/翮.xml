@@ -1,0 +1,15 @@
+<character value="翮">
+	<introduce>
+		<pinyin value="he2" writing="hé" />
+		<bushou value="羽" />
+		<bushoustroke value="6" />
+		<stroke value="16" />
+		<order value="横竖折横竖折捺撇横竖折捺横折捺横" />
+	</introduce>
+	<pron value="hé">
+		<sense tag="名" vernacular="羽毛中间的硬管">
+			<exam article="《跂乌词》" ref="左右六翮利如刀。" />
+			<exam article="《送应氏》" ref="愿为比翼鸟，施翮起高翔。" />
+		</sense>
+	</pron>
+</character>

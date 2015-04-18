@@ -1,0 +1,45 @@
+<character value="指">
+	<introduce>
+		<pinyin value="zhi3" writing="zhĭ" />
+		<pinyin value="zhi1" writing="zhī" />
+		<pinyin value="zhi2" writing="zhí" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横撇折竖折横横" />
+	</introduce>
+	<pron value="zhǐ">
+		<sense tag="名" vernacular="手指">
+			<exam article="《卖炭翁》" ref="两鬃苍苍十指黑。" />
+			<exam article="《孔雀东南飞》" ref="指如削葱根，口如含朱丹。" />
+		</sense>
+		<sense tag="动" vernacular="用手指点">
+			<exam article="《陈涉世家》" ref="旦日，卒中往往语，皆指目陈胜。" />
+			<exam article="《始得西山宴游记》" ref="望西山，指异之。" />
+		</sense>
+		<sense tag="动" vernacular="指给……看">
+			<exam article="《史记·项羽本纪》" ref="指王翳曰：‘此项王也。’" />
+		</sense>
+		<sense tag="动" vernacular="指责">
+			<exam article="《汉书·王嘉传》" ref="千夫所指，无病而死。" />
+		</sense>
+		<sense tag="动" vernacular="直立；竖起">
+			<exam article="《鸿门宴》" ref="头发上指，目眦尽裂。" />
+		</sense>
+		<sense tag="名" vernacular="通“旨”">
+			<exam article="《陈涉世家》" ref="卜者知其意。" />
+			<exam article="《屈原列传》" ref="其称文小而其指极大。" />
+		</sense>
+		<sense tag="副" vernacular="通“直”">
+			<exam article="《愚公移山》" ref="指通豫南，达于汉阴。" />
+		</sense>
+	</pron>
+	<phrase value="指点">
+		<sense value="指出；指给人看" />
+		<sense value="指责" />
+		<sense value="评论；指导" />
+	</phrase>
+	<phrase value="指意">
+		<sense value="意旨；意向" />
+	</phrase>
+</character>

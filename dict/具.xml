@@ -1,0 +1,51 @@
+<character value="具">
+	<introduce>
+		<pinyin value="ju4" writing="jù" />
+		<bushou value="八" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="竖折横横横横撇捺" />
+	</introduce>
+	<pron value="jù">
+		<sense tag="名" vernacular="酒肴；饮食">
+			<exam article="《史记·项羽本纪》" ref="为太牢具。" />
+		</sense>
+		<sense tag="动" vernacular="供应、备办酒食">
+			<exam article="《殽之战》" ref="居则具一日之积，行则备一夕之卫。" />
+		</sense>
+		<sense tag="动" vernacular="置办；准备">
+			<exam article="《郑伯克段于鄢》" ref="大叔完聚，缮甲兵，具卒乘，将袭郑。" />
+			<exam article="《活板》" ref="此印者才毕，则第二板已具。" />
+		</sense>
+		<sense tag="动" vernacular="具有；具备">
+			<exam article="《核舟记》" ref="罔不因势像形，各具情态。" />
+		</sense>
+		<sense tag="名" vernacular="器具；器械">
+			<exam article="《伤仲永》" ref="仲永生五年，未尝识书具。" />
+			<exam article="《赤壁之战》" ref="船、粮、战具俱办。" />
+		</sense>
+		<sense tag="名" vernacular="才能；才干">
+			<exam article="《晋书·王羲之传》" ref="吾素无廊庙具。" />
+		</sense>
+		<sense tag="名" vernacular="道理；方法">
+			<exam article="《东方朔》" ref="十九岁学孙吴兵法，战阵之具。" />
+		</sense>
+		<sense tag="副" vernacular="通“俱”，全，都，尽">
+			<exam article="《鸿门宴》" ref="私见张良，具告以事。" />
+			<exam article="《陈情表》" ref="臣具以表闻，辞不就职。" />
+			<exam article="《桃花源记》" ref="问所从来，具答之。" />
+		</sense>
+	</pron>
+	<phrase value="具草">
+		<sense value="拟稿" />
+	</phrase>
+	<phrase value="具臣">
+		<sense value="备位充数，不称职的臣子" />
+	</phrase>
+	<phrase value="具眼">
+		<sense value="识别事物的眼力，高明的见识" />
+	</phrase>
+	<phrase value="具瞻">
+		<sense value="为众人所瞻仰" />
+	</phrase>
+</character>

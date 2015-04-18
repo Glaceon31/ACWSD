@@ -1,0 +1,22 @@
+<character value="此">
+	<introduce>
+		<pinyin value="ci3" writing="cĭ" />
+		<bushou value="止" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="竖横竖横撇折" />
+	</introduce>
+	<pron value="cǐ">
+		<sense vernacular="指示代词，与“彼”相对">
+			<exam article="《石钟山记》" ref="此世所以不传也。" />
+			<exam article="《鸿门宴》" ref="此天子气也。" />
+		</sense>
+		<sense vernacular="这样；这般">
+			<exam article="《庖丁解牛》" ref="善哉！技盍至此乎？" />
+			<exam article="《察今》" ref="求剑若此，不亦惑乎？" />
+		</sense>
+		<sense vernacular="这就；这样就">
+			<exam article="《礼记·大学》" ref="有德此有人，有人此有土，有土此有财，有财此有用。" />
+		</sense>
+	</pron>
+</character>

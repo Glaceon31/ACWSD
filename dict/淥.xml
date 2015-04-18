@@ -1,0 +1,17 @@
+<character value="淥">
+	<introduce>
+		<pinyin value="lu4" writing="lù" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺横折折横竖捺横撇捺" />
+	</introduce>
+	<pron value="lù">
+		<sense tag="形" vernacular="清澈">
+			<exam article="《洛神赋》" ref="灼若芙蕖出淥波。" />
+		</sense>
+		<sense tag="名" vernacular="清酒">
+			<exam article="《醉为马所坠诸公携酒相看》" ref="共指西日不相贷，喧呼且覆杯中淥。" />
+		</sense>
+	</pron>
+</character>

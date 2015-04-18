@@ -1,0 +1,23 @@
+<character value="额">
+	<introduce>
+		<pinyin value="e2" writing="é" />
+		<bushou value="页" />
+		<bushoustroke value="6" />
+		<stroke value="15" />
+		<order value="捺捺折撇折捺竖折横横撇竖折撇捺" />
+	</introduce>
+	<pron value="é">
+		<sense tag="名" vernacular="额头；脑门儿">
+			<exam article="《西门豹治邺》" ref="叩头且破，额血流地，色如死灰。" />
+		</sense>
+		<sense tag="名" vernacular="牌匾；匾额">
+			<exam article="《过小孤山大孤山》" ref="庙在山之西麓，额曰：‘惠济’。" />
+		</sense>
+		<sense tag="名" vernacular="数目">
+			<exam article="《新五代史·刘审交传》" ref="租有定额。" />
+		</sense>
+	</pron>
+	<phrase value="额手">
+		<sense value="以手加额，表示庆幸" />
+	</phrase>
+</character>

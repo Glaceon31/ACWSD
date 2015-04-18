@@ -1,0 +1,29 @@
+<character value="邀">
+	<introduce>
+		<pinyin value="yao1" writing="yāo" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="撇竖折横横捺横折撇撇横撇捺捺折捺" />
+	</introduce>
+	<pron value="yāo">
+		<sense tag="动" vernacular="邀请">
+			<exam article="《琵琶行》" ref="移船相近邀相见。" />
+		</sense>
+		<sense tag="动" vernacular="半路拦截">
+			<exam article="《晋书·陶潜传》" ref="于半道邀之。" />
+		</sense>
+		<sense tag="动" vernacular="求取">
+			<exam article="《论衡·自然》" ref="不作功邀名。" />
+		</sense>
+		<sense tag="动" vernacular="要挟">
+			<exam article="《教战守策》" ref="陵压百姓而邀其上者，何故？" />
+		</sense>
+	</pron>
+	<phrase value="邀功">
+		<sense value="求功" />
+	</phrase>
+	<phrase value="邀击">
+		<sense value="半路阻击" />
+	</phrase>
+</character>

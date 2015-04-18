@@ -1,0 +1,24 @@
+<character value="札">
+	<introduce>
+		<pinyin value="zha2" writing="zhá" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="5" />
+		<order value="横竖撇捺折" />
+	</introduce>
+	<pron value="zhá">
+		<sense tag="名" vernacular="古代用来写字的小木片">
+			<exam article="《汉书·司马相如传》" ref="上令尚书给笔札。" />
+		</sense>
+		<sense tag="名" vernacular="书信" />
+		<sense tag="名" vernacular="古时铠甲上的金属叶片">
+			<exam article="《左传·成公十六年》" ref="蹲甲射之，彻七札焉。" />
+		</sense>
+		<sense tag="动" vernacular="因瘟疫而死">
+			<exam article="《列子·汤问》" ref="土气和，亡札厉。" />
+		</sense>
+	</pron>
+	<phrase value="札札">
+		<sense value="象声词" />
+	</phrase>
+</character>

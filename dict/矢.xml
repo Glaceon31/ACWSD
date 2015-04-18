@@ -1,0 +1,23 @@
+<character value="矢">
+	<introduce>
+		<pinyin value="shi3" writing="shĭ" />
+		<bushou value="矢" />
+		<bushoustroke value="5" />
+		<stroke value="5" />
+		<order value="撇横横撇捺" />
+	</introduce>
+	<pron value="shǐ">
+		<sense tag="名" vernacular="箭">
+			<exam article="《过秦论》" ref="秦无亡矢遗镞之费，而天下诸侯已困矣。" />
+		</sense>
+		<sense tag="动" vernacular="发誓">
+			<exam article="《诗经·柏舟》" ref="之死矢靡它。" />
+		</sense>
+		<sense tag="名" vernacular="通“屎”，粪便">
+			<exam article="《狱中杂记》" ref="每薄暮下管键，矢溺皆闭其中，与饮食之气相薄。" />
+		</sense>
+	</pron>
+	<phrase value="矢言">
+		<sense value="正直之言" />
+	</phrase>
+</character>

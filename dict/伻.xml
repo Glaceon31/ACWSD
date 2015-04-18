@@ -1,0 +1,23 @@
+<character value="伻">
+	<introduce>
+		<pinyin value="beng1" writing="bēng" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇竖横捺撇横竖" />
+	</introduce>
+	<pron value="bēng">
+		<sense vernacular="动&gt;使，令">
+			<exam article="《谢东府赐御筵表》" ref="伻视魏阙之下。" />
+		</sense>
+		<sense tag="名" vernacular="使者">
+			<exam article="《出都》" ref="伻来喜对草堂图。" />
+		</sense>
+	</pron>
+	<phrase value="伻图">
+		<sense value="1" />
+		<sense value="遣人绘图" />
+		<sense value="2" />
+		<sense value="规划、设计" />
+	</phrase>
+</character>

@@ -1,0 +1,16 @@
+<character value="睚">
+	<introduce>
+		<pinyin value="ya2" writing="yá" />
+		<pinyin value="ai2" writing="ái" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="竖折横横横横撇横竖横横竖横" />
+	</introduce>
+	<pron value="yá">
+		<sense vernacular="见“睚眦”" />
+	</pron>
+	<phrase value="睚眦">
+		<sense value="怒目而视" />
+	</phrase>
+</character>

@@ -1,0 +1,20 @@
+<character value="衒">
+	<introduce>
+		<pinyin value="xuan4" writing="xuàn" />
+		<bushou value="行" />
+		<bushoustroke value="6" />
+		<stroke value="11" />
+		<order value="撇撇竖捺横折折捺横横竖" />
+	</introduce>
+	<pron value="xuàn">
+		<sense tag="动" vernacular="沿街叫卖">
+			<exam article="《天问》" ref="妖夫曳衒，何号于市？" />
+		</sense>
+		<sense tag="动" vernacular="泛指卖">
+			<exam article="《三国志·魏书·武帝纪》注引《魏书》" ref="下民贫弱，代出租赋，衒鬻家财，不足应命。" />
+		</sense>
+		<sense tag="动" vernacular="炫耀；自夸">
+			<exam article="《答韦中立论师道书》" ref="谁敢衒怪于群目，以召闹取怒乎。" />
+		</sense>
+	</pron>
+</character>

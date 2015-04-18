@@ -1,0 +1,33 @@
+<character value="武">
+	<introduce>
+		<pinyin value="wu3" writing="wŭ" />
+		<bushou value="止" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横横竖横竖横折捺" />
+	</introduce>
+	<pron value="wǔ">
+		<sense tag="名" vernacular="脚印；足迹">
+			<exam article="《离骚》" ref="忽奔走以先后兮，及前王之踵武。" />
+		</sense>
+		<sense tag="量" vernacular="古时以六尺为步，半步为武">
+			<exam article="《国语·周语》" ref="不过步武尺寸之间。" />
+		</sense>
+		<sense tag="形" vernacular="勇猛；刚健；威武">
+			<exam article="《国殇》" ref="诚既勇兮又以武。" />
+		</sense>
+		<sense tag="名" vernacular="泛指与武力、军事、战争有关的事物，与“文”相对">
+			<exam article="《六国论》" ref="洎牧以谗诛，邯郸市郡，惜其用武而不终也。" />
+		</sense>
+	</pron>
+	<phrase value="武备">
+		<sense value="武装力量、军备和武装建设" />
+	</phrase>
+	<phrase value="武弁">
+		<sense value="古代武官的帽子" />
+		<sense value="旧时指低级的武职；武士" />
+	</phrase>
+	<phrase value="武夫">
+		<sense value="战士；武士" />
+	</phrase>
+</character>

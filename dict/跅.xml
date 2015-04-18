@@ -1,0 +1,15 @@
+<character value="跅">
+	<introduce>
+		<pinyin value="tuo4" writing="tuò" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="12" />
+		<order value="竖折横竖横竖横撇撇横竖捺" />
+	</introduce>
+	<pron value="tuò">
+		<sense vernacular="见“跅弛”" />
+	</pron>
+	<phrase value="跅弛">
+		<sense value="放荡；无拘束" />
+	</phrase>
+</character>

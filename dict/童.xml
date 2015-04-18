@@ -1,0 +1,38 @@
+<character value="童">
+	<introduce>
+		<pinyin value="tong2" writing="tóng" />
+		<bushou value="立" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="捺横捺撇横竖折横横竖横横" />
+	</introduce>
+	<pron value="tóng">
+		<sense tag="名" vernacular="年轻的奴隶或奴仆">
+			<exam article="《石钟山记》" ref="寺僧使小童持斧，于乱石间择其一二扣之。" />
+		</sense>
+		<sense tag="名" vernacular="儿童；少年">
+			<exam article="《童区寄传》" ref="童寄者，郴州荛牧儿也。" />
+		</sense>
+		<sense tag="形" vernacular="秃；光秃">
+			<exam article="《进学解》" ref="头童齿豁，竟死何裨？" />
+		</sense>
+		<sense tag="形" vernacular="幼稚；愚昧">
+			<exam article="《新书·道术》" ref="反慧为童。" />
+		</sense>
+	</pron>
+	<phrase value="童龀">
+		<sense value="儿童；小孩" />
+	</phrase>
+	<phrase value="童蒙">
+		<sense value="幼稚不懂事的孩童" />
+		<sense value="知识浅陋" />
+		<sense value="愚昧无知" />
+	</phrase>
+	<phrase value="童生">
+		<sense value="明清时没有获得秀才资格成为官学生员的读书人，不论年纪大小" />
+	</phrase>
+	<phrase value="童子">
+		<sense value="少年；儿童" />
+		<sense value="童生" />
+	</phrase>
+</character>

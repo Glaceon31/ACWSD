@@ -1,0 +1,14 @@
+<character value="钺">
+	<introduce>
+		<pinyin value="yue4" writing="yuè" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="撇横横横折横折折撇捺" />
+	</introduce>
+	<pron value="yuè">
+		<sense tag="名" vernacular="古代一种像斧子的兵器">
+			<exam article="《史记·孙武传》" ref="约束既布，乃设鈇钺。" />
+		</sense>
+	</pron>
+</character>

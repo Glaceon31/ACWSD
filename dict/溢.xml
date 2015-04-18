@@ -1,0 +1,29 @@
+<character value="溢">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="捺捺横捺撇横撇捺竖折竖竖横" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="动" vernacular="水漫出来">
+			<exam article="《三国专·吴主传》" ref="诸山崩，鸿水溢。" />
+		</sense>
+		<sense tag="动" vernacular="流露">
+			<exam article="《柳毅传》" ref="又有一人，披紫裳，执青玉，貌耸神溢。" />
+		</sense>
+		<sense tag="形" vernacular="自满；骄傲">
+			<exam article="《谏太宗十思疏》" ref="惧满溢则思江海下百川。" />
+		</sense>
+		<sense tag="形" vernacular="过分的">
+			<exam article="《三国志·诸葛瞻传》" ref="美声溢誉，有过其实。" />
+		</sense>
+	</pron>
+	<phrase value="溢美">
+		<sense value="过分的称赞" />
+	</phrase>
+	<phrase value="溢目">
+		<sense value="眼睛看不过来，指景物多姿多彩" />
+	</phrase>
+</character>

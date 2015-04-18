@@ -1,0 +1,29 @@
+<character value="川">
+	<introduce>
+		<pinyin value="chuan1" writing="chuān" />
+		<bushou value="川" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="撇竖竖" />
+	</introduce>
+	<pron value="chuān">
+		<sense tag="名" vernacular="河流，水道">
+			<exam article="《邵公谏厉王弭谤》" ref="防民之口，甚于防川。川壅而溃，伤人必多。" />
+			<exam article="《阿房宫赋》" ref="二川溶溶，流入宫墙。" />
+			<exam article="《长歌行》" ref="百川到东海，何时复西归？" />
+		</sense>
+		<sense tag="名" vernacular="平地，平原">
+			<exam article="《敕勒歌》" ref="敕勒川，阴山下。" />
+		</sense>
+	</pron>
+	<phrase value="川流">
+		<sense value="1" />
+		<sense value="比喻往来不息，盛行不衰" />
+	</phrase>
+	<phrase value="川气">
+		<sense value="水面的雾气" />
+	</phrase>
+	<phrase value="川游">
+		<sense value="泅水渡河" />
+	</phrase>
+</character>

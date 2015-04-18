@@ -1,0 +1,46 @@
+<character value="弱">
+	<introduce>
+		<pinyin value="ruo4" writing="ruò" />
+		<bushou value="弓" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="折横折捺横折横折捺横" />
+	</introduce>
+	<pron value="ruò">
+		<sense tag="形" vernacular="弱小">
+			<exam article="《廉颇蔺相如列传》" ref="秦强而赵弱。" />
+		</sense>
+		<sense tag="形使动" vernacular="使……弱；削弱">
+			<exam article="《过秦论》" ref="会盟而谋弱秦。" />
+		</sense>
+		<sense tag="形" vernacular="软弱；懦弱">
+			<exam article="《廉颇蔺相如列传》" ref="王不行，示赵弱且怯也。" />
+		</sense>
+		<sense tag="形" vernacular="年幼；年少">
+			<exam article="《愚公移山》" ref="曾不若孀妻弱子。" />
+		</sense>
+		<sense tag="名" vernacular="年纪小的人">
+			<exam article="《柳毅传》" ref="使闺窗孺弱，远罹构害。" />
+		</sense>
+		<sense tag="名" vernacular="弱者；势力薄弱的人">
+			<exam article="《后汉书·耿纯传》" ref="抑强扶弱。" />
+		</sense>
+		<sense tag="动" vernacular="丧失；丧亡">
+			<exam article="《左传·昭公三年》" ref="又弱一个焉，姜其危哉。" />
+		</sense>
+		<sense tag="形" vernacular="不足；差一点">
+			<exam article="《晋书·天文志》" ref="与赤道东交于角稍弱。" />
+		</sense>
+	</pron>
+	<phrase value="弱冠">
+		<sense value="古代男子二十岁行冠礼，身体未壮，所以称弱" />
+		<sense value="后来称男子二十岁左右的年龄" />
+	</phrase>
+	<phrase value="弱息">
+		<sense value="小儿" />
+		<sense value="对别谦称自己的儿女" />
+	</phrase>
+	<phrase value="弱约">
+		<sense value="柔弱；柔顺" />
+	</phrase>
+</character>

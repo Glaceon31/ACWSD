@@ -1,0 +1,34 @@
+<character value="典">
+	<introduce>
+		<pinyin value="dian3" writing="diăn" />
+		<bushou value="八" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="竖折横竖竖横撇捺" />
+	</introduce>
+	<pron value="diǎn">
+		<sense tag="名" vernacular="重要的书籍、文献">
+			<exam article="《张衡传》" ref="自书典所记，未之有也。" />
+			<exam article="《活板》" ref="五代时始印五经，已后典籍皆为板本。" />
+		</sense>
+		<sense tag="名" vernacular="法则；制度">
+			<exam article="《张衡传》" ref="时国王骄奢，不遵典宪。" />
+		</sense>
+		<sense tag="名" vernacular="从前的文物、制度">
+			<exam article="《左传·昭公十五年》" ref="数典而忘其祖。" />
+		</sense>
+		<sense tag="动" vernacular="掌管；主管">
+			<exam article="《史记·季布栾布列传》" ref="季布以勇显于楚，身屡典军，搴旗者数矣。" />
+		</sense>
+		<sense tag="动" vernacular="抵押">
+			<exam article="《曲江》" ref="朝回日日典春衣，每日江头尽醉归。" />
+			<exam article="《鲁提辖拳打镇关西》" ref="着落店主人家追要原典身三千贯。" />
+		</sense>
+		<sense tag="形" vernacular="文雅；不粗俗">
+			<exam article="《答玄圃园讲颂启令》" ref="辞典文艳。" />
+		</sense>
+		<sense tag="名" vernacular="典礼">
+			<exam article="《宋书·蔡廓传》" ref="朝廷仪典，皆取定于亮。" />
+		</sense>
+	</pron>
+</character>

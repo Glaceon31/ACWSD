@@ -1,0 +1,33 @@
+<character value="显">
+	<introduce>
+		<pinyin value="xian3" writing="xiăn" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="竖折横横竖竖捺撇横" />
+	</introduce>
+	<pron value="xiǎn">
+		<sense tag="形" vernacular="显著；明显">
+			<exam article="《柳毅传》" ref="唯恐道途显晦，不相通达，致负诚托。" />
+		</sense>
+		<sense tag="形" vernacular="显贵；显赫">
+			<exam article="《五人墓碑记》" ref="今之高爵显位，一旦抵罪，或脱身以逃。" />
+		</sense>
+		<sense tag="动" vernacular="显现；显露">
+			<exam article="《窦娥冤》" ref="其间才把个屈死的冤魂这窦娥显。" />
+		</sense>
+		<sense tag="动" vernacular="显扬">
+			<exam article="《孙膑减灶》" ref="孙膑以此名显天下。" />
+		</sense>
+		<sense tag="形" vernacular="荣耀">
+			<exam article="《五人墓碑记》" ref="是以蓼洲周公，忠义暴于朝廷，赠谥美显，荣于身后。" />
+		</sense>
+		<sense tag="形" vernacular="旧美称去世的长辈亲属" />
+	</pron>
+	<phrase value="显学">
+		<sense value="著名的学说或学派" />
+	</phrase>
+	<phrase value="显达">
+		<sense value="在官场上有地位有声望" />
+	</phrase>
+</character>

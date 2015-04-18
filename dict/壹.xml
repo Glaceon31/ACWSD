@@ -1,0 +1,32 @@
+<character value="壹">
+	<introduce>
+		<pinyin value="yi1" writing="yī" />
+		<bushou value="士" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖横捺折横竖折横捺撇横" />
+	</introduce>
+	<pron value="yī">
+		<sense tag="动" vernacular="专一">
+			<exam article="《荀子·成相》" ref="好而壹之神以成。" />
+		</sense>
+		<sense tag="动" vernacular="统一；一致">
+			<exam article="《商君书·壹言》" ref="治国者贵民壹。" />
+		</sense>
+		<sense tag="副" vernacular="一概；都">
+			<exam article="《汉书·车千秋传》" ref="政事壹决大将军光。" />
+		</sense>
+		<sense tag="副" vernacular="一旦；一经">
+			<exam article="《汉书·燕剌王旦传》" ref="大王壹起，国中虽女子皆奋臂随大王。" />
+		</sense>
+		<sense tag="数" vernacular="“一”的大写">
+			<exam article="《史记·梁孝王世家》" ref="太后乃说，不帝加壹餐。" />
+		</sense>
+	</pron>
+	<phrase value="壹何">
+		<sense value="副词，相当于现代汉语的“多么”" />
+	</phrase>
+	<phrase value="壹是">
+		<sense value="一律" />
+	</phrase>
+</character>

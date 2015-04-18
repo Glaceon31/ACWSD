@@ -1,0 +1,18 @@
+<character value="涤">
+	<introduce>
+		<pinyin value="di2" writing="dí" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横撇折捺横竖撇捺" />
+	</introduce>
+	<pron value="dí">
+		<sense tag="动" vernacular="清洗">
+			<exam article="《韩非子·说林》" ref="宫有垩，器有涤，则洁矣。" />
+		</sense>
+		<sense tag="动" vernacular="清除" />
+		<sense tag="名" vernacular="饲养祭祀用的牲畜的房子">
+			<exam article="《礼记·郊特牲》" ref="帝牛必有涤三月。" />
+		</sense>
+	</pron>
+</character>

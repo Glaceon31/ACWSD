@@ -1,0 +1,21 @@
+<character value="互">
+	<introduce>
+		<pinyin value="hu4" writing="hù" />
+		<bushou value="二" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="横折折横" />
+	</introduce>
+	<pron value="hù">
+		<sense tag="动" vernacular="交错；交替">
+			<exam article="《六国论》" ref="六国互丧，率赂秦耶?" />
+			<exam article="《小石潭记》" ref="其岸势犬牙差互。" />
+		</sense>
+		<sense tag="副" vernacular="互相">
+			<exam article="《岳阳楼记》" ref="渔歌互答，此乐何极。" />
+		</sense>
+		<sense tag="名" vernacular="通“枑”，挂肉的架子">
+			<exam article="《周礼·地官》" ref="凡祭祀共其牛牲之互。" />
+		</sense>
+	</pron>
+</character>

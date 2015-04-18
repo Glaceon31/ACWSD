@@ -1,0 +1,17 @@
+<character value="窳">
+	<introduce>
+		<pinyin value="yu3" writing="yŭ" />
+		<bushou value="穴" />
+		<bushoustroke value="5" />
+		<stroke value="15" />
+		<order value="捺捺折撇捺撇撇折捺捺撇撇折捺捺" />
+	</introduce>
+	<pron value="yǔ">
+		<sense tag="形" vernacular="粗劣">
+			<exam article="《韩非子·难一》" ref="陶器不窳。" />
+		</sense>
+		<sense tag="形" vernacular="懒惰">
+			<exam article="《商君书·垦令》" ref="农无提粜，则窳惰之农勉疾。" />
+		</sense>
+	</pron>
+</character>

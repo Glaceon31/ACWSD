@@ -1,0 +1,26 @@
+<character value="舞">
+	<introduce>
+		<pinyin value="wu3" writing="wŭ" />
+		<bushou value="夕" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="撇横横竖竖竖竖横撇折捺横折竖" />
+	</introduce>
+	<pron value="wǔ">
+		<sense tag="名" vernacular="舞蹈；舞曲">
+			<exam article="《鸿门宴》" ref="项庄拔剑起舞。" />
+		</sense>
+		<sense tag="动" vernacular="飞舞；舞动">
+			<exam article="《江畔独步寻花》" ref="留连戏蝶时时舞。" />
+		</sense>
+		<sense tag="动" vernacular="跳；跳动">
+			<exam article="《促织》" ref="旁若一蟆，若将跃舞。" />
+		</sense>
+		<sense tag="动" vernacular="指玩弄文字、权术等">
+			<exam article="《汉书·汲黯传》" ref="好兴事，舞文法。" />
+		</sense>
+	</pron>
+	<phrase value="舞智">
+		<sense value="耍聪明；玩弄智慧" />
+	</phrase>
+</character>

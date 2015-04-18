@@ -1,0 +1,14 @@
+<character value="诼">
+	<introduce>
+		<pinyin value="zhuo2" writing="zhuó" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺折横撇折撇撇捺撇捺" />
+	</introduce>
+	<pron value="zhuó">
+		<sense tag="动" vernacular="造谣；毁谤">
+			<exam article="《九思·逢尤》" ref="被诼谮兮虚获尤。" />
+		</sense>
+	</pron>
+</character>

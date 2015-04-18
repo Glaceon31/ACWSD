@@ -1,0 +1,24 @@
+<character value="浩">
+	<introduce>
+		<pinyin value="hao4" writing="hào" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横撇横竖横竖折横" />
+	</introduce>
+	<pron value="hào">
+		<sense tag="形" vernacular="水面广阔盛大">
+			<exam article="《岳阳楼记》" ref="浩浩汤汤，横无际涯。" />
+		</sense>
+		<sense tag="形" vernacular="气势大；气魄大">
+			<exam article="《自京赴奉先县咏怀》" ref="浩歌弥激烈。" />
+			<exam article="《答李翊书》" ref="然后浩乎其沛然矣。" />
+		</sense>
+		<sense tag="形" vernacular="众多">
+			<exam article="《礼记·王制》" ref="丧祭，用不足曰暴，有余曰浩。" />
+		</sense>
+		<sense tag="形" vernacular="正大刚直">
+			<exam article="《梅花岭记》" ref="忠毅者圣贤家法，其气浩然，常留天地之间。" />
+		</sense>
+	</pron>
+</character>

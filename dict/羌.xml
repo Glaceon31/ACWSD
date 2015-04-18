@@ -1,0 +1,15 @@
+<character value="羌">
+	<introduce>
+		<pinyin value="qiang1" writing="qiāng" />
+		<bushou value="八" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺撇横横横撇折" />
+	</introduce>
+	<pron value="qiāng">
+		<sense tag="名" vernacular="我国古代西部少数民族之一" />
+		<sense tag="助" vernacular="无实义，用于句首或句中">
+			<exam article="《离骚》" ref="羌内恕己以量人兮。" />
+		</sense>
+	</pron>
+</character>

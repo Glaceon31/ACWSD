@@ -1,0 +1,15 @@
+<character value="舫">
+	<introduce>
+		<pinyin value="fang3" writing="făng" />
+		<bushou value="舟" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="撇撇折捺横捺捺横折撇" />
+	</introduce>
+	<pron value="fǎng">
+		<sense tag="名" vernacular="本指两船相并,后泛指船">
+			<exam article="《孔雀东南飞》" ref="青雀白鹄舫,四角龙子幡。" />
+			<exam article="《琵琶行》" ref="东船西舫巧无言。" />
+		</sense>
+	</pron>
+</character>

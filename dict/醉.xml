@@ -1,0 +1,40 @@
+<character value="醉">
+	<introduce>
+		<pinyin value="zui4" writing="zuì" />
+		<bushou value="酉" />
+		<bushoustroke value="7" />
+		<stroke value="15" />
+		<order value="横竖折撇折横横捺横撇捺撇捺横竖" />
+	</introduce>
+	<pron value="zuì">
+		<sense tag="形" vernacular="饮酒过量而神志不清">
+			<exam article="《醉翁亭记》" ref="醉能同其乐，醒能述以文者，太守也。" />
+			<exam article="《陶侃》" ref="岂可但逸游荒醉？" />
+		</sense>
+		<sense tag="动" vernacular="喝醉酒">
+			<exam article="《五柳先生传》" ref="既醉而退，曾不吝情去留。" />
+			<exam article="《始得西山宴游记》" ref="到则披草而坐，倾壶而醉。" />
+			<exam article="《长亭送别》" ref="晓来谁染霜林醉？" />
+		</sense>
+		<sense tag="形" vernacular="湖涂；昏愦">
+			<exam article="《屈原列传》" ref="举世混浊而我独清，众人皆醉而我独醒，是以见放。" />
+		</sense>
+		<sense tag="动" vernacular="极端喜爱；沉迷">
+			<exam article="《庄子·应帝王》" ref="列子见之而心醉。" />
+		</sense>
+	</pron>
+	<phrase value="醉侯">
+		<sense value="好酒而量大者" />
+	</phrase>
+	<phrase value="醉酒饱德">
+		<sense value="语出《诗经·大雅·既醉》：“既醉以酒，既饱以德" />
+		<sense value="君子成年，介尔景福”" />
+		<sense value="后指酬谢主人款待之辞" />
+	</phrase>
+	<phrase value="醉乡">
+		<sense value="醉中的境界" />
+	</phrase>
+	<phrase value="醉眼">
+		<sense value="酒后含有醉意" />
+	</phrase>
+</character>

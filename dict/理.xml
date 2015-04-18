@@ -1,0 +1,41 @@
+<character value="理">
+	<introduce>
+		<pinyin value="li3" writing="lĭ" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横横竖横竖折横横竖横横" />
+	</introduce>
+	<pron value="lǐ">
+		<sense tag="动" vernacular="雕琢、加工玉石">
+			<exam article="《韩非子·和氏》" ref="王乃使玉人理其璞而得宝焉。" />
+		</sense>
+		<sense tag="动" vernacular="治理；管理">
+			<exam article="《诗经·大雅·江汉》" ref="于理于理，至于南海。" />
+		</sense>
+		<sense tag="动" vernacular="料理；整理；整顿">
+			<exam article="《答司马谏议书》" ref="为天下理财，不为征利。" />
+		</sense>
+		<sense tag="形" vernacular="清明；安定；治理得好">
+			<exam article="《张衡传》" ref="上下肃然，称为政理。" />
+		</sense>
+		<sense tag="名" vernacular="道理；规律；原则；法则">
+			<exam article="《孔雀东南飞》" ref="兰芝仰头答：理实如兄言。" />
+			<exam article="《六国论》" ref="胜负之数，存亡之理。" />
+			<exam article="《伶官传序》" ref="自然之理也。" />
+		</sense>
+		<sense tag="名" vernacular="义理">
+			<exam article="《伤仲永》" ref="其文理皆有可观者。" />
+		</sense>
+		<sense tag="名" vernacular="纹理；纹路；条理">
+			<exam article="《庖丁解牛》" ref="依乎天理。" />
+		</sense>
+		<sense tag="名" vernacular="法官；刑狱官署">
+			<exam article="《报任安书》" ref="遂下于理。" />
+		</sense>
+	</pron>
+	<phrase value="理气">
+		<sense value="中国哲学上的对基本概念" />
+		<sense value="理指宇宙本体或准则、条理；气指现象或极细微的物质" />
+	</phrase>
+</character>

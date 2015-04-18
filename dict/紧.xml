@@ -1,0 +1,23 @@
+<character value="紧">
+	<introduce>
+		<pinyin value="jin3" writing="jĭn" />
+		<bushou value="糸" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="竖竖折捺折折捺竖撇捺" />
+	</introduce>
+	<pron value="jǐn">
+		<sense tag="形" vernacular="“松”反面">
+			<exam article="《舞赋》" ref="驰紧急之弦张兮。" />
+		</sense>
+		<sense tag="形" vernacular="坚固；牢固">
+			<exam article="《管子·问》" ref="钩弦之造，戈戟之紧。" />
+		</sense>
+		<sense tag="形" vernacular="密实；紧密">
+			<exam article="《范进中举》" ref="牙关咬紧，不省人事。" />
+		</sense>
+		<sense tag="形" vernacular="急；猛">
+			<exam article="《长亭送别》" ref="碧云天，黄花地，西风紧，北雁南飞。" />
+		</sense>
+	</pron>
+</character>

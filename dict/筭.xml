@@ -1,0 +1,17 @@
+<character value="筭">
+	<introduce>
+		<pinyin value="suan4" writing="suàn" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="撇横捺撇横捺横横竖横横撇竖" />
+	</introduce>
+	<pron value="suàn">
+		<sense tag="名" vernacular="计算时用的筹码，多用竹子制成">
+			<exam article="《世说新语·文学》" ref="如筹筭，虽无情，运之者情。" />
+		</sense>
+		<sense tag="动" vernacular="通“算”，计算">
+			<exam article="《新唐书·杨国忠传》" ref="计筭钩画，分铢不误。" />
+		</sense>
+	</pron>
+</character>

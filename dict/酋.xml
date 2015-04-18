@@ -1,0 +1,20 @@
+<character value="酋">
+	<introduce>
+		<pinyin value="qiu2" writing="qiú" />
+		<bushou value="酉" />
+		<bushoustroke value="7" />
+		<stroke value="9" />
+		<order value="捺撇横竖折撇折横横" />
+	</introduce>
+	<pron value="qiú">
+		<sense tag="名" vernacular="酋长；部落首领">
+			<exam article="《宋史·范仲淹传》" ref="羌酋数百人事之如父。" />
+		</sense>
+		<sense tag="名" vernacular="泛指头领；头目">
+			<exam article="《冯婉贞》" ref="旋见一白酋督印度卒约百人，英将也，驰而前。" />
+		</sense>
+		<sense tag="名" vernacular="官员；长官">
+			<exam article="《〈指南录〉后序》" ref="二贵酋名曰馆伴，夜则兵围所寓舍。" />
+		</sense>
+	</pron>
+</character>

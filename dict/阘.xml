@@ -1,0 +1,22 @@
+<character value="阘">
+	<introduce>
+		<pinyin value="da2" writing="dá" />
+		<pinyin value="ta4" writing="tà" />
+		<bushou value="门" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="捺竖折竖折横横折捺横折捺横" />
+	</introduce>
+	<pron value="tà">
+		<sense tag="名" vernacular="楼上门户">
+			<exam article="《说文》" ref="阘，楼上户也。" />
+		</sense>
+	</pron>
+	<phrase value="阘鞠">
+		<sense value="古代一种习武游戏，相似于现在踢足球" />
+	</phrase>
+	<phrase value="阘茸">
+		<sense value="卑贱的人" />
+		<sense value="驽劣" />
+	</phrase>
+</character>

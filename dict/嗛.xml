@@ -1,0 +1,41 @@
+<character value="嗛">
+	<introduce>
+		<pinyin value="qian4" writing="qiàn" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="竖折横捺撇横折横横竖竖撇捺" />
+	</introduce>
+	<pron value="xián">
+		<sense tag="动" vernacular="嘴含物">
+			<exam article="《史记·大宛列传》" ref="乌嗛肉，蜚其上。" />
+		</sense>
+		<sense tag="动" vernacular="怀恨">
+			<exam article="《史记·外戚世家》" ref="景帝恚，心嗛之而未发。" />
+		</sense>
+	</pron>
+	<pron value="qiǎn">
+		<sense tag="名" vernacular="猴鼠之类颊中藏食处">
+			<exam article="《憎王孙文》" ref="充嗛果腹兮，骄傲欢欣。" />
+		</sense>
+	</pron>
+	<pron value="qiàn">
+		<sense vernacular="通“歉”，不足">
+			<exam article="《汉书·郊祀志》" ref="今谷嗛未报。" />
+		</sense>
+	</pron>
+	<pron value="qiān">
+		<sense vernacular="通“谦”，谦虚">
+			<exam article="《荀子·仲尼》" ref="故知者之举事也，主信爱之，则谨慎而嗛。" />
+		</sense>
+	</pron>
+	<pron value="qiè">
+		<sense vernacular="通“慊”">
+			<exam article="《荀子·礼论》" ref="则其于志意之情者惆然不嗛。" />
+		</sense>
+	</pron>
+	<phrase value="嗛嗛">
+		<sense value="qiànqiàn少" />
+		<sense value="不足" />
+	</phrase>
+</character>

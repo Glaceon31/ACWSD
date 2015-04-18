@@ -1,0 +1,15 @@
+<character value="浍">
+	<introduce>
+		<pinyin value="hui4" writing="huì" />
+		<pinyin value="kuai4" writing="kuài" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺横撇捺横横折捺" />
+	</introduce>
+	<pron value="kuài">
+		<sense tag="名" vernacular="田间大沟渠">
+			<exam article="《荀子·王制》" ref="修堤梁，通沟浍，行水潦，安水藏。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,23 @@
+<character value="暋">
+	<introduce>
+		<pinyin value="min3" writing="mĭn" />
+		<pinyin value="min2" writing="mín" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="折横折横折撇横撇捺竖折横横" />
+	</introduce>
+	<pron value="mǐn">
+		<sense tag="形" vernacular="强横">
+			<exam article="《尚书·康诰》" ref="暋不畏死。" />
+		</sense>
+		<sense tag="动" vernacular="勉力">
+			<exam article="《宋书·何尚之传》" ref="暋作肆力之氓，徒勤不足以供赡。" />
+		</sense>
+	</pron>
+	<pron value="mín">
+		<sense tag="形" vernacular="烦闷">
+			<exam article="《庄子·外物》" ref="心若县于天地之间，慰暋沉屯。" />
+		</sense>
+	</pron>
+</character>

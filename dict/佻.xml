@@ -1,0 +1,23 @@
+<character value="佻">
+	<introduce>
+		<pinyin value="tiao1" writing="tiāo" />
+		<pinyin value="tiao2" writing="tiáo" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇竖撇捺横折撇捺" />
+	</introduce>
+	<pron value="tiāo">
+		<sense tag="形" vernacular="轻佻；轻浮">
+			<exam article="《离骚》" ref="雄鸡之鸣逝兮，余犹恶其佻巧。" />
+		</sense>
+		<sense tag="动" vernacular="窃取">
+			<exam article="《国语·周语中》" ref="佻天之功以为己力。" />
+		</sense>
+	</pron>
+	<pron value="yáo">
+		<sense tag="动" vernacular="延缓">
+			<exam article="《荀子·王霸》" ref="佻其期日，而利其巧任。" />
+		</sense>
+	</pron>
+</character>

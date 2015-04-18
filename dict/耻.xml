@@ -1,0 +1,23 @@
+<character value="耻">
+	<introduce>
+		<pinyin value="chi3" writing="chĭ" />
+		<bushou value="耳" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="横竖竖横横横竖横竖横" />
+	</introduce>
+	<pron value="chǐ">
+		<sense tag="名" vernacular="耻辱，可耻的事情">
+			<exam article="《子鱼论战》" ref="明耻教战，求杀敌也。" />
+		</sense>
+		<sense tag="形" vernacular="羞愧，羞惭">
+			<exam article="《卖柑者言》" ref="坐糜廪粟而不知耻。" />
+		</sense>
+		<sense tag="形意动" vernacular="以……为耻辱">
+			<exam article="《师说》" ref="今之众人，其下圣人也亦远矣，而耻学于师。" />
+		</sense>
+		<sense tag="动" vernacular="侮辱；羞辱">
+			<exam article="《国语·勾践栖会稽》" ref="昔者夫差耻吾君于诸侯之国。" />
+		</sense>
+	</pron>
+</character>

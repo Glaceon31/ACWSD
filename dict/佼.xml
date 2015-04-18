@@ -1,0 +1,28 @@
+<character value="佼">
+	<introduce>
+		<pinyin value="jiao3" writing="jiăo" />
+		<pinyin value="jia3" writing="jiă" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇竖捺横撇捺撇捺" />
+	</introduce>
+	<pron value="jiǎo">
+		<sense tag="形" vernacular="美好">
+			<exam article="《论衡·骨相》" ref="陈平贫而饮食不足，貌体佼好而众人怪之。" />
+		</sense>
+		<sense tag="形" vernacular="健壮" />
+		<sense tag="形" vernacular="通“狡”，狡诈">
+			<exam article="《管子·七臣七主》" ref="好佼反而行私请。" />
+		</sense>
+		<sense tag="名" vernacular="姓" />
+	</pron>
+	<pron value="jiāo">
+		<sense tag="动" vernacular="通“交”，交往">
+			<exam article="《管子·明法解》" ref="则群臣皆忘主而趋私佼矣。" />
+		</sense>
+		<sense tag="动" vernacular="通“姣”，轻侮">
+			<exam article="《淮南子·览冥训》" ref="草木不摇，而燕雀佼之，以为不能与之争乎宇宙之间。" />
+		</sense>
+	</pron>
+</character>

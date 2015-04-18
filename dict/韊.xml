@@ -1,0 +1,14 @@
+<character value="韊">
+	<introduce>
+		<pinyin value="lan2" writing="lán" />
+		<bushou value="革" />
+		<bushoustroke value="9" />
+		<stroke value="29" />
+		<order value="横竖竖横竖折横横竖横竖竖竖折横横竖折横横横竖折捺撇横竖撇捺" />
+	</introduce>
+	<pron value="lán">
+		<sense tag="名" vernacular="装弓箭的袋子">
+			<exam article="《信陵君窃符救赵》" ref="平原君负韊矢为公子先引。" />
+		</sense>
+	</pron>
+</character>

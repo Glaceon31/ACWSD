@@ -1,0 +1,18 @@
+<character value="乾">
+	<introduce>
+		<pinyin value="qian2" writing="qián" />
+		<pinyin value="gan1" writing="gān" />
+		<bushou value="乙" />
+		<bushoustroke value="1" />
+		<stroke value="11" />
+		<order value="横竖竖折横横横竖撇横折" />
+	</introduce>
+	<pron value="qián">
+		<sense tag="名" vernacular="八卦之一，代表天">
+			<exam article="《周易·说卦》" ref="乾，天也。" />
+		</sense>
+	</pron>
+	<phrase value="乾坤">
+		<sense value="乾和坤都是卦名二字连用指天地" />
+	</phrase>
+</character>

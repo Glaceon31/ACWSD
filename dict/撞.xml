@@ -1,0 +1,24 @@
+<character value="撞">
+	<introduce>
+		<pinyin value="zhuang4" writing="zhuàng" />
+		<pinyin value="chuang2" writing="chuáng" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="横竖横捺横捺撇横竖折横横竖横横" />
+	</introduce>
+	<pron value="zhuàng">
+		<sense tag="动" vernacular="敲；击">
+			<exam article="《鸿门宴》" ref="亚父受玉，置之地，拔剑撞而破之。" />
+		</sense>
+		<sense tag="动" vernacular="冲撞；碰撞">
+			<exam article="《鸿门宴》" ref="樊哙侧其盾以撞，卫士仆地。" />
+		</sense>
+		<sense tag="动" vernacular="迎面遇到">
+			<exam article="《林教头风雪山神庙》" ref="休要撞着我，只叫他骨肉为泥。" />
+		</sense>
+	</pron>
+	<phrase value="撞席">
+		<sense value="指别人设宴，不请自到" />
+	</phrase>
+</character>

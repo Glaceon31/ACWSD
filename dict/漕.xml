@@ -1,0 +1,22 @@
+<character value="漕">
+	<introduce>
+		<pinyin value="cao2" writing="cáo" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="捺捺横横竖折横竖竖横竖折横横" />
+	</introduce>
+	<pron value="cáo">
+		<sense tag="动" vernacular="通过水道运粮食">
+			<exam article="《史记·平准书》" ref="漕转山东粟，以给中部官。" />
+			<exam article="《吕氏春秋·孟夏纪》" ref="是月也，天子始漕。" />
+		</sense>
+		<sense tag="名" vernacular="古邑名" />
+	</pron>
+	<phrase value="漕引">
+		<sense value="水上运输" />
+	</phrase>
+	<phrase value="漕运">
+		<sense value="从水道运输粮食供应京城或接济军需" />
+	</phrase>
+</character>

@@ -1,0 +1,44 @@
+<character value="细">
+	<introduce>
+		<pinyin value="xi4" writing="xì" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折折横竖折横竖横" />
+	</introduce>
+	<pron value="xì">
+		<sense tag="形" vernacular="纤细，与“粗”相对">
+			<exam article="《图画》" ref="白描，以细笔钩勒形廓也。" />
+		</sense>
+		<sense tag="形" vernacular="小；微小">
+			<exam article="《孔雀东南飞》" ref="纤纤作细步，精妙世无双。" />
+		</sense>
+		<sense tag="形" vernacular="声音轻微">
+			<exam article="《春夜喜雨》" ref="随风潜入夜，润物细无声。" />
+		</sense>
+		<sense tag="形" vernacular="细腻；精致">
+			<exam article="《杏花》" ref="肌细分红脉，香浓破紫苞。" />
+		</sense>
+		<sense tag="形" vernacular="仔细；详细">
+			<exam article="《促织》" ref="细瞻景状，与村东大佛阁逼似。" />
+		</sense>
+		<sense tag="形" vernacular="琐碎；琐屑">
+			<exam article="《晋书·刑法志》" ref="咸康之世，庾冰好为纠察，近于繁细。" />
+		</sense>
+	</pron>
+	<phrase value="细谨">
+		<sense value="小心谨慎；小心谨慎的言行" />
+	</phrase>
+	<phrase value="细软">
+		<sense value="纤细柔软" />
+		<sense value="金银珠宝、绫罗绸缎等贵重而又便于携带的财物" />
+	</phrase>
+	<phrase value="细说">
+		<sense value="详细地说" />
+		<sense value="小人的坏话；谗言" />
+	</phrase>
+	<phrase value="细作">
+		<sense value="间谍；暗探" />
+		<sense value="精巧的工艺制品" />
+	</phrase>
+</character>

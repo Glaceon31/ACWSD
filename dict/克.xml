@@ -1,0 +1,23 @@
+<character value="克">
+	<introduce>
+		<pinyin value="ke4" writing="kè" />
+		<bushou value="十" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="横竖竖折横撇折" />
+	</introduce>
+	<pron value="kè">
+		<sense tag="动" vernacular="能；能够">
+			<exam article="《谏太宗十思疏》" ref="凡昔元首，承天景命，善始者实繁,克终者盖寡。" />
+		</sense>
+		<sense tag="动" vernacular="完成；成功">
+			<exam article="《中山狼传》" ref="前虞跋胡，后恐疐尾，三纳之而未克。" />
+		</sense>
+		<sense tag="动" vernacular="攻克；战胜">
+			<exam article="《殽之战》" ref="攻之不克，围之不继。" />
+		</sense>
+		<sense tag="动" vernacular="克制；约束">
+			<exam article="《后汉书·祭遵传》" ref="遵为人廉约小心，克己奉公。" />
+		</sense>
+	</pron>
+</character>

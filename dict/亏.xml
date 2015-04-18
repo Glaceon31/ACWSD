@@ -1,0 +1,23 @@
+<character value="亏">
+	<introduce>
+		<pinyin value="kui1" writing="kuī" />
+		<bushou value="二" />
+		<bushoustroke value="2" />
+		<stroke value="3" />
+		<order value="横横折" />
+	</introduce>
+	<pron value="kuī">
+		<sense tag="动" vernacular="缺欠；缺少">
+			<exam article="《尚书·旅獒》" ref="为山九刃，功亏一篑。" />
+		</sense>
+		<sense tag="动" vernacular="缺损；差异；不适应">
+			<exam article="《察今》" ref="其时已与先王之法亏矣。" />
+		</sense>
+		<sense tag="动" vernacular="损耗；减少">
+			<exam article="《六国论》" ref="赂秦而力亏，破灭之道也。" />
+		</sense>
+		<sense tag="动" vernacular="亏得；幸亏">
+			<exam article="《林教头风雪山神庙》" ref="又亏林冲赍发他盘缠。" />
+		</sense>
+	</pron>
+</character>

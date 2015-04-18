@@ -1,0 +1,47 @@
+<character value="生">
+	<introduce>
+		<pinyin value="sheng1" writing="shēng" />
+		<bushou value="生" />
+		<bushoustroke value="5" />
+		<stroke value="5" />
+		<order value="撇横横竖横" />
+	</introduce>
+	<pron value="shēng">
+		<sense tag="动" vernacular="草木生长">
+			<exam article="《观沧海》" ref="树木丛生，百草丰茂。" />
+		</sense>
+		<sense tag="动" vernacular="出生；诞生">
+			<exam article="《陈情表》" ref="生孩六月，慈父见背。" />
+		</sense>
+		<sense tag="动" vernacular="生育；养育">
+			<exam article="《愚公移山》" ref="子又生孙，孙又生子。" />
+		</sense>
+		<sense tag="动" vernacular="产生；发生">
+			<exam article="《劝学》" ref="积水成渊，蛟龙生焉。" />
+		</sense>
+		<sense tag="动" vernacular="生存；活着">
+			<exam article="《班超告老归国》" ref="丐超余一年得生还。" />
+		</sense>
+		<sense tag="名" vernacular="生存期间；一坐">
+			<exam article="《归去来兮辞》" ref="感吾生之行休。" />
+		</sense>
+		<sense tag="名" vernacular="生命">
+			<exam article="《鱼，我所欲也》" ref="生，亦我所欲也。" />
+		</sense>
+		<sense tag="名" vernacular="生计；生活">
+			<exam article="《捕蛇者说》" ref="而乡邻之生日蹙。" />
+		</sense>
+		<sense tag="形" vernacular="没有加工煮烧的；不熟">
+			<exam article="《鸿门宴》" ref="则与一生彘户。" />
+		</sense>
+		<sense tag="名" vernacular="读书人">
+			<exam article="《送东阳马生序》" ref="今诸生学于太学，县官日有廪稍之供。" />
+		</sense>
+		<sense vernacular="⑾〈副〉最；甚">
+			<exam article="《窦娥冤》" ref="怎不将天地也生埋怨。" />
+		</sense>
+		<sense vernacular="⑿〈名〉通“性”天性；禀赋">
+			<exam article="《劝学》" ref="君子生非异也，善于物也。" />
+		</sense>
+	</pron>
+</character>

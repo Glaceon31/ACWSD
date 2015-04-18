@@ -1,0 +1,14 @@
+<character value="胤">
+	<introduce>
+		<pinyin value="yin4" writing="yìn" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="撇折折捺竖折横横折" />
+	</introduce>
+	<pron value="yìn">
+		<sense tag="名" vernacular="后代">
+			<exam article="《左传·隐公十一年》" ref="夫许，大岳之胤也。" />
+		</sense>
+	</pron>
+</character>

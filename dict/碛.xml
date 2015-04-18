@@ -1,0 +1,17 @@
+<character value="碛">
+	<introduce>
+		<pinyin value="qi4" writing="qì" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="横撇竖折横横横竖横竖折撇捺" />
+	</introduce>
+	<pron value="qì">
+		<sense tag="名" vernacular="浅水中的沙石">
+			<exam article="《西京赋》" ref="僵禽毙兽，烂若碛砾。" />
+		</sense>
+		<sense tag="名" vernacular="沙漠">
+			<exam article="《出塞作》" ref="暮云空碛时驱马，秋日平原好射雕。" />
+		</sense>
+	</pron>
+</character>

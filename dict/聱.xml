@@ -1,0 +1,24 @@
+<character value="聱">
+	<introduce>
+		<pinyin value="ao2" writing="áo" />
+		<bushou value="耳" />
+		<bushoustroke value="6" />
+		<stroke value="16" />
+		<order value="横横竖横折撇撇横撇捺横竖竖横横横" />
+	</introduce>
+	<pron value="áo">
+		<sense tag="形" vernacular="听不进别人的意见">
+			<exam article="《新唐书·元结传》" ref="彼诮以聱者,为其不相从听。" />
+		</sense>
+		<sense tag="形" vernacular="文词念着不顺口">
+			<exam article="《朱子语类》" ref="某尝患《尚书》难读,后来先将文义分明者读之,聱讹者且未读。" />
+		</sense>
+	</pron>
+	<phrase value="聱牙">
+		<sense value="1" />
+		<sense value="文词艰涩,读不顺口" />
+	</phrase>
+	<phrase value="聱岈">
+		<sense value="áoyá形容山势突兀" />
+	</phrase>
+</character>

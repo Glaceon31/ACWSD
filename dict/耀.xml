@@ -1,0 +1,18 @@
+<character value="耀">
+	<introduce>
+		<pinyin value="yao4" writing="yào" />
+		<pinyin value="yue4" writing="yuè" />
+		<bushou value="羽" />
+		<bushoustroke value="6" />
+		<stroke value="20" />
+		<order value="竖捺撇横撇折折捺横折捺横撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="yào">
+		<sense tag="动" vernacular="照耀">
+			<exam article="《别赋》" ref="日出天而耀景。" />
+		</sense>
+		<sense tag="动" vernacular="显示">
+			<exam article="《国语·周语上》" ref="先王耀德不观兵。" />
+		</sense>
+	</pron>
+</character>

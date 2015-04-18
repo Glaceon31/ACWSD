@@ -1,0 +1,14 @@
+<character value="羓">
+	<introduce>
+		<pinyin value="ba1" writing="bā" />
+		<bushou value="羊" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="捺撇横横横撇折竖横折" />
+	</introduce>
+	<pron value="bā">
+		<sense tag="名" vernacular="干肉，腊肉">
+			<exam article="《水浒传》" ref="将精肉片为羓子。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,30 @@
+<character value="册">
+	<introduce>
+		<pinyin value="ce4" writing="cè" />
+		<bushou value="丿" />
+		<bushoustroke value="1" />
+		<stroke value="5" />
+		<order value="撇折撇折横" />
+	</introduce>
+	<pron value="cè">
+		<sense tag="量" vernacular="古代文字书于简，编连诸简称之“册”">
+			<exam article="《尚书·多士》" ref="惟殷先人有册有典。" />
+		</sense>
+		<sense tag="量" vernacular="书一本称一册" />
+		<sense tag="名" vernacular="古代帝王用于册立、封赠的诏书" />
+		<sense vernacular="通“策”">
+			<exam article="《汉书·董仲舒传》" ref="天子览其对而异焉，乃复册之。" />
+		</sense>
+		<sense tag="动" vernacular="竖立" />
+	</pron>
+	<phrase value="册府">
+		<sense value="1" />
+		<sense value="古代帝王藏书之所" />
+	</phrase>
+	<phrase value="册功">
+		<sense value="叙功封赐" />
+	</phrase>
+	<phrase value="册命">
+		<sense value="古代帝王封立太子、皇后、王妃或诸王的命令" />
+	</phrase>
+</character>

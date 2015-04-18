@@ -1,0 +1,17 @@
+<character value="俘">
+	<introduce>
+		<pinyin value="fu2" writing="fú" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="撇竖撇捺捺撇折竖横" />
+	</introduce>
+	<pron value="fú">
+		<sense tag="动" vernacular="擒获；虏获">
+			<exam article="《左传·成公十二年》" ref="俘我王官。" />
+		</sense>
+		<sense tag="名" vernacular="俘虏">
+			<exam article="《李愬雪夜入蔡州》" ref="俘囚为盗耳，晓当尽戮之。" />
+		</sense>
+	</pron>
+</character>

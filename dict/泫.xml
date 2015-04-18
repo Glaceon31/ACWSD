@@ -1,0 +1,17 @@
+<character value="泫">
+	<introduce>
+		<pinyin value="xuan4" writing="xuàn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺横捺横折折捺" />
+	</introduce>
+	<pron value="xuàn">
+		<sense tag="动" vernacular="激水珠下滴">
+			<exam article="《从斤竹涧越岭溪行》" ref="岩下云方合，花上露犹泫。" />
+		</sense>
+	</pron>
+	<phrase value="泫然">
+		<sense value="流泪的样子" />
+	</phrase>
+</character>

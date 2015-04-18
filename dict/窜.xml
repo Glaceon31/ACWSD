@@ -1,0 +1,38 @@
+<character value="窜">
+	<introduce>
+		<pinyin value="cuan4" writing="cuàn" />
+		<bushou value="穴" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="捺捺折撇捺竖折横竖折横竖" />
+	</introduce>
+	<pron value="cuàn">
+		<sense tag="动" vernacular="躲藏；奔逃">
+			<exam article="《苦斋记》" ref="虽欲效野夫贱隶，跼跳窜伏，偷性命于榛莽而不可得。" />
+			<exam article="《教战守策》" ref="是以区区之禄山一出而乘之，四方之民兽奔鸟窜。" />
+		</sense>
+		<sense tag="动" vernacular="放逐；贬官">
+			<exam article="《滕王阁序》" ref="窜梁鸿于海曲，豈乏明时？" />
+			<exam article="《进学解》" ref="暂为御史，遂窜南夷。" />
+		</sense>
+		<sense tag="动" vernacular="删改">
+			<exam article="《答张彻》" ref="渍墨窜旧史，磨丹注前经。" />
+		</sense>
+		<sense tag="动" vernacular="放；安置">
+			<exam article="《荀子·大略》" ref="然故民不困财，贫窭者有所窜其手。" />
+		</sense>
+		<sense tag="动" vernacular="施药在患处产生作用">
+			<exam article="《史记·扁鹊仓公列传》" ref="即窜以药，旋下，病已。" />
+		</sense>
+	</pron>
+	<phrase value="窜点">
+		<sense value="以墨删改涂抹" />
+	</phrase>
+	<phrase value="窜谋">
+		<sense value="谋划微妙" />
+		<sense value="《国语·晋语二》：“絷敏且知礼，敬以知微" />
+	</phrase>
+	<phrase value="窜逐">
+		<sense value="放逐" />
+	</phrase>
+</character>

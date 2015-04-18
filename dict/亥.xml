@@ -1,0 +1,17 @@
+<character value="亥">
+	<introduce>
+		<pinyin value="hai4" writing="hài" />
+		<bushou value="亠" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺横折撇撇捺" />
+	</introduce>
+	<pron value="hài">
+		<sense tag="名" vernacular="地支的第十二位">
+			<exam article="《察传》" ref="晋师己亥涉河也。" />
+		</sense>
+		<sense tag="名" vernacular="亥时，十二时辰之一，相当于21点至23点">
+			<exam article="《景阳冈武松打虎》" ref="其余寅、卯、申、戌、亥六个时辰，不许过冈。" />
+		</sense>
+	</pron>
+</character>

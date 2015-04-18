@@ -1,0 +1,33 @@
+<character value="衍">
+	<introduce>
+		<pinyin value="yan3" writing="yăn" />
+		<bushou value="行" />
+		<bushoustroke value="6" />
+		<stroke value="9" />
+		<order value="撇撇竖捺捺横横横竖" />
+	</introduce>
+	<pron value="yǎn">
+		<sense tag="动" vernacular="蔓延；扩展">
+			<exam article="《后汉书·桓帝纪》" ref="流衍四方。" />
+			<exam article="《墨子·非攻中》" ref="广衍数于万。" />
+		</sense>
+		<sense tag="形" vernacular="余裕；盛多">
+			<exam article="《荀子·君道》" ref="圣王财衍以明辨异。" />
+			<exam article="《论都赋》" ref="国富人衍。" />
+		</sense>
+		<sense tag="名" vernacular="书籍中由于排版、传抄错误等原因造成多出来的不应有的字句，如“衍文”" />
+		<sense tag="形" vernacular="平坦">
+			<exam article="《管子·轻重丁》" ref="北方之萌者，衍处负海。" />
+		</sense>
+		<sense tag="名" vernacular="山坡">
+			<exam article="《史记·封禅书》" ref="文公梦黄蛇自天下属地，其口止于鄜衍。" />
+		</sense>
+	</pron>
+	<phrase value="衍更">
+		<sense value="演变" />
+	</phrase>
+	<phrase value="衍溢">
+		<sense value="泛溢" />
+		<sense value="充满" />
+	</phrase>
+</character>

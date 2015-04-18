@@ -1,0 +1,26 @@
+<character value="欲">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="欠" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="撇捺撇捺竖折横撇折撇捺" />
+	</introduce>
+	<pron value="yù">
+		<sense tag="动" vernacular="想要得到；需要">
+			<exam article="《鱼我所欲也》" ref="鱼，我所欲也，熊掌，亦我所欲也。" />
+		</sense>
+		<sense tag="动" vernacular="希望">
+			<exam article="《为学》" ref="吾欲之南海，何如?" />
+		</sense>
+		<sense tag="副" vernacular="将要；将">
+			<exam article="《石钟山记》" ref="森然欲搏人。" />
+		</sense>
+		<sense tag="名" vernacular="愿望">
+			<exam article="《陈涉世家》" ref="乃诈称公子扶苏、项燕，从民之欲也。" />
+		</sense>
+		<sense tag="名" vernacular="贪欲">
+			<exam article="《六国论》" ref="暴秦之欲无厌。" />
+		</sense>
+	</pron>
+</character>

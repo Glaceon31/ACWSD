@@ -1,0 +1,33 @@
+<character value="丛">
+	<introduce>
+		<pinyin value="cong2" writing="cóng" />
+		<bushou value="一" />
+		<bushoustroke value="1" />
+		<stroke value="5" />
+		<order value="撇捺撇捺横" />
+	</introduce>
+	<pron value="cóng">
+		<sense tag="动" vernacular="聚集">
+			<exam article="《观沧海》" ref="树木丛生，百草丰茂。" />
+			<exam article="《游黄山记》" ref="石块丛起则历块，石崖侧削则援崖。" />
+		</sense>
+		<sense tag="名" vernacular="丛生的树木">
+			<exam article="《陈涉世家》" ref="又间令吴广之次所旁丛祠中。" />
+		</sense>
+		<sense tag="形" vernacular="众多；繁杂">
+			<exam article="《促织》" ref="于败堵丛草处，探石发穴，靡计不施。" />
+		</sense>
+		<sense tag="量" vernacular="簇">
+			<exam article="《买花》" ref="一丛深色花，十户中人赋。" />
+		</sense>
+	</pron>
+	<phrase value="丛薄">
+		<sense value="丛生的草木" />
+	</phrase>
+	<phrase value="丛祠">
+		<sense value="建在荒野林间的神庙" />
+	</phrase>
+	<phrase value="丛莽">
+		<sense value="参差错杂而生的草木" />
+	</phrase>
+</character>

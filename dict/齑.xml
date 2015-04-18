@@ -1,0 +1,14 @@
+<character value="齑">
+	<introduce>
+		<pinyin value="ji1" writing="jī" />
+		<bushou value="齐" />
+		<bushoustroke value="6" />
+		<stroke value="15" />
+		<order value="捺横撇捺竖横横横竖横横横横撇竖" />
+	</introduce>
+	<pron value="jī">
+		<sense tag="名" vernacular="切碎的姜、葱、蒜等">
+			<exam article="《九章·惜诵》" ref="惩于羹者而吹齑兮。" />
+		</sense>
+	</pron>
+</character>

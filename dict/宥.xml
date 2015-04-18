@@ -1,0 +1,32 @@
+<character value="宥">
+	<introduce>
+		<pinyin value="you4" writing="yòu" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺折横撇竖折横横" />
+	</introduce>
+	<pron value="yòu">
+		<sense tag="动" vernacular="宽容；饶恕">
+			<exam article="《韩非子·爱臣》" ref="不赦死，不宥刑。" />
+		</sense>
+		<sense tag="动" vernacular="通“侑”，劝人饮食">
+			<exam article="《周礼·春官·大司乐》" ref="王大食，三宥，皆令奏钟鼓。" />
+		</sense>
+		<sense tag="名" vernacular="通“右”">
+			<exam article="《荀子·宥坐》" ref="宥坐之器。" />
+		</sense>
+		<sense tag="形" vernacular="通“囿”，局限">
+			<exam article="《吕氏春秋·去宥》" ref="夫人所宥者，固以昼为昏，以白为黑。" />
+		</sense>
+	</pron>
+	<phrase value="宥贷">
+		<sense value="宽恕罪过" />
+	</phrase>
+	<phrase value="宥善">
+		<sense value="宽恕过失，使之为黑" />
+	</phrase>
+	<phrase value="宥图">
+		<sense value="打算赦免" />
+	</phrase>
+</character>

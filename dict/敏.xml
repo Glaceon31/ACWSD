@@ -1,0 +1,26 @@
+<character value="敏">
+	<introduce>
+		<pinyin value="min3" writing="mĭn" />
+		<bushou value="攵" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="撇横折折捺横捺撇横撇捺" />
+	</introduce>
+	<pron value="mǐn">
+		<sense tag="动" vernacular="迅速；敏捷">
+			<exam article="《论语·学而》" ref="敏于事而慎于行。" />
+		</sense>
+		<sense tag="形" vernacular="机敏；聪明">
+			<exam article="《齐桓晋文之事》" ref="我虽不敏，请尝试之。" />
+		</sense>
+		<sense tag="形" vernacular="勤勉；勤奋">
+			<exam article="《论语》" ref="敏而好学，不耻下问，是以谓之文也。" />
+		</sense>
+	</pron>
+	<phrase value="敏赡">
+		<sense value="聪明多智" />
+	</phrase>
+	<phrase value="敏行">
+		<sense value="勉力以行；努力去做" />
+	</phrase>
+</character>

@@ -1,0 +1,36 @@
+<character value="优">
+	<introduce>
+		<pinyin value="you1" writing="yōu" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇竖横撇折捺" />
+	</introduce>
+	<pron value="yōu">
+		<sense tag="动" vernacular="演戏">
+			<exam article="《左传·襄公二十八年》" ref="饮酒，且观优。" />
+		</sense>
+		<sense tag="名" vernacular="演戏的人">
+			<exam article="《国语·晋语》" ref="公之优曰施。" />
+		</sense>
+		<sense tag="形" vernacular="充足">
+			<exam article="《荀子·王制》" ref="故鱼鳖优而百姓有余用也。" />
+		</sense>
+		<sense tag="形" vernacular="良好">
+			<exam article="《出师表》" ref="必能使行阵和睦，优劣得所。" />
+		</sense>
+		<sense tag="形" vernacular="犹豫不决">
+			<exam article="《管子·小匡》" ref="人君唯优与不敏为不可。" />
+		</sense>
+	</pron>
+	<phrase value="优伶">
+		<sense value="古代艺人的统称" />
+	</phrase>
+	<phrase value="优渥">
+		<sense value="雨水充足" />
+	</phrase>
+	<phrase value="优游">
+		<sense value="悠闲自得的样子" />
+		<sense value="犹豫不决" />
+	</phrase>
+</character>

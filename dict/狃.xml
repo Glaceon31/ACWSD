@@ -1,0 +1,17 @@
+<character value="狃">
+	<introduce>
+		<pinyin value="niu3" writing="niŭ" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="撇折撇折竖横横" />
+	</introduce>
+	<pron value="niǔ">
+		<sense tag="动" vernacular="习惯">
+			<exam article="《教战守策》" ref="使其四体狃于寒暑之变。" />
+		</sense>
+		<sense tag="形" vernacular="贪婪">
+			<exam article="《国语·晋语》" ref="嗛嗛之食，不足狃也。" />
+		</sense>
+	</pron>
+</character>

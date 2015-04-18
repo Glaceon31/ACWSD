@@ -1,0 +1,56 @@
+<character value="般">
+	<introduce>
+		<pinyin value="ban1" writing="bān" />
+		<pinyin value="bo1" writing="bō" />
+		<pinyin value="pan2" writing="pán" />
+		<bushou value="舟" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="撇撇折捺横捺撇折折捺" />
+	</introduce>
+	<pron value="bān">
+		<sense tag="动" vernacular="还；回">
+			<exam article="《汉书·赵充国传》" ref="而明主般师罢兵，万人留田。" />
+		</sense>
+		<sense tag="动" vernacular="移动；搬运">
+			<exam article="《旧唐书·裴延龄传》" ref="自冬历夏，般载不了。" />
+		</sense>
+		<sense tag="动" vernacular="相连">
+			<exam article="《汉书·礼乐志》" ref="神之行，旌容容，骑沓沓，般纵纵。" />
+		</sense>
+		<sense tag="量" vernacular="样，种类">
+			<exam article="《宫词》" ref="云驳花骢各试行，一般毛色一般缨。" />
+		</sense>
+		<sense tag="动" vernacular="通“班”，分给，赏赐">
+			<exam article="《墨子·尚贤中》" ref="般爵以贵之，裂地以封之。" />
+		</sense>
+		<sense tag="形" vernacular="通“斑”，杂乱">
+			<exam article="《汉书·贾谊传》" ref="般纷纷其离此邮兮，亦夫子之故也。" />
+		</sense>
+	</pron>
+	<pron value="pán">
+		<sense tag="动" vernacular="盘旋；旋转">
+			<exam article="《礼记·投壶》" ref="宾再拜，受，主人般还曰辟。" />
+		</sense>
+		<sense tag="形" vernacular="通“忭”，快乐；高兴">
+			<exam article="《荀子·赋》" ref="忠臣危殆，谗人般矣。" />
+		</sense>
+		<sense tag="形" vernacular="通“泮”，水边高处">
+			<exam article="《史记·封禅书》" ref="鸿渐于般。" />
+		</sense>
+	</pron>
+	<phrase value="般般">
+		<sense value="1" />
+		<sense value="形容斑纹很多" />
+	</phrase>
+	<phrase value="般首">
+		<sense value="猛虎的头" />
+	</phrase>
+	<phrase value="般辟">
+		<sense value="盘旋进退，形容古人行礼时的一种姿态" />
+	</phrase>
+	<phrase value="般礴">
+		<sense value="一种不拘礼节的坐法" />
+		<sense value="即席地而坐，随意伸开两腿" />
+	</phrase>
+</character>

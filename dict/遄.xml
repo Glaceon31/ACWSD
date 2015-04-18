@@ -1,0 +1,17 @@
+<character value="遄">
+	<introduce>
+		<pinyin value="chuan2" writing="chuán" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="竖折竖横撇竖折竖竖捺折捺" />
+	</introduce>
+	<pron value="chuán">
+		<sense tag="形" vernacular="疾速">
+			<exam article="《三国志·魏书·陈思王植传》" ref="窃感《相鼠》之篇，无礼遄死之义，形影相吊，五情愧赧。" />
+		</sense>
+	</pron>
+	<phrase value="遄飞">
+		<sense value="疾速飞扬" />
+	</phrase>
+</character>

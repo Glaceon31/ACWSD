@@ -1,0 +1,62 @@
+<character value="华">
+	<introduce>
+		<pinyin value="hua2" writing="huá" />
+		<pinyin value="hua4" writing="huà" />
+		<pinyin value="hua1" writing="huā" />
+		<bushou value="十" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇竖撇折横竖" />
+	</introduce>
+	<pron value="huā">
+		<sense tag="名" vernacular="花">
+			<exam article="《长歌行》" ref="常恐秋节至，焜黄华叶衰。" />
+		</sense>
+		<sense tag="动" vernacular="开花">
+			<exam article="《淮南子·时则》" ref="桃李始华" />
+		</sense>
+		<sense tag="形" vernacular="花白">
+			<exam article="《念奴娇·赤壁怀古》" ref="多情应笑我，早生华发。" />
+		</sense>
+	</pron>
+	<pron value="huá">
+		<sense tag="形" vernacular="华丽；华美">
+			<exam article="《毛遂自荐》" ref="歃血于华屋之下。" />
+		</sense>
+		<sense tag="名" vernacular="精华；精美的东西">
+			<exam article="《滕王阁序》" ref="物华天宝。" />
+		</sense>
+		<sense tag="名" vernacular="文才">
+			<exam article="《文心雕龙·程器》" ref="昔庾元规才华精英。" />
+		</sense>
+		<sense tag="形" vernacular="豪华；浮华">
+			<exam article="《训俭示康》" ref="吾性不善华靡。" />
+		</sense>
+		<sense tag="名" vernacular="光彩">
+			<exam article="《淮南子·地形》" ref="末有十日，其华下照也。" />
+		</sense>
+		<sense tag="形" vernacular="显贵；显耀">
+			<exam article="《潜夫论·论荣》" ref="所谓贤人君子者，非必高位厚禄，富贵荣华之谓也。" />
+		</sense>
+		<sense tag="名" vernacular="汉族的古称">
+			<exam article="《左传·襄公十四年》" ref="我诸戎饮食、衣服不与华同。" />
+		</sense>
+	</pron>
+	<pron value="huà">
+		<sense tag="名" vernacular="华山">
+			<exam article="《过秦论》" ref="然后践华为城。" />
+		</sense>
+	</pron>
+	<phrase value="华表">
+		<sense value="古代用以表示王者纳谏或指路的木柱" />
+		<sense value="古代立于宫殿、城垣或陵墓前的石柱" />
+		<sense value="柱身往往刻有花纹" />
+		<sense value="房屋外部装饰" />
+	</phrase>
+	<phrase value="华盖">
+		<sense value="帝王、贵官的伞盖" />
+		<sense value="帝王、贵官的车上也常有华盖，又为车的别称" />
+		<sense value="古星名" />
+		<sense value="迷信认为，人的运气不好，是有华盖星犯命" />
+	</phrase>
+</character>

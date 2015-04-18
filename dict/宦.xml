@@ -1,0 +1,27 @@
+<character value="宦">
+	<introduce>
+		<pinyin value="huan4" writing="huàn" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺折横竖折横竖折" />
+	</introduce>
+	<pron value="huàn">
+		<sense tag="名" vernacular="本为古代帝王贵族的仆隶">
+			<exam article="《廉颇蔺相如列传》" ref="为赵宦者令缪贤舍人。" />
+		</sense>
+		<sense tag="动" vernacular="做官">
+			<exam article="《孔雀东南飞》" ref="汝是大家子，仕宦于台阁。" />
+		</sense>
+		<sense tag="名" vernacular="官；官职">
+			<exam article="《陈情表》" ref="本图宦达，不矜名节。" />
+		</sense>
+	</pron>
+	<phrase value="宦学">
+		<sense value="学习做官和学习六艺" />
+	</phrase>
+	<phrase value="宦官">
+		<sense value="泛指官吏" />
+		<sense value="侍奉帝王及其家族的官员，太监" />
+	</phrase>
+</character>

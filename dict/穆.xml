@@ -1,0 +1,33 @@
+<character value="穆">
+	<introduce>
+		<pinyin value="mu4" writing="mù" />
+		<bushou value="禾" />
+		<bushoustroke value="5" />
+		<stroke value="16" />
+		<order value="撇横竖撇捺撇竖折横横竖撇捺撇撇撇" />
+	</introduce>
+	<pron value="mù">
+		<sense tag="形" vernacular="和畅；美好">
+			<exam article="《诗经·蒸民》" ref="吉甫作诵，穆如清风。" />
+		</sense>
+		<sense tag="形" vernacular="恭敬；严肃">
+			<exam article="《诗经·假乐》" ref="穆皇皇。" />
+		</sense>
+		<sense tag="形" vernacular="通“睦”，和睦">
+			<exam article="《三国志·荀彧传》" ref="而与夏侯尚不穆。" />
+		</sense>
+		<sense tag="名" vernacular="古代宗庙的次序；始祖庙居中，以下按父子的辈分排列为昭、穆；左为昭，右穆" />
+	</pron>
+	<phrase value="穆穆">
+		<sense value="端庄盛美的样子" />
+		<sense value="肃敬；恭谨" />
+		<sense value="清明；柔和" />
+	</phrase>
+	<phrase value="穆清">
+		<sense value="天" />
+		<sense value="时世太平" />
+	</phrase>
+	<phrase value="穆行">
+		<sense value="美德" />
+	</phrase>
+</character>

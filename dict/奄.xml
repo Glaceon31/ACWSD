@@ -1,0 +1,26 @@
+<character value="奄">
+	<introduce>
+		<pinyin value="yan3" writing="yăn" />
+		<pinyin value="yan1" writing="yān" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横撇捺竖折横横折" />
+	</introduce>
+	<pron value="yǎn">
+		<sense tag="动" vernacular="覆盖；占有">
+			<exam article="《赤壁之战》" ref="今操得荆州，奄有其境。" />
+		</sense>
+		<sense tag="副" vernacular="突然；忽然">
+			<exam article="《中山狼传》" ref="狼奄至。" />
+		</sense>
+	</pron>
+	<phrase value="奄忽">
+		<sense value="突然；急骤" />
+	</phrase>
+	<phrase value="奄奄">
+		<sense value="气息微弱的样子" />
+		<sense value="昏暗的样子" />
+		<sense value="" />
+	</phrase>
+</character>

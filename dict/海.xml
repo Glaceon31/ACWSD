@@ -1,0 +1,24 @@
+<character value="海">
+	<introduce>
+		<pinyin value="hai3" writing="hăi" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横撇横折折捺横捺" />
+	</introduce>
+	<pron value="hǎi">
+		<sense tag="名" vernacular="百川汇聚处；大海">
+			<exam article="《劝学》" ref="不积小流，无以成江海。" />
+		</sense>
+		<sense tag="名" vernacular="大湖">
+			<exam article="《兵车行》" ref="君不见青海头。，古来白骨无人收" />
+		</sense>
+		<sense tag="名" vernacular="比喻事物多而广">
+			<exam article="《游黄山记》" ref="下盼诸峰，时出为碧峤，时没为银海。" />
+		</sense>
+	</pron>
+	<phrase value="海客">
+		<sense value="1、航海的人" />
+		<sense value="2、浪迹四方的人" />
+	</phrase>
+</character>

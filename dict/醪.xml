@@ -1,0 +1,14 @@
+<character value="醪">
+	<introduce>
+		<pinyin value="lao2" writing="láo" />
+		<bushou value="酉" />
+		<bushoustroke value="7" />
+		<stroke value="18" />
+		<order value="横竖折撇折横横折捺横折捺横撇捺撇撇撇" />
+	</introduce>
+	<pron value="láo">
+		<sense tag="名" vernacular="汁滓混合的酒">
+			<exam article="《汉书·袁盎传》" ref="买二石醇醪。" />
+		</sense>
+	</pron>
+</character>

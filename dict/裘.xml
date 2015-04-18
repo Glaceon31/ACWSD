@@ -1,0 +1,21 @@
+<character value="裘">
+	<introduce>
+		<pinyin value="qiu2" writing="qiú" />
+		<bushou value="衣" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="横竖捺横撇捺捺捺横撇折撇捺" />
+	</introduce>
+	<pron value="qiú">
+		<sense tag="名" vernacular="皮衣；皮袄">
+			<exam article="《白雪歌送武判官归京》" ref="狐裘不暧锦衾薄。" />
+		</sense>
+	</pron>
+	<phrase value="裘葛">
+		<sense value="泛指四季衣服" />
+	</phrase>
+	<phrase value="裘马">
+		<sense value="裘衣名马" />
+		<sense value="喻富贵排场" />
+	</phrase>
+</character>

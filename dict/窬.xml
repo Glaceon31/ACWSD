@@ -1,0 +1,23 @@
+<character value="窬">
+	<introduce>
+		<pinyin value="yu2" writing="yú" />
+		<bushou value="穴" />
+		<bushoustroke value="5" />
+		<stroke value="14" />
+		<order value="捺捺折撇捺撇捺横竖折横横竖竖" />
+	</introduce>
+	<pron value="yú">
+		<sense tag="名" vernacular="门旁的小门洞">
+			<exam article="《礼记·儒行》" ref="筚门圭窬，蓬户瓮牖。" />
+		</sense>
+		<sense tag="名" vernacular="洞；窟窿">
+			<exam article="《论语·阳货》" ref="其犹穿窬之盗也与。" />
+		</sense>
+		<sense tag="形" vernacular="中空">
+			<exam article="《淮南子·氾论》" ref="乃为窬木方板，以为舟航。" />
+		</sense>
+		<sense tag="动" vernacular="通“觎”，觊觎">
+			<exam article="《褚渊碑文》" ref="桂阳失图，窥窬神器。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,29 @@
+<character value="陷">
+	<introduce>
+		<pinyin value="xian4" writing="xiàn" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="折竖撇折撇竖横折横横" />
+	</introduce>
+	<pron value="xiàn">
+		<sense tag="名" vernacular="陷阱">
+			<exam article="《新唐书·百官志》" ref="凡坑陷井穴，皆有标。" />
+		</sense>
+		<sense tag="动" vernacular="陷入；陷没">
+			<exam article="《中山狼传》" ref="仁陷于愚，固君子之所不与也。" />
+		</sense>
+		<sense tag="动" vernacular="攻陷；沦陷">
+			<exam article="《梅花岭记》" ref="二十五日，城陷，忠烈拔刀自裁。" />
+		</sense>
+		<sense tag="动" vernacular="陷害">
+			<exam article="《左忠毅公逸事》" ref="不速去，无俟奸人构陷，吾今即扑杀汝。" />
+		</sense>
+		<sense tag="形" vernacular="缺陷；欠缺">
+			<exam article="《淮南子·缪称》" ref="满如陷，实如虚。" />
+		</sense>
+	</pron>
+	<phrase value="陷溺">
+		<sense value="喻处于困境，堕落不能自拔" />
+	</phrase>
+</character>

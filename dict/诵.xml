@@ -1,0 +1,20 @@
+<character value="诵">
+	<introduce>
+		<pinyin value="song4" writing="sòng" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="捺折折捺竖折横横竖" />
+	</introduce>
+	<pron value="sòng">
+		<sense tag="动" vernacular="朗诵；朗读">
+			<exam article="《赤壁赋》" ref="诵明月之诗，歌窈窕之章。" />
+		</sense>
+		<sense tag="动" vernacular="背诵">
+			<exam article="《后汉书·荀悦传》" ref="所见篇牍，一览多能诵记。" />
+		</sense>
+		<sense tag="动" vernacular="述说；颂扬">
+			<exam article="《毛遂自荐》" ref="左右未有所称诵，胜未有所闻。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="捃">
+	<introduce>
+		<pinyin value="jun4" writing="jùn" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖横折横横撇竖折横" />
+	</introduce>
+	<pron value="jùn">
+		<sense tag="动" vernacular="摘取；拾取；搜集">
+			<exam article="《史记·十二诸侯年表》" ref="及如荀卿、孟子、公孙固、韩非之徒，各往往捃摭《春秋》之文以著书。" />
+		</sense>
+	</pron>
+</character>

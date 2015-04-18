@@ -1,0 +1,41 @@
+<character value="贼">
+	<introduce>
+		<pinyin value="zei2" writing="zéi" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="竖折撇捺横横撇折撇捺" />
+	</introduce>
+	<pron value="zéi">
+		<sense tag="动" vernacular="伤害">
+			<exam article="《论语·先进》" ref="贼夫人之子。" />
+		</sense>
+		<sense tag="动" vernacular="杀害">
+			<exam article="《左传·宣公二年》" ref="宣子骤谏，公患之，使钥麑贼之。" />
+		</sense>
+		<sense tag="名" vernacular="刺客">
+			<exam article="《史记·秦始皇本纪》" ref="燕王昏乱，其太子丹乃阴令荆轲为贼。" />
+		</sense>
+		<sense tag="名" vernacular="祸患">
+			<exam article="《论积贮疏》" ref="淫侈之俗日日紧长，是天下之大贼也。" />
+		</sense>
+		<sense tag="名" vernacular="强盗">
+			<exam article="《童区寄传》" ref="贼二人得我，我幸皆杀之矣。" />
+		</sense>
+		<sense tag="名" vernacular="违法乱纪、犯上作乱的人">
+			<exam article="《赤壁之战》" ref="操虽托名汉相，其实汉贼也。" />
+		</sense>
+		<sense tag="名" vernacular="偷东西的人">
+			<exam article="《狱中杂记》" ref="又可怪者，大盗积贼，杀人重囚，气杰旺，染此者十不一二。" />
+		</sense>
+		<sense tag="形" vernacular="凶残">
+			<exam article="《书博鸡者事》" ref="臧使者枉用三尺，以仇一言之憾，固贼戾之士哉！" />
+		</sense>
+	</pron>
+	<phrase value="贼风">
+		<sense value="从小缝小孔里透进来的风" />
+	</phrase>
+	<phrase value="贼秃">
+		<sense value="对和尚的侮辱性称呼" />
+	</phrase>
+</character>

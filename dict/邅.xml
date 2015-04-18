@@ -1,0 +1,17 @@
+<character value="邅">
+	<introduce>
+		<pinyin value="zhan1" writing="zhān" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="捺横竖折竖折横横竖折横横横捺折捺" />
+	</introduce>
+	<pron value="zhàn">
+		<sense tag="动" vernacular="转；改变方向">
+			<exam article="《九歌·湘君》" ref="邅吾道兮洞庭。" />
+		</sense>
+	</pron>
+	<phrase value="邅迴">
+		<sense value="运转；回旋；转来转去" />
+	</phrase>
+</character>

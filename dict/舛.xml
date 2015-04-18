@@ -1,0 +1,53 @@
+<character value="舛">
+	<introduce>
+		<pinyin value="chuan3" writing="chuăn" />
+		<bushou value="夕" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="撇折捺横折竖" />
+	</introduce>
+	<pron value="chuǎn">
+		<sense tag="动" vernacular="相违背">
+			<exam article="《治安策》" ref="本末舛逆。" />
+		</sense>
+		<sense tag="形" vernacular="错谬">
+			<exam article="《宋书·张举传》" ref="手校数万卷，无一字舛。" />
+		</sense>
+		<sense tag="形" vernacular="不顺；困厄">
+			<exam article="《滕王阁序》" ref="命途多舛。" />
+		</sense>
+	</pron>
+	<phrase value="舛驳">
+		<sense value="乖谬驳杂，庞杂" />
+	</phrase>
+	<phrase value="舛驰">
+		<sense value="1" />
+		<sense value="背道而驰" />
+	</phrase>
+	<phrase value="舛错">
+		<sense value="1" />
+		<sense value="错乱，差错" />
+		<sense value="2" />
+		<sense value="交错，错杂" />
+	</phrase>
+	<phrase value="舛互">
+		<sense value="1" />
+		<sense value="互相抵触" />
+		<sense value="2" />
+		<sense value="交错" />
+	</phrase>
+	<phrase value="舛谬">
+		<sense value="1" />
+		<sense value="差错" />
+	</phrase>
+	<phrase value="舛迕">
+		<sense value="也作“舛午”、“舛仵”、“舛忤”" />
+		<sense value="1" />
+		<sense value="相违背，相抵触" />
+		<sense value="2" />
+		<sense value="差错" />
+	</phrase>
+	<phrase value="舛误">
+		<sense value="差错，谬误" />
+	</phrase>
+</character>

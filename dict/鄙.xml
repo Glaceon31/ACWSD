@@ -1,0 +1,28 @@
+<character value="鄙">
+	<introduce>
+		<pinyin value="bi3" writing="bĭ" />
+		<pinyin value="bi4" writing="bì" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="13" />
+		<order value="竖折横横竖竖折竖折横横折竖" />
+	</introduce>
+	<pron value="bǐ">
+		<sense tag="名" vernacular="边远的地方">
+			<exam article="《为学》" ref="蜀之鄙有二僧，其一贫，其一富。" />
+		</sense>
+		<sense tag="形" vernacular="鄙陋，鄙俗">
+			<exam article="《曹刿论战》" ref="肉食者鄙，未能远谋。" />
+			<exam article="《廉颇蔺相如列传》" ref="鄙贱之人，不知将军宽之至此也。" />
+		</sense>
+		<sense tag="形" vernacular="轻贱">
+			<exam article="《孔雀东南飞》" ref="人贱物亦鄙，不足迎后人。" />
+		</sense>
+		<sense tag="动" vernacular="鄙薄，轻视">
+			<exam article="《训俭示康》" ref="孔子鄙其其小器。" />
+		</sense>
+		<sense vernacular="谦词">
+			<exam article="《滕王阁序》" ref="敢竭鄙诚。" />
+		</sense>
+	</pron>
+</character>

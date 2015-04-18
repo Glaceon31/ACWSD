@@ -1,0 +1,20 @@
+<character value="庑">
+	<introduce>
+		<pinyin value="wu3" writing="wŭ" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺横撇横横撇折" />
+	</introduce>
+	<pron value="wǔ">
+		<sense tag="名" vernacular="高堂下周围的廊房，厢房">
+			<exam article="《左忠毅公逸事》" ref="庑下一生伏案卧。" />
+		</sense>
+		<sense tag="名" vernacular="房屋">
+			<exam article="《史记·李斯列传》" ref="居大庑之下。" />
+		</sense>
+		<sense tag="形" vernacular="通“芜”，草木茂盛">
+			<exam article="《东京赋》" ref="草木蕃庑。" />
+		</sense>
+	</pron>
+</character>

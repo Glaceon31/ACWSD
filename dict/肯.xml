@@ -1,0 +1,30 @@
+<character value="肯">
+	<introduce>
+		<pinyin value="ken3" writing="kĕn" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="竖横竖横竖折横横" />
+	</introduce>
+	<pron value="kěn">
+		<sense tag="名" vernacular="附着在骨头上的肌肉" />
+		<sense tag="动" vernacular="许可；同意">
+			<exam article="《触龙说赵太后》" ref="太后不肯，大臣强谏。" />
+		</sense>
+		<sense tag="动" vernacular="愿；愿意">
+			<exam article="《硕鼠》" ref="三岁贯汝，莫我肯顾。" />
+		</sense>
+		<sense tag="动" vernacular="能；能够">
+			<exam article="《中山狼传》" ref="固当窥左足以效微劳，又肯讳之而不言哉？" />
+		</sense>
+	</pron>
+	<phrase value="肯分">
+		<sense value="正好；恰好" />
+	</phrase>
+	<phrase value="肯酒">
+		<sense value="订婚结亲酒" />
+	</phrase>
+	<phrase value="肯綮">
+		<sense value="筋骨结合的地方" />
+	</phrase>
+</character>

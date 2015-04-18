@@ -1,0 +1,14 @@
+<character value="唳">
+	<introduce>
+		<pinyin value="li4" writing="lì" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="竖折横捺折横撇横撇捺捺" />
+	</introduce>
+	<pron value="lì">
+		<sense tag="动" vernacular="鹤叫">
+			<exam article="《晋书·陆机传》" ref="华亭鹤唳，岂可复闻乎？" />
+		</sense>
+	</pron>
+</character>

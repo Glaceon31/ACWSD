@@ -1,0 +1,17 @@
+<character value="浦">
+	<introduce>
+		<pinyin value="pu3" writing="pŭ" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横横竖折横横竖捺" />
+	</introduce>
+	<pron value="pǔ">
+		<sense tag="名" vernacular="水边，岸边">
+			<exam article="《诗经·大雅·常武》" ref="率彼淮浦。" />
+		</sense>
+		<sense tag="名" vernacular="小河流入江海的入口处">
+			<exam article="《宋书·徐宁传》" ref="至广陵寻亲旧，还遇风，停浦中。" />
+		</sense>
+	</pron>
+</character>

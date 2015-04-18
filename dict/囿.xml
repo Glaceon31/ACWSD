@@ -1,0 +1,20 @@
+<character value="囿">
+	<introduce>
+		<pinyin value="you4" writing="yòu" />
+		<bushou value="囗" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="竖折横撇竖折横横横" />
+	</introduce>
+	<pron value="yòu">
+		<sense tag="名" vernacular="畜养禽兽的园地">
+			<exam article="《孟子·梁惠王下》" ref="文王之囿方七十里。" />
+		</sense>
+		<sense tag="名" vernacular="事物聚集的地方">
+			<exam article="《刻〈几何原本〉序》" ref="真可谓万象之形囿，百家之学海。" />
+		</sense>
+		<sense tag="形" vernacular="局限，指见识不广">
+			<exam article="《庄子·天下》" ref="辩者之囿也。" />
+		</sense>
+	</pron>
+</character>

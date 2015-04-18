@@ -1,0 +1,23 @@
+<character value="警">
+	<introduce>
+		<pinyin value="jing3" writing="jĭng" />
+		<bushou value="言" />
+		<bushoustroke value="7" />
+		<stroke value="19" />
+		<order value="横竖竖撇折竖折横撇横撇捺捺横横横竖折横" />
+	</introduce>
+	<pron value="jǐng">
+		<sense tag="动" vernacular="告诫；警告">
+			<exam article="《狱中杂记》" ref="是立法以警其余。" />
+		</sense>
+		<sense tag="动" vernacular="警戒；戒备">
+			<exam article="《左传·宣公十二年》" ref="军卫不彻，警也。" />
+		</sense>
+		<sense tag="名" vernacular="危险紧急的情况或消息">
+			<exam article="《左忠毅公逸事》" ref="每有警，辄数月不就寝。" />
+		</sense>
+		<sense tag="形" vernacular="敏捷；敏锐">
+			<exam article="《三国志·魏书·武帝纪》" ref="太祖少机警，有权数。" />
+		</sense>
+	</pron>
+</character>

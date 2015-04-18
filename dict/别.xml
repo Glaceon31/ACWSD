@@ -1,0 +1,37 @@
+<character value="别">
+	<introduce>
+		<pinyin value="bie2" writing="bié" />
+		<pinyin value="bie4" writing="biè" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="竖折横折撇竖竖" />
+	</introduce>
+	<pron value="bié">
+		<sense tag="动" vernacular="分;分开">
+			<exam article="《苏武》" ref="别其官属常惠等,各置他所。" />
+		</sense>
+		<sense tag="动" vernacular="区别;分别">
+			<exam article="《柳毅传》" ref="而大小毛角,则无别羊焉。" />
+		</sense>
+		<sense tag="动" vernacular="离别;告别">
+			<exam article="《孔雀东南飞》" ref="却与小姑别。" />
+		</sense>
+		<sense tag="副" vernacular="另外;别外的">
+			<exam article="《琵琶行》" ref="别有幽愁暗恨生。" />
+			<exam article="《赤壁之战》" ref="如有离违,宜别图之。" />
+		</sense>
+	</pron>
+	<phrase value="别肠">
+		<sense value="离别之情" />
+	</phrase>
+	<phrase value="别驾">
+		<sense value="官职名" />
+		<sense value="汉时为州刺史的属官,隋唐一度改为“长史”,后又恢复" />
+		<sense value="宋时改为“通判”" />
+	</phrase>
+	<phrase value="别传">
+		<sense value="旧史书的一种分类" />
+		<sense value="专记载某人的逸闻趣事,以补充正传的不足" />
+	</phrase>
+</character>

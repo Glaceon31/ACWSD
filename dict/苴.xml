@@ -1,0 +1,23 @@
+<character value="苴">
+	<introduce>
+		<pinyin value="ju1" writing="jū" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖竖竖折横横横" />
+	</introduce>
+	<pron value="jū">
+		<sense tag="名" vernacular="麻的子">
+			<exam article="《诗经·豳风·七月》" ref="九月叔苴。" />
+		</sense>
+		<sense tag="名" vernacular="枯草">
+			<exam article="《九章·悲回风》" ref="草苴比而不劳。" />
+		</sense>
+		<sense tag="名" vernacular="用草做成的鞋垫">
+			<exam article="《治安策》" ref="冠虽敝，不以苴履。" />
+		</sense>
+		<sense tag="名" vernacular="包裹">
+			<exam article="《三国志·魏书·武帝纪》" ref="封君为魏公，锡君玄土，苴以白茅。" />
+		</sense>
+	</pron>
+</character>

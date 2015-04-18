@@ -1,0 +1,14 @@
+<character value="谟">
+	<introduce>
+		<pinyin value="mo2" writing="mó" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="12" />
+		<order value="捺折横竖竖竖折横横横撇捺" />
+	</introduce>
+	<pron value="mó">
+		<sense tag="名" vernacular="计谋；谋略">
+			<exam article="《辩亡论下》" ref="遂献宏谟。" />
+		</sense>
+	</pron>
+</character>

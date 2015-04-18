@@ -1,0 +1,13 @@
+<character value="埃">
+	<introduce>
+		<pinyin value="ai1" writing="āi" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖横折捺撇横横撇捺" />
+	</introduce>
+	<pron value="āi">
+		<sense tag="名" vernacular="尘土" />
+		<sense tag="名" vernacular="泥土" />
+	</pron>
+</character>

@@ -1,0 +1,50 @@
+<character value="夹">
+	<introduce>
+		<pinyin value="jia1" writing="jiā" />
+		<pinyin value="jia2" writing="jiá" />
+		<pinyin value="ga1" writing="gā" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="横捺撇横撇捺" />
+	</introduce>
+	<pron value="jiā">
+		<sense tag="动" vernacular="辅佐；辅助">
+			<exam article="《左传·僖公四年》" ref="五侯九伯，女实征之，以夹辅周室。" />
+		</sense>
+		<sense tag="动" vernacular="从两边夹住；把……夹在中间">
+			<exam article="《大铁椎传》" ref="右胁夹大铁椎。" />
+		</sense>
+		<sense tag="副" vernacular="从相反的两面">
+			<exam article="《国语·吴语》" ref="赵人分为二师，将以夹攻我师。" />
+		</sense>
+		<sense tag="动" vernacular="夹杂；混杂">
+			<exam article="《口技》" ref="又夹右千求救声，曳屋许许声，抢夺声。" />
+		</sense>
+		<sense tag="名" vernacular="夹子；夹东西的器具">
+			<exam article="《周礼·射鸟氏》" ref="并夹取之。" />
+		</sense>
+		<sense tag="名" vernacular="江河港汊可泊船的地方">
+			<exam article="《过小孤山大孤山》" ref="晚泊沙夹，距小孤一里。" />
+		</sense>
+		<sense tag="量" vernacular="册；卷">
+			<exam article="《宋史·天竺国传》" ref="贝叶梵书一夹。" />
+		</sense>
+	</pron>
+	<pron value="jiá">
+		<sense tag="形" vernacular="双层">
+			<exam article="《孔雀东南飞》" ref="朝成绣夹裙，晚成单罗衫。" />
+		</sense>
+		<sense tag="名" vernacular="夹衣；双层的衣服">
+			<exam article="《徐霞客游记》" ref="重夹犹寒，余以为阴风所致。" />
+		</sense>
+		<sense tag="名" vernacular="通“铗”，剑柄">
+			<exam article="《庄子·说剑》" ref="诸侯之剑，……以豪杰士为夹。" />
+		</sense>
+	</pron>
+	<pron value="xiá">
+		<sense tag="形" vernacular="通“狭”，狭窄">
+			<exam article="《后汉书·东夷传》" ref="其地东西夹，南北长。" />
+		</sense>
+	</pron>
+</character>

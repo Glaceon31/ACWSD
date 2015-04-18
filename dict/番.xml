@@ -1,0 +1,20 @@
+<character value="番">
+	<introduce>
+		<pinyin value="fan1" writing="fān" />
+		<pinyin value="pan1" writing="pān" />
+		<bushou value="田" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="撇捺撇横竖撇捺竖折横竖横" />
+	</introduce>
+	<pron value="fān">
+		<sense tag="动" vernacular="更替;替代;轮流">
+			<exam article="《北史·贺若弼传》" ref="请广陵顿兵一万,番代往来。" />
+			<exam article="《左忠毅公逸事》" ref="漏鼓移则番代。" />
+		</sense>
+		<sense tag="量" vernacular="次;回">
+			<exam article="《摸鱼儿·置酒山亭》" ref="更能消几番风雨。" />
+		</sense>
+		<sense tag="名" vernacular="我国古代西南部民族的统称,泛指少数民族" />
+	</pron>
+</character>

@@ -1,0 +1,29 @@
+<character value="迂">
+	<introduce>
+		<pinyin value="yu1" writing="yū" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="横横竖捺折捺" />
+	</introduce>
+	<pron value="yū">
+		<sense tag="形" vernacular="曲折；绕远">
+			<exam article="《愚公移山》" ref="惩山北之塞，出入之迂也。" />
+		</sense>
+		<sense tag="形" vernacular="拘泥固执">
+			<exam article="《报刘一丈书》" ref="长者闻此，得无厌其为迂乎?" />
+		</sense>
+	</pron>
+	<phrase value="迂诞">
+		<sense value="荒唐而不切事理" />
+	</phrase>
+	<phrase value="迂缓">
+		<sense value="迟钝缓慢" />
+	</phrase>
+	<phrase value="迂阔">
+		<sense value="不切实际" />
+	</phrase>
+	<phrase value="迂远">
+		<sense value="不合时宜" />
+	</phrase>
+</character>

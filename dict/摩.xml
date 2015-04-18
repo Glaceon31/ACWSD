@@ -1,0 +1,24 @@
+<character value="摩">
+	<introduce>
+		<pinyin value="mo2" writing="mó" />
+		<pinyin value="ma1" writing="mā" />
+		<bushou value="手" />
+		<bushoustroke value="4" />
+		<stroke value="15" />
+		<order value="捺横撇横竖撇捺横竖撇捺撇横横竖" />
+	</introduce>
+	<pron value="mó">
+		<sense tag="动" vernacular="抚摸；摩挲">
+			<exam article="《黄生借书说》" ref="非夫人之物而强假焉，必虑人逼取，而惴惴焉摩玩之不已。" />
+		</sense>
+		<sense tag="动" vernacular="摩擦">
+			<exam article="《礼记·内侧》" ref="濯手以摩之，去其皱。" />
+		</sense>
+		<sense tag="动" vernacular="迫近；接近">
+			<exam article="《左传·宣公十二年》" ref="摩垒而还。" />
+		</sense>
+		<sense tag="动" vernacular="揣测；体会">
+			<exam article="《柳敬亭传》" ref="敬亭退而凝神定气，简练揣摩，期月而诣莫生。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,56 @@
+<character value="察">
+	<introduce>
+		<pinyin value="cha2" writing="chá" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="捺捺折撇折捺捺折捺横横竖撇捺" />
+	</introduce>
+	<pron value="chá">
+		<sense tag="动" vernacular="仔细看；观察">
+			<exam article="《石钟山记》" ref="徐而察之，则山下皆石穴罅。" />
+		</sense>
+		<sense tag="动" vernacular="看清楚">
+			<exam article="《兰亭集序》" ref="仰观宇宙之大，俯察品类之盛。" />
+		</sense>
+		<sense tag="动" vernacular="苛求">
+			<exam article="《班超告老归国》" ref="察政不得下和，宜荡佚简易，宽小过，总大纲而已。" />
+		</sense>
+		<sense tag="动" vernacular="考察">
+			<exam article="《寡人之于国也》" ref="察邻国之政，无如寡人之用心也。" />
+		</sense>
+		<sense tag="形" vernacular="清楚；明白">
+			<exam article="《曹刿论战》" ref="小大之狱，虽不能察，必以情。" />
+		</sense>
+		<sense tag="动" vernacular="考察举荐；选拔">
+			<exam article="《陈情表》" ref="前太守臣逵察臣孝廉，后剌史臣荣举臣秀才。" />
+		</sense>
+		<sense tag="动" vernacular="督察">
+			<exam article="《邵公谏厉王弥谤》" ref="近臣尽规，亲戚补察。" />
+		</sense>
+	</pron>
+	<phrase value="察察">
+		<sense value="1" />
+		<sense value="洁白的样子" />
+		<sense value="2" />
+		<sense value="析辨明白的样子" />
+	</phrase>
+	<phrase value="察断">
+		<sense value="明察判断" />
+	</phrase>
+	<phrase value="察见渊鱼">
+		<sense value="谓明察至能见到深渊之鱼" />
+		<sense value="用以比喻探知别人的隐私" />
+		<sense value="常用的是，“察见渊鱼者不祥，智料隐匿者有殃" />
+		<sense value="”语出《列子·说符》" />
+	</phrase>
+	<phrase value="察纳">
+		<sense value="明察采纳" />
+	</phrase>
+	<phrase value="察士">
+		<sense value="明察事理的人" />
+	</phrase>
+	<phrase value="察微">
+		<sense value="洞悉细微" />
+	</phrase>
+</character>

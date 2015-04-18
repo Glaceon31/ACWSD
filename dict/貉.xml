@@ -1,0 +1,19 @@
+<character value="貉">
+	<introduce>
+		<pinyin value="he2" writing="hé" />
+		<pinyin value="hao2" writing="háo" />
+		<pinyin value="mo4" writing="mò" />
+		<bushou value="豸" />
+		<bushoustroke value="7" />
+		<stroke value="13" />
+		<order value="撇捺捺撇折撇撇撇折捺竖折横" />
+	</introduce>
+	<pron value="hé">
+		<sense tag="名" vernacular="一种野兽">
+			<exam article="《列子·汤问》" ref="貉逾汶则死矣。" />
+		</sense>
+		<sense vernacular="mò我国古代东北部一个民族">
+			<exam article="《荀子·劝学》" ref="干越夷貉之子，生而同声，第而异俗。" />
+		</sense>
+	</pron>
+</character>

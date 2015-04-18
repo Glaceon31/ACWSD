@@ -1,0 +1,22 @@
+<character value="苕">
+	<introduce>
+		<pinyin value="tiao2" writing="tiáo" />
+		<pinyin value="shao2" writing="sháo" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖竖折撇竖折横" />
+	</introduce>
+	<pron value="tiáo">
+		<sense tag="名" vernacular="一种草">
+			<exam article="《诗经·陈风·防有鹊巢》" ref="邛有旨苕。" />
+		</sense>
+		<sense tag="名" vernacular="芦苇的花重穗">
+			<exam article="《荀子·劝学》" ref="系之苇苕，风至苕折。" />
+		</sense>
+	</pron>
+	<phrase value="苕苕">
+		<sense value="通“迢迢”，遥远的样子" />
+		<sense value="通“岧岧”，高的样子" />
+	</phrase>
+</character>

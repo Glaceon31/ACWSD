@@ -1,0 +1,53 @@
+<character value="向">
+	<introduce>
+		<pinyin value="xiang4" writing="xiàng" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="撇竖折竖折横" />
+	</introduce>
+	<pron value="xiàng">
+		<sense tag="名" vernacular="朝北的窗户">
+			<exam article="《诗经·七月》" ref="塞向墐户。" />
+		</sense>
+		<sense tag="动" vernacular="朝着；向着">
+			<exam article="《狼》" ref="狼不敢前，眈眈相向。" />
+			<exam article="《垓下之战》" ref="乃分其骑以为四队，四向。" />
+		</sense>
+		<sense tag="动" vernacular="趋向；奔向">
+			<exam article="《赤壁之战》" ref="到夏口，闻操已向荆州。" />
+		</sense>
+		<sense tag="动" vernacular="接近">
+			<exam article="《茅屋为秋风所破歌》" ref="秋天漠漠向昏黑。" />
+		</sense>
+		<sense tag="副" vernacular="刚才">
+			<exam article="《赤壁之战》" ref="向察众人之议，专欲误将军。" />
+		</sense>
+		<sense tag="副" vernacular="从前；过去">
+			<exam article="《兰亭集序》" ref="向之所欣，俯仰之间，已为陈迹。" />
+			<exam article="《察今》" ref="向之寿民，今为殇子矣。" />
+		</sense>
+		<sense tag="连" vernacular="假如">
+			<exam article="《捕蛇者说》" ref="向吾不为斯役，则久已病矣。" />
+		</sense>
+	</pron>
+	<pron value="xiǎng">
+		<sense tag="动" vernacular="通“响”">
+			<exam article="《庖丁解牛》" ref="砉然向然。" />
+		</sense>
+		<sense tag="动" vernacular="通“享”">
+			<exam article="《论衡·谢短》" ref="夏自禹向国，几载而至于殷。" />
+		</sense>
+	</pron>
+	<phrase value="向前">
+		<sense value="向前进" />
+		<sense value="努力上进" />
+		<sense value="以前；刚才" />
+	</phrase>
+	<phrase value="向使">
+		<sense value="假如" />
+	</phrase>
+	<phrase value="向隅">
+		<sense value="面对屋子的角落，比喻人孤独失意或得不到仙会而失望" />
+	</phrase>
+</character>

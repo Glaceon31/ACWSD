@@ -1,0 +1,23 @@
+<character value="诱">
+	<introduce>
+		<pinyin value="you4" writing="yòu" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="捺折撇横竖撇捺折撇" />
+	</introduce>
+	<pron value="yòu">
+		<sense tag="动" vernacular="引导">
+			<exam article="《论语·子罕》" ref="夫子循循然善诱人。" />
+		</sense>
+		<sense tag="动" vernacular="诱惑">
+			<exam article="《狼》" ref="乃悟前狼假寐，盖以诱敌。" />
+		</sense>
+		<sense tag="动" vernacular="男女之间的挑逗">
+			<exam article="《诗经·召南·野有死麕》" ref="有女怀春，吉士诱之。" />
+		</sense>
+	</pron>
+	<phrase value="诱掖">
+		<sense value="引导扶持" />
+	</phrase>
+</character>

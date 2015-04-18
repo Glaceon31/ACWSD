@@ -1,0 +1,20 @@
+<character value="誉">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="言" />
+		<bushoustroke value="7" />
+		<stroke value="13" />
+		<order value="捺捺撇横撇捺捺横横横竖折横" />
+	</introduce>
+	<pron value="yù">
+		<sense tag="动" vernacular="称赞；赞美">
+			<exam article="《庄子·盗跖》" ref="好面誉人者，亦好背而毁之。" />
+		</sense>
+		<sense tag="名" vernacular="美名；荣誉">
+			<exam article="《韩非子·五蠹》" ref="誉辅其赏，毁随其罚。" />
+		</sense>
+		<sense tag="形" vernacular="通“豫”">
+			<exam article="《诗经·小雅·蓼萧》" ref="是以有誉处兮。" />
+		</sense>
+	</pron>
+</character>

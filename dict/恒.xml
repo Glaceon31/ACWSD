@@ -1,0 +1,27 @@
+<character value="恒">
+	<introduce>
+		<pinyin value="heng2" writing="héng" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺竖横竖折横横横" />
+	</introduce>
+	<pron value="héng">
+		<sense tag="形" vernacular="永久不变；固定">
+			<exam article="《齐桓晋文之事》" ref="无恒产而有恒心者，惟士为能。" />
+		</sense>
+		<sense tag="副" vernacular="经常；常常；总是">
+			<exam article="《生于忧患，死于安乐》" ref="人恒过，然后能改。" />
+			<exam article="《聊斋志异·山市》" ref="数年恒不一见。" />
+		</sense>
+		<sense tag="形" vernacular="平常；一般">
+			<exam article="《童区寄传》" ref="寄伪儿啼，恐栗，为儿恒状。" />
+		</sense>
+	</pron>
+	<phrase value="恒产">
+		<sense value="指土地、田园、房屋等不动产，也指代代相传的财产" />
+	</phrase>
+	<phrase value="恒医">
+		<sense value="普通医生" />
+	</phrase>
+</character>

@@ -1,0 +1,47 @@
+<character value="公">
+	<introduce>
+		<pinyin value="gong1" writing="gōng" />
+		<bushou value="八" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="撇捺折捺" />
+	</introduce>
+	<pron value="gōng">
+		<sense tag="形" vernacular="公家的；公共的">
+			<exam article="《礼记·大同》" ref="大道之行也，天下为公公。" />
+			<exam article="《原君》" ref="天下有公利而莫或兴之。有公害而或除之" />
+		</sense>
+		<sense tag="形" vernacular="公正；无私">
+			<exam article="《屈原列传》" ref="邪曲之害公也。" />
+			<exam article="《进学解》" ref="无患有词之不公。" />
+			<exam article="《诫兄子严敦书》" ref="谦约节敛，廉公有威。" />
+		</sense>
+		<sense tag="副" vernacular="公然；公开">
+			<exam article="《论积贮疏》" ref="残贼公行，莫之或止。" />
+			<exam article="《黄生借书说》" ref="惟予之公书与张氏之吝书若不相类。" />
+		</sense>
+		<sense tag="名" vernacular="古代公、侯、伯、子、男五等爵位的第一等，后成为诸侯的代称" />
+		<sense tag="名" vernacular="对男子的尊称">
+			<exam article="《邹忌讽齐五纳谏》" ref="我孰与城北徐公美？" />
+			<exam article="《陈涉世家》" ref="公等遇雨，皆已失期。" />
+			<exam article="《滕王格序》" ref="都督阎公之雅望，棨戟遥临。" />
+		</sense>
+		<sense tag="名" vernacular="丈夫的父亲">
+			<exam article="《孔雀东南飞》" ref="便可白公姥，及时相遣归。" />
+		</sense>
+	</pron>
+	<phrase value="公车">
+		<sense value="兵车" />
+		<sense value="官车" />
+		<sense value="汉代官署名" />
+		<sense value="卫尉的下属机构，设公车令，掌管宫殿中司马门的警卫工作" />
+		<sense value="臣民上书和征召，都由公车接待" />
+	</phrase>
+	<phrase value="公案">
+		<sense value="官府的案牍" />
+		<sense value="旧时官吏审案时所用的桌子" />
+		<sense value="佛教禅宗认为用教理来解决疑难问题，如官府判案" />
+		<sense value="因此也称公案" />
+		<sense value="话本故事分类之一，后又演变为“公案小说”、“公案戏”" />
+	</phrase>
+</character>

@@ -1,0 +1,30 @@
+<character value="巾">
+	<introduce>
+		<pinyin value="jin1" writing="jīn" />
+		<bushou value="巾" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="竖折竖" />
+	</introduce>
+	<pron value="jīn">
+		<sense tag="名" vernacular="手巾；面巾；擦拭用的布帛">
+			<exam article="《杜少府之任蜀州》" ref="无为在歧路，儿女共沾巾。" />
+		</sense>
+		<sense tag="名" vernacular="头巾；覆盖头或缠束头发的织物">
+			<exam article="《念奴娇·赤壁怀古》" ref="羽扇纶巾，谈笑间，樯橹灰飞烟灭。" />
+		</sense>
+		<sense tag="动" vernacular="覆盖；包裹">
+			<exam article="《庄子·天运》" ref="夫刍狗之未陈也，盛以箧衍，巾以文绣。" />
+		</sense>
+		<sense tag="名" vernacular="古代快信写在帛巾上，因代指快信">
+			<exam article="《与妻书》" ref="巾短情长，所未尽者，尚有万千。" />
+		</sense>
+	</pron>
+	<phrase value="巾车">
+		<sense value="有帏幕遮围的车" />
+		<sense value="官名" />
+	</phrase>
+	<phrase value="巾帻">
+		<sense value="幅巾制的帽子" />
+	</phrase>
+</character>

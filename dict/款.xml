@@ -1,0 +1,49 @@
+<character value="款">
+	<introduce>
+		<pinyin value="kuan3" writing="kuăn" />
+		<bushou value="欠" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖横横横竖撇捺撇折撇捺" />
+	</introduce>
+	<pron value="kuǎn">
+		<sense tag="名" vernacular="真诚；诚意">
+			<exam article="《十渐不克终疏》" ref="莫能申其忠款。" />
+		</sense>
+		<sense tag="动" vernacular="款待；殷勤招待">
+			<exam article="《柳毅传》" ref="因命酌互举，以款人事。" />
+		</sense>
+		<sense tag="动" vernacular="叩；敲">
+			<exam article="《吕氏春秋·爱士》" ref="夜款门而谒。" />
+		</sense>
+		<sense tag="形" vernacular="缓；慢">
+			<exam article="《送胥裴二子回马上作》" ref="岂惟游子倦，疲马行亦款。" />
+		</sense>
+		<sense tag="名" vernacular="条款；条目">
+			<exam article="《元曲选·神奴儿》" ref="现如今暴骨停尸，是坐着那一款罪犯招因？" />
+		</sense>
+		<sense tag="名" vernacular="款式；规格">
+			<exam article="《促织》" ref="即捕得三两头，又劣弱不中于款。" />
+		</sense>
+		<sense tag="名" vernacular="钟鼎彝器上铸刻的文字">
+			<exam article="《聊斋志异·司文郎》" ref="又有金爵，类多镌款。" />
+		</sense>
+	</pron>
+	<phrase value="款款">
+		<sense value="诚恳" />
+		<sense value="缓缓" />
+		<sense value="和乐的样子" />
+	</phrase>
+	<phrase value="款启">
+		<sense value="见识狭小" />
+	</phrase>
+	<phrase value="款实">
+		<sense value="诚恳；朴实" />
+	</phrase>
+	<phrase value="款语">
+		<sense value="恳谈" />
+	</phrase>
+	<phrase value="款言">
+		<sense value="空话" />
+	</phrase>
+</character>

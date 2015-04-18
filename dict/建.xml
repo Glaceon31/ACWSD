@@ -1,0 +1,26 @@
+<character value="建">
+	<introduce>
+		<pinyin value="jian4" writing="jiàn" />
+		<bushou value="廴" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="折横横横横竖折捺" />
+	</introduce>
+	<pron value="jiàn">
+		<sense tag="动" vernacular="竖立；树立">
+			<exam article="《赤壁之战》" ref="乃取蒙冲斗舰，……上建旌旗。" />
+		</sense>
+		<sense tag="动" vernacular="树立；建树">
+			<exam article="《卖柑者言》" ref="果能建伊、皋之业耶？" />
+		</sense>
+		<sense tag="动" vernacular="建议；提议">
+			<exam article="《上田正言书》" ref="曾未闻执事建一言寤主上也。" />
+		</sense>
+		<sense tag="动" vernacular="建造；修建">
+			<exam article="《东京赋》" ref="建丛台于后。" />
+		</sense>
+		<sense tag="动" vernacular="倾泻；倾倒">
+			<exam article="《史记·高祖本纪》" ref="譬犹居高屋之上建瓴水也。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,20 @@
+<character value="鸾">
+	<introduce>
+		<pinyin value="luan2" writing="luán" />
+		<bushou value="鸟" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="捺横竖竖撇捺撇折捺折横" />
+	</introduce>
+	<pron value="luán">
+		<sense tag="名" vernacular="古代传说中的一种神鸟">
+			<exam article="《山海经·西山经》" ref="西南三百里曰女床之山，……有鸟焉，其状如翟而五采文，名曰鸾鸟。" />
+		</sense>
+		<sense tag="名" vernacular="通“銮”，一种铃，常饰于帝王的车子上">
+			<exam article="《诗经·小雅·蓼萧》" ref="和鸾雍雍。" />
+		</sense>
+	</pron>
+	<phrase value="鸾凤和鸣">
+		<sense value="比喻夫妻和谐" />
+	</phrase>
+</character>

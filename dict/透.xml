@@ -1,0 +1,22 @@
+<character value="透">
+	<introduce>
+		<pinyin value="tou4" writing="tòu" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="撇横竖撇捺折撇捺折捺" />
+	</introduce>
+	<pron value="tòu">
+		<sense tag="动" vernacular="跳">
+			<exam article="《南史·后妃传》" ref="妃知不免，乃透井死。" />
+		</sense>
+		<sense tag="动" vernacular="通过；穿透">
+			<exam article="《病鹘吟》" ref="有时透雾凌空去。" />
+		</sense>
+	</pron>
+	<pron value="shū">
+		<sense tag="形" vernacular="惊慌的样子">
+			<exam article="《吴都赋》" ref="惊透沸乱。" />
+		</sense>
+	</pron>
+</character>

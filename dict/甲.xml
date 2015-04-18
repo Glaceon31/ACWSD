@@ -1,0 +1,40 @@
+<character value="甲">
+	<introduce>
+		<pinyin value="jia3" writing="jiă" />
+		<bushou value="田" />
+		<bushoustroke value="5" />
+		<stroke value="5" />
+		<order value="竖折横横竖" />
+	</introduce>
+	<pron value="jiǎ">
+		<sense tag="名" vernacular="植物种子的外壳">
+			<exam article="《周易·解·彖传》" ref="雷雨作而百果草木皆甲坼。" />
+		</sense>
+		<sense tag="名" vernacular="动物护身的外壳">
+			<exam article="《神龟赋》" ref="肌肉消尽，唯甲存焉。" />
+		</sense>
+		<sense tag="名" vernacular="战甲，古代士兵穿的用皮革或金属制的护身服">
+			<exam article="《赤壁之战》" ref="何不按兵束甲，北面而受之。" />
+		</sense>
+		<sense tag="名" vernacular="甲士；披甲的士兵">
+			<exam article="《赤壁之战》" ref="今战士还者及关羽水军精甲万人。" />
+		</sense>
+		<sense tag="名" vernacular="指甲">
+			<exam article="《雪》" ref="暖手调金丝，蘸甲斟琼液。" />
+		</sense>
+		<sense tag="名" vernacular="天干的第一位" />
+		<sense tag="形" vernacular="第一流的；头等的">
+			<exam article="《芋老人传》" ref="书生因甲第为相国。" />
+		</sense>
+		<sense tag="动" vernacular="居第一位">
+			<exam article="《汉书·货殖传》" ref="秦杨以田农而甲一州。" />
+		</sense>
+	</pron>
+	<phrase value="甲第">
+		<sense value="权贵人家的豪华住宅" />
+		<sense value="科举考试的第一等" />
+	</phrase>
+	<phrase value="甲姓">
+		<sense value="大姓" />
+	</phrase>
+</character>

@@ -1,0 +1,21 @@
+<character value="妇">
+	<introduce>
+		<pinyin value="fu4" writing="fù" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折撇横折横横" />
+	</introduce>
+	<pron value="fù">
+		<sense tag="名" vernacular="妻子">
+			<exam article="《孔雀东南飞》" ref="十七为君妇。" />
+		</sense>
+		<sense tag="名" vernacular="儿媳">
+			<exam article="《孔雀东南飞》" ref="君家妇难为。" />
+		</sense>
+		<sense tag="名" vernacular="已婚女子的通称">
+			<exam article="《触龙说赵太后》" ref="太后曰：‘丈夫亦爱怜其少子乎？’对曰：‘甚于妇人’。" />
+			<exam article="《石壕吏》" ref="听妇前致词，三男邺城戍。" />
+		</sense>
+	</pron>
+</character>

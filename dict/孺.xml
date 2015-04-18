@@ -1,0 +1,23 @@
+<character value="孺">
+	<introduce>
+		<pinyin value="ru2" writing="rú" />
+		<pinyin value="ru4" writing="rù" />
+		<bushou value="子" />
+		<bushoustroke value="3" />
+		<stroke value="17" />
+		<order value="折竖横横捺折竖捺捺捺捺横撇竖折竖竖" />
+	</introduce>
+	<pron value="rú">
+		<sense tag="形" vernacular="幼小">
+			<exam article="《晋书·食货志》" ref="可以长孺齿，可以养耆年。" />
+		</sense>
+		<sense tag="名" vernacular="幼儿" />
+		<sense tag="动" vernacular="亲爱；亲睦">
+			<exam article="《诗经·小雅·常棣》" ref="兄弟既具，和乐且孺。" />
+		</sense>
+	</pron>
+	<phrase value="孺人">
+		<sense value="古代称大夫的妻子，唐代称王的妾，宋代作为通直郎等到官员的母亲或妻子封号" />
+		<sense value="敬称已婚妇女" />
+	</phrase>
+</character>

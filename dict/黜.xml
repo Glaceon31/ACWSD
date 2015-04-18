@@ -1,0 +1,29 @@
+<character value="黜">
+	<introduce>
+		<pinyin value="chu4" writing="chù" />
+		<bushou value="黑" />
+		<bushoustroke value="12" />
+		<stroke value="17" />
+		<order value="竖折捺撇横竖横横捺捺捺捺折竖竖折竖" />
+	</introduce>
+	<pron value="chù">
+		<sense tag="动" vernacular="贬退，废免">
+			<exam article="《书博鸡者事》" ref="台臣惭，追受其牒，为复守官而黜臧使者。" />
+		</sense>
+		<sense tag="动" vernacular="消除，去掉，排斥">
+			<exam article="《谏太宗十思疏》" ref="惧谗邪，则思正身以黜恶。" />
+		</sense>
+		<sense tag="动" vernacular="不认作儿子">
+			<exam article="《杜十娘怒沉百宝箱》" ref="老父位居方面，拘于礼法，况素性方严，必加黜逐。" />
+		</sense>
+		<sense tag="动" vernacular="减少">
+			<exam article="《左传·襄公十年》" ref="初，子驷与尉止有争，将御诸侯之师而黜其车。" />
+		</sense>
+	</pron>
+	<phrase value="黜辱">
+		<sense value="贬黜受辱" />
+	</phrase>
+	<phrase value="黜陟">
+		<sense value="指官吏降免或升迁" />
+	</phrase>
+</character>

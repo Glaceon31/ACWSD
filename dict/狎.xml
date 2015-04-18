@@ -1,0 +1,43 @@
+<character value="狎">
+	<introduce>
+		<pinyin value="xia2" writing="xiá" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇折撇竖折横横竖" />
+	</introduce>
+	<pron value="xiá">
+		<sense tag="动" vernacular="亲近；亲热">
+			<exam article="《甲辰出都呈同里诸公》" ref="长向江湖狎鸥鸟。" />
+		</sense>
+		<sense tag="动" vernacular="亲近而不庄重">
+			<exam article="《问说》" ref="等于己者，狎之而不甘问焉。" />
+		</sense>
+		<sense tag="动" vernacular="轻忽；轻视">
+			<exam article="《教战守策》" ref="轻霜露而狎风雨。" />
+		</sense>
+		<sense tag="动" vernacular="习惯；熟悉；熟练">
+			<exam article="《论衡·程材》" ref="襄邑俗织锦，钝妇无不巧，日见之，日为之，手狎也。" />
+		</sense>
+		<sense tag="动" vernacular="更替；交替；轮流">
+			<exam article="《左传·襄公二十七年》" ref="晋楚狎主诸侯之盟也久矣。" />
+		</sense>
+		<sense tag="形" vernacular="拥挤">
+			<exam article="《旧唐书·胡证传》" ref="广州有海舶之利，货贝狎至。" />
+		</sense>
+	</pron>
+	<phrase value="狎客">
+		<sense value="指关系亲昵、常在一起嬉游饮宴的人" />
+		<sense value="指嫖客" />
+	</phrase>
+	<phrase value="狎昵">
+		<sense value="亲昵；亲近" />
+	</phrase>
+	<phrase value="狎弄">
+		<sense value="戏弄；玩耍" />
+		<sense value="狎人；弄臣" />
+	</phrase>
+	<phrase value="狎恰">
+		<sense value="重叠、拥挤的样子" />
+	</phrase>
+</character>

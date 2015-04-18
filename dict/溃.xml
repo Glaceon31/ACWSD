@@ -1,0 +1,24 @@
+<character value="溃">
+	<introduce>
+		<pinyin value="kui4" writing="kuì" />
+		<pinyin value="hui4" writing="huì" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺横竖折横竖横竖折撇捺" />
+	</introduce>
+	<pron value="kuì">
+		<sense tag="动" vernacular="决口；水决破堤岸而出">
+			<exam article="《国语·周语上》" ref="川壅而溃，伤人必多。" />
+		</sense>
+		<sense tag="动" vernacular="突破；弄破">
+			<exam article="《庄子·列御寇》" ref="死痈溃痤者，得车一乘。" />
+		</sense>
+		<sense tag="动" vernacular="溃散；离散">
+			<exam article="《教战守策》" ref="而民不至于惊溃。" />
+		</sense>
+		<sense tag="动" vernacular="溃烂；腐烂">
+			<exam article="《卖柑者言》" ref="杭有卖果者，善藏柑，涉寒暑不溃，出之烨然。" />
+		</sense>
+	</pron>
+</character>

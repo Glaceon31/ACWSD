@@ -1,0 +1,34 @@
+<character value="埋">
+	<introduce>
+		<pinyin value="mai2" writing="mái" />
+		<pinyin value="man2" writing="mán" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖横竖折横横竖横横" />
+	</introduce>
+	<pron value="mái">
+		<sense tag="动" vernacular="埋藏；掩埋">
+			<exam article="《病梅馆记》" ref="毁其盆，悉埋于地。" />
+		</sense>
+		<sense tag="动" vernacular="埋葬">
+			<exam article="《祭妹文》" ref="汝死我葬，我死谁埋？" />
+		</sense>
+		<sense tag="动" vernacular="隐没">
+			<exam article="《阴山画虎图》" ref="胡天朔漠杀气高，烟云万里埋弓刀。" />
+		</sense>
+	</pron>
+	<pron value="mán">
+		<sense tag="动" vernacular="责备；埋怨">
+			<exam article="《西游记》" ref="埋怨行者是一个急猴子。" />
+		</sense>
+	</pron>
+	<phrase value="埋轮">
+		<sense value="把车轮埋在地下，表示坚守不退" />
+		<sense value="表示不畏权贵，敢于检举" />
+		<sense value="指月落" />
+	</phrase>
+	<phrase value="埋玉">
+		<sense value="结才华出众者逝世哀悼" />
+	</phrase>
+</character>

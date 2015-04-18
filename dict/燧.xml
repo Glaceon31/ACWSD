@@ -1,0 +1,20 @@
+<character value="燧">
+	<introduce>
+		<pinyin value="sui4" writing="suì" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="16" />
+		<order value="捺撇撇捺捺撇横撇折撇撇撇捺捺折捺" />
+	</introduce>
+	<pron value="suì">
+		<sense tag="名" vernacular="古代取火的器具">
+			<exam article="《五蠹》" ref="有圣人作，钻燧取火，以化腥臊。" />
+		</sense>
+		<sense tag="名" vernacular="燧台；古代边境上供守望和放烽火报警用的堡垒">
+			<exam article="《过小孤山大孤山》" ref="南朝自武昌至京口，列置燧遂，此山当是其一也。" />
+		</sense>
+		<sense tag="名" vernacular="古代边防告警的烽火">
+			<exam article="《陈政事疏》" ref="斥候望烽燧不得卧。" />
+		</sense>
+	</pron>
+</character>

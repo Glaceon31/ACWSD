@@ -1,0 +1,33 @@
+<character value="呈">
+	<introduce>
+		<pinyin value="cheng2" writing="chéng" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="竖折横横横竖横" />
+	</introduce>
+	<pron value="chéng">
+		<sense tag="动" vernacular="呈现；显现">
+			<exam article="《芙蕖》" ref="有风既作飘摇之态，无风亦呈袅娜之姿。" />
+		</sense>
+		<sense tag="动" vernacular="恭敬地送上；呈送">
+			<exam article="《左忠毅公逸事》" ref="公瞿然注视。呈卷，即面署第一。" />
+			<exam article="《谭嗣同》" ref="先生有所陈奏，则著之于所进呈书之中而已。" />
+		</sense>
+		<sense tag="名" vernacular="下对上的一种公文">
+			<exam article="《葫芦僧判断葫芦案》" ref="合族中及地方上共递一张保呈。" />
+		</sense>
+	</pron>
+	<phrase value="呈露">
+		<sense value="显露" />
+	</phrase>
+	<phrase value="呈形">
+		<sense value="显露形象" />
+	</phrase>
+	<phrase value="呈艺">
+		<sense value="献技" />
+	</phrase>
+	<phrase value="呈政">
+		<sense value="拿作品请人指教" />
+	</phrase>
+</character>

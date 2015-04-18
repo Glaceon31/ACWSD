@@ -1,0 +1,17 @@
+<character value="马">
+	<introduce>
+		<pinyin value="ma3" writing="mă" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="折折横" />
+	</introduce>
+	<pron value="mǎ">
+		<sense tag="名" vernacular="家畜">
+			<exam article="《垓下之战》" ref="吾骑此马五岁，所当无敌。" />
+		</sense>
+		<sense tag="名" vernacular="通“码”，筹码">
+			<exam article="《礼记·投壶》" ref="请为胜者立马。" />
+		</sense>
+	</pron>
+</character>

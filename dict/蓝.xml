@@ -1,0 +1,20 @@
+<character value="蓝">
+	<introduce>
+		<pinyin value="lan2" writing="lán" />
+		<pinyin value="lan5" writing="lan" />
+		<pinyin value="la5" writing="la" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="横竖竖竖竖撇横捺竖折竖竖横" />
+	</introduce>
+	<pron value="lán">
+		<sense tag="名" vernacular="植物蓼蓝，叶子可提制蓝色染料，即靛青">
+			<exam article="《劝学》" ref="青，取之于蓝而青于蓝。" />
+		</sense>
+		<sense tag="形" vernacular="蓝色">
+			<exam article="《大铁椎传》" ref="客初至，不冠不袜，以蓝手巾裹头，足缠白布。" />
+		</sense>
+		<sense vernacular="梵语“伽蓝”的省称，指佛教寺院" />
+	</pron>
+</character>

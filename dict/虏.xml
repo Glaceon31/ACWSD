@@ -1,0 +1,26 @@
+<character value="虏">
+	<introduce>
+		<pinyin value="lu3" writing="lŭ" />
+		<bushou value="虍" />
+		<bushoustroke value="6" />
+		<stroke value="8" />
+		<order value="竖横折撇横折折撇" />
+	</introduce>
+	<pron value="lǔ">
+		<sense tag="动" vernacular="俘获">
+			<exam article="《鸿门宴》" ref="不者，若属皆且为所虏。" />
+		</sense>
+		<sense tag="动" vernacular="把人抢走">
+			<exam article="《三国志·吴主传》" ref="虏其人民而还。" />
+		</sense>
+		<sense tag="名" vernacular="俘虏">
+			<exam article="《教战守策》" ref="四方之民兽奔鸟窜，乞为囚虏之不暇。" />
+		</sense>
+		<sense tag="名" vernacular="奴隶，古代俘虏被用作奴隶">
+			<exam article="《五蠹》" ref="是去监门之养而离臣虏之劳也。" />
+		</sense>
+		<sense tag="名" vernacular="对敌人蔑称">
+			<exam article="《&lt;指南录&gt;后序》" ref="则直前诟虏帅失信，数吕师孟叔侄为逆。" />
+		</sense>
+	</pron>
+</character>

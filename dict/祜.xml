@@ -1,0 +1,15 @@
+<character value="祜">
+	<introduce>
+		<pinyin value="hu4" writing="hù" />
+		<bushou value="礻" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="捺折竖捺横竖竖折横" />
+	</introduce>
+	<pron value="hù">
+		<sense tag="名" vernacular="福">
+			<exam article="《诗经·周颂·载见》" ref="永言保之，思皇多祜。" />
+			<exam article="《景福殿赋》" ref="其祜伊何。？" />
+		</sense>
+	</pron>
+</character>

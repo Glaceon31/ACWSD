@@ -1,0 +1,21 @@
+<character value="申">
+	<introduce>
+		<pinyin value="shen1" writing="shēn" />
+		<bushou value="田" />
+		<bushoustroke value="5" />
+		<stroke value="5" />
+		<order value="竖折横横竖" />
+	</introduce>
+	<pron value="shēn">
+		<sense tag="动" vernacular="通“伸”">
+			<exam article="《与陈伯之书》" ref="主上屈法申恩，吞舟是漏。" />
+		</sense>
+		<sense tag="动" vernacular="申述；说明">
+			<exam article="《汉书·陈重传》" ref="主疑重所取，重不自申说。" />
+		</sense>
+		<sense tag="动" vernacular="重申；重复">
+			<exam article="《寡人之于国也》" ref="谨庠序之教，申之以孝悌之义。" />
+		</sense>
+		<sense tag="名" vernacular="地支的第九位" />
+	</pron>
+</character>

@@ -1,0 +1,32 @@
+<character value="小">
+	<introduce>
+		<pinyin value="xiao3" writing="xiăo" />
+		<bushou value="小" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="竖撇捺" />
+	</introduce>
+	<pron value="xiǎo">
+		<sense tag="形" vernacular="小">
+			<exam article="《曹刿论战》" ref="小大之狱，虽不能察，必以情。" />
+		</sense>
+		<sense tag="形" vernacular="年纪幼小；排行在后的">
+			<exam article="《柳毅传》" ref="洞庭龙君小女也。" />
+		</sense>
+		<sense tag="形" vernacular="地位低下的">
+			<exam article="《子路曾皙冉有公西华侍坐》" ref="愿为小相焉。" />
+		</sense>
+		<sense tag="动" vernacular="小看；轻视">
+			<exam article="《盐铁论·利议》" ref="心卑卿相，志小万乘。" />
+		</sense>
+	</pron>
+	<phrase value="小可">
+		<sense value="对年辈相近的人自称；谦称" />
+		<sense value="次要的；一般的" />
+	</phrase>
+	<phrase value="小生">
+		<sense value="年轻读书人；年轻人" />
+		<sense value="旧时读书人谦称自己" />
+		<sense value="戏曲中扮演青年男子的配角" />
+	</phrase>
+</character>

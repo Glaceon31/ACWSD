@@ -1,0 +1,23 @@
+<character value="卤">
+	<introduce>
+		<pinyin value="lu3" writing="lŭ" />
+		<bushou value="卜" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="竖横竖折撇捺横" />
+	</introduce>
+	<pron value="lǔ">
+		<sense tag="名" vernacular="不生长谷物的盐碱地">
+			<exam article="《史记·河渠书》" ref="穿洛以溉重泉以东万余顷故卤地。" />
+		</sense>
+		<sense tag="形" vernacular="通“鲁”">
+			<exam article="《赠五官中郎将》" ref="小臣信顽卤。" />
+		</sense>
+		<sense tag="名" vernacular="通“橹”，大盾牌">
+			<exam article="《战国策·中山策》" ref="流血漂卤。" />
+		</sense>
+		<sense tag="动" vernacular="通“掳”，掠夺">
+			<exam article="《汉书·赵充国传》" ref="卤马牛羊十余万头，车四千余两。" />
+		</sense>
+	</pron>
+</character>

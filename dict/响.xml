@@ -1,0 +1,25 @@
+<character value="响">
+	<introduce>
+		<pinyin value="xiang3" writing="xiăng" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="竖折横撇竖折竖折横" />
+	</introduce>
+	<pron value="xiǎng">
+		<sense tag="名" vernacular="回声">
+			<exam article="《过秦论》" ref="天下云集响应。" />
+		</sense>
+		<sense tag="名" vernacular="响声；声音">
+			<exam article="《口技》" ref="群响毕绝。" />
+			<exam article="《与朱元思书》" ref="泉水激石，泠泠作响。" />
+		</sense>
+		<sense tag="动" vernacular="发出声音">
+			<exam article="《阿房宫赋》" ref="歌台暖响，春光融融。" />
+		</sense>
+	</pron>
+	<phrase value="响马">
+		<sense value="旧时拦路抢劫的人" />
+		<sense value="因为抢劫时先放响箭，故名" />
+	</phrase>
+</character>

@@ -1,0 +1,26 @@
+<character value="活">
+	<introduce>
+		<pinyin value="huo2" writing="huó" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺横撇横竖竖折横" />
+	</introduce>
+	<pron value="huó">
+		<sense tag="动" vernacular="生存，与“死”相对">
+			<exam article="《韩非子·解老》" ref="以肠胃为根本，不食则不能活。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……活；救活；养活">
+			<exam article="《鸿门宴》" ref="项伯杀人，臣活之。" />
+		</sense>
+		<sense tag="名" vernacular="活计；谋生的手段">
+			<exam article="《闻斛斯六官未归》" ref="本卖文为活。" />
+		</sense>
+		<sense tag="形" vernacular="活动；不固定">
+			<exam article="《活板》" ref="有布衣毕昇，又为活板。" />
+		</sense>
+		<sense tag="形" vernacular="生动；活泼">
+			<exam article="《池州送孟迟先辈》" ref="雨余山态活。" />
+		</sense>
+	</pron>
+</character>

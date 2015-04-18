@@ -1,0 +1,18 @@
+<character value="黔">
+	<introduce>
+		<pinyin value="qian2" writing="qián" />
+		<bushou value="黑" />
+		<bushoustroke value="12" />
+		<stroke value="16" />
+		<order value="竖折捺撇横竖横横捺捺捺捺撇捺捺折" />
+	</introduce>
+	<pron value="qián">
+		<sense tag="形" vernacular="黑色的">
+			<exam article="《广成颂》" ref="若夫鸷兽毅虫，倨牙黔口。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……变黑">
+			<exam article="《观巴黎油画记》" ref="或黔其庐，或赭其垣。" />
+		</sense>
+		<sense tag="名" vernacular="古地名" />
+	</pron>
+</character>

@@ -1,0 +1,38 @@
+<character value="首">
+	<introduce>
+		<pinyin value="shou3" writing="shŏu" />
+		<bushou value="首" />
+		<bushoustroke value="9" />
+		<stroke value="9" />
+		<order value="捺撇横撇竖折横横横" />
+	</introduce>
+	<pron value="shǒu">
+		<sense tag="名" vernacular="头">
+			<exam article="《荆轲刺秦王》" ref="愿得将军之首以献秦王。" />
+		</sense>
+		<sense tag="名" vernacular="首领；首脑">
+			<exam article="《谏太宗十思疏》" ref="凡百元首，承天景命。" />
+		</sense>
+		<sense tag="名" vernacular="物体的前部">
+			<exam article="《赤壁之战》" ref="操军方连船舰，首尾相接。" />
+		</sense>
+		<sense tag="动" vernacular="首倡；起首">
+			<exam article="《史记·陈涉世家》" ref="且楚首事，当令于天下。" />
+		</sense>
+		<sense tag="动" vernacular="开头；开端；起始">
+			<exam article="《过小孤山大孤山》" ref="七月二十六日至是，首尾才六日。" />
+		</sense>
+		<sense tag="名" vernacular="首要；首位；第一">
+			<exam article="《韩非子·心度》" ref="故治民者刑胜，治之首也。" />
+		</sense>
+		<sense tag="动" vernacular="告发；自首">
+			<exam article="《谭嗣同》" ref="苟不欲救，请至颐和园首仆而杀仆。" />
+		</sense>
+		<sense tag="量" vernacular="篇">
+			<exam article="《宋书·谢庄传》" ref="所著文章四百余首，行于世。" />
+		</sense>
+		<sense tag="量" vernacular="面">
+			<exam article="《儒林外史》" ref="在南京做了二十首大红缎子绣龙的旗。" />
+		</sense>
+	</pron>
+</character>

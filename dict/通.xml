@@ -1,0 +1,58 @@
+<character value="通">
+	<introduce>
+		<pinyin value="tong1" writing="tōng" />
+		<pinyin value="tong4" writing="tòng" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="折捺竖折横横竖捺折捺" />
+	</introduce>
+	<pron value="tōng">
+		<sense tag="动" vernacular="通达；通过；通行">
+			<exam article="《愚公移山》" ref="吾与汝毕力平险，指通豫南，达于汉阴。" />
+		</sense>
+		<sense tag="动" vernacular="贯通；沟通">
+			<exam article="《谭嗣同》" ref="然后皇上与康先生之意始能少通，锐意欲行大改革矣。" />
+		</sense>
+		<sense tag="形" vernacular="畅通；没有阻隔">
+			<exam article="《论积贮疏》" ref="政治未必通也，远方之能疑者，并举而争起矣。" />
+		</sense>
+		<sense tag="动" vernacular="通报；转达">
+			<exam article="《孔雀东南飞》" ref="遣丞为媒人，主簿通语言。" />
+		</sense>
+		<sense tag="动" vernacular="交往；来往；结交">
+			<exam article="《汉书·季布传》" ref="吾闻曹丘生非长者，勿与通。" />
+		</sense>
+		<sense tag="动" vernacular="流通；交换">
+			<exam article="《原道》" ref="为之贾以通其有无。" />
+		</sense>
+		<sense tag="动" vernacular="交流；交谈">
+			<exam article="《君子国》" ref="唐敖见言可通，因向一位老翁问其何以，好让不争之故。" />
+		</sense>
+		<sense tag="动" vernacular="通晓；精通">
+			<exam article="《张衡传》" ref="遂通五经，贯六艺。" />
+		</sense>
+		<sense tag="副" vernacular="全部；普遍">
+			<exam article="《核舟记》" ref="通计一舟，为人五，为窗八，……" />
+			<exam article="《师说》" ref="六艺经传皆通习之。" />
+		</sense>
+		<sense tag="量" vernacular="遍">
+			<exam article="《孔雀东南飞》" ref="著我绣夹裙，事事四五通。" />
+		</sense>
+	</pron>
+	<pron value="【">
+		<sense vernacular="通籍】籍是二尺长的竹片，上写姓名、年龄、身份等，挂在宫门处以备出入时查对" />
+	</pron>
+	<pron value="【">
+		<sense vernacular="通家】世交" />
+	</pron>
+	<phrase value="&lt;/span&gt;&lt;br /&gt;通籍">
+		<sense value="籍是二尺长的竹片，上写姓名、年龄、身份等，挂在宫门处以备出入时查对" />
+		<sense value="“通籍”指记名在门籍，可以进入宫门" />
+		<sense value="后称进士刚及第或刚做官叫“通籍”" />
+	</phrase>
+	<phrase value="&lt;/span&gt;&lt;br /&gt;通家">
+		<sense value="世交" />
+		<sense value="姻亲；结为姻亲" />
+	</phrase>
+</character>

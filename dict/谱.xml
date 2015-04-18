@@ -1,0 +1,15 @@
+<character value="谱">
+	<introduce>
+		<pinyin value="pu3" writing="pŭ" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="14" />
+		<order value="捺折捺撇横竖竖捺撇横竖折横横" />
+	</introduce>
+	<pron value="pǔ">
+		<sense tag="名" vernacular="记录事物系统的书籍，如“家谱”、“菜谱”、“年谱”等" />
+		<sense tag="名" vernacular="曲谱，乐谱">
+			<exam article="《宋史·乐志五》" ref="雅乐皆先制乐章而后成谱。" />
+		</sense>
+	</pron>
+</character>

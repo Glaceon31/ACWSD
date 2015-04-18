@@ -1,0 +1,26 @@
+<character value="霸">
+	<introduce>
+		<pinyin value="ba4" writing="bà" />
+		<bushou value="雨" />
+		<bushoustroke value="8" />
+		<stroke value="21" />
+		<order value="横捺折竖捺捺捺捺横竖竖横竖折横横竖撇折横横" />
+	</introduce>
+	<pron value="bà">
+		<sense tag="名" vernacular="古代诸侯的盟主">
+			<exam article="《信陵君窃符救赵》" ref="此五霸之伐也。" />
+		</sense>
+		<sense tag="动" vernacular="称霸">
+			<exam article="《垓下之战》" ref="遂霸有天下。" />
+		</sense>
+		<sense tag="动" vernacular="出群超众">
+			<exam article="《文心雕龙·事类》" ref="才为盟主,学为辅佐,主佐合德,文采必霸。" />
+		</sense>
+		<sense tag="形" vernacular="蛮横">
+			<exam article="《窦娥冤》" ref="要霸占我为妻。" />
+		</sense>
+	</pron>
+	<phrase value="霸业">
+		<sense value="统一天下或称霸一方的事业" />
+	</phrase>
+</character>

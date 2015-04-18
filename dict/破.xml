@@ -1,0 +1,56 @@
+<character value="破">
+	<introduce>
+		<pinyin value="po4" writing="pò" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="横撇竖折横折撇竖折捺" />
+	</introduce>
+	<pron value="pò">
+		<sense tag="动" vernacular="指物体破裂；毁坏；损坏">
+			<exam article="《琵琶行(并序)》" ref="银瓶乍破水浆迸。" />
+		</sense>
+		<sense tag="动" vernacular="打破；破坏；使损坏">
+			<exam article="《史记·项羽本纪》" ref="皆沉船，破釜甑，烧庐舍。" />
+		</sense>
+		<sense tag="动" vernacular="打败；攻下；攻克">
+			<exam article="《鸿门宴》" ref="今沛公先破秦入咸阳。" />
+		</sense>
+		<sense tag="动" vernacular="突破；破例">
+			<exam article="《少年中国说》" ref="惟思将来也，事事皆其所未经者，故常敢破格。" />
+		</sense>
+		<sense tag="形" vernacular="残破；破败">
+			<exam article="《春望》" ref="国破山河在，城春草木深。" />
+		</sense>
+		<sense tag="形使动" vernacular="使……残破">
+			<exam article="《屈原列传》" ref="亡国破家相随属。" />
+		</sense>
+		<sense tag="形使动" vernacular="使……破；使……击碎">
+			<exam article="《鸿门宴》" ref="拔剑撞而破之。" />
+		</sense>
+		<sense tag="动" vernacular="破除；去掉">
+			<exam article="《教战守策》" ref="则固已破其奸谋而折其骄气。" />
+		</sense>
+		<sense tag="动" vernacular="揭穿；揭破">
+			<exam article="《沁园春·岁去年来》" ref="分明说破。" />
+		</sense>
+		<sense tag="动" vernacular="劈开；砍破">
+			<exam article="《干将莫邪》" ref="即以斧破其背，得剑。" />
+		</sense>
+		<sense tag="动" vernacular="耗费；破费">
+			<exam article="《韩非子·显学》" ref="儒者破家而葬。" />
+		</sense>
+		<sense tag="形" vernacular="清楚；透彻">
+			<exam article="《严监生和严贡生》" ref="多亏令弟看的破，息将下来了。" />
+		</sense>
+	</pron>
+	<phrase value="破镝">
+		<sense value="发言中肯" />
+	</phrase>
+	<phrase value="破啼">
+		<sense value="停止啼哭，转悲为喜" />
+	</phrase>
+	<phrase value="破甑">
+		<sense value="比喻不值一之物" />
+	</phrase>
+</character>

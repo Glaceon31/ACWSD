@@ -1,0 +1,14 @@
+<character value="绶">
+	<introduce>
+		<pinyin value="shou4" writing="shòu" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="折折横撇捺捺撇捺折折捺" />
+	</introduce>
+	<pron value="shòu">
+		<sense tag="名" vernacular="丝带">
+			<exam article="《别赋》" ref="君结绶兮千里，惜瑶草之徒芳。" />
+		</sense>
+	</pron>
+</character>

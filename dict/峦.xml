@@ -1,0 +1,17 @@
+<character value="峦">
+	<introduce>
+		<pinyin value="luan2" writing="luán" />
+		<bushou value="山" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺横竖竖撇捺竖折竖" />
+	</introduce>
+	<pron value="luán">
+		<sense tag="名" vernacular="小而尖的山">
+			<exam article="《梦游天姥吟留别》" ref="列缺霹雳，丘峦崩摧。" />
+		</sense>
+		<sense tag="名" vernacular="泛指山；连绵的山峰">
+			<exam article="《滕王阁序》" ref="层峦耸翠，上出重霄。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,23 @@
+<character value="朕">
+	<introduce>
+		<pinyin value="zhen4" writing="zhèn" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="撇折横横捺撇横横撇捺" />
+	</introduce>
+	<pron value="zhèn">
+		<sense tag="代" vernacular="我，我的">
+			<exam article="《尚书·汤誓》" ref="朕不食言。" />
+		</sense>
+		<sense tag="名" vernacular="秦始皇以后专用为皇帝的自称">
+			<exam article="《史记·秦始皇本纪》" ref="朕为始皇帝。" />
+		</sense>
+		<sense tag="名" vernacular="征兆；迹象">
+			<exam article="《庄子·应帝王》" ref="而遊无朕。" />
+		</sense>
+	</pron>
+	<phrase value="朕躬">
+		<sense value="皇帝自称辞，即我自身；我本人" />
+	</phrase>
+</character>

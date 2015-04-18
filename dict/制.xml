@@ -1,0 +1,44 @@
+<character value="制">
+	<introduce>
+		<pinyin value="zhi4" writing="zhì" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇横横竖折竖竖竖" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="动" vernacular="裁制衣服">
+			<exam article="《诗经·豳风·东山》" ref="制彼裳衣。" />
+		</sense>
+		<sense tag="动" vernacular="制造；制作">
+			<exam article="《观巴黎油画记》" ref="见所制蜡人，悉仿生人。" />
+		</sense>
+		<sense tag="动" vernacular="控制；掌握">
+			<exam article="《赤壁之战》" ref="吾不能举全吴之地，十万之众，受制于人。" />
+		</sense>
+		<sense tag="动" vernacular="制服">
+			<exam article="《中山狼传》" ref="夫羊，一童子可制之。" />
+		</sense>
+		<sense tag="动" vernacular="制定；规定">
+			<exam article="《齐桓晋文之事》" ref="是故明君制民之产，必使仰足以事父母。" />
+		</sense>
+		<sense tag="动" vernacular="禁止；遏制">
+			<exam article="《赤壁之战》" ref="瑜请精兵五万，自足制之。" />
+		</sense>
+		<sense tag="名" vernacular="法制；制度">
+			<exam article="《郑伯克段于鄢》" ref="今京不度，非制也，君将不堪。" />
+		</sense>
+		<sense tag="名" vernacular="帝王的命令">
+			<exam article="《史记·秦始皇本纪》" ref="命为制，令为诏。" />
+		</sense>
+		<sense tag="名" vernacular="规模">
+			<exam article="《岳阳楼记》" ref="乃重修岳阳楼，增其旧制。" />
+		</sense>
+		<sense tag="名" vernacular="构造">
+			<exam article="《张衡传》" ref="其牙机巧制，皆隐在尊中。" />
+		</sense>
+	</pron>
+	<phrase value="制艺">
+		<sense value="八股文" />
+	</phrase>
+</character>

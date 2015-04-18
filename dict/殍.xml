@@ -1,0 +1,14 @@
+<character value="殍">
+	<introduce>
+		<pinyin value="piao3" writing="piăo" />
+		<bushou value="歹" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横撇折捺撇捺捺撇折竖横" />
+	</introduce>
+	<pron value="piǎo">
+		<sense tag="名" vernacular="俄死的人">
+			<exam article="《昌言·损益》" ref="立望饿殍之满道。" />
+		</sense>
+	</pron>
+</character>

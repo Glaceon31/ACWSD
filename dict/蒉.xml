@@ -1,0 +1,14 @@
+<character value="蒉">
+	<introduce>
+		<pinyin value="kui4" writing="kuì" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖竖竖折横竖横竖折撇捺" />
+	</introduce>
+	<pron value="kuì">
+		<sense tag="名" vernacular="草编的筐子">
+			<exam article="《论语·宪问》" ref="有荷蒉而过孔氏之门者。" />
+		</sense>
+	</pron>
+</character>

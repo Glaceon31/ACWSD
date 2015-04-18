@@ -1,0 +1,17 @@
+<character value="堧">
+	<introduce>
+		<pinyin value="ruan2" writing="ruán" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖横横撇竖折竖竖横撇捺" />
+	</introduce>
+	<pron value="ruán">
+		<sense tag="名" vernacular="城或宫庙内墙以外、外墙以内的余地、空地">
+			<exam article="《汉书·翟方进传》" ref="税城郭堧及园田。" />
+		</sense>
+		<sense tag="名" vernacular="河边地">
+			<exam article="《史记·河渠书》" ref="五千顷故尽河堧弃地。" />
+		</sense>
+	</pron>
+</character>

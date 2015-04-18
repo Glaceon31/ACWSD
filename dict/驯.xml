@@ -1,0 +1,20 @@
+<character value="驯">
+	<introduce>
+		<pinyin value="xun4" writing="xùn" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折折横撇竖竖" />
+	</introduce>
+	<pron value="xùn">
+		<sense tag="动" vernacular="马驯服；驯服">
+			<exam article="《中山狼传》" ref="夫羊，一童子可制之，如是其驯也。" />
+		</sense>
+		<sense tag="动" vernacular="饲养">
+			<exam article="《促织》" ref="村中少年好事者驯养一虫。" />
+		</sense>
+	</pron>
+	<phrase value="驯扰">
+		<sense value="顺服" />
+	</phrase>
+</character>

@@ -1,0 +1,17 @@
+<character value="颙">
+	<introduce>
+		<pinyin value="yong2" writing="yóng" />
+		<bushou value="页" />
+		<bushoustroke value="6" />
+		<stroke value="15" />
+		<order value="竖折横横竖折竖横捺横撇竖折撇捺" />
+	</introduce>
+	<pron value="yóng">
+		<sense tag="形" vernacular="大的样子">
+			<exam article="《诗经·小雅·六月》" ref="四牡脩广，其大有颙。" />
+		</sense>
+	</pron>
+	<phrase value="颙颙">
+		<sense value="仰慕的样子" />
+	</phrase>
+</character>

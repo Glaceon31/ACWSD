@@ -1,0 +1,33 @@
+<character value="量">
+	<introduce>
+		<pinyin value="liang4" writing="liàng" />
+		<pinyin value="liang2" writing="liáng" />
+		<pinyin value="liang5" writing="liang" />
+		<bushou value="里" />
+		<bushoustroke value="7" />
+		<stroke value="12" />
+		<order value="竖折横横横竖折横横竖横横" />
+	</introduce>
+	<pron value="liàng">
+		<sense tag="名" vernacular="升斗之类的量器">
+			<exam article="《汉书·律历志》" ref="斗者，聚升之量也。" />
+		</sense>
+		<sense tag="名容量；限量" vernacular="">
+			<exam article="《论语·乡党》" ref="唯酒无量，不及乱。" />
+		</sense>
+		<sense tag="名" vernacular="气量；度量">
+			<exam article="《三国志·诸葛亮传》" ref="刘备以亮有殊量，乃三顾亮于草庐之中。" />
+		</sense>
+		<sense tag="动" vernacular="估量；估计">
+			<exam article="《少年中国说》" ref="其进步未可量也。" />
+		</sense>
+	</pron>
+	<pron value="liáng">
+		<sense tag="动" vernacular="用量器计算东西的多少、长短">
+			<exam article="《高祖还乡》" ref="还酒债，偷量了豆几斛。" />
+		</sense>
+		<sense tag="动" vernacular="思量；考虑">
+			<exam article="《孔雀东南飞》" ref="作计何不量。" />
+		</sense>
+	</pron>
+</character>

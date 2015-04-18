@@ -1,0 +1,60 @@
+<character value="一">
+	<introduce>
+		<pinyin value="yi1" writing="yī" />
+		<bushou value="一" />
+		<bushoustroke value="1" />
+		<stroke value="1" />
+		<order value="横" />
+	</introduce>
+	<pron value="yī">
+		<sense tag="数" vernacular="">
+			<exam article="《狼》" ref="一屠晚归。" />
+		</sense>
+		<sense tag="连" vernacular="一边；一面">
+			<exam article="《兰亭集序》" ref="一觞一咏，亦足以畅叙幽情。" />
+		</sense>
+		<sense tag="形" vernacular="同一；一样">
+			<exam article="《察今》" ref="古今一也。" />
+		</sense>
+		<sense tag="动" vernacular="看作一样">
+			<exam article="《兰亭集序》" ref="固知一死生为虚诞，齐彭殇为妄作。" />
+		</sense>
+		<sense tag="动" vernacular="统一">
+			<exam article="《阿房宫赋》" ref="六王毕，四海一。" />
+		</sense>
+		<sense tag="动" vernacular="专一">
+			<exam article="《劝学》" ref="用心一也。" />
+		</sense>
+		<sense tag="副" vernacular="全；一概">
+			<exam article="《岳阳楼记》" ref="而或长烟一空，皓月千里。" />
+		</sense>
+		<sense tag="副" vernacular="一旦">
+			<exam article="《信陵君窃符救赵》" ref="公子诚一开口请如姬，如姬必许诺。" />
+		</sense>
+		<sense tag="副" vernacular="才；刚刚">
+			<exam article="《赤壁之战》" ref="初一交战，操军不利。" />
+		</sense>
+		<sense tag="副" vernacular="初次">
+			<exam article="《曹刿论战》" ref="一鼓作气。" />
+		</sense>
+	</pron>
+	<phrase value="一旦">
+		<sense value="有一天" />
+		<sense value="一时；忽然" />
+		<sense value="形容时间很短" />
+	</phrase>
+	<phrase value="一何">
+		<sense value="多么" />
+	</phrase>
+	<phrase value="一力">
+		<sense value="协力" />
+		<sense value="竭力" />
+	</phrase>
+	<phrase value="一体">
+		<sense value="关系密切，如同一个整体" />
+		<sense value="一样，相同" />
+	</phrase>
+	<phrase value="一昨">
+		<sense value="前些日子" />
+	</phrase>
+</character>

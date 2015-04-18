@@ -1,0 +1,36 @@
+<character value="孱">
+	<introduce>
+		<pinyin value="chan2" writing="chán" />
+		<pinyin value="can4" writing="càn" />
+		<bushou value="子" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折横撇折竖横折竖横折竖横" />
+	</introduce>
+	<pron value="chán">
+		<sense tag="形" vernacular="懦弱" />
+		<sense tag="形" vernacular="浅陋" />
+		<sense tag="形" vernacular="谨小慎微">
+			<exam article="《大戴礼记·曾子立事》" ref="君子博学而孱守之。" />
+		</sense>
+	</pron>
+	<phrase value="孱孱">
+		<sense value="怯懦" />
+	</phrase>
+	<phrase value="孱弱">
+		<sense value="衰弱，懦弱" />
+	</phrase>
+	<phrase value="孱琐">
+		<sense value="卑贱" />
+	</phrase>
+	<phrase value="孱微">
+		<sense value="地位卑贱低微" />
+	</phrase>
+	<phrase value="孱颜">
+		<sense value="同“巉岩”" />
+		<sense value="1" />
+		<sense value="险峻" />
+		<sense value="2" />
+		<sense value="险峻的山" />
+	</phrase>
+</character>

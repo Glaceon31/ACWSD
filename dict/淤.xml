@@ -1,0 +1,26 @@
+<character value="淤">
+	<introduce>
+		<pinyin value="yu1" writing="yū" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺横捺横折撇撇捺捺捺" />
+	</introduce>
+	<pron value="yū">
+		<sense tag="名" vernacular="水底沉积的污泥">
+			<exam article="《赠李八秘书别三十韵》" ref="潏水带寒淤。" />
+		</sense>
+		<sense tag="名" vernacular="冲积而成的水中陆地">
+			<exam article="《上林赋》" ref="行乎洲淤之浦。" />
+		</sense>
+		<sense tag="动" vernacular="淤积">
+			<exam article="《新唐书·孟简传》" ref="州有孟渎，久淤阏。" />
+		</sense>
+	</pron>
+	<phrase value="淤阏">
+		<sense value="水流不通" />
+	</phrase>
+	<phrase value="淤溉">
+		<sense value="用含有淤泥的水灌田以增肥力" />
+	</phrase>
+</character>

@@ -1,0 +1,21 @@
+<character value="寡">
+	<introduce>
+		<pinyin value="gua3" writing="guă" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="捺捺折横撇竖折横横横撇捺折撇" />
+	</introduce>
+	<pron value="guǎ">
+		<sense tag="形" vernacular="少">
+			<exam article="《齐桓晋文之事》" ref="寡固不可以敌众。" />
+		</sense>
+		<sense tag="形" vernacular="古代妇人丧夫、男子无妻或丧偶，都叫寡">
+			<exam article="《赵威后问齐使》" ref="哀鳏寡，恤孤独。" />
+			<exam article="《左传·襄公二十七年》" ref="齐崔杼生成及彊而寡。" />
+		</sense>
+		<sense tag="名" vernacular="古代王侯的自我谦称">
+			<exam article="《老子》" ref="侯王自谓孤、寡、不榖。" />
+		</sense>
+	</pron>
+</character>

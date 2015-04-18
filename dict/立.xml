@@ -1,0 +1,36 @@
+<character value="立">
+	<introduce>
+		<pinyin value="li4" writing="lì" />
+		<bushou value="立" />
+		<bushoustroke value="5" />
+		<stroke value="5" />
+		<order value="捺横捺撇横" />
+	</introduce>
+	<pron value="lì">
+		<sense tag="动" vernacular="站立；站着">
+			<exam article="《陈情表》" ref="茕茕孑立，形影相吊。" />
+		</sense>
+		<sense tag="动" vernacular="停立；停止">
+			<exam article="《陌上桑》" ref="五马立踟蹰。" />
+		</sense>
+		<sense tag="动" vernacular="竖立；耸立">
+			<exam article="《五人墓碑记》" ref="且立石于其墓之门。" />
+			<exam article="《石钟山记》" ref="大石侧立千尺。" />
+		</sense>
+		<sense tag="动" vernacular="设立；建立；制定">
+			<exam article="《为学》" ref="人之立志，顾不如蜀鄙之僧哉。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……立">
+			<exam article="《赤壁之战》" ref="兵精粮多，足以立事。" />
+		</sense>
+		<sense tag="动" vernacular="存在；生存">
+			<exam article="《赤壁之战》" ref="孤与老贼势不两立。" />
+		</sense>
+		<sense tag="动" vernacular="登上帝王或诸侯的位置">
+			<exam article="《陈涉世家》" ref="陈涉乃立为王，号为张楚。" />
+		</sense>
+		<sense tag="副" vernacular="立刻；马上">
+			<exam article="《鸿门宴》" ref="沛公至军，立诛杀曹无伤。" />
+		</sense>
+	</pron>
+</character>

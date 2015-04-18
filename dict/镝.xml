@@ -1,0 +1,15 @@
+<character value="镝">
+	<introduce>
+		<pinyin value="di2" writing="dí" />
+		<pinyin value="di1" writing="dī" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="16" />
+		<order value="撇横横横折捺横捺撇竖折横竖竖折横" />
+	</introduce>
+	<pron value="dí">
+		<sense tag="名" vernacular="箭头">
+			<exam article="《过秦论》" ref="收天下之兵，聚之咸阳，销锋镝。" />
+		</sense>
+	</pron>
+</character>

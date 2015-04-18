@@ -1,0 +1,15 @@
+<character value="蕞">
+	<introduce>
+		<pinyin value="zui4" writing="zuì" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="横竖竖竖折横横横竖竖横横横折捺" />
+	</introduce>
+	<pron value="zuì">
+		<sense vernacular="见“蕞尔”" />
+	</pron>
+	<phrase value="蕞尔">
+		<sense value="小的样子" />
+	</phrase>
+</character>

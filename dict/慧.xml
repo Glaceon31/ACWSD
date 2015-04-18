@@ -1,0 +1,25 @@
+<character value="慧">
+	<introduce>
+		<pinyin value="hui4" writing="huì" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="15" />
+		<order value="横横横竖横横横竖折横横捺折捺捺" />
+	</introduce>
+	<pron value="huì">
+		<sense tag="形" vernacular="聪明；有才智">
+			<exam article="《左传·成公十八年》" ref="周子有兄而无慧，不能辨菽麦。" />
+		</sense>
+		<sense tag="形" vernacular="狡黠">
+			<exam article="《三国志·蜀书·董允传》" ref="皓便辟佞慧，欲自容入。" />
+		</sense>
+	</pron>
+	<phrase value="慧根">
+		<sense value="佛教用语" />
+		<sense value="破除迷惑、认识真理为慧" />
+		<sense value="慧能生道，故名根" />
+	</phrase>
+	<phrase value="慧剑">
+		<sense value="佛教喻智慧如利剑，能斩断一切烦恼" />
+	</phrase>
+</character>

@@ -1,0 +1,24 @@
+<character value="冤">
+	<introduce>
+		<pinyin value="yuan1" writing="yuān" />
+		<bushou value="冖" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺折撇折竖折横撇折捺" />
+	</introduce>
+	<pron value="yuān">
+		<sense tag="名" vernacular="冤屈">
+			<exam article="《书博鸡者事》" ref="然使君冤未白，犹无益也。" />
+		</sense>
+		<sense tag="形" vernacular="冤屈">
+			<exam article="《窦娥冤》" ref="那其间才把你个屈死的冤魂这窦娥显。" />
+		</sense>
+	</pron>
+	<phrase value="冤家">
+		<sense value="仇人" />
+		<sense value="情人" />
+	</phrase>
+	<phrase value="冤孽">
+		<sense value="前生留下的仇怨和罪过" />
+	</phrase>
+</character>

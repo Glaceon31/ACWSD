@@ -1,0 +1,30 @@
+<character value="援">
+	<introduce>
+		<pinyin value="yuan2" writing="yuán" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖横撇捺捺撇横横撇折捺" />
+	</introduce>
+	<pron value="yuán">
+		<sense tag="动" vernacular="拉拽；攀援">
+			<exam article="《游黄山记》" ref="石崖侧削则援岩。" />
+		</sense>
+		<sense tag="动" vernacular="持；执拿">
+			<exam article="《国殇》" ref="援玉枹兮击鸣鼓。" />
+		</sense>
+		<sense tag="动" vernacular="提出">
+			<exam article="《送东阳马生序》" ref="余立侍左右，援疑质理。" />
+		</sense>
+		<sense tag="动" vernacular="引用">
+			<exam article="《柳敬亭传》" ref="援古证今，极力为之。" />
+		</sense>
+		<sense tag="名" vernacular="帮助；援助">
+			<exam article="《六国论》" ref="盖失强援，不能独完。" />
+		</sense>
+	</pron>
+	<phrase value="援引">
+		<sense value="引证" />
+		<sense value="推举；引荐" />
+	</phrase>
+</character>

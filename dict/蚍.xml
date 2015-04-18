@@ -1,0 +1,15 @@
+<character value="蚍">
+	<introduce>
+		<pinyin value="pi2" writing="pí" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="竖折横竖横捺横折撇折" />
+	</introduce>
+	<pron value="pí">
+		<sense vernacular="见“蚍蜉”" />
+	</pron>
+	<phrase value="蚍蜉">
+		<sense value="大蚂蚁" />
+	</phrase>
+</character>

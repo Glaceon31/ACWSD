@@ -1,0 +1,19 @@
+<character value="醯">
+	<introduce>
+		<pinyin value="xi1" writing="xī" />
+		<pinyin value="xi4" writing="xì" />
+		<bushou value="酉" />
+		<bushoustroke value="7" />
+		<stroke value="19" />
+		<order value="横竖折撇折横横捺横折捺撇竖折竖折竖竖横" />
+	</introduce>
+	<pron value="xī">
+		<sense tag="名" vernacular="醋">
+			<exam article="《史记·货殖列传》" ref="醯酱千瓨。" />
+		</sense>
+	</pron>
+	<phrase value="醯鸡">
+		<sense value="小虫名，蠛蠛" />
+		<sense value="尘埃" />
+	</phrase>
+</character>

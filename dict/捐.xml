@@ -1,0 +1,24 @@
+<character value="捐">
+	<introduce>
+		<pinyin value="juan1" writing="juān" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖横竖折横竖折横横" />
+	</introduce>
+	<pron value="juān">
+		<sense tag="动" vernacular="拿开；搬走">
+			<exam article="《孟子·万章上》" ref="父母使舜完禀，捐阶。" />
+		</sense>
+		<sense tag="动" vernacular="捐弃；抛弃">
+			<exam article="《乐羊子妻》" ref="羊子大惭，乃捐金鱼野。" />
+			<exam article="《进学解》" ref="贪多务得，细大不捐。" />
+		</sense>
+		<sense tag="动" vernacular="除去；清除">
+			<exam article="《史记·孙子吴起列传》" ref="明法审令，捐不急之官。" />
+		</sense>
+		<sense tag="动" vernacular="捐助；捐献">
+			<exam article="《汉书·货殖传》" ref="唯毋盐氏出捐千金货。" />
+		</sense>
+	</pron>
+</character>

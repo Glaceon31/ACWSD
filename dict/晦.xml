@@ -1,0 +1,23 @@
+<character value="晦">
+	<introduce>
+		<pinyin value="hui4" writing="huì" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="竖折横横撇横折折捺横捺" />
+	</introduce>
+	<pron value="huì">
+		<sense tag="名" vernacular="阴历每月的最后一天">
+			<exam article="《登泰山记》" ref="戊申晦，五鼓，与子颖坐日观亭。" />
+		</sense>
+		<sense tag="形" vernacular="昏暗">
+			<exam article="《涉江》" ref="下幽晦以多雨。" />
+		</sense>
+		<sense tag="动" vernacular="隐藏">
+			<exam article="《岳麓山道林二寺行》" ref="昔遭衰世皆晦迹。" />
+		</sense>
+		<sense tag="形" vernacular="凋零">
+			<exam article="《杂体记·王征君》" ref="寂历百草晦。" />
+		</sense>
+	</pron>
+</character>

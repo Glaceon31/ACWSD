@@ -1,0 +1,17 @@
+<character value="迄">
+	<introduce>
+		<pinyin value="qi4" writing="qì" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="撇横折捺折捺" />
+	</introduce>
+	<pron value="qì">
+		<sense tag="动" vernacular="至；到">
+			<exam article="《察变》" ref="特自皇古迄今，为变盖渐。" />
+		</sense>
+		<sense tag="副" vernacular="始终；终究">
+			<exam article="《促织》" ref="探穴发石，靡计不施，迄无济。" />
+		</sense>
+	</pron>
+</character>

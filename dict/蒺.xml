@@ -1,0 +1,15 @@
+<character value="蒺">
+	<introduce>
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="横竖竖捺横撇捺横撇横横撇捺" />
+	</introduce>
+	<pron value="jí">
+		<sense vernacular="见“蒺藜”" />
+	</pron>
+	<phrase value="蒺藜">
+		<sense value="一种长刺的野生植物" />
+	</phrase>
+</character>

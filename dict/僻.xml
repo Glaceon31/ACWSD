@@ -1,0 +1,30 @@
+<character value="僻">
+	<introduce>
+		<pinyin value="pi4" writing="pì" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="15" />
+		<order value="撇竖折横撇竖折横捺横捺撇横横竖" />
+	</introduce>
+	<pron value="pì">
+		<sense tag="形" vernacular="偏僻；荒远">
+			<exam article="《登泰山记》" ref="僻不当道者，皆不及往。" />
+		</sense>
+		<sense tag="形" vernacular="邪僻；不正">
+			<exam article="《韩非子·八说》" ref="弱子有僻行，使之随师。" />
+		</sense>
+		<sense tag="形" vernacular="孤僻；怪僻">
+			<exam article="《林黛玉进贾府》" ref="行为偏僻性乖张，那管世人诽谤。" />
+		</sense>
+	</pron>
+	<phrase value="僻介">
+		<sense value="远在" />
+		<sense value="偏执耿介" />
+	</phrase>
+	<phrase value="僻脱">
+		<sense value="敏捷而无留滞" />
+	</phrase>
+	<phrase value="僻左">
+		<sense value="指僻之地" />
+	</phrase>
+</character>

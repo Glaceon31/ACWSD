@@ -1,0 +1,38 @@
+<character value="谗">
+	<introduce>
+		<pinyin value="chan2" writing="chán" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="捺折撇折竖折横撇折捺捺" />
+	</introduce>
+	<pron value="chán">
+		<sense tag="动" vernacular="说别人的坏话">
+			<exam article="《屈原列传》" ref="因谗之曰：‘王使屈平为令，众莫不知……’" />
+		</sense>
+		<sense tag="名" vernacular="毁谤别人的话；谗言">
+			<exam article="《岳阳楼记》" ref="则有去国怀乡，忧谗畏讥，满目萧然，感极而悲者矣。" />
+			<exam article="《六国论》" ref="洎牧以谗诛，邯郸为郡，惜其用武而不终也。" />
+		</sense>
+		<sense tag="名" vernacular="说别人坏话的人">
+			<exam article="《屈原列传》" ref="屈平疾王听之不聪也，谗谄之蔽明也。" />
+			<exam article="《谏太宗十思疏》" ref="惧谗邪则思正身以黜恶。" />
+		</sense>
+	</pron>
+	<phrase value="谗谄">
+		<sense value="说好人的坏话" />
+	</phrase>
+	<phrase value="谗间">
+		<sense value="说坏话离间他人" />
+	</phrase>
+	<phrase value="谗箭">
+		<sense value="喻谗言伤人如箭" />
+	</phrase>
+	<phrase value="谗邪">
+		<sense value="指谗言邪说" />
+	</phrase>
+	<phrase value="谗谀">
+		<sense value="1" />
+		<sense value="毁谤诬陷" />
+	</phrase>
+</character>

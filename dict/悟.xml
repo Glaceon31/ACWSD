@@ -1,0 +1,17 @@
+<character value="悟">
+	<introduce>
+		<pinyin value="wu4" writing="wù" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺竖横竖折横竖折横" />
+	</introduce>
+	<pron value="wù">
+		<sense tag="动" vernacular="明白；领悟">
+			<exam article="《狼》" ref="乃悟前狼假寐，盖以诱敌。" />
+		</sense>
+		<sense tag="动" vernacular="醒悟；觉悟">
+			<exam article="《归去来兮辞》" ref="悟已往之不谏，知来者之可追。" />
+		</sense>
+	</pron>
+</character>

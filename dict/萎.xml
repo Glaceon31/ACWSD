@@ -1,0 +1,13 @@
+<character value="萎">
+	<introduce>
+		<pinyin value="wei3" writing="wĕi" />
+		<pinyin value="wei1" writing="wēi" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖竖撇横竖撇捺折撇横" />
+	</introduce>
+	<pron value="wěi">
+		<sense vernacular="干枯衰落：萎谢" />
+	</pron>
+</character>

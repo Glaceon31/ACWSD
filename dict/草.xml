@@ -1,0 +1,62 @@
+<character value="草">
+	<introduce>
+		<pinyin value="cao3" writing="căo" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖竖竖折横横横竖" />
+	</introduce>
+	<pron value="cǎo">
+		<sense tag="名" vernacular="草；草本植物的总称">
+			<exam article="《观沧海》" ref="树木丛生，百草丰茂。" />
+			<exam article="《敕勒歌》" ref="风吹草低见牛羊。" />
+		</sense>
+		<sense tag="名" vernacular="荒野；草野">
+			<exam article="《&lt;指南录&gt;后序》" ref="不得已，变姓名，诡踪迹，草行露宿。" />
+		</sense>
+		<sense tag="名" vernacular="乡间；民间">
+			<exam article="《五人墓碑记》" ref="况草野之无闻者欤？" />
+		</sense>
+		<sense tag="形" vernacular="粗糙；粗劣">
+			<exam article="《冯谖客孟尝君》" ref="左右以君贱之也，食以草具。" />
+		</sense>
+		<sense tag="名" vernacular="初稿；草稿">
+			<exam article="《左忠毅公逸事》" ref="庑下一生伏案卧，文方成草。" />
+		</sense>
+		<sense tag="名" vernacular="汉字的一种字体，流行于汉初，笔画相连，写来迅速" />
+	</pron>
+	<phrase value="草鄙">
+		<sense value="粗野鄙陋" />
+	</phrase>
+	<phrase value="草草">
+		<sense value="1" />
+		<sense value="草木茂盛的样子" />
+	</phrase>
+	<phrase value="草创">
+		<sense value="1" />
+		<sense value="开始创建或创办" />
+	</phrase>
+	<phrase value="草次">
+		<sense value="1" />
+		<sense value="匆忙急遽" />
+		<sense value="2" />
+		<sense value="露宿于草野间" />
+	</phrase>
+	<phrase value="草蹙">
+		<sense value="仓猝；匆忙" />
+	</phrase>
+	<phrase value="草菅">
+		<sense value="1" />
+		<sense value="草茅，喻轻贱" />
+	</phrase>
+	<phrase value="草芥">
+		<sense value="比喻轻微而无价值的东西" />
+	</phrase>
+	<phrase value="草具">
+		<sense value="指粗劣的食物" />
+	</phrase>
+	<phrase value="草莽">
+		<sense value="1" />
+		<sense value="荒野" />
+	</phrase>
+</character>

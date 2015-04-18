@@ -1,0 +1,48 @@
+<character value="宗">
+	<introduce>
+		<pinyin value="zong1" writing="zōng" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺折横横竖撇捺" />
+	</introduce>
+	<pron value="zōng">
+		<sense tag="名" vernacular="祖宗；宗庙">
+			<exam article="《尚书·大禹谟》" ref="受命于神宗。" />
+		</sense>
+		<sense tag="名" vernacular="祖宗；祖先">
+			<exam article="《左传·成公三年》" ref="若不获命，而使嗣宗职。" />
+		</sense>
+		<sense tag="名" vernacular="宗族">
+			<exam article="《叔向贺贫》" ref="其宗灭于绛。" />
+		</sense>
+		<sense tag="动" vernacular="祭祀">
+			<exam article="《子路、曾晳、冉有、公西华侍坐》" ref="宗庙会同，非诸侯而何？" />
+		</sense>
+		<sense tag="动" vernacular="遵奉；尊崇">
+			<exam article="《史记·孔子世家》" ref="孔子布衣，传十余世，学者宗之。" />
+		</sense>
+		<sense tag="动" vernacular="归往">
+			<exam article="《尚书·禹贡》" ref="江汉朝宗于海。" />
+		</sense>
+		<sense tag="名" vernacular="本源">
+			<exam article="《庄子·知北游》" ref="将反于宗。" />
+		</sense>
+	</pron>
+	<phrase value="宗祠">
+		<sense value="祠堂；家庙" />
+	</phrase>
+	<phrase value="宗法">
+		<sense value="宗族之法" />
+		<sense value="旧时的家法" />
+	</phrase>
+	<phrase value="宗匠">
+		<sense value="学问、技艺上有大成就而为人敬仰的人，比喻君主或辅佐之臣" />
+	</phrase>
+	<phrase value="宗器">
+		<sense value="祭祀用的器具" />
+	</phrase>
+	<phrase value="宗事">
+		<sense value="宗庙事务" />
+	</phrase>
+</character>

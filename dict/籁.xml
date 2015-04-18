@@ -1,0 +1,20 @@
+<character value="籁">
+	<introduce>
+		<pinyin value="lai4" writing="lài" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="19" />
+		<order value="撇横捺撇横捺横竖折横竖撇捺撇折竖折撇捺" />
+	</introduce>
+	<pron value="lài">
+		<sense tag="名" vernacular="古代的一种管乐器，三孔，似笙箫">
+			<exam article="《滕王阁序》" ref="爽籁发而清风生，纤歌凝而白云遏。" />
+		</sense>
+		<sense tag="名" vernacular="孔穴中发出的声响">
+			<exam article="《庄子·齐物论》" ref="地籁则众窍是已。" />
+		</sense>
+		<sense tag="名" vernacular="泛指自然界的声响">
+			<exam article="《项脊轩志》" ref="冥然兀坐，万籁有声。" />
+		</sense>
+	</pron>
+</character>

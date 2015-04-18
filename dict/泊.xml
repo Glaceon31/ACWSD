@@ -1,0 +1,28 @@
+<character value="泊">
+	<introduce>
+		<pinyin value="bo2" writing="bó" />
+		<pinyin value="po1" writing="pō" />
+		<pinyin value="po4" writing="pò" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺横撇竖折横横" />
+	</introduce>
+	<pron value="bó">
+		<sense tag="形" vernacular="水浅">
+			<exam article="《颜氏家训·勉学》" ref="兀若枯木，泊若穷流。" />
+		</sense>
+		<sense tag="形" vernacular="安静；恬静">
+			<exam article="《戒子书》" ref="非澹泊无以明志。" />
+		</sense>
+		<sense tag="动" vernacular="停船；停泊">
+			<exam article="《泊秦淮》" ref="夜泊秦淮近酒家。" />
+		</sense>
+		<sense tag="动" vernacular="止息；停留">
+			<exam article="《古意题徐令壁》" ref="闻君太平世，栖泊灵台侧。" />
+		</sense>
+	</pron>
+	<pron value="pō">
+		<sense tag="名" vernacular="湖泊，湖泽，如“梁山泊”" />
+	</pron>
+</character>

@@ -1,0 +1,15 @@
+<character value="届">
+	<introduce>
+		<pinyin value="jie4" writing="jiè" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折横撇竖折横竖横" />
+	</introduce>
+	<pron value="jiè">
+		<sense tag="分理处" vernacular="至；到达">
+			<exam article="《诗经·小雅·小弁》" ref="譬彼舟流，不知所届。" />
+			<exam article="《三国志·魏书·武帝纪》" ref="致届官渡。" />
+		</sense>
+	</pron>
+</character>

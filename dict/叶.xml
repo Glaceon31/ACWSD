@@ -1,0 +1,26 @@
+<character value="叶">
+	<introduce>
+		<pinyin value="ye4" writing="yè" />
+		<pinyin value="xie2" writing="xié" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="竖折横横竖" />
+	</introduce>
+	<pron value="yè㈠">
+		<sense tag="名" vernacular="植物的叶">
+			<exam article="《采草药》" ref="用叶者取叶初长足时。" />
+		</sense>
+		<sense tag="名" vernacular="世；时期">
+			<exam article="《文选序》" ref="自炎汉中叶。" />
+		</sense>
+		<sense tag="名" vernacular="书页">
+			<exam article="《寓夜》" ref="鼠翻书叶响。" />
+		</sense>
+	</pron>
+	<pron value="xié㈡">
+		<sense tag="形" vernacular="和洽">
+			<exam article="《论衡·齐世》" ref="叶和万国。" />
+		</sense>
+	</pron>
+</character>

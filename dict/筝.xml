@@ -1,0 +1,14 @@
+<character value="筝">
+	<introduce>
+		<pinyin value="zheng1" writing="zhēng" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="撇横捺撇横捺撇折折横横竖" />
+	</introduce>
+	<pron value="zhēng">
+		<sense tag="名" vernacular="古代一种弦乐器">
+			<exam article="《南都赋》" ref="弹筝吹笙，更为新声。" />
+		</sense>
+	</pron>
+</character>

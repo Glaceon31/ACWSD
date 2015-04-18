@@ -1,0 +1,14 @@
+<character value="硗">
+	<introduce>
+		<pinyin value="qiao1" writing="qiāo" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="横撇竖折横横折撇横撇折" />
+	</introduce>
+	<pron value="qiāo">
+		<sense tag="形" vernacular="土地坚硬而贫瘠">
+			<exam article="《汉书·贾山传》" ref="地之硗者，虽有善种，不能生焉。" />
+		</sense>
+	</pron>
+</character>

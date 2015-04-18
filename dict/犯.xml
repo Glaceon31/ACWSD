@@ -1,0 +1,29 @@
+<character value="犯">
+	<introduce>
+		<pinyin value="fan4" writing="fàn" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="撇折撇折折" />
+	</introduce>
+	<pron value="fàn">
+		<sense tag="动" vernacular="侵犯">
+			<exam article="《左传·城濮之战》" ref="胥臣蒙马以虎皮，先犯陈蔡。" />
+		</sense>
+		<sense tag="动" vernacular="触犯；冒犯">
+			<exam article="《出师表》" ref="若有作奸犯科及为忠善者，宜付有司论其刑赏。" />
+		</sense>
+		<sense tag="动" vernacular="危害">
+			<exam article="《国语·楚语》" ref="若防大川焉，溃而所犯必大矣。" />
+		</sense>
+		<sense tag="动" vernacular="冒；冒着；顶着">
+			<exam article="《捕蛇者说》" ref="盖一岁之犯死者二焉。" />
+		</sense>
+		<sense tag="动" vernacular="使用">
+			<exam article="《孙子·九地》" ref="犯三军之众，若使一人。" />
+		</sense>
+		<sense tag="名" vernacular="罪犯；犯人">
+			<exam article="《狱中杂记》" ref="大盗未杀人，及他犯同谋多人者。" />
+		</sense>
+	</pron>
+</character>

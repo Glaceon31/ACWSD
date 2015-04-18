@@ -1,0 +1,26 @@
+<character value="絣">
+	<introduce>
+		<pinyin value="beng1" writing="bēng" />
+		<pinyin value="ping3" writing="pĭng" />
+		<bushou value="糹" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="折折捺捺捺捺捺撇横横撇竖" />
+	</introduce>
+	<pron value="pēng">
+		<sense tag="名" vernacular="古代氏族的一种纺织品" />
+		<sense tag="名" vernacular="穿甲的绳">
+			<exam article="《战国策·燕策一》" ref="妻自组甲絣。" />
+		</sense>
+		<sense tag="形" vernacular="续；继续">
+			<exam article="《后汉书·班固传》" ref="将絣万嗣。" />
+		</sense>
+		<sense tag="动" vernacular="通“绷”，紧张" />
+		<sense vernacular="bīng杂；错杂">
+			<exam article="《汉书·扬雄传下》" ref="絣之以象类，播之以人事。" />
+		</sense>
+		<sense vernacular="pēg没有花纹的丝织品">
+			<exam article="《汧阳间》" ref="汧水悠悠去似絣。" />
+		</sense>
+	</pron>
+</character>

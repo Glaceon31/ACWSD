@@ -1,0 +1,14 @@
+<character value="缭">
+	<introduce>
+		<pinyin value="liao2" writing="liáo" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="折折横横撇捺捺撇竖折横横竖撇捺" />
+	</introduce>
+	<pron value="liáo">
+		<sense tag="动" vernacular="缠绕">
+			<exam article="《九歌·湘夫人》" ref="缭之兮杜衡。" />
+		</sense>
+	</pron>
+</character>

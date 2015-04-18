@@ -1,0 +1,18 @@
+<character value="虽">
+	<introduce>
+		<pinyin value="sui1" writing="suī" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="9" />
+		<order value="竖折横竖折横竖横捺" />
+	</introduce>
+	<pron value="suī">
+		<sense tag="连" vernacular="即使；纵然">
+			<exam article="《子鱼论战》" ref="虽及胡耇，获则取之，何有于二毛。" />
+			<exam article="《训俭示康》" ref="吾今日之俸，虽举家锦衣玉食，何患不能" />
+		</sense>
+		<sense tag="连" vernacular="虽然">
+			<exam article="《送东阳马生序》" ref="故余虽愚，卒获有所闻。" />
+		</sense>
+	</pron>
+</character>

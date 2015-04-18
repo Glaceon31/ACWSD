@@ -1,0 +1,17 @@
+<character value="饿">
+	<introduce>
+		<pinyin value="e4" writing="è" />
+		<bushou value="饣" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="撇折折撇横竖横折撇捺" />
+	</introduce>
+	<pron value="è">
+		<sense tag="动" vernacular="严重的饥饿">
+			<exam article="《寡人之于国也》" ref="涂有饿莩而不知发。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……挨饿">
+			<exam article="《生于忧患，死于安乐》" ref="必先苦其心志，劳其筋骨，饿其体肤，空乏其身。" />
+		</sense>
+	</pron>
+</character>

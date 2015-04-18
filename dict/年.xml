@@ -1,0 +1,40 @@
+<character value="年">
+	<introduce>
+		<pinyin value="nian2" writing="nián" />
+		<bushou value="干" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="撇横横竖横竖" />
+	</introduce>
+	<pron value="nián">
+		<sense tag="名" vernacular="年景；收成">
+			<exam article="《齐桓晋文之事》" ref="乐岁终生苦，凶年不免于死亡。" />
+		</sense>
+		<sense tag="名" vernacular="十二个月为一年">
+			<exam article="《邹忌讽齐王纳谏》" ref="期年之后，虽欲言，无可进者。" />
+		</sense>
+		<sense tag="名" vernacular="年龄；年岁">
+			<exam article="《陈情表》" ref="行年四岁，舅夺母志。" />
+		</sense>
+		<sense tag="名" vernacular="寿命">
+			<exam article="《愚公移山》" ref="以残年余力，曾不能毁山之一毛。" />
+		</sense>
+		<sense tag="名" vernacular="帝王的年号">
+			<exam article="《三国志·吴主传》" ref="告以改年，立后。" />
+		</sense>
+	</pron>
+	<phrase value="年伯">
+		<sense value="科举制度中同榜登科者称为同年，父之同年者称为年伯" />
+		<sense value="泛指父辈" />
+	</phrase>
+	<phrase value="年所">
+		<sense value="年次；年龄" />
+	</phrase>
+	<phrase value="年兄">
+		<sense value="唐宋以来，科举考试同年登科的人互相尊称年兄，也叫同年" />
+	</phrase>
+	<phrase value="年祚">
+		<sense value="人之寿命" />
+		<sense value="国之寿命" />
+	</phrase>
+</character>

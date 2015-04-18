@@ -1,0 +1,21 @@
+<character value="狡">
+	<introduce>
+		<pinyin value="jiao3" writing="jiăo" />
+		<pinyin value="jia3" writing="jiă" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="撇折撇捺横撇捺撇捺" />
+	</introduce>
+	<pron value="jiǎo">
+		<sense tag="形" vernacular="健壮">
+			<exam article="《淮南子·俶真》" ref="狡狗之死也。" />
+		</sense>
+		<sense tag="形" vernacular="凶暴">
+			<exam article="《墨子·节用中》" ref="猛禽狡兽。" />
+		</sense>
+		<sense tag="形" vernacular="狡猾">
+			<exam article="《战国策·齐策四》" ref="狡兔有三窟，仅得免其死耳。" />
+		</sense>
+	</pron>
+</character>

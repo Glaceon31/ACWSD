@@ -1,0 +1,18 @@
+<character value="铩">
+	<introduce>
+		<pinyin value="sha1" writing="shā" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="撇横横横折撇捺横竖撇捺" />
+	</introduce>
+	<pron value="shā">
+		<sense tag="名" vernacular="长矛">
+			<exam article="《过秦论》" ref="鉏櫌棘矜，非铦于钩戟长铩也。" />
+		</sense>
+		<sense tag="形" vernacular="羽毛伤残">
+			<exam article="《五君咏·嵇中散》" ref="鸾羽有时铩，龙性谁能驯？" />
+			<exam article="《与宋玉山元思书》" ref="是以贾生怀琬琰而挫翮，冯子握玙璠而铩羽。" />
+		</sense>
+	</pron>
+</character>

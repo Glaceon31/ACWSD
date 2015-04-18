@@ -1,0 +1,33 @@
+<character value="蹙">
+	<introduce>
+		<pinyin value="cu4" writing="cù" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="18" />
+		<order value="横撇竖横横竖撇捺折撇捺竖折横竖横撇捺" />
+	</introduce>
+	<pron value="cù">
+		<sense tag="形" vernacular="紧迫；窘迫">
+			<exam article="《捕蛇者说》" ref="自吾氏三世居是乡，积于今六十岁矣，而乡邻之生日蹙。" />
+			<exam article="《诗经·小雅·小明》" ref="曷云其还？政事愈蹙。" />
+		</sense>
+		<sense tag="动" vernacular="紧缩；紧皱">
+			<exam article="《庄暴见孟子》" ref="百姓闻王钟鼓之声，管籥之音，举疾首蹙頞而相告。" />
+		</sense>
+		<sense tag="形" vernacular="局促不安">
+			<exam article="《荀子·富国》" ref="墨子大有天下，小有一国，将蹙然衣粗食恶，忧戚而非乐。" />
+		</sense>
+		<sense tag="动" vernacular="通“蹴”">
+			<exam article="《申王画马图》" ref="扬鞭一蹙破霜蹄。" />
+		</sense>
+	</pron>
+	<phrase value="蹙蹙">
+		<sense value="局促不得舒展之意" />
+	</phrase>
+	<phrase value="蹙頞">
+		<sense value="愁苦貌；即皱眉头" />
+	</phrase>
+	<phrase value="蹙金">
+		<sense value="用拈紧的金线刺绣，使刺绣品的纹路皱缩起来" />
+	</phrase>
+</character>

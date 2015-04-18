@@ -1,0 +1,20 @@
+<character value="磔">
+	<introduce>
+		<pinyin value="zhe2" writing="zhé" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="15" />
+		<order value="横撇竖折横撇折捺横折竖横竖撇捺" />
+	</introduce>
+	<pron value="zhé">
+		<sense tag="动" vernacular="古代祭祀时，分裂牲畜的肢体">
+			<exam article="《庄子·盗跖》" ref="磔犬流豕。" />
+		</sense>
+		<sense tag="名" vernacular="一种分裂肢体的刑法">
+			<exam article="《韩非子·内储说上》" ref="采金之禁，得而辄辜磔于市。" />
+		</sense>
+		<sense tag="象" vernacular="鸟鸣声">
+			<exam article="《石钟山记》" ref="磔磔云霄间。" />
+		</sense>
+	</pron>
+</character>

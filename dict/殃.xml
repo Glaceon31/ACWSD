@@ -1,0 +1,15 @@
+<character value="殃">
+	<introduce>
+		<pinyin value="yang1" writing="yāng" />
+		<bushou value="歹" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横撇折捺竖折横撇捺" />
+	</introduce>
+	<pron value="yāng">
+		<sense tag="名" vernacular="灾祸；祸害">
+			<exam article="《左传·闵公二年》" ref="殃将至矣。" />
+			<exam article="《治安策》" ref="下数被其殃。" />
+		</sense>
+	</pron>
+</character>

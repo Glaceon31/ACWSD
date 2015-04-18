@@ -1,0 +1,23 @@
+<character value="律">
+	<introduce>
+		<pinyin value="lu4" writing="lǜ" />
+		<bushou value="彳" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="撇撇竖折横横横横竖" />
+	</introduce>
+	<pron value="lǜ">
+		<sense tag="名" vernacular="法律；法令">
+			<exam article="《荀子·成相》" ref="罪祸有律，莫得轻重威不分。" />
+		</sense>
+		<sense tag="名" vernacular="特指刑法的条文">
+			<exam article="《汉书·高帝纪》" ref="命萧何次律令。" />
+		</sense>
+		<sense tag="名" vernacular="规则">
+			<exam article="《商君书·战法》" ref="兵大律在谨。" />
+		</sense>
+		<sense tag="名" vernacular="古代音乐中用来正音的一种竹管">
+			<exam article="《庄子·胠箧》" ref="擢乱六律。" />
+		</sense>
+	</pron>
+</character>

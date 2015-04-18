@@ -1,0 +1,30 @@
+<character value="勃">
+	<introduce>
+		<pinyin value="bo2" writing="bó" />
+		<bushou value="力" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="横竖捺折折竖横折撇" />
+	</introduce>
+	<pron value="bó">
+		<sense tag="形" vernacular="盛；旺盛">
+			<exam article="《左传·庄公十一年》" ref="禹、汤罪己，其兴也勃焉。" />
+		</sense>
+		<sense tag="形" vernacular="猝然变色" />
+		<sense tag="名" vernacular="粉末，花粉">
+			<exam article="《齐民要术·饼法》" ref="干剂于腕上手挽作，勿著勃。" />
+		</sense>
+		<sense tag="动" vernacular="争斗">
+			<exam article="《憎王孙文》" ref="勃诤号，唶唶强强。" />
+		</sense>
+		<sense vernacular="通“渤”">
+			<exam article="《汉书·武帝纪》" ref="东临勃海。" />
+		</sense>
+		<sense vernacular="通“悖”，乖戾">
+			<exam article="《淮南子·氾论训》" ref="为论如此，岂不勃哉。" />
+		</sense>
+	</pron>
+	<phrase value="勃谿">
+		<sense value="争斗，争吵" />
+	</phrase>
+</character>

@@ -1,0 +1,20 @@
+<character value="吁">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<pinyin value="xu1" writing="xū" />
+		<pinyin value="yu1" writing="yū" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="竖折横横横竖" />
+	</introduce>
+	<pron value="xū">
+		<sense tag="动" vernacular="叹息；叹气">
+			<exam article="《古风五十九首·五十六》" ref="怀宝空长吁。" />
+		</sense>
+		<sense tag="叹" vernacular="表示惊疑、惊叹">
+			<exam article="《史记·蔡泽传》" ref="吁！君何见之晚也！" />
+			<exam article="《戊午上高宗封事》" ref="吁，可惜哉！" />
+		</sense>
+	</pron>
+</character>

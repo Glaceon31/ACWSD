@@ -1,0 +1,30 @@
+<character value="界">
+	<introduce>
+		<pinyin value="jie4" writing="jiè" />
+		<bushou value="田" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="竖折横竖横撇捺撇竖" />
+	</introduce>
+	<pron value="jiè">
+		<sense tag="名" vernacular="边界；疆界">
+			<exam article="《得道多助，失道寡助》" ref="域民不以封疆之界。" />
+		</sense>
+		<sense tag="名" vernacular="界限；界线">
+			<exam article="《后汉书·马融传》" ref="奢俭之中，以礼为界。" />
+		</sense>
+		<sense tag="名" vernacular="地域；境域">
+			<exam article="《搜神记》" ref="今在汝南北宜春县界。" />
+		</sense>
+		<sense tag="名" vernacular="指一定的范围">
+			<exam article="《宿题天霁寺》" ref="蓬莱仙界海门通。" />
+		</sense>
+	</pron>
+	<phrase value="界画">
+		<sense value="以宫殿楼台等为主要题材的传统画" />
+		<sense value="因作画时用界尺作线，故称界画" />
+	</phrase>
+	<phrase value="界纸">
+		<sense value="画有方格的纸" />
+	</phrase>
+</character>

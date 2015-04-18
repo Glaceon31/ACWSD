@@ -1,0 +1,27 @@
+<character value="船">
+	<introduce>
+		<pinyin value="chuan2" writing="chuán" />
+		<bushou value="舟" />
+		<bushoustroke value="6" />
+		<stroke value="11" />
+		<order value="撇撇折捺横捺撇折竖折横" />
+	</introduce>
+	<pron value="chuán">
+		<sense vernacular="船" />
+	</pron>
+	<phrase value="船骥">
+		<sense value="船与良马" />
+		<sense value="比喻治国贤能之臣" />
+	</phrase>
+	<phrase value="船脚">
+		<sense value="1" />
+		<sense value="驾船的人" />
+		<sense value="2" />
+		<sense value="船的吃水部分" />
+	</phrase>
+	<phrase value="船乘">
+		<sense value="船与车马" />
+		<sense value="用以比喻治国贤能之臣" />
+		<sense value="同“船骥”" />
+	</phrase>
+</character>

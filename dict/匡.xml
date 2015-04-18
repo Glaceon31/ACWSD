@@ -1,0 +1,20 @@
+<character value="匡">
+	<introduce>
+		<pinyin value="kuang1" writing="kuāng" />
+		<bushou value="匚" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="横横横竖横折" />
+	</introduce>
+	<pron value="kuāng">
+		<sense tag="名" vernacular="筐子">
+			<exam article="《开工开物》" ref="罗匡之底用丝织罗地绢为之。" />
+		</sense>
+		<sense tag="动" vernacular="匡正；纠正">
+			<exam article="《左传·襄公十四年》" ref="善则赏之，过则匡之。" />
+		</sense>
+		<sense tag="动" vernacular="帮助；救助">
+			<exam article="《国语·晋语》" ref="今范中行氏之臣，不能匡相其君，使至于难。" />
+		</sense>
+	</pron>
+</character>

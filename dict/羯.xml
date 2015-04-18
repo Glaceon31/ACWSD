@@ -1,0 +1,13 @@
+<character value="羯">
+	<introduce>
+		<pinyin value="jie2" writing="jié" />
+		<bushou value="羊" />
+		<bushoustroke value="6" />
+		<stroke value="15" />
+		<order value="捺撇横横横撇竖折横横撇折撇捺折" />
+	</introduce>
+	<pron value="jié">
+		<sense tag="名" vernacular="被阉的公羊" />
+		<sense tag="名" vernacular="我国古代北部的一个民族" />
+	</pron>
+</character>

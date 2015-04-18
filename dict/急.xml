@@ -1,0 +1,42 @@
+<character value="急">
+	<introduce>
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="撇折折横横捺折捺捺" />
+	</introduce>
+	<pron value="jí">
+		<sense tag="形" vernacular="急躁；着急">
+			<exam article="《班超告老归国》" ref="今君性严急。" />
+			<exam article="《荆轲刺秦王》" ref="时恐急，剑坚，故不可立拔。" />
+		</sense>
+		<sense tag="形为动" vernacular="为……着急">
+			<exam article="《信陵君窃符救赵》" ref="今邯郸旦暮降秦，而魏救不至，安在公子能急人之困也？" />
+		</sense>
+		<sense tag="动使动" vernacular="使……着急">
+			<exam article="《廉颇蔺相如列传》" ref="大王必欲急臣，臣头今与璧俱碎于柱矣。" />
+		</sense>
+		<sense tag="形" vernacular="紧急；急迫">
+			<exam article="《赤壁之战》" ref="事急而不断，祸至无日矣。" />
+		</sense>
+		<sense tag="名" vernacular="急务；紧急之事">
+			<exam article="《论积贮疏》" ref="卒然边境有急，数千百万之众，国胡以馈之？。" />
+		</sense>
+		<sense tag="名意动" vernacular="以……为急事；注重；重视">
+			<exam article="《置屯田令》" ref="秦人以急农并天下。" />
+		</sense>
+		<sense tag="形" vernacular="急促；迅疾">
+			<exam article="《琵琶行》" ref="感我此言良久立，却坐促弦弦转急。" />
+		</sense>
+		<sense tag="形" vernacular="急忙；赶快">
+			<exam article="《石壕吏》" ref="急应河阳役，犹得备晨饮。" />
+		</sense>
+		<sense tag="形" vernacular="紧">
+			<exam article="《三国志·魏书·吕布传》" ref="遂生缚布。布曰：‘缚太急，小缓之。’" />
+		</sense>
+		<sense tag="动" vernacular="亲近；看重">
+			<exam article="《史记·游侠列传》" ref="是人，吾所急也。" />
+		</sense>
+	</pron>
+</character>

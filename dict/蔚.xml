@@ -1,0 +1,21 @@
+<character value="蔚">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<pinyin value="wei4" writing="wèi" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="横竖竖折横撇横横竖撇捺横竖捺" />
+	</introduce>
+	<pron value="wèi">
+		<sense tag="名" vernacular="一种蒿草">
+			<exam article="《诗经·小雅·蓼莪》" ref="匪莪伊蔚。" />
+		</sense>
+		<sense tag="形" vernacular="草木茂盛">
+			<exam article="《感遇》" ref="芊蔚何青青。" />
+		</sense>
+		<sense tag="形" vernacular="言辞华美；有文采">
+			<exam article="《答贾长渊》" ref="蔚彼高藻，如玉之阑。" />
+		</sense>
+	</pron>
+</character>

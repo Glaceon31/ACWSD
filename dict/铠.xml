@@ -1,0 +1,14 @@
+<character value="铠">
+	<introduce>
+		<pinyin value="kai3" writing="kăi" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="撇横横横折竖折竖折横折" />
+	</introduce>
+	<pron value="kǎi">
+		<sense tag="名" vernacular="石腊打仗时穿的金属护身衣">
+			<exam article="《群英会蒋干中计》" ref="帐下偏裨将校，都披银铠。" />
+		</sense>
+	</pron>
+</character>

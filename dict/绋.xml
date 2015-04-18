@@ -1,0 +1,17 @@
+<character value="绋">
+	<introduce>
+		<pinyin value="fu2" writing="fú" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折折横折横折撇竖" />
+	</introduce>
+	<pron value="fú">
+		<sense tag="名" vernacular="大绳">
+			<exam article="《诗经·小雅·采微》" ref="汎汎杨舟，绋纚维之。" />
+		</sense>
+		<sense tag="名" vernacular="通“绂”，系印章的丝绳">
+			<exam article="《汉书·丙吉传》" ref="上将使人加绋而封之。" />
+		</sense>
+	</pron>
+</character>

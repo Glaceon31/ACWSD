@@ -1,0 +1,31 @@
+<character value="坻">
+	<introduce>
+		<pinyin value="chi2" writing="chí" />
+		<pinyin value="di3" writing="dĭ" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横撇折横折捺" />
+	</introduce>
+	<pron value="chí">
+		<sense tag="名" vernacular="水中小洲或高地">
+			<exam article="《诗经·秦风·蒹葭》" ref="遡游从之，宛在水中坻。" />
+		</sense>
+		<sense tag="名" vernacular="宫殿的台基或台阶">
+			<exam article="《景福殿赋》" ref="罗疏柱之汩越，肃坻鄂之锵锵。" />
+		</sense>
+		<sense tag="名" vernacular="蚂蚁巢外的松土">
+			<exam article="《藉田赋》" ref="坻场染履，洪縻在手。" />
+		</sense>
+		<sense vernacular="dǐ山坡；斜坡">
+			<exam article="《南都赋》" ref="坂坻嶻嶭而成巘，谿壑错缪而盘纡。" />
+		</sense>
+		<sense vernacular="zhǐ“坻”的讹字" />
+	</pron>
+	<phrase value="坻聩">
+		<sense value="山崩，山崩之声" />
+	</phrase>
+	<phrase value="坻伏">
+		<sense value="隐伏，潜藏不出" />
+	</phrase>
+</character>

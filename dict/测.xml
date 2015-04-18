@@ -1,0 +1,25 @@
+<character value="测">
+	<introduce>
+		<pinyin value="ce4" writing="cè" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺横竖折撇捺竖竖" />
+	</introduce>
+	<pron value="cè">
+		<sense tag="动" vernacular="测量水深；测量">
+			<exam article="《过秦论》" ref="据亿丈之城，临不测之渊以为固。" />
+		</sense>
+		<sense tag="动" vernacular="估计；预料">
+			<exam article="《曹刿论战》" ref="夫大国，难测也。" />
+			<exam article="《荆轲剌秦王》" ref="入不测之强秦。" />
+		</sense>
+	</pron>
+	<phrase value="测揆">
+		<sense value="测度" />
+	</phrase>
+	<phrase value="测字">
+		<sense value="旧时迷信把汉字拆开，用其偏旁点画的离合分聚等预测占卜凶吉，叫测字" />
+		<sense value="也叫“拆字”" />
+	</phrase>
+</character>

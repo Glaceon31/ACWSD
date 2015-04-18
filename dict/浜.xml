@@ -1,0 +1,14 @@
+<character value="浜">
+	<introduce>
+		<pinyin value="bang1" writing="bāng" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横撇竖横竖横撇捺" />
+	</introduce>
+	<pron value="bāng">
+		<sense tag="名" vernacular="小河沟">
+			<exam article="《吴郡图经续记·城邑》" ref="小浜别派,旁夹路衢。" />
+		</sense>
+	</pron>
+</character>

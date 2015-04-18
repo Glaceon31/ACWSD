@@ -1,0 +1,23 @@
+<character value="念">
+	<introduce>
+		<pinyin value="nian4" writing="niàn" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="撇捺捺折捺折捺捺" />
+	</introduce>
+	<pron value="niàn">
+		<sense tag="动" vernacular="思念">
+			<exam article="《阿房宫赋》" ref="秦爱纷奢，人亦念其家。" />
+		</sense>
+		<sense tag="动" vernacular="考虑；思量">
+			<exam article="《廉颇蔺相如列传》" ref="顾吾念之，强秦之所不敢加兵谋赵者，徒以吾两人在也。" />
+		</sense>
+		<sense tag="名" vernacular="念头；想法">
+			<exam article="《与妻书》" ref="即此爱汝一念，使吾勇于就死也。" />
+		</sense>
+		<sense tag="数" vernacular="二十">
+			<exam article="《与妻书》" ref="辛未三月念六夜四鼓，意洞手书。" />
+		</sense>
+	</pron>
+</character>

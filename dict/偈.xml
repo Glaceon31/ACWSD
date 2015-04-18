@@ -1,0 +1,28 @@
+<character value="偈">
+	<introduce>
+		<pinyin value="jie2" writing="jié" />
+		<pinyin value="ji4" writing="jì" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="撇竖竖折横横撇折撇捺折" />
+	</introduce>
+	<pron value="jié">
+		<sense tag="形" vernacular="勇武">
+			<exam article="《太玄》" ref="其人晖且偈。" />
+		</sense>
+		<sense tag="形" vernacular="快速有力的样子">
+			<exam article="《高唐赋》" ref="偈兮若驾驷马。" />
+		</sense>
+	</pron>
+	<pron value="jì">
+		<sense tag="名" vernacular="佛经中的唱词">
+			<exam article="《高僧传·鸠摩罗什传》" ref="从师受经，日诵千偈。" />
+		</sense>
+	</pron>
+	<pron value="qì">
+		<sense tag="动" vernacular="通“憩”，休息">
+			<exam article="《甘泉赋》" ref="度三峦兮偈棠梨。" />
+		</sense>
+	</pron>
+</character>

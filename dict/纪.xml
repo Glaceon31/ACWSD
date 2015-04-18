@@ -1,0 +1,54 @@
+<character value="纪">
+	<introduce>
+		<pinyin value="ji4" writing="jì" />
+		<pinyin value="ji3" writing="jĭ" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折折横折横折" />
+	</introduce>
+	<pron value="jì">
+		<sense tag="名" vernacular="丝的头绪">
+			<exam article="《墨子·尚同》" ref="譬若丝缕之有纪。" />
+		</sense>
+		<sense tag="名" vernacular="纲领；根本">
+			<exam article="《吕氏春秋·孝行》" ref="夫孝，三皇五帝之本务，而万事之纪也。" />
+		</sense>
+		<sense tag="名" vernacular="纲纪；准则；法度">
+			<exam article="《吕氏春秋·孟春》" ref="无绝地之理，无乱人之纪。" />
+		</sense>
+		<sense tag="动" vernacular="料理；经营">
+			<exam article="《移居》" ref="衣食当须纪，力耕不吾欺。" />
+		</sense>
+		<sense tag="动" vernacular="记载；记述">
+			<exam article="《祭妹文》" ref="悔当时不将嫛婗情状，罗缕纪存。" />
+		</sense>
+		<sense tag="名" vernacular="史书体裁之一种" />
+		<sense tag="名" vernacular="十二年为一纪">
+			<exam article="《京师叛乱寄诸弟》" ref="弱冠遭世难，二纪犹未平。" />
+		</sense>
+		<sense tag="名" vernacular="世代；世">
+			<exam article="《出师颂》" ref="历纪十二，天命中易。" />
+		</sense>
+		<sense tag="名" vernacular="岁；年岁">
+			<exam article="《晋书》" ref="但计秋收之时，以为年纪。" />
+		</sense>
+		<sense tag="名" vernacular="通“基”，基址">
+			<exam article="《诗经·秦风·终南》" ref="终南何有?有纪有堂。" />
+		</sense>
+		<sense tag="动" vernacular="通“改”，改易，变易">
+			<exam article="《国语·周语上》" ref="若国亡不过十年，数之纪也。" />
+		</sense>
+	</pron>
+	<phrase value="纪纲">
+		<sense value="法度；法则" />
+		<sense value="治理；管理" />
+		<sense value="仆人" />
+	</phrase>
+	<phrase value="纪纲地">
+		<sense value="伸张法纪的地方，喻谏官职务" />
+	</phrase>
+	<phrase value="纪极">
+		<sense value="终极；限度" />
+	</phrase>
+</character>

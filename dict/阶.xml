@@ -1,0 +1,29 @@
+<character value="阶">
+	<introduce>
+		<pinyin value="jie1" writing="jiē" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="折竖撇捺撇竖" />
+	</introduce>
+	<pron value="jiē">
+		<sense tag="名" vernacular="台阶">
+			<exam article="《哀江南》" ref="枯枝败叶当阶罩，谁祭扫？。" />
+		</sense>
+		<sense tag="名" vernacular="梯子">
+			<exam article="《盐铁论·刑德》" ref="犹释阶而欲登高。" />
+		</sense>
+		<sense tag="名" vernacular="官阶；官位的等级">
+			<exam article="《左传·襄公二十四年》" ref="敢问降阶何由？。" />
+		</sense>
+		<sense tag="名" vernacular="缘由；原因">
+			<exam article="《国语·周语中》" ref="夫婚姻，祸福之阶也。" />
+		</sense>
+		<sense tag="名" vernacular="凭借物；资本">
+			<exam article="《汉书·异姓诸侯表》" ref="汉亡尺土之阶，……五载而成帝业。" />
+		</sense>
+	</pron>
+	<phrase value="阶祸">
+		<sense value="祸害的原由" />
+	</phrase>
+</character>

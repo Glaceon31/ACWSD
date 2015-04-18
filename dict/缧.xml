@@ -1,0 +1,18 @@
+<character value="缧">
+	<introduce>
+		<pinyin value="lei2" writing="léi" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="折折横竖折横竖横折折捺竖撇捺" />
+	</introduce>
+	<pron value="léi">
+		<sense tag="名" vernacular="捆绑犯人的黑色绳索" />
+	</pron>
+	<phrase value="缧囚">
+		<sense value="囚犯" />
+	</phrase>
+	<phrase value="缧绁">
+		<sense value="捆绑犯人的绳索" />
+	</phrase>
+</character>

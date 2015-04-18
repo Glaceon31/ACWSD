@@ -1,0 +1,33 @@
+<character value="仍">
+	<introduce>
+		<pinyin value="reng2" writing="réng" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="撇竖折撇" />
+	</introduce>
+	<pron value="réng">
+		<sense tag="动" vernacular="接续；承接">
+			<exam article="《思旧赋》" ref="夫吉凶之相仍兮。" />
+		</sense>
+		<sense tag="动" vernacular="因袭；沿袭">
+			<exam article="《封建论》" ref="徇之以为安，仍之以为俗。" />
+		</sense>
+		<sense tag="副" vernacular="屡次；多次">
+			<exam article="《史记·封禅书》" ref="寿星仍出，渊耀光明。" />
+		</sense>
+		<sense tag="副" vernacular="仍然；依然">
+			<exam article="《孔雀东南飞》" ref="仍更被驱遣，何言复来还。" />
+		</sense>
+		<sense tag="副" vernacular="乃；于是">
+			<exam article="《南史·宋武帝纪》" ref="帝叱之，皆散，仍收药而反。" />
+		</sense>
+	</pron>
+	<phrase value="仍仍">
+		<sense value="怅然若失的样子" />
+		<sense value="频频" />
+	</phrase>
+	<phrase value="仍世">
+		<sense value="累世；世世" />
+	</phrase>
+</character>

@@ -1,0 +1,18 @@
+<character value="渍">
+	<introduce>
+		<pinyin value="zi4" writing="zì" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺横横横竖横竖折撇捺" />
+	</introduce>
+	<pron value="zì">
+		<sense tag="动" vernacular="浸；泡">
+			<exam article="《齐民要术·水稻》" ref="净淘种子，渍经三宿。" />
+		</sense>
+		<sense tag="动" vernacular="染">
+			<exam article="《考工记·种氏》" ref="淳而渍之。" />
+			<exam article="《汉书·礼乐记》" ref="民惭渍恶俗。" />
+		</sense>
+	</pron>
+</character>

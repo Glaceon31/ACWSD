@@ -1,0 +1,45 @@
+<character value="舆">
+	<introduce>
+		<pinyin value="yu2" writing="yú" />
+		<bushou value="臼" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="撇竖横横横折横竖折横横横撇捺" />
+	</introduce>
+	<pron value="yú">
+		<sense tag="名" vernacular="车子">
+			<exam article="《劝学》" ref="假舆马者，非利足也。" />
+		</sense>
+		<sense tag="名" vernacular="轿子">
+			<exam article="《晋书·王导传》" ref="乘肩舆，具威仪。" />
+		</sense>
+		<sense tag="动" vernacular="抬">
+			<exam article="《苏武传》" ref="武气绝，半日复息，惠等哭，舆归营。" />
+		</sense>
+		<sense tag="名" vernacular="大地，常“方舆”连用">
+			<exam article="《甘藷疏序》" ref="方舆之内，山陬海澨，丽土之毛足以活人者多矣。" />
+		</sense>
+	</pron>
+	<phrase value="舆病">
+		<sense value="抱病登车" />
+	</phrase>
+	<phrase value="舆梁">
+		<sense value="可以通车的桥梁" />
+	</phrase>
+	<phrase value="舆论">
+		<sense value="公众的言论" />
+	</phrase>
+	<phrase value="舆人">
+		<sense value="造车之人" />
+		<sense value="众人" />
+		<sense value="古代十等人中第六等，指职位低微的吏卒" />
+	</phrase>
+	<phrase value="舆台">
+		<sense value="下等人" />
+		<sense value="古代十等人中，舆为第六等，台为第十等" />
+		<sense value="泛指地位低下的人" />
+	</phrase>
+	<phrase value="舆薪">
+		<sense value="满车柴薪，比喻大且易见的事物" />
+	</phrase>
+</character>

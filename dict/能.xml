@@ -1,0 +1,39 @@
+<character value="能">
+	<introduce>
+		<pinyin value="neng2" writing="néng" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="折捺竖折横横撇折撇折" />
+	</introduce>
+	<pron value="néng">
+		<sense tag="名" vernacular="能力；才能">
+			<exam article="《屈原列传》" ref="上官大夫与之同列，争宠而心害其能。" />
+		</sense>
+		<sense tag="形" vernacular="有能力">
+			<exam article="《出师表》" ref="试用于昔日，先帝称之曰能。" />
+		</sense>
+		<sense tag="名" vernacular="有能力的人">
+			<exam article="《报任安书》" ref="招贤进能，显岩穴之士。" />
+		</sense>
+		<sense tag="动" vernacular="能够；能够达到">
+			<exam article="《劝学》" ref="假舟楫也，非能水也，而绝江河。" />
+		</sense>
+		<sense tag="动" vernacular="及；达">
+			<exam article="《游褒禅山记》" ref="盖余所及，比好游者尚不能十一。" />
+		</sense>
+		<sense tag="代" vernacular="通“恁”">
+			<exam article="《茅屋为秋风所破歌》" ref="南村群童欺我老无力，忍能对面为盗贼。" />
+		</sense>
+		<sense tag="动" vernacular="通“耐”">
+			<exam article="《察变》" ref="此物能寒，法当较今尤茂。" />
+		</sense>
+	</pron>
+	<phrase value="能品">
+		<sense value="古人评论书画的三品之一，次于神品、妙品" />
+		<sense value="凡能做到形似不失规矩者称能品" />
+	</phrase>
+	<phrase value="能事">
+		<sense value="能够做到的事" />
+	</phrase>
+</character>

@@ -1,0 +1,56 @@
+<character value="穿">
+	<introduce>
+		<pinyin value="chuan1" writing="chuān" />
+		<bushou value="穴" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="捺捺折撇捺横折竖撇" />
+	</introduce>
+	<pron value="chuān">
+		<sense tag="动" vernacular="穿透，突破">
+			<exam article="《赤壁之战》" ref="此所谓‘强弩之末势不能穿鲁缟’者也。" />
+		</sense>
+		<sense tag="动" vernacular="凿，掘">
+			<exam article="《察传》" ref="及其家穿井，告人曰：‘吾穿井得一人。’" />
+		</sense>
+		<sense tag="动" vernacular="通过，经过">
+			<exam article="《登泰山记》" ref="穿泰山西北谷，越长城之限，至于泰安。" />
+			<exam article="《闻官军收河南河北》" ref="即从巴峡穿巫峡，便下襄阳向洛阳。" />
+		</sense>
+		<sense tag="动" vernacular="贯串">
+			<exam article="《孔雀东南飞》" ref="赍钱三百万，皆用青丝穿。" />
+		</sense>
+		<sense tag="形" vernacular="破，破损">
+			<exam article="《五柳先生传》" ref="短褐穿结，箪瓢屡空。" />
+		</sense>
+		<sense tag="动" vernacular="穿戴">
+			<exam article="《[般涉调]哨遍·高祖还乡》" ref="拿着些不曾见的器仗，穿着些大作怪衣服。" />
+		</sense>
+		<sense tag="名" vernacular="洞，孔">
+			<exam article="《宋书·刘秀之传》" ref="柱有一穿。" />
+		</sense>
+	</pron>
+	<phrase value="穿鼻">
+		<sense value="1" />
+		<sense value="听命于人，如牛鼻之穿绳而不能自主" />
+		<sense value="2" />
+		<sense value="古代某些地区少数民族的习俗" />
+	</phrase>
+	<phrase value="穿穴">
+		<sense value="1" />
+		<sense value="洞穴" />
+		<sense value="2" />
+		<sense value="强求其通" />
+	</phrase>
+	<phrase value="穿杨">
+		<sense value="《战国策·西周策》载：“楚国的养由基善于射箭，能够在百步之外射穿杨柳的叶子" />
+		<sense value="后人以“穿杨”比喻文章技艺能够得到世人的承认" />
+	</phrase>
+	<phrase value="穿逾">
+		<sense value="穿壁翻墙" />
+	</phrase>
+	<phrase value="穿凿">
+		<sense value="1" />
+		<sense value="凿通" />
+	</phrase>
+</character>

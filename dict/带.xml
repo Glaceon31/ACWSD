@@ -1,0 +1,30 @@
+<character value="带">
+	<introduce>
+		<pinyin value="dai4" writing="dài" />
+		<bushou value="巾" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖竖竖捺折竖折竖" />
+	</introduce>
+	<pron value="dài">
+		<sense tag="名" vernacular="腰带；衣带；带子">
+			<exam article="《公输》" ref="子墨子解带为城，以牒为械。" />
+		</sense>
+		<sense tag="动" vernacular="偑带；带着">
+			<exam article="《涉江》" ref="带长铗之陆离兮，冠切云之崔嵬。" />
+			<exam article="《鸿门宴》" ref="哙即带剑拥盾入军门。" />
+		</sense>
+		<sense tag="动" vernacular="围绕；环绕">
+			<exam article="《兰亭集序》" ref="又有清流激湍，映带左右。" />
+		</sense>
+		<sense tag="动" vernacular="附着；含着；夹杂着">
+			<exam article="《北山移文》" ref="风云凄其带愤，石泉咽而下怆。" />
+		</sense>
+		<sense tag="动" vernacular="兼任；兼带">
+			<exam article="《梁书·曹景宗传》" ref="复以为征虏中兵参军，带冯翊太守。" />
+		</sense>
+		<sense tag="名" vernacular="指附近相连的地区">
+			<exam article="《宋史·李纲传》" ref="如鼎澧岳鄂若荆南一带，皆当屯宿重兵，倚为形势。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,47 @@
+<character value="揣">
+	<introduce>
+		<pinyin value="chuai3" writing="chuăi" />
+		<pinyin value="chuai1" writing="chuāi" />
+		<pinyin value="chuai4" writing="chuài" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖横竖折竖横撇竖折竖竖" />
+	</introduce>
+	<pron value="chuāi">
+		<sense tag="动" vernacular="量；测量">
+			<exam article="《左传·昭公三十二年》" ref="计丈数，揣高卑。（高卑：高低。）" />
+		</sense>
+		<sense tag="支" vernacular="忖度；猜测；试探">
+			<exam article="《史记·陆贾列传》" ref="生揣我何念？" />
+		</sense>
+	</pron>
+	<pron value="chuāi">
+		<sense tag="动" vernacular="怀藏" />
+		<sense tag="动" vernacular="怀（胎）" />
+	</pron>
+	<pron value="zhuī">
+		<sense tag="动" vernacular="击，捶击">
+			<exam article="《老子·九章》" ref="揣而锐之，不可长保。" />
+		</sense>
+	</pron>
+	<pron value="tuán">
+		<sense tag="形" vernacular="通“团”，积聚的样子" />
+	</pron>
+	<phrase value="揣情">
+		<sense value="1" />
+		<sense value="忖度情理" />
+		<sense value="2" />
+		<sense value="悉心探求真意，以相比合" />
+	</phrase>
+	<phrase value="揣摩">
+		<sense value="1" />
+		<sense value="悉心探求真意，以期比合" />
+	</phrase>
+	<phrase value="揣挫">
+		<sense value="打击摧折" />
+	</phrase>
+	<phrase value="揣丸">
+		<sense value="和调" />
+	</phrase>
+</character>

@@ -1,0 +1,18 @@
+<character value="梃">
+	<introduce>
+		<pinyin value="ting3" writing="tĭng" />
+		<pinyin value="ting4" writing="tìng" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横竖撇捺撇横竖横折捺" />
+	</introduce>
+	<pron value="tǐng">
+		<sense tag="名" vernacular="棍棒">
+			<exam article="《孟子·梁惠王上》" ref="杀人以梃与刃，有以异乎?" />
+		</sense>
+		<sense tag="量" vernacular="计量竿状物体的单位，根">
+			<exam article="《魏书·李孝伯传》" ref="骏遣人献酒器，甘蔗百梃。" />
+		</sense>
+	</pron>
+</character>

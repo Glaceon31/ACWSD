@@ -1,0 +1,17 @@
+<character value="庋">
+	<introduce>
+		<pinyin value="gui3" writing="guĭ" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺横撇横竖折捺" />
+	</introduce>
+	<pron value="guǐ">
+		<sense tag="动" vernacular="放置；搁起来">
+			<exam article="《黄生借书说》" ref="若业为吾所有，必高束焉，庋藏焉。" />
+		</sense>
+		<sense tag="名" vernacular="放置器物的架子">
+			<exam article="《夷坚志·蔡河秀才》" ref="见床内小板庋上，乌纱帽存。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="徭">
+	<introduce>
+		<pinyin value="yao2" writing="yáo" />
+		<bushou value="彳" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="撇撇竖撇捺捺撇撇横横竖折竖" />
+	</introduce>
+	<pron value="yáo">
+		<sense tag="名" vernacular="劳役，封建统治阶级强制人民承担的无偿劳动，常“傜役”连用">
+			<exam article="《韩非子·损益》" ref="徭役并起，农桑失业。" />
+		</sense>
+	</pron>
+</character>

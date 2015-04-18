@@ -1,0 +1,61 @@
+<character value="致">
+	<introduce>
+		<pinyin value="zhi4" writing="zhì" />
+		<bushou value="至" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="横折捺横竖横撇横撇捺" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="动" vernacular="送；送达">
+			<exam article="《柳敬亭传》" ref="皖帅欲结欢于宁南，致敬亭于幕府。" />
+		</sense>
+		<sense tag="动" vernacular="表达；表示">
+			<exam article="《屈原列传》" ref="其存君兴国而欲反复之，一篇之中三致意焉。" />
+		</sense>
+		<sense tag="动" vernacular="说；回答">
+			<exam article="《石壕吏》" ref="听妇前致词，三男邺城戍。" />
+		</sense>
+		<sense tag="动" vernacular="达到">
+			<exam article="《劝学》" ref="假舆者，非利足也，而致千里。" />
+		</sense>
+		<sense tag="动" vernacular="获得；得到">
+			<exam article="《送东阳马生序》" ref="家贫，无以致书以观。" />
+		</sense>
+		<sense tag="动" vernacular="招致；引来">
+			<exam article="《信陵君窃符救赵》" ref="致食客三千人。" />
+		</sense>
+		<sense tag="动" vernacular="招请；招集">
+			<exam article="《过秦论》" ref="不爱珍器重宝肥饶之地，以致天下之士。" />
+		</sense>
+		<sense tag="动" vernacular="致使；使得">
+			<exam article="《孔雀东南飞》" ref="女行无偏斜，何意致不厚？" />
+		</sense>
+		<sense tag="动" vernacular="送还；交还">
+			<exam article="《柳毅传》" ref="昔为钱塘长，今则致政焉。" />
+		</sense>
+		<sense tag="动" vernacular="用">
+			<exam article="《张衡传》" ref="衡善机巧，尤致思于天文阴阳历算。" />
+		</sense>
+		<sense tag="名" vernacular="情致；情趣">
+			<exam article="《兰亭集序》" ref="虽世殊事异，所以兴怀，其致一也。" />
+		</sense>
+		<sense tag="形" vernacular="细密；细致">
+			<exam article="《汉书·辛延年传》" ref="按其狱，皆文致，不可得反。" />
+		</sense>
+		<sense tag="副" vernacular="通“至”，极">
+			<exam article="《与吴致书》" ref="元瑜书记翩翩，致足乐也。" />
+		</sense>
+	</pron>
+	<phrase value="致力">
+		<sense value="把力量集中用在某个方面" />
+	</phrase>
+	<phrase value="致命">
+		<sense value="舍弃生命" />
+		<sense value="要害的" />
+	</phrase>
+	<phrase value="致意">
+		<sense value="向别人表达自己的用意" />
+		<sense value="表达问候之意" />
+	</phrase>
+</character>

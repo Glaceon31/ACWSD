@@ -1,0 +1,35 @@
+<character value="惊">
+	<introduce>
+		<pinyin value="jing1" writing="jīng" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺竖捺横竖折横竖撇捺" />
+	</introduce>
+	<pron value="jīng">
+		<sense tag="动" vernacular="马受刺激而行动失常">
+			<exam article="《战国策·赵策一》" ref="襄子至桥而马惊。" />
+			<exam article="《柳毅传》" ref="鸟起马惊，疾逸道左。" />
+		</sense>
+		<sense tag="动" vernacular="惊骇；惊慌">
+			<exam article="《促织》" ref="面如土色，大惊。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……惊骇、惊慌">
+			<exam article="《梦游天姥吟留别》" ref="慄深林兮惊层巅。" />
+			<exam article="《&lt;黄花冈七十二烈士事略&gt;序》" ref="直可惊天地，泣鬼神。" />
+		</sense>
+		<sense tag="动" vernacular="惊讶；惊奇">
+			<exam article="《桃花源记》" ref="见渔人，乃大惊，问所从来。" />
+		</sense>
+		<sense tag="动" vernacular="惊动；震动">
+			<exam article="《滕王阁序》" ref="雁阵惊寒，声断衡阳之浦。" />
+			<exam article="《阿房宫赋》" ref="雷霆乍惊，宫车过也。" />
+		</sense>
+		<sense tag="形" vernacular="气势大而猛">
+			<exam article="《念奴娇·赤壁怀古》" ref="乱石穿空，惊涛拍岸。" />
+		</sense>
+		<sense tag="动" vernacular="起动">
+			<exam article="《岳阳楼记》" ref="至若春和景明，波澜不惊。" />
+		</sense>
+	</pron>
+</character>

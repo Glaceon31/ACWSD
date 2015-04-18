@@ -1,0 +1,17 @@
+<character value="潴">
+	<introduce>
+		<pinyin value="zhu1" writing="zhū" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="捺捺横撇折撇横竖横撇竖折横横" />
+	</introduce>
+	<pron value="zhū">
+		<sense tag="名" vernacular="水停聚的地方，坡塘">
+			<exam article="《周礼·地官·稻人》" ref="以潴畜水。" />
+		</sense>
+		<sense tag="动" vernacular="水停聚">
+			<exam article="《上杜学士言开河书》" ref="大浚治川渠，使有所潴。" />
+		</sense>
+	</pron>
+</character>

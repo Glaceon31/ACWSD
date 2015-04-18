@@ -1,0 +1,30 @@
+<character value="杖">
+	<introduce>
+		<pinyin value="zhang4" writing="zhàng" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="横竖撇捺横撇捺" />
+	</introduce>
+	<pron value="zhàng">
+		<sense tag="名" vernacular="手杖；拐杖">
+			<exam article="《茅屋为秋风所破歌》" ref="归来倚杖自叹息。" />
+		</sense>
+		<sense tag="名" vernacular="挑物的工具">
+			<exam article="《荷蓧丈人》" ref="以杖荷蓧。" />
+		</sense>
+		<sense tag="名" vernacular="棍棒">
+			<exam article="《订鬼》" ref="病者困剧，身体痛，则谓鬼持箠杖殴击之。" />
+		</sense>
+		<sense tag="动" vernacular="用棍棒打">
+			<exam article="《书博鸡者事》" ref="不呼则杖其背。" />
+		</sense>
+		<sense tag="动" vernacular="拄着">
+			<exam article="《中山狼传》" ref="遥望老子杖藜而来。" />
+		</sense>
+	</pron>
+	<phrase value="杖策">
+		<sense value="执鞭，指驱马而行" />
+		<sense value="扶杖" />
+	</phrase>
+</character>

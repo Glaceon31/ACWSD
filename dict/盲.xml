@@ -1,0 +1,17 @@
+<character value="盲">
+	<introduce>
+		<pinyin value="mang2" writing="máng" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="8" />
+		<order value="捺横折竖折横横横" />
+	</introduce>
+	<pron value="máng">
+		<sense tag="形" vernacular="眼睛瞎">
+			<exam article="《老子》" ref="五色令目盲。" />
+		</sense>
+		<sense tag="形" vernacular="昏暗">
+			<exam article="《荀子·赋篇》" ref="旦暮晦盲。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,18 @@
+<character value="萑">
+	<introduce>
+		<pinyin value="huan2" writing="huán" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖竖撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="huán">
+		<sense tag="名" vernacular="芦类植物">
+			<exam article="《汉书·晁错传》" ref="萑苇竹箫。" />
+		</sense>
+	</pron>
+	<pron value="zhuī">
+		<sense tag="名" vernacular="草名" />
+		<sense tag="形" vernacular="草多的样子" />
+	</pron>
+</character>

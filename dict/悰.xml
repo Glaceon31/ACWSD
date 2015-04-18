@@ -1,0 +1,13 @@
+<character value="悰">
+	<introduce>
+		<pinyin value="cong2" writing="cóng" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺竖捺捺折横横竖撇捺" />
+	</introduce>
+	<pron value="cóng">
+		<sense tag="名" vernacular="欢乐；乐趣" />
+		<sense tag="名" vernacular="心情；思绪" />
+	</pron>
+</character>

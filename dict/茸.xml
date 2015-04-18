@@ -1,0 +1,22 @@
+<character value="茸">
+	<introduce>
+		<pinyin value="rong2" writing="róng" />
+		<pinyin value="rong3" writing="rŏng" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖竖横竖竖横横横" />
+	</introduce>
+	<pron value="róng">
+		<sense tag="名" vernacular="草初生的细芽">
+			<exam article="《于南山往北山经湖中瞻眺》" ref="初篁苞绿箨，新蒲含紫茸。" />
+		</sense>
+	</pron>
+	<pron value="rǒng" />
+	<phrase value="茸阘">
+		<sense value="微贱" />
+	</phrase>
+	<phrase value="茸茸">
+		<sense value="细密的样子" />
+	</phrase>
+</character>

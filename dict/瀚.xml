@@ -1,0 +1,20 @@
+<character value="瀚">
+	<introduce>
+		<pinyin value="han4" writing="hàn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="19" />
+		<order value="捺捺横横竖竖折横横横竖撇捺折捺横折捺横" />
+	</introduce>
+	<pron value="hàn">
+		<sense vernacular="见“瀚海”、“瀚瀚”" />
+	</pron>
+	<phrase value="瀚海">
+		<sense value="两汉六朝指北方的一个湖泊" />
+		<sense value="其地众说不一，一说即今贝加尔湖" />
+		<sense value="唐代泛指从蒙古高原大沙漠以北直到今准噶尔盆地一带广大地区" />
+	</phrase>
+	<phrase value="瀚瀚">
+		<sense value="广大的样子" />
+	</phrase>
+</character>

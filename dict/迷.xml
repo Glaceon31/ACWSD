@@ -1,0 +1,23 @@
+<character value="迷">
+	<introduce>
+		<pinyin value="mi2" writing="mí" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺撇横竖撇捺捺折捺" />
+	</introduce>
+	<pron value="mí">
+		<sense tag="动" vernacular="分辨不清；迷乱">
+			<exam article="《归去来兮辞》" ref="实迷途其未远，觉今是而昨非。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……迷乱；使……看不清">
+			<exam article="《钱塘湖春行》" ref="乱花渐欲迷人眼，浅草才能没马蹄。" />
+		</sense>
+		<sense tag="动" vernacular="迷恋；沉醉">
+			<exam article="《梦游天姥吟留别》" ref="千岩万转路不定，迷花倚石忽已暝。" />
+		</sense>
+		<sense tag="动" vernacular="弥漫">
+			<exam article="《送灵州李判官》" ref="血战乾坤赤，氛迷日月黄。" />
+		</sense>
+	</pron>
+</character>

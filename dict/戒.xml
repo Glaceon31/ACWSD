@@ -1,0 +1,26 @@
+<character value="戒">
+	<introduce>
+		<pinyin value="jie4" writing="jiè" />
+		<bushou value="戈" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="横横撇竖折撇捺" />
+	</introduce>
+	<pron value="jiè">
+		<sense tag="动" vernacular="警戒；警惕；戒备">
+			<exam article="《孔雀东南飞》" ref="多谢后世人，戒之慎勿忘。" />
+		</sense>
+		<sense tag="动" vernacular="告诫；劝诫">
+			<exam article="《冯婉贞》" ref="三保戒团众装药实弹，毋亡发。" />
+		</sense>
+		<sense tag="动" vernacular="戒除；禁戒">
+			<exam article="《谏太宗十思疏》" ref="不念居安思危，戒奢以俭。" />
+		</sense>
+		<sense tag="动" vernacular="古人在祭祀或举行庄严隆重的大事前，洁身静心、克制嗜欲以示诚敬，多“斋戒”连用">
+			<exam article="《廉颇蔺相如列传》" ref="于是赵王乃斋戒五日。" />
+		</sense>
+		<sense tag="名" vernacular="戒规">
+			<exam article="《晋书·会稽王道子传》" ref="佛教以五戒为教，绝酒不淫。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,24 @@
+<character value="聒">
+	<introduce>
+		<pinyin value="guo1" writing="guō" />
+		<pinyin value="gua1" writing="guā" />
+		<bushou value="耳" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="横竖竖横横横撇横竖竖折横" />
+	</introduce>
+	<pron value="guō">
+		<sense tag="形" vernacular="声音嘈杂、喧扰">
+			<exam article="《答司马谏议书》" ref="虽欲强聒，终必不蒙见察。" />
+		</sense>
+	</pron>
+	<phrase value="聒聒">
+		<sense value="吵吵嚷嚷多话的样子" />
+		<sense value="象声词，形容声音嘈杂" />
+	</phrase>
+	<phrase value="聒噪">
+		<sense value="吵闹；语言烦絮" />
+		<sense value="谦辞" />
+		<sense value="打扰；对不起" />
+	</phrase>
+</character>

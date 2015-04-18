@@ -1,0 +1,20 @@
+<character value="准">
+	<introduce>
+		<pinyin value="zhun3" writing="zhŭn" />
+		<bushou value="冫" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺横撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="zhǔn">
+		<sense tag="名" vernacular="一种测量水平面的器具">
+			<exam article="《汉书·律历志上》" ref="准者，所以揆平取正也。" />
+		</sense>
+		<sense tag="名" vernacular="标准；准则">
+			<exam article="《荀子·致士》" ref="程者，物之准也。" />
+		</sense>
+		<sense tag="名" vernacular="鼻子">
+			<exam article="《后汉书·光武帝纪》" ref="美须眉，大口，隆准。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,25 @@
+<character value="旌">
+	<introduce>
+		<pinyin value="jing1" writing="jīng" />
+		<bushou value="方" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="捺横折撇撇横撇横横竖横" />
+	</introduce>
+	<pron value="jīng">
+		<sense tag="名" vernacular="古代一种饰有牦牛尾和五色羽毛，用于指挥和开道的旗帜">
+			<exam article="《赤壁赋》" ref="舳舻千里，旌旗蔽空。" />
+			<exam article="《国殇》" ref="旌蔽日兮敌若云。" />
+		</sense>
+		<sense tag="动" vernacular="表彰">
+			<exam article="《五人墓碑记》" ref="且立于石于其墓之门，以旌其所为。" />
+		</sense>
+	</pron>
+	<phrase value="旌麾">
+		<sense value="帅旗" />
+		<sense value="借指军队" />
+	</phrase>
+	<phrase value="旌节">
+		<sense value="古代使者所持之节" />
+	</phrase>
+</character>

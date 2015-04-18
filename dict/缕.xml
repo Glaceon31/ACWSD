@@ -1,0 +1,20 @@
+<character value="缕">
+	<introduce>
+		<pinyin value="lu3" writing="lǚ" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折折横捺撇横竖撇捺折撇横" />
+	</introduce>
+	<pron value="lǚ">
+		<sense tag="名" vernacular="麻线；丝线">
+			<exam article="《楚辞·招魂》" ref="秦篝齐缕，郑绵络些。" />
+		</sense>
+		<sense tag="副" vernacular="一条一条地，详尽地">
+			<exam article="《七发》" ref="固未能缕形其所由然也。" />
+		</sense>
+		<sense tag="形" vernacular="衣服破烂">
+			<exam article="《织妇词》" ref="如何织纨素，自著蓝缕衣。" />
+		</sense>
+	</pron>
+</character>

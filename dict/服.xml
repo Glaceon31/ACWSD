@@ -1,0 +1,46 @@
+<character value="服">
+	<introduce>
+		<pinyin value="fu2" writing="fú" />
+		<pinyin value="fu4" writing="fù" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="撇折横横折竖折捺" />
+	</introduce>
+	<pron value="fú">
+		<sense tag="动" vernacular="使用；用">
+			<exam article="《周易·系辞》" ref="服牛乘马，引重致远。" />
+		</sense>
+		<sense tag="动" vernacular="从事；承当">
+			<exam article="《论语·为政》" ref="有事，弟子服其劳。" />
+		</sense>
+		<sense tag="名" vernacular="衣服">
+			<exam article="《涉江》" ref="余幼好此奇服兮。" />
+		</sense>
+		<sense tag="动" vernacular="穿衣服">
+			<exam article="《殽之战》" ref="秦伯素服效次，乡师而哭。" />
+		</sense>
+		<sense tag="动" vernacular="穿戴；穿着">
+			<exam article="《邹忌讽齐王纳谏》" ref="朝服衣冠，窥镜。" />
+		</sense>
+		<sense tag="动" vernacular="佩；佩带">
+			<exam article="《冯谖客孟尝君》" ref="文车二驷，服剑一。" />
+		</sense>
+		<sense tag="动" vernacular="归顺；服从">
+			<exam article="《季氏将伐颛臾》" ref="故远人不服，则修文德以来之。" />
+		</sense>
+		<sense tag="动" vernacular="降服；制服">
+			<exam article="《齐桓晋文之事》" ref="以一服八，何以异于邹敌楚哉？" />
+		</sense>
+		<sense tag="动" vernacular="屈服">
+			<exam article="《垓下之战》" ref="所当者破，所击者服。" />
+		</sense>
+		<sense tag="动" vernacular="信服；佩服">
+			<exam article="《张衡传》" ref="果地震陇西，于是皆服其妙。" />
+			<exam article="《琵琶行》" ref="曲罢曾教善才服。" />
+		</sense>
+		<sense tag="动" vernacular="呑服药物">
+			<exam article="《林黛玉进贾府》" ref="常服何药？" />
+		</sense>
+	</pron>
+</character>

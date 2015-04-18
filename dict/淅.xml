@@ -1,0 +1,25 @@
+<character value="淅">
+	<introduce>
+		<pinyin value="xi1" writing="xī" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺横横竖撇捺撇撇横竖" />
+	</introduce>
+	<pron value="xī">
+		<sense tag="动" vernacular="淘米">
+			<exam article="《淮南子·兵略》" ref="淅米而储之。" />
+		</sense>
+		<sense tag="名" vernacular="河名" />
+	</pron>
+	<phrase value="淅沥">
+		<sense value="雨雪声、落叶声、风声" />
+		<sense value="" />
+	</phrase>
+	<phrase value="淅飒">
+		<sense value="轻微的动作" />
+	</phrase>
+	<phrase value="淅淅">
+		<sense value="风声" />
+	</phrase>
+</character>

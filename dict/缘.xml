@@ -1,0 +1,45 @@
+<character value="缘">
+	<introduce>
+		<pinyin value="yuan2" writing="yuán" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折折横折折横撇折撇撇撇捺" />
+	</introduce>
+	<pron value="yuán">
+		<sense tag="名" vernacular="衣边">
+			<exam article="《后汉书·明德马皇后纪》" ref="常衣大练，裙不加缘。" />
+		</sense>
+		<sense tag="动" vernacular="顺着；沿着">
+			<exam article="《桃花源记》" ref="缘溪行，忘路之远近。" />
+		</sense>
+		<sense tag="动" vernacular="趋向；走向">
+			<exam article="《论积贮疏》" ref="末技游食之民，转而缘南亩。" />
+		</sense>
+		<sense tag="动" vernacular="遵照">
+			<exam article="《商君书·君臣》" ref="缘法而治，按功行赏。" />
+		</sense>
+		<sense tag="动" vernacular="攀援">
+			<exam article="《齐桓晋文之事》" ref="以若所为，求若所欲，犹缘木而求鱼也。" />
+		</sense>
+		<sense tag="名" vernacular="缘分">
+			<exam article="《孔雀东南飞》" ref="虽与府吏要，渠会永无缘。" />
+		</sense>
+		<sense tag="连" vernacular="因为">
+			<exam article="《采草药》" ref="缘土气有早晚，天时有愆伏。" />
+		</sense>
+	</pron>
+	<phrase value="缘法">
+		<sense value="因袭旧法" />
+		<sense value="缘分" />
+	</phrase>
+	<phrase value="缘情体物">
+		<sense value="抒发感情，铺叙物状" />
+	</phrase>
+	<phrase value="缘私">
+		<sense value="假公济私" />
+	</phrase>
+	<phrase value="缘坐">
+		<sense value="因牵连而处罪" />
+	</phrase>
+</character>

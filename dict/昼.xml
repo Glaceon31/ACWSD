@@ -1,0 +1,17 @@
+<character value="昼">
+	<introduce>
+		<pinyin value="zhou4" writing="zhòu" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="折横撇捺竖折横横横" />
+	</introduce>
+	<pron value="zhòu">
+		<sense tag="名" vernacular="白天">
+			<exam article="《孔雀东南飞》" ref="昼夜勤作息。" />
+		</sense>
+	</pron>
+	<phrase value="昼晦">
+		<sense value="白天的光线昏暗" />
+	</phrase>
+</character>

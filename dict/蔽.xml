@@ -1,0 +1,23 @@
+<character value="蔽">
+	<introduce>
+		<pinyin value="bi4" writing="bì" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="横竖竖捺撇竖折竖撇捺撇横撇捺" />
+	</introduce>
+	<pron value="bì">
+		<sense tag="动" vernacular="遮住;遮掩">
+			<exam article="《鸿门宴》" ref="常以身翼蔽沛公。" />
+		</sense>
+		<sense tag="动" vernacular="蒙蔽">
+			<exam article="《论语·阳货》" ref="女闻六言六蔽矣乎。" />
+		</sense>
+		<sense tag="动" vernacular="隐藏,躲藏">
+			<exam article="《黔之驴》" ref="蔽林间窥之。" />
+		</sense>
+		<sense tag="动" vernacular="总括;概括">
+			<exam article="《论语·为政》" ref="《诗》三百,一言以蔽之,曰:思无邪。" />
+		</sense>
+	</pron>
+</character>

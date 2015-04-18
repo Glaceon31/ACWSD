@@ -1,0 +1,17 @@
+<character value="飔">
+	<introduce>
+		<pinyin value="si1" writing="sī" />
+		<bushou value="风" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="撇折撇捺竖折横竖横捺折捺捺" />
+	</introduce>
+	<pron value="sī">
+		<sense tag="名" vernacular="凉风">
+			<exam article="《哭连州凌员外司马》" ref="孤旐凝寒飔。" />
+		</sense>
+		<sense tag="名" vernacular="急风">
+			<exam article="《磐石篇》" ref="一举必千里，乘飔举帆幢。" />
+		</sense>
+	</pron>
+</character>

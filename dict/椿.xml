@@ -1,0 +1,23 @@
+<character value="椿">
+	<introduce>
+		<pinyin value="chun1" writing="chūn" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="横竖撇捺横横横撇捺竖折横横" />
+	</introduce>
+	<pron value="chūn">
+		<sense vernacular="古树名">
+			<exam article="《列子·汤问》" ref="上古有大椿者，以八千岁为春，八千岁为秋。" />
+		</sense>
+	</pron>
+	<phrase value="椿龄">
+		<sense value="犹春年，祝人长寿之辞" />
+	</phrase>
+	<phrase value="椿庭">
+		<sense value="父亲的代称" />
+	</phrase>
+	<phrase value="椿萱">
+		<sense value="古称父为“椿庭”，母为“萱堂”，故“椿萱”为父母的代称" />
+	</phrase>
+</character>

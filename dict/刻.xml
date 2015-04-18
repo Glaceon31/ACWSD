@@ -1,0 +1,41 @@
+<character value="刻">
+	<introduce>
+		<pinyin value="ke4" writing="kè" />
+		<pinyin value="ke1" writing="kē" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺横折撇撇捺竖竖" />
+	</introduce>
+	<pron value="kè">
+		<sense tag="动" vernacular="刊刻；雕刻">
+			<exam article="《核舟记》" ref="右刻‘山高月小，水落石出’。" />
+		</sense>
+		<sense tag="名" vernacular="刻在木、骨、石、玉等上面的字画等">
+			<exam article="《登泰山记》" ref="是日观道中石刻，自唐显庆以来，其远古刻尽漫失。" />
+		</sense>
+		<sense tag="动" vernacular="刻画；表现">
+			<exam article="《马伶传》" ref="引商刻羽，抗坠疾徐，并称善也。" />
+		</sense>
+		<sense tag="名" vernacular="时刻" />
+		<sense tag="名" vernacular="短暂的时间">
+			<exam article="《芙蕖》" ref="是芙蕖也者，无一时一刻不适耳目之观。" />
+		</sense>
+	</pron>
+	<phrase value="刻日">
+		<sense value="限定日期" />
+	</phrase>
+	<phrase value="刻深">
+		<sense value="严酷；苛刻" />
+		<sense value="指文字古奥峭拔" />
+	</phrase>
+	<phrase value="刻削">
+		<sense value="雕刻" />
+		<sense value="剥夺；侵害" />
+		<sense value="生活俭约" />
+	</phrase>
+	<phrase value="刻意">
+		<sense value="克制意欲" />
+		<sense value="专心一意" />
+	</phrase>
+</character>

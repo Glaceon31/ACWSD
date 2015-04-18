@@ -1,0 +1,40 @@
+<character value="口">
+	<introduce>
+		<pinyin value="kou3" writing="kŏu" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="竖折横" />
+	</introduce>
+	<pron value="kǒu">
+		<sense tag="名" vernacular="嘴">
+			<exam article="《齐桓晋文之事》" ref="为肥甘不足于口与?" />
+		</sense>
+		<sense tag="名" vernacular="人口">
+			<exam article="《治平篇》" ref="视高、曾时口已不下五六倍。" />
+		</sense>
+		<sense tag="量" vernacular="(一)个">
+			<exam article="《晋书·刘曜载记》" ref="献剑一口。" />
+			<exam article="《水经注·资水》" ref="水南十里有井数百口。" />
+		</sense>
+		<sense tag="名" vernacular="器物的口">
+			<exam article="《卖油翁》" ref="乃取一葫芦置于地，以钱覆其口。" />
+		</sense>
+		<sense tag="名" vernacular="进出的通道">
+			<exam article="《石钟山记》" ref="彭蠡之口有石钟山焉。" />
+			<exam article="《桃花源记》" ref="山有小口，仿佛若有光。" />
+		</sense>
+		<sense tag="名" vernacular="刀剑的刃">
+			<exam article="《水浒传》" ref="砍铜剁铁，刀口不卷。" />
+		</sense>
+		<sense tag="名" vernacular="中医指寸脉">
+			<exam article="《史记·扁鹊见仓公列传》" ref="切其脉时，右口气急。" />
+		</sense>
+	</pron>
+	<phrase value="口面">
+		<sense value="争吵" />
+	</phrase>
+	<phrase value="口浅">
+		<sense value="口快；说话直截了当" />
+	</phrase>
+</character>

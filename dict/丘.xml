@@ -1,0 +1,32 @@
+<character value="丘">
+	<introduce>
+		<pinyin value="qiu1" writing="qiū" />
+		<bushou value="丿" />
+		<bushoustroke value="1" />
+		<stroke value="5" />
+		<order value="撇竖横竖横" />
+	</introduce>
+	<pron value="qiū">
+		<sense tag="名" vernacular="土堆；小土山">
+			<exam article="《愚公移山》" ref="以君之力，曾不能损魁父之丘。" />
+		</sense>
+		<sense tag="名" vernacular="坟墓">
+			<exam article="《史记·吴王濞列传》" ref="烧残民家，掘其丘冢。" />
+		</sense>
+		<sense tag="名" vernacular="丘墟；废墟">
+			<exam article="《哀郢》" ref="曾不知夏之为丘兮。" />
+		</sense>
+		<sense tag="量" vernacular="即垄，田亩耕作单位">
+			<exam article="《采草药》" ref="一丘之禾，则后种者晚实。" />
+		</sense>
+	</pron>
+	<phrase value="丘墟">
+		<sense value="废墟；荒地" />
+		<sense value="坟墓" />
+	</phrase>
+	<phrase value="丘壑">
+		<sense value="深山幽谷" />
+		<sense value="常指隐居处" />
+		<sense value="画家的构思布局" />
+	</phrase>
+</character>

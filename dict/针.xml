@@ -1,0 +1,17 @@
+<character value="针">
+	<introduce>
+		<pinyin value="zhen1" writing="zhēn" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="7" />
+		<order value="撇横横横折横竖" />
+	</introduce>
+	<pron value="zhēn">
+		<sense tag="名" vernacular="缝纫用的针">
+			<exam article="《促织》" ref="遂于蒿莱中侧听徐行，似寻针芥。" />
+		</sense>
+		<sense tag="名" vernacular="治病用的金属针">
+			<exam article="《扁鹊见蔡桓公》" ref="在肌肤，针石之所及也。" />
+		</sense>
+	</pron>
+</character>

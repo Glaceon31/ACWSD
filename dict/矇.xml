@@ -1,0 +1,20 @@
+<character value="矇">
+	<introduce>
+		<pinyin value="meng2" writing="méng" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="18" />
+		<order value="竖折横横横横竖竖捺折横横撇折撇撇撇捺" />
+	</introduce>
+	<pron value="méng">
+		<sense tag="名" vernacular="盲">
+			<exam article="《国语·晋语》" ref="矇瞍不可使视。" />
+		</sense>
+		<sense tag="名" vernacular="盲人；乐官">
+			<exam article="《国语·楚语》" ref="史不失书，矇不失诵。" />
+		</sense>
+		<sense tag="形" vernacular="愚蒙">
+			<exam article="《论衡·量知》" ref="人未学问日矇。" />
+		</sense>
+	</pron>
+</character>

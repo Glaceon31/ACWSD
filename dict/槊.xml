@@ -1,0 +1,14 @@
+<character value="槊">
+	<introduce>
+		<pinyin value="shuo4" writing="shuò" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="捺撇横折竖撇撇折横横横竖撇捺" />
+	</introduce>
+	<pron value="shuō">
+		<sense tag="名" vernacular="长矛">
+			<exam article="《魏书·杨津传》" ref="不畏利槊坚城，惟畏杨公铁星。" />
+		</sense>
+	</pron>
+</character>

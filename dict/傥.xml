@@ -1,0 +1,18 @@
+<character value="傥">
+	<introduce>
+		<pinyin value="tang3" writing="tăng" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="12" />
+		<order value="撇竖竖捺撇捺折竖折横撇折" />
+	</introduce>
+	<pron value="tǎng">
+		<sense tag="形" vernacular="精神恍惚的样子">
+			<exam article="《庄子·田子方》" ref="文侯傥然，终日不言。" />
+		</sense>
+		<sense tag="连" vernacular="假如" />
+		<sense tag="副" vernacular="或许">
+			<exam article="《史记·东越列传》" ref="计杀余善，自归诸将，傥幸得脱。" />
+		</sense>
+	</pron>
+</character>

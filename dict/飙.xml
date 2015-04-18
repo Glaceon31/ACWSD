@@ -1,0 +1,15 @@
+<character value="飙">
+	<introduce>
+		<pinyin value="biao1" writing="biāo" />
+		<bushou value="风" />
+		<bushoustroke value="4" />
+		<stroke value="16" />
+		<order value="横撇捺捺横撇捺捺横撇捺捺撇折撇捺" />
+	</introduce>
+	<pron value="biāo">
+		<sense tag="名" vernacular="狂风；旋风" />
+	</pron>
+	<phrase value="飙尘">
+		<sense value="狂风吹起的尘土，比喻行止无常" />
+	</phrase>
+</character>

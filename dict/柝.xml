@@ -1,0 +1,17 @@
+<character value="柝">
+	<introduce>
+		<pinyin value="tuo4" writing="tuò" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横竖撇捺撇撇横竖捺" />
+	</introduce>
+	<pron value="tuò">
+		<sense tag="名" vernacular="巡夜打更用的梆子">
+			<exam article="《段太尉逸事状》" ref="候卒击柝卫太尉。" />
+		</sense>
+		<sense tag="动" vernacular="通“拓”">
+			<exam article="《淮南子·原道训》" ref="廓四方，柝八极。" />
+		</sense>
+	</pron>
+</character>

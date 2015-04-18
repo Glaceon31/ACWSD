@@ -1,0 +1,23 @@
+<character value="今">
+	<introduce>
+		<pinyin value="jin1" writing="jīn" />
+		<bushou value="人" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="撇捺捺折" />
+	</introduce>
+	<pron value="jīn">
+		<sense tag="名" vernacular="现在；如今">
+			<exam article="《廉颇蔺相如列传》" ref="今臣至，大王见臣列观。" />
+		</sense>
+		<sense tag="名" vernacular="现代；当代">
+			<exam article="《察今》" ref="察今可以知古。" />
+		</sense>
+		<sense tag="副" vernacular="将要；将会">
+			<exam article="《鸿门宴》" ref="吾属今为之虏矣。" />
+		</sense>
+		<sense tag="连" vernacular="假如；如果">
+			<exam article="《庄暴见孟子》" ref="今王与百姓同乐，则王矣。" />
+		</sense>
+	</pron>
+</character>

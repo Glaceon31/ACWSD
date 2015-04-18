@@ -1,0 +1,27 @@
+<character value="呵">
+	<introduce>
+		<pinyin value="he1" writing="hē" />
+		<pinyin value="ke1" writing="kē" />
+		<pinyin value="a1" writing="ā" />
+		<pinyin value="a2" writing="á" />
+		<pinyin value="a3" writing="ă" />
+		<pinyin value="a4" writing="à" />
+		<pinyin value="a5" writing="a" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="竖折横横竖折横竖" />
+	</introduce>
+	<pron value="hē">
+		<sense tag="动" vernacular="大声责备">
+			<exam article="《史记·李将军列传》" ref="霸陵尉醉，呵止广。" />
+			<exam article="《五人墓碑记》" ref="厉声以呵。" />
+		</sense>
+		<sense tag="动" vernacular="哈气使暧">
+			<exam article="《四时词》" ref="起来呵手画双鸦。" />
+		</sense>
+		<sense tag="名" vernacular="笑声">
+			<exam article="《春日览镜有感》" ref="不满一笑呵。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="晰">
+	<introduce>
+		<pinyin value="xi1" writing="xī" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="竖折横横横竖撇捺撇撇横竖" />
+	</introduce>
+	<pron value="xī">
+		<sense tag="形" vernacular="明白；清楚">
+			<exam article="《后汉书·张衡传》" ref="不有玄虑，孰能昭晰。" />
+		</sense>
+		<sense tag="形" vernacular="白，多指皮肤">
+			<exam article="《送李校书二十六韵》" ref="人间好妙年，不必须白晰。" />
+		</sense>
+	</pron>
+</character>

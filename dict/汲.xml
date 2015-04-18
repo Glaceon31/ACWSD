@@ -1,0 +1,22 @@
+<character value="汲">
+	<introduce>
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="捺捺横撇折捺" />
+	</introduce>
+	<pron value="jí">
+		<sense tag="动" vernacular="(从井、泉、河里)引水或取水；从低处往高处打水">
+			<exam article="《五蠹》" ref="夫山居而谷汲者，膢腊而相遗以水。" />
+			<exam article="《过小孤山大孤山》" ref="江水浑浊，每汲用，皆以杏仁澄之。" />
+		</sense>
+	</pron>
+	<phrase value="汲汲" />
+	<phrase value="汲汲忙忙">
+		<sense value="行动匆忙，急迫" />
+	</phrase>
+	<phrase value="汲善">
+		<sense value="引导使之向善" />
+	</phrase>
+</character>

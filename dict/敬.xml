@@ -1,0 +1,26 @@
+<character value="敬">
+	<introduce>
+		<pinyin value="jing4" writing="jìng" />
+		<bushou value="攵" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖竖撇折竖折横撇横撇捺" />
+	</introduce>
+	<pron value="jìng">
+		<sense tag="形" vernacular="严肃；慎重">
+			<exam article="《论语·颜渊》" ref="君子敬而无失，与人恭而有礼。" />
+		</sense>
+		<sense tag="动" vernacular="严肃慎重地对待">
+			<exam article="《谏太宗十思疏》" ref="忧懈台则思慎始而敬终。" />
+		</sense>
+		<sense tag="动" vernacular="尊敬；敬重">
+			<exam article="《&lt;指南录&gt;后序》" ref="北虽貌敬，实则愤怒。" />
+		</sense>
+		<sense tag="名" vernacular="敬意">
+			<exam article="《廉颇蔺相如列传》" ref="严大国之威以修敬也。" />
+		</sense>
+		<sense tag="形" vernacular="恭敬">
+			<exam article="《信陵君窃符救赵》" ref="公子使客斩其仇头，敬进如姬。" />
+		</sense>
+	</pron>
+</character>

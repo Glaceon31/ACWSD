@@ -1,0 +1,15 @@
+<character value="吻">
+	<introduce>
+		<pinyin value="wen3" writing="wĕn" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="竖折横撇折撇撇" />
+	</introduce>
+	<pron value="wěn">
+		<sense tag="名" vernacular="嘴唇">
+			<exam article="《中山狼传》" ref="遂鼓吻奋爪以向先生。" />
+			<exam article="《促织》" ref="唇吻翕辟。" />
+		</sense>
+	</pron>
+</character>

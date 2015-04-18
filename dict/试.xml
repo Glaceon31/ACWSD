@@ -1,0 +1,27 @@
+<character value="试">
+	<introduce>
+		<pinyin value="shi4" writing="shì" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺折横横竖横折捺" />
+	</introduce>
+	<pron value="shì">
+		<sense tag="动" vernacular="用；任用">
+			<exam article="《礼记·乐记》" ref="兵革不试，五刑不用。" />
+		</sense>
+		<sense tag="动" vernacular="尝试；试探">
+			<exam article="《世态炎凉》" ref="守邸曰：‘试来视之。’" />
+		</sense>
+		<sense tag="动" vernacular="试验；检验">
+			<exam article="《促织》" ref="又试之鸡，果如成言。" />
+		</sense>
+		<sense tag="动" vernacular="考试">
+			<exam article="《左忠毅公逸事》" ref="及试，吏呼名史公，公瞿然注视。" />
+		</sense>
+	</pron>
+	<phrase value="试守">
+		<sense value="犹言试用" />
+		<sense value="在正在任用之前试用" />
+	</phrase>
+</character>

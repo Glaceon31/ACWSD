@@ -1,0 +1,24 @@
+<character value="溺">
+	<introduce>
+		<pinyin value="ni4" writing="nì" />
+		<pinyin value="niao4" writing="niào" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="捺捺横折横折捺横折横折捺横" />
+	</introduce>
+	<pron value="nì">
+		<sense tag="动" vernacular="淹没；落水">
+			<exam article="《察今》" ref="溺死者千有余人。" />
+		</sense>
+		<sense tag="动" vernacular="沉湎而无节制；沉迷不悟">
+			<exam article="《伶官传序》" ref="夫祸患常积于忽微，而智勇多困于所溺。" />
+		</sense>
+		<sense vernacular="niào古“尿”字">
+			<exam article="《狱中杂记》" ref="矢溺皆闭其中，与饮食之气相薄" />
+		</sense>
+	</pron>
+	<phrase value="溺音">
+		<sense value="古人所谓淫乱的音乐" />
+	</phrase>
+</character>

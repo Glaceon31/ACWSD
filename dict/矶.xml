@@ -1,0 +1,15 @@
+<character value="矶">
+	<introduce>
+		<pinyin value="ji1" writing="jī" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="7" />
+		<order value="横撇竖折横撇折" />
+	</introduce>
+	<pron value="jī">
+		<sense tag="名" vernacular="江河岸边突出的大岩石">
+			<exam article="《过小孤山大孤山》" ref="舟过矶，虽无风，亦浪涌。" />
+			<exam article="《经七里滩》" ref="钓矶平可坐，苔磴滑难步。" />
+		</sense>
+	</pron>
+</character>

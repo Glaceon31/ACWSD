@@ -1,0 +1,40 @@
+<character value="怅">
+	<introduce>
+		<pinyin value="chang4" writing="chàng" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺竖撇横折捺" />
+	</introduce>
+	<pron value="chàng">
+		<sense tag="形" vernacular="惆怅；失意">
+			<exam article="《陈涉世家》" ref="辍耕之垄上，怅恨久之。" />
+			<exam article="《狱中杂记》" ref="至再三，不得所请，怅然而去。" />
+		</sense>
+		<sense tag="形" vernacular="懊恼；恼恨">
+			<exam article="《孔雀东南飞》" ref="阿兄得闻之，怅然心中烦。" />
+			<exam article="《智取生辰纲》" ref="那十四个人没一个不怨怅杨志。" />
+		</sense>
+	</pron>
+	<phrase value="怅怅">
+		<sense value="失意，惆怅" />
+	</phrase>
+	<phrase value="怅恨">
+		<sense value="懊恼怨恨" />
+	</phrase>
+	<phrase value="怅怳">
+		<sense value="恍惚" />
+	</phrase>
+	<phrase value="怅惋">
+		<sense value="1" />
+		<sense value="感叹惋惜" />
+		<sense value="2" />
+		<sense value="感到遗憾" />
+	</phrase>
+	<phrase value="怅惘">
+		<sense value="惆怅迷惘的样子" />
+	</phrase>
+	<phrase value="怅望">
+		<sense value="怅然想望" />
+	</phrase>
+</character>

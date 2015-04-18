@@ -1,0 +1,20 @@
+<character value="莩">
+	<introduce>
+		<pinyin value="fu2" writing="fú" />
+		<pinyin value="piao3" writing="piăo" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖竖撇捺捺撇折竖横" />
+	</introduce>
+	<pron value="fú">
+		<sense tag="名" vernacular="芦苇秆里的薄膜">
+			<exam article="《汉书·中山靖王传》" ref="今群臣非有葭莩之亲，鸿毛之重。" />
+		</sense>
+	</pron>
+	<pron value="piǎo">
+		<sense vernacular="通“殍”，饿死的人">
+			<exam article="《孟子·梁惠王上》" ref="野有饿莩。" />
+		</sense>
+	</pron>
+</character>

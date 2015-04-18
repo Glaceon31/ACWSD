@@ -1,0 +1,16 @@
+<character value="擘">
+	<introduce>
+		<pinyin value="bo4" writing="bò" />
+		<pinyin value="bai1" writing="bāi" />
+		<bushou value="手" />
+		<bushoustroke value="4" />
+		<stroke value="17" />
+		<order value="折横撇竖折横捺横捺撇横横竖撇横横竖" />
+	</introduce>
+	<pron value="bò">
+		<sense tag="动" vernacular="分开；分裂">
+			<exam article="《西岳云台歌送丹丘子》" ref="巨灵咆哮擘两山。" />
+		</sense>
+		<sense tag="名" vernacular="大拇指" />
+	</pron>
+</character>

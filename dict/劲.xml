@@ -1,0 +1,27 @@
+<character value="劲">
+	<introduce>
+		<pinyin value="jing4" writing="jìng" />
+		<pinyin value="jin4" writing="jìn" />
+		<bushou value="力" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="折捺横竖横折撇" />
+	</introduce>
+	<pron value="jìng">
+		<sense tag="形" vernacular="强而有力">
+			<exam article="《过秦论》" ref="良将劲弩守要害之处。" />
+		</sense>
+		<sense tag="形" vernacular="刚劲挺拔">
+			<exam article="《后汉书·王霸传》" ref="疾风知劲草。" />
+		</sense>
+		<sense tag="形" vernacular="刚正；刚烈">
+			<exam article="《韩非子·孤愤》" ref="能法之士，必强毅而劲直。" />
+		</sense>
+		<sense tag="形" vernacular="僵直；僵挺">
+			<exam article="《送东阳马生序》" ref="四肢僵劲不能动。" />
+		</sense>
+		<sense tag="形" vernacular="猛烈">
+			<exam article="《观猎》" ref="风劲角弓鸣，将军猎渭城。" />
+		</sense>
+	</pron>
+</character>

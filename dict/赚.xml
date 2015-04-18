@@ -1,0 +1,15 @@
+<character value="赚">
+	<introduce>
+		<pinyin value="zhuan4" writing="zhuàn" />
+		<pinyin value="zuan4" writing="zuàn" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="竖折撇捺捺撇横折横横竖竖撇捺" />
+	</introduce>
+	<pron value="zuàn">
+		<sense tag="动" vernacular="诳骗">
+			<exam article="《唐摭言·散序进士》" ref="赚得英雄尽白头。" />
+		</sense>
+	</pron>
+</character>

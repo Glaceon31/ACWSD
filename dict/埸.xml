@@ -1,0 +1,17 @@
+<character value="埸">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖横竖折横横撇折撇撇" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="名" vernacular="边境；边界">
+			<exam article="《左传·桓公十七年》" ref="疆埸之事，慎守其一。" />
+		</sense>
+		<sense tag="名" vernacular="田界，常“疆场”连用">
+			<exam article="《诗经·小雅·信南山》" ref="疆埸有瓜。" />
+		</sense>
+	</pron>
+</character>

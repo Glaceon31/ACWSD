@@ -1,0 +1,17 @@
+<character value="炫">
+	<introduce>
+		<pinyin value="xuan4" writing="xuàn" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="捺撇撇捺捺横折折捺" />
+	</introduce>
+	<pron value="xuàn">
+		<sense tag="动" vernacular="照耀">
+			<exam article="《史记·田单列传》" ref="牛尾炬火光明炫耀。" />
+		</sense>
+		<sense tag="动" vernacular="炫耀；自夸">
+			<exam article="《披沙拣金赋》" ref="美价初炫，微明内融。" />
+		</sense>
+	</pron>
+</character>

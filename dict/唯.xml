@@ -1,0 +1,26 @@
+<character value="唯">
+	<introduce>
+		<pinyin value="wei2" writing="wéi" />
+		<pinyin value="wei3" writing="wĕi" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="竖折横撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="wéi">
+		<sense tag="副" vernacular="只；仅">
+			<exam article="《周处》" ref="实冀三横唯余其一。" />
+		</sense>
+		<sense tag="助" vernacular="用句首，表示希望">
+			<exam article="《廉颇蔺相如列传》" ref="唯大王与群臣孰计议之。" />
+		</sense>
+		<sense tag="助" vernacular="用于句首，表示语气">
+			<exam article="《子路曾皙冉有公西华侍坐》" ref="唯求则非邦也与？" />
+		</sense>
+	</pron>
+	<pron value="wěi">
+		<sense tag="象" vernacular="应答的声音，略似于现代的“是”">
+			<exam article="《柳毅传》" ref="毅伪退辞谢，俯仰唯唯。" />
+		</sense>
+	</pron>
+</character>

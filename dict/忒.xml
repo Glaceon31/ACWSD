@@ -1,0 +1,16 @@
+<character value="忒">
+	<introduce>
+		<pinyin value="te4" writing="tè" />
+		<pinyin value="tui1" writing="tuī" />
+		<pinyin value="tei1" writing="tēi" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="横捺折捺捺折捺" />
+	</introduce>
+	<pron value="tè">
+		<sense tag="动" vernacular="差错">
+			<exam article="《孙子兵法·形篇》" ref="不忒者，礤所措必胜。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,36 @@
+<character value="工">
+	<introduce>
+		<pinyin value="gong1" writing="gōng" />
+		<bushou value="工" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="横竖横" />
+	</introduce>
+	<pron value="gōng">
+		<sense tag="名" vernacular="工匠、手工业者">
+			<exam article="《荆轲刺秦王》" ref="得赵人徐夫人之匕首，取之百金，使工以药淬之。" />
+			<exam article="《师说》" ref="巫医乐师百工之人，不耻相师。" />
+			<exam article="《石钟山记》" ref="而渔工水师虽知而不能言。" />
+		</sense>
+		<sense tag="名" vernacular="纺织、刺绣、雕刻等手工艺方而的工作">
+			<exam article="《管子·问篇》" ref="处女操工事者几何人？" />
+		</sense>
+		<sense tag="名" vernacular="乐工；乐人">
+			<exam article="《公羊传·襄公二十九年》" ref="使工为之歌《周南》、《召南》。" />
+		</sense>
+		<sense tag="形" vernacular="精；精巧">
+			<exam article="《扬州慢》" ref="纵豆蔻词工，青楼梦好，难赋深情。" />
+		</sense>
+		<sense tag="动" vernacular="善于；擅长">
+			<exam article="《杜十娘怒沉百宝箱》" ref="江南弟子，最工轻薄。" />
+			<exam article="《图画》" ref="善画者多工书而能诗。" />
+			<exam article="《大铁椎传》" ref="宋，怀庆青华镇人，工技击。" />
+		</sense>
+		<sense tag="名" vernacular="官吏">
+			<exam article="《尚书·益稷》" ref="百工熙哉。" />
+		</sense>
+		<sense tag="名" vernacular="通“功”">
+			<exam article="《韩非子·五蠹》" ref="此言多资之易为工也。" />
+		</sense>
+	</pron>
+</character>

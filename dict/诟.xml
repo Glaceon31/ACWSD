@@ -1,0 +1,25 @@
+<character value="诟">
+	<introduce>
+		<pinyin value="gou4" writing="gòu" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺折撇撇横竖折横" />
+	</introduce>
+	<pron value="gòu">
+		<sense tag="名" vernacular="耻辱；侮辱">
+			<exam article="《报任安书》" ref="行莫丑于辱先，诟莫大于宫刑。" />
+		</sense>
+		<sense tag="动" vernacular="骂；辱骂">
+			<exam article="《&lt;指南录&gt;后序》" ref="直前诟虏帅失信。" />
+		</sense>
+	</pron>
+	<phrase value="诟病">
+		<sense value="嘲讽；指责" />
+	</phrase>
+	<phrase value="诟厉">
+		<sense value="辱骂；责骂" />
+		<sense value="又作“诟詈”" />
+		<sense value="厉，病" />
+	</phrase>
+</character>

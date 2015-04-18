@@ -1,0 +1,19 @@
+<character value="媕">
+	<introduce>
+		<pinyin value="an1" writing="ān" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折撇横撇捺横竖折横横撇竖" />
+	</introduce>
+	<pron value="ān">
+		<sense tag="形" vernacular="随和他人，无主见">
+			<exam article="《石鼓歌》" ref="中朝大官老于事，讵肯感激徒媕娿。" />
+		</sense>
+	</pron>
+	<pron value="yǎn">
+		<sense tag="形" vernacular="眉目传情的样子">
+			<exam article="《说文·女部》" ref="媕，女有心媕媕也。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,27 @@
+<character value="汉">
+	<introduce>
+		<pinyin value="han4" writing="hàn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="捺捺横折捺" />
+	</introduce>
+	<pron value="hàn">
+		<sense tag="名" vernacular="汉水">
+			<exam article="《公输》" ref="江、汉之鱼鳖鼋鼍为天下富。" />
+		</sense>
+		<sense tag="名" vernacular="天河；银河">
+			<exam article="《观沧海》" ref="星汉灿烂，若出其里。" />
+		</sense>
+		<sense tag="名" vernacular="男子">
+			<exam article="《北齐书·魏兰根传》" ref="苦用此汉何为？" />
+		</sense>
+		<sense tag="名" vernacular="朝代名" />
+	</pron>
+	<phrase value="汉家">
+		<sense value="指汉朝" />
+	</phrase>
+	<phrase value="汉仗">
+		<sense value="指体貌雄伟" />
+	</phrase>
+</character>

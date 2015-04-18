@@ -1,0 +1,15 @@
+<character value="裾">
+	<introduce>
+		<pinyin value="ju1" writing="jū" />
+		<bushou value="衤" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="捺折竖撇捺折横撇横竖竖折横" />
+	</introduce>
+	<pron value="jū">
+		<sense tag="名" vernacular="衣服的前襟">
+			<exam article="《送李愿归盘谷序》" ref="飘轻裾，翳长袖。" />
+			<exam article="《报刘一丈书》" ref="立厩中仆马之间，恶气袭衣裾。" />
+		</sense>
+	</pron>
+</character>

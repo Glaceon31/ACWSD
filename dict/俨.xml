@@ -1,0 +1,22 @@
+<character value="俨">
+	<introduce>
+		<pinyin value="yan3" writing="yăn" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="撇竖横竖竖捺撇横撇" />
+	</introduce>
+	<pron value="yǎn">
+		<sense tag="形" vernacular="庄重">
+			<exam article="《答李诩书》" ref="俨乎其若思，茫乎其若迷。" />
+		</sense>
+		<sense tag="动" vernacular="整治">
+			<exam article="《滕王阁序》" ref="俨骖騑于上路，访风景于崇阿。" />
+		</sense>
+	</pron>
+	<phrase value="俨然">
+		<sense value="矜持庄重的样子" />
+		<sense value="整整齐齐的样子" />
+		<sense value="极相似；犹如" />
+	</phrase>
+</character>

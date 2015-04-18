@@ -1,0 +1,33 @@
+<character value="产">
+	<introduce>
+		<pinyin value="chan3" writing="chăn" />
+		<bushou value="亠" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺横捺撇横撇" />
+	</introduce>
+	<pron value="chǎn">
+		<sense tag="动" vernacular="生长；出产">
+			<exam article="《捕蛇者说》" ref="永州之野产异蛇，黑质而白章。" />
+		</sense>
+		<sense tag="动" vernacular="生育；出生">
+			<exam article="《孟子·滕文公上》" ref="陈良，楚产也。" />
+		</sense>
+		<sense tag="名" vernacular="产物">
+			<exam article="《促织》" ref="此物故非西产。" />
+		</sense>
+		<sense tag="名" vernacular="财产；产业">
+			<exam article="《齐桓晋文之事》" ref="无恒产而有恒心者，惟士为能。" />
+			<exam article="《促织》" ref="每责一头，辄倾数家之产。" />
+		</sense>
+	</pron>
+	<phrase value="产业">
+		<sense value="1" />
+		<sense value="占有的财产" />
+		<sense value="2" />
+		<sense value="积聚财产的事业" />
+	</phrase>
+	<phrase value="产怨">
+		<sense value="产生怨恨" />
+	</phrase>
+</character>

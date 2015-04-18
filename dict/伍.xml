@@ -1,0 +1,26 @@
+<character value="伍">
+	<introduce>
+		<pinyin value="wu3" writing="wŭ" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇竖横竖折横" />
+	</introduce>
+	<pron value="wǔ">
+		<sense tag="名" vernacular="古代军队的最小编制单位，五人为伍">
+			<exam article="《左传·桓公五年》" ref="为鱼丽之阵，先偏后伍。" />
+		</sense>
+		<sense tag="名" vernacular="古代居民的编制单位，五家为伍，常以“编伍”借指民间">
+			<exam article="《五人墓碑记》" ref="而五人生于编伍之间，素不闻诗书之训。" />
+		</sense>
+		<sense tag="名" vernacular="队伍；行列">
+			<exam article="《过秦论》" ref="蹑足行伍之间，而倔起阡陌之中。" />
+		</sense>
+		<sense tag="名" vernacular="同类；同伙">
+			<exam article="《史记·淮阴侯列传》" ref="生乃哙等为伍。" />
+		</sense>
+	</pron>
+	<phrase value="伍人">
+		<sense value="古代军队或户籍编在同伍的人" />
+	</phrase>
+</character>

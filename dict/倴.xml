@@ -1,0 +1,18 @@
+<character value="倴">
+	<introduce>
+		<pinyin value="ben4" writing="bèn" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="撇竖横撇捺横竖横撇竖" />
+	</introduce>
+	<pron value="bèn">
+		<sense tag="形" vernacular="愚笨；不聪明；不灵活">
+			<exam article="《宝剑记》" ref="这灶下倴汉生活何难之有？" />
+		</sense>
+		<sense tag="动" vernacular="奔向；走向">
+			<exam article="《刘知远诸宫调·知远别三娘太原投事》" ref="怎恁地徤捷，欲倴草房去。" />
+		</sense>
+		<sense tag="名" vernacular="地名" />
+	</pron>
+</character>

@@ -1,0 +1,29 @@
+<character value="痴">
+	<introduce>
+		<pinyin value="chi1" writing="chī" />
+		<bushou value="疒" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="捺横撇捺横撇横横撇捺竖折横" />
+	</introduce>
+	<pron value="chī">
+		<sense tag="形" vernacular="傻；呆">
+			<exam article="《促织》" ref="但儿神气痴木，奄奄思睡。" />
+		</sense>
+		<sense tag="形" vernacular="着迷；入迷">
+			<exam article="《湖心亭看雪》" ref="莫说相公痴，更有痴似相公者。" />
+			<exam article="《王冕读书》" ref="儿痴如此，曷不听其所为？" />
+		</sense>
+	</pron>
+	<phrase value="痴騃">
+		<sense value="呆傻" />
+	</phrase>
+	<phrase value="痴狂">
+		<sense value="1" />
+		<sense value="疯癫" />
+	</phrase>
+	<phrase value="痴顽">
+		<sense value="愚顽无知" />
+		<sense value="常作为自谦之词" />
+	</phrase>
+</character>

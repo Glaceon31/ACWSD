@@ -1,0 +1,36 @@
+<character value="狂">
+	<introduce>
+		<pinyin value="kuang2" writing="kuáng" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="撇折撇横横竖横" />
+	</introduce>
+	<pron value="kuáng">
+		<sense tag="动" vernacular="（狗）发疯">
+			<exam article="《晋书·五行志》" ref="旱岁，犬多狂死。" />
+		</sense>
+		<sense tag="动" vernacular="（人）疯癫；精神失常，颠狂">
+			<exam article="《五人墓碑记》" ref="而又有剪发杜门，佯狂不知所之者。" />
+		</sense>
+		<sense tag="形" vernacular="狂放；放纵">
+			<exam article="《庐山遥寄卢侍御虚舟》" ref="我本楚狂人，凤歌笑孔丘。" />
+		</sense>
+		<sense tag="形" vernacular="轻狂；轻浮">
+			<exam article="《过小孤山大孤山》" ref="舟中估客莫漫狂，小姑前年嫁彭郎。" />
+		</sense>
+		<sense tag="形" vernacular="声势大而猛">
+			<exam article="《进学解》" ref="障百川而东之，回狂澜于既倒。" />
+		</sense>
+	</pron>
+	<phrase value="狂勃">
+		<sense value="狂暴" />
+	</phrase>
+	<phrase value="狂简">
+		<sense value="志大而于事疏略" />
+	</phrase>
+	<phrase value="狂狷">
+		<sense value="激进与洁身自守" />
+		<sense value="泛指偏激" />
+	</phrase>
+</character>

@@ -1,0 +1,29 @@
+<character value="儿">
+	<introduce>
+		<pinyin value="er2" writing="ér" />
+		<pinyin value="r2" writing="r2" />
+		<bushou value="儿" />
+		<bushoustroke value="2" />
+		<stroke value="2" />
+		<order value="撇折" />
+	</introduce>
+	<pron value="ér">
+		<sense tag="名" vernacular="儿童；小孩子">
+			<exam article="《两小儿辩日》" ref="也子东游，见两小儿辩斗。" />
+			<exam article="《促织》" ref="民日贴妇卖儿，便无休止。" />
+		</sense>
+		<sense tag="名" vernacular="青年男子">
+			<exam article="《促织》" ref="市中游侠儿得佳者笼养之。" />
+		</sense>
+		<sense tag="名" vernacular="儿子">
+			<exam article="《木兰诗》" ref="阿爷无大儿，木兰无长兄。" />
+			<exam article="《左忠毅公逸事》" ref="吾诸儿碌碌，他日继吾志事，惟此生耳。" />
+		</sense>
+		<sense tag="名" vernacular="儿子或女儿对父母的自称">
+			<exam article="《孔雀东南飞》" ref="儿已薄禄相，幸复得此妇。" />
+		</sense>
+		<sense tag="名" vernacular="词缀">
+			<exam article="《朝天子·咏喇叭》" ref="喇叭，锁呐，曲儿小腔儿大。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="恁">
+	<introduce>
+		<pinyin value="nen4" writing="nèn" />
+		<pinyin value="ren4" writing="rèn" />
+		<pinyin value="nin2" writing="nín" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="撇竖撇横竖横捺折捺捺" />
+	</introduce>
+	<pron value="nèn">
+		<sense tag="代" vernacular="如此；这样；那">
+			<exam article="《游园》" ref="烛尽沉烟，抛残绣线，恁今春关情似去年？" />
+			<exam article="《灌园叟晚逢仙女》" ref="有恁样好花，故意回说没有。" />
+		</sense>
+	</pron>
+</character>

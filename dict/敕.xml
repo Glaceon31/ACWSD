@@ -1,0 +1,46 @@
+<character value="敕">
+	<introduce>
+		<pinyin value="chi4" writing="chì" />
+		<bushou value="攵" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横竖折横竖撇捺撇横撇捺" />
+	</introduce>
+	<pron value="chì">
+		<sense tag="动" vernacular="告诫；告谕">
+			<exam article="《三国志·魏书·武帝纪》" ref="公敕诸将：‘关西兵精悍，坚壁勿与战。’" />
+		</sense>
+		<sense tag="名" vernacular="君王的诏命，诏令">
+			<exam article="《卖炭翁》" ref="手把文书口称敕，回车叱牛牵向北。" />
+		</sense>
+		<sense tag="动" vernacular="整顿；整治">
+			<exam article="《韩非子·主道》" ref="贤者敕其才，君因而任之。" />
+		</sense>
+		<sense tag="形" vernacular="同“饬”">
+			<exam article="《诫史子严敦书》" ref="效伯高不得，犹为谨敕之士。" />
+		</sense>
+	</pron>
+	<phrase value="敕戒">
+		<sense value="警告，儆戒" />
+	</phrase>
+	<phrase value="敕勒">
+		<sense value="我国古代北方民族名" />
+	</phrase>
+	<phrase value="敕厉">
+		<sense value="告戒勉励" />
+	</phrase>
+	<phrase value="敕命">
+		<sense value="1" />
+		<sense value="命令，多指天命或帝王的诏令" />
+		<sense value="《释名·释书契》：“符，付也" />
+	</phrase>
+	<phrase value="敕使">
+		<sense value="传达皇帝诏书的使者" />
+	</phrase>
+	<phrase value="敕授">
+		<sense value="唐代封授六品以下的官称敕授" />
+	</phrase>
+	<phrase value="敕书">
+		<sense value="唐代皇帝写给大臣僚属表示慰问或训诫的文字" />
+	</phrase>
+</character>

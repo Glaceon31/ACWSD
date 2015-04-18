@@ -1,0 +1,14 @@
+<character value="矛">
+	<introduce>
+		<pinyin value="mao2" writing="máo" />
+		<bushou value="矛" />
+		<bushoustroke value="5" />
+		<stroke value="5" />
+		<order value="折捺折竖撇" />
+	</introduce>
+	<pron value="máo">
+		<sense tag="名" vernacular="古代一种兵器">
+			<exam article="《韩非子·难一》" ref="吾矛之利，于物无不陷也。" />
+		</sense>
+	</pron>
+</character>

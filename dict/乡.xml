@@ -1,0 +1,55 @@
+<character value="乡">
+	<introduce>
+		<pinyin value="xiang1" writing="xiāng" />
+		<bushou value="乙" />
+		<bushoustroke value="1" />
+		<stroke value="3" />
+		<order value="折折撇" />
+	</introduce>
+	<pron value="xiāng">
+		<sense tag="名" vernacular="地方行政区域或单位">
+			<exam article="《周礼·地官·大司徒》" ref="五州为乡，使之相宾。" />
+			<exam article="《国语·齐语》" ref="十连为乡，乡有良人焉。" />
+		</sense>
+		<sense tag="名" vernacular="家乡；故乡">
+			<exam article="《回乡偶书》" ref="少小离家老大还，乡音未改鬓毛衰。" />
+		</sense>
+		<sense tag="名" vernacular="地方；当地">
+			<exam article="《柳敬亭传》" ref="且五方土音，乡俗好尚，习见习闻。" />
+		</sense>
+	</pron>
+	<pron value="xiàng">
+		<sense tag="动" vernacular="通“向”，朝向">
+			<exam article="《殽之战》" ref="秦伯素服郊次，乡师而哭。" />
+		</sense>
+	</pron>
+	<pron value="xiǎng">
+		<sense tag="动" vernacular="通“享”">
+			<exam article="《汉书·文帝纪》" ref="夫以朕之不德而专乡独美其福。" />
+		</sense>
+		<sense tag="名" vernacular="通“响”，回声">
+			<exam article="《汉书·董仲舒传》" ref="如景乡之应形声也。" />
+		</sense>
+		<sense tag="动" vernacular="通“享”">
+			<exam article="《汉书·文武帝》" ref="夫以朕之不德而专乡独美福。" />
+		</sense>
+	</pron>
+	<phrase value="乡党">
+		<sense value="乡里；家乡" />
+		<sense value="党，古代行政单位，五百户为一党" />
+	</phrase>
+	<phrase value="乡关">
+		<sense value="故乡" />
+	</phrase>
+	<phrase value="乡里">
+		<sense value="所居之乡" />
+		<sense value="同乡" />
+		<sense value="妻的代称" />
+	</phrase>
+	<phrase value="乡邻">
+		<sense value="同乡；邻居" />
+	</phrase>
+	<phrase value="乡试">
+		<sense value="明清科举考试制度中在各省进行的选拔举人的考试，由朝廷派考官主持，每三年一次" />
+	</phrase>
+</character>

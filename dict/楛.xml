@@ -1,0 +1,23 @@
+<character value="楛">
+	<introduce>
+		<pinyin value="hu4" writing="hù" />
+		<pinyin value="ku3" writing="kŭ" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖撇捺横竖竖横竖竖折横" />
+	</introduce>
+	<pron value="kǔ">
+		<sense tag="形" vernacular="粗糙；不坚固">
+			<exam article="《荀子·议兵》" ref="兵革窳楛。" />
+		</sense>
+		<sense tag="形" vernacular="恶劣，不正当">
+			<exam article="《荀子·劝学》" ref="问楛者，勿告也。" />
+		</sense>
+	</pron>
+	<pron value="hù">
+		<sense tag="名" vernacular="一种树">
+			<exam article="《韩非子·十过》" ref="有楛高至于丈。" />
+		</sense>
+	</pron>
+</character>

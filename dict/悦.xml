@@ -1,0 +1,17 @@
+<character value="悦">
+	<introduce>
+		<pinyin value="yue4" writing="yuè" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺竖捺撇竖折横撇折" />
+	</introduce>
+	<pron value="yuè">
+		<sense tag="形" vernacular="高兴">
+			<exam article="《扁鹊见蔡桓公》" ref="扁鹊出，桓侯不悦。" />
+		</sense>
+		<sense tag="动" vernacular="喜爱">
+			<exam article="《五蠹》" ref="而民悦之，使王天下。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,20 @@
+<character value="虺">
+	<introduce>
+		<pinyin value="hui3" writing="huĭ" />
+		<pinyin value="hui1" writing="huī" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="9" />
+		<order value="横撇折竖折横竖横捺" />
+	</introduce>
+	<pron value="huǐ">
+		<sense tag="名" vernacular="毒蛇">
+			<exam article="《天问》" ref="雄虺九首。" />
+		</sense>
+	</pron>
+	<pron value="huī">
+		<sense tag="名" vernacular="雷声">
+			<exam article="《诗经·邶风·终风》" ref="虺虺其雷。" />
+		</sense>
+	</pron>
+</character>

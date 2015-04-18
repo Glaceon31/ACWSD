@@ -1,0 +1,21 @@
+<character value="蛩">
+	<introduce>
+		<pinyin value="qiong2" writing="qióng" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="横竖横撇折捺竖折横竖横捺" />
+	</introduce>
+	<pron value="qióng">
+		<sense tag="名" vernacular="蝗虫">
+			<exam article="《淮南子·本经》" ref="飞蛩满野。" />
+		</sense>
+		<sense tag="名" vernacular="蟋蟀" />
+	</pron>
+	<pron value="gǒng">
+		<sense tag="名" vernacular="虫名" />
+	</pron>
+	<phrase value="蛩蛩">
+		<sense value="忧惧的样子" />
+	</phrase>
+</character>

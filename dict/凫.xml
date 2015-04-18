@@ -1,0 +1,17 @@
+<character value="凫">
+	<introduce>
+		<pinyin value="fu2" writing="fú" />
+		<bushou value="几" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇折捺折撇折" />
+	</introduce>
+	<pron value="fú">
+		<sense tag="名" vernacular="野鸭">
+			<exam article="《诗经·郑风·女曰鸡鸣》" ref="将翱将翔，弋凫与雁。" />
+		</sense>
+	</pron>
+	<phrase value="凫茈">
+		<sense value="茡荠" />
+	</phrase>
+</character>

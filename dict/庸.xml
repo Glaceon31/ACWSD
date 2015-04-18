@@ -1,0 +1,29 @@
+<character value="庸">
+	<introduce>
+		<pinyin value="yong1" writing="yōng" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺横撇折横横竖折横横竖" />
+	</introduce>
+	<pron value="yōng">
+		<sense tag="动" vernacular="任用">
+			<exam article="《国语·吴语》" ref="王其无庸战。" />
+		</sense>
+		<sense tag="动" vernacular="受雇用">
+			<exam article="《陈涉世家》" ref="若为庸耕，何富贵也？" />
+		</sense>
+		<sense tag="名" vernacular="受雇用的人">
+			<exam article="《五蠹》" ref="泽居苦水者，买庸而决窦。" />
+		</sense>
+		<sense tag="形" vernacular="平庸">
+			<exam article="《廉颇蔺相如列传》" ref="且庸人尚羞之，况于将相乎。" />
+		</sense>
+		<sense tag="副" vernacular="难道；岂">
+			<exam article="《师说》" ref="吾师道也，夫庸知其年之先后生于吾乎？" />
+		</sense>
+	</pron>
+	<phrase value="庸中佼佼">
+		<sense value="指常人中较突出的" />
+	</phrase>
+</character>

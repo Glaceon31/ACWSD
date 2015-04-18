@@ -1,0 +1,31 @@
+<character value="昭">
+	<introduce>
+		<pinyin value="zhao1" writing="zhāo" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="竖折横横折撇竖折横" />
+	</introduce>
+	<pron value="zhāo">
+		<sense tag="形" vernacular="明显；显著">
+			<exam article="《柳毅传》" ref="赖明君子信义昭彰，致达远冤。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……昭">
+			<exam article="《观巴黎油画记》" ref="所以昭炯戒，激众愤，图报也。" />
+		</sense>
+		<sense tag="动" vernacular="表明">
+			<exam article="《出师表》" ref="以昭陛下平明之理。" />
+		</sense>
+	</pron>
+	<phrase value="昭然">
+		<sense value="很明显的样子" />
+	</phrase>
+	<phrase value="昭雪">
+		<sense value="清洗冤枉使案情真相大白" />
+	</phrase>
+	<phrase value="昭昭">
+		<sense value="明亮" />
+		<sense value="明白" />
+		<sense value="明显" />
+	</phrase>
+</character>

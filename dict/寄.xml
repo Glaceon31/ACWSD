@@ -1,0 +1,34 @@
+<character value="寄">
+	<introduce>
+		<pinyin value="ji4" writing="jì" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺折横撇捺横竖折横竖" />
+	</introduce>
+	<pron value="jì">
+		<sense tag="动" vernacular="寄居；依附">
+			<exam article="《赤壁之战》" ref="刘备，天下枭雄。与曹有隙，寄寓于表。" />
+		</sense>
+		<sense tag="动" vernacular="寄托；托付；委托">
+			<exam article="《归去来兮辞》" ref="倚南窗以寄傲，审容膝之易安。" />
+			<exam article="《出师表》" ref="先帝知臣谨慎，故临崩寄臣以大事也。" />
+		</sense>
+		<sense tag="动" vernacular="寄存；寄放">
+			<exam article="《失街亭》" ref="且请寄库，候今冬赐与诸军未迟。" />
+		</sense>
+		<sense tag="动" vernacular="传送；传达">
+			<exam article="《柳毅传》" ref="迫而视之，乃前寄辞者。" />
+		</sense>
+	</pron>
+	<phrase value="寄地">
+		<sense value="被人掠去的本国土地" />
+	</phrase>
+	<phrase value="寄怨">
+		<sense value="借他之手以报私怨，犹言借刀杀人" />
+		<sense value="寄托私怨，犹言借事以泄私忿" />
+	</phrase>
+	<phrase value="寄坐">
+		<sense value="寄托于客位，喻大权旁落" />
+	</phrase>
+</character>

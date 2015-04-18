@@ -1,0 +1,27 @@
+<character value="踊">
+	<introduce>
+		<pinyin value="yong3" writing="yŏng" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="14" />
+		<order value="竖折横竖横竖横折捺竖折横横竖" />
+	</introduce>
+	<pron value="yǒng">
+		<sense tag="动" vernacular="跳跃">
+			<exam article="《洛神赋》" ref="鲸鲵踊而夹毂，水禽翔而为卫。" />
+		</sense>
+		<sense tag="动" vernacular="登上">
+			<exam article="《公羊传·成公二年》" ref="踊于棓而窥客。" />
+		</sense>
+		<sense tag="动" vernacular="物价上涨">
+			<exam article="《后汉书·曹褒传》" ref="时春夏大旱，粮谷踊贵。" />
+		</sense>
+		<sense tag="名" vernacular="古代受过刖刑的人所穿的鞋子">
+			<exam article="《韩非子·难二》" ref="踊贵而屦贱。" />
+		</sense>
+	</pron>
+	<phrase value="踊跃">
+		<sense value="跃起争雄" />
+		<sense value="欣喜而跃跃欲试" />
+	</phrase>
+</character>

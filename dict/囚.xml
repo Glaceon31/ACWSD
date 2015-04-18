@@ -1,0 +1,20 @@
+<character value="囚">
+	<introduce>
+		<pinyin value="qiu2" writing="qiú" />
+		<bushou value="囗" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="竖折撇捺横" />
+	</introduce>
+	<pron value="qiú">
+		<sense tag="动" vernacular="囚禁；关押">
+			<exam article="《韩非子·说林上》" ref="吏因之。" />
+		</sense>
+		<sense tag="名" vernacular="囚犯；关押的犯人">
+			<exam article="《狱中杂记》" ref="系囚常二百余。" />
+		</sense>
+		<sense tag="名" vernacular="俘虏">
+			<exam article="《殽之战》" ref="先轸朝，问秦囚。" />
+		</sense>
+	</pron>
+</character>

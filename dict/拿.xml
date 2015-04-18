@@ -1,0 +1,23 @@
+<character value="拿">
+	<introduce>
+		<pinyin value="na2" writing="ná" />
+		<bushou value="手" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="撇捺横竖折横撇横横竖" />
+	</introduce>
+	<pron value="ná">
+		<sense tag="动" vernacular="抓住；握持">
+			<exam article="《鲁提辖拳打镇关西》" ref="手里拿串拍板。" />
+		</sense>
+		<sense tag="动" vernacular="捉拿；逮捕">
+			<exam article="《范进中举》" ref="打了天上的星宿，阎王就要拿去打一百铁板。" />
+		</sense>
+		<sense tag="动" vernacular="取">
+			<exam article="《范进中举》" ref="郎中又拿茶来吃了。" />
+		</sense>
+		<sense tag="介" vernacular="把">
+			<exam article="《制台见洋人》" ref="走到外头，拿帽子摘了下来。" />
+		</sense>
+	</pron>
+</character>

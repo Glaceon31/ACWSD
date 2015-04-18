@@ -1,0 +1,45 @@
+<character value="扶">
+	<introduce>
+		<pinyin value="fu2" writing="fú" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横横横撇捺" />
+	</introduce>
+	<pron value="fú">
+		<sense tag="动" vernacular="搀扶；扶持">
+			<exam article="《季氏将伐颛臾》" ref="危而不持，颠而不扶。" />
+		</sense>
+		<sense tag="动" vernacular="扶着；拄着">
+			<exam article="《孔雀东南飞》" ref="新妇初来时，小姑始扶床。" />
+			<exam article="《游黄山记》" ref="扶杖望朱砂庵而登。" />
+		</sense>
+		<sense tag="动" vernacular="帮助；援助">
+			<exam article="《战国策·宋卫策》" ref="扶梁伐赵。" />
+		</sense>
+		<sense tag="介" vernacular="沿着">
+			<exam article="《桃花源记》" ref="便扶向路，处处志之。" />
+		</sense>
+		<sense tag="动" vernacular="抱，带">
+			<exam article="《谭嗣同》" ref="至七月，乃扶病入觐。" />
+		</sense>
+		<sense tag="量" vernacular="古代长度单位，四寸为扶">
+			<exam article="《礼记·投壶》" ref="筹，室中五扶，堂上七扶。" />
+		</sense>
+	</pron>
+	<phrase value="扶光">
+		<sense value="扶桑之光，日光" />
+	</phrase>
+	<phrase value="扶桑">
+		<sense value="神话传说中的海外大树木" />
+		<sense value="传说中东方海中的古国名" />
+		<sense value="按方向，位置约相当于日本，后来沿用为日本的代称" />
+	</phrase>
+	<phrase value="扶疏">
+		<sense value="枝叶茂盛的样子" />
+	</phrase>
+	<phrase value="扶翼">
+		<sense value="扶持" />
+		<sense value="辅佐" />
+	</phrase>
+</character>

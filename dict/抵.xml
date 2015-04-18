@@ -1,0 +1,52 @@
+<character value="抵">
+	<introduce>
+		<pinyin value="di3" writing="dĭ" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横撇折横折捺" />
+	</introduce>
+	<pron value="dǐ">
+		<sense tag="动" vernacular="推挤；排挤">
+			<exam article="《解嘲》" ref="（范雎）抵穰侯而代之。" />
+		</sense>
+		<sense tag="动" vernacular="抵赖；否认">
+			<exam article="《汉书·田延年传》" ref="延年抵曰：‘本出将军之门，蒙此爵位，无有事是。’" />
+		</sense>
+		<sense tag="动" vernacular="相当；值">
+			<exam article="《春望》" ref="烽火连三月，家书抵万金。" />
+		</sense>
+		<sense tag="动" vernacular="抵偿">
+			<exam article="《五人墓碑记》" ref="一旦抵罪，或脱身以逃。" />
+		</sense>
+		<sense tag="动" vernacular="抗拒">
+			<exam article="《三国演义》" ref="曹军不能抵当。" />
+		</sense>
+		<sense tag="动" vernacular="到；到达">
+			<exam article="《报刘一丈书》" ref="抵墓则前所受赠金者出。" />
+		</sense>
+		<sense tag="动" vernacular="抵触；触犯">
+			<exam article="《论衡·辨祟》" ref="抵触县官。" />
+		</sense>
+		<sense tag="动" vernacular="击；攻击">
+			<exam article="《刘东堂言》" ref="惟树后生一人抗词与辨，连抵其隙。" />
+		</sense>
+		<sense tag="动" vernacular="掷；扔">
+			<exam article="《海瑞传》" ref="帝得疏，大怒，抵之地。" />
+		</sense>
+	</pron>
+	<phrase value="抵法">
+		<sense value="依法受刑" />
+		<sense value="犹伏法" />
+	</phrase>
+	<phrase value="抵死">
+		<sense value="冒死；触犯死罪" />
+		<sense value="拼命；竭力" />
+		<sense value="分外" />
+		<sense value="始终；总是" />
+	</phrase>
+	<phrase value="抵罪">
+		<sense value="抵偿其罪" />
+		<sense value="犯罪" />
+	</phrase>
+</character>

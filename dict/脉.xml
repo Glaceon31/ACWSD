@@ -1,0 +1,27 @@
+<character value="脉">
+	<introduce>
+		<pinyin value="mai4" writing="mài" />
+		<pinyin value="mo4" writing="mò" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="撇折横横捺折折撇捺" />
+	</introduce>
+	<pron value="mài">
+		<sense tag="名" vernacular="血管">
+			<exam article="《潜夫论·德化》" ref="骨著脉通，与体俱生。" />
+		</sense>
+		<sense tag="名" vernacular="脉搏">
+			<exam article="《史记·扁鹊传》" ref="不待切脉望色听声写形，言病之所在。" />
+		</sense>
+		<sense tag="名" vernacular="像血管一样连贯而系统的东西">
+			<exam article="《隐者居》" ref="雪缕青山脉，云生白鹤毛。" />
+		</sense>
+	</pron>
+	<pron value="mò">
+		<sense vernacular="见“脉脉”" />
+	</pron>
+	<phrase value="脉脉">
+		<sense value="凝视的样子" />
+	</phrase>
+</character>

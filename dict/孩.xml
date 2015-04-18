@@ -1,0 +1,18 @@
+<character value="孩">
+	<introduce>
+		<pinyin value="hai2" writing="hái" />
+		<bushou value="子" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折竖横捺横折撇撇捺" />
+	</introduce>
+	<pron value="hái">
+		<sense tag="动" vernacular="同“咳”，小儿笑">
+			<exam article="《老子》" ref="如婴儿之未孩。" />
+		</sense>
+		<sense tag="名" vernacular="小孩（后起意义）">
+			<exam article="《山寺》" ref="自哂同婴孩。" />
+		</sense>
+		<sense tag="名" vernacular="姓" />
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="娃">
+	<introduce>
+		<pinyin value="wa2" writing="wá" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折撇横横竖横横竖横" />
+	</introduce>
+	<pron value="wá">
+		<sense tag="名" vernacular="美女">
+			<exam article="《反离骚》" ref="资娵娃之珍髢兮，鬻九戎而索赖。" />
+		</sense>
+		<sense tag="名" vernacular="小孩">
+			<exam article="《陌上桑》" ref="邻娃尽着绣裆襦，独自提筐采蚕叶。" />
+		</sense>
+	</pron>
+</character>

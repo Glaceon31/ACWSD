@@ -1,0 +1,17 @@
+<character value="亸">
+	<introduce>
+		<pinyin value="duo3" writing="duŏ" />
+		<bushou value="亠" />
+		<bushoustroke value="2" />
+		<stroke value="16" />
+		<order value="捺横竖折横折竖横捺撇竖折横横横竖" />
+	</introduce>
+	<pron value="duǒ">
+		<sense tag="动" vernacular="下垂的样子">
+			<exam article="《和刑部成员外秋寓直台省知己》" ref="竹喧交砌叶，柳亸拂窗条。" />
+		</sense>
+		<sense tag="动" vernacular="躲避">
+			<exam article="《五代史平话·梁上》" ref="正行间，撞着虎与牛斗，霍存、白守信諕得走上树亸了。" />
+		</sense>
+	</pron>
+</character>

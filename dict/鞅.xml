@@ -1,0 +1,26 @@
+<character value="鞅">
+	<introduce>
+		<pinyin value="yang1" writing="yāng" />
+		<pinyin value="yang4" writing="yàng" />
+		<pinyin value="yang3" writing="yăng" />
+		<bushou value="革" />
+		<bushoustroke value="9" />
+		<stroke value="14" />
+		<order value="横竖竖横竖折横横竖竖折横撇捺" />
+	</introduce>
+	<pron value="yāng">
+		<sense tag="名" vernacular="古时套在马脖子上的皮子">
+			<exam article="《左传·襄公十八年》" ref="抽剑断鞅。" />
+		</sense>
+		<sense vernacular="见“鞅掌”" />
+	</pron>
+	<pron value="yàng">
+		<sense vernacular="通“怏”" />
+	</pron>
+	<phrase value="鞅掌">
+		<sense value="事务繁忙" />
+	</phrase>
+	<phrase value="鞅鞅">
+		<sense value="不满意" />
+	</phrase>
+</character>

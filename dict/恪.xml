@@ -1,0 +1,15 @@
+<character value="恪">
+	<introduce>
+		<pinyin value="ke4" writing="kè" />
+		<pinyin value="que4" writing="què" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺竖撇折捺竖折横" />
+	</introduce>
+	<pron value="kè">
+		<sense tag="形" vernacular="谨慎；恭敬">
+			<exam article="《诗经·商颂·那》" ref="温恭朝夕，执事有恪。" />
+		</sense>
+	</pron>
+</character>

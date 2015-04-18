@@ -1,0 +1,17 @@
+<character value="椠">
+	<introduce>
+		<pinyin value="qian4" writing="qiàn" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横折竖横撇撇横竖横竖撇捺" />
+	</introduce>
+	<pron value="qiàn">
+		<sense tag="名" vernacular="古代写字用的木片">
+			<exam article="《论衡·量知》" ref="断木为椠，柝之为板，力加刮削，乃成奏牍。" />
+		</sense>
+		<sense tag="名" vernacular="简札，书信">
+			<exam article="《赠别晏成绩懋父太祝》" ref="幸因西南风，时作寄我椠。" />
+		</sense>
+	</pron>
+</character>

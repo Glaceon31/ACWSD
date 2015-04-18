@@ -1,0 +1,39 @@
+<character value="夭">
+	<introduce>
+		<pinyin value="yao1" writing="yāo" />
+		<pinyin value="yao3" writing="yăo" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="4" />
+		<order value="撇横撇捺" />
+	</introduce>
+	<pron value="yāo">
+		<sense tag="动" vernacular="夭折；短命">
+			<exam article="《离骚》" ref="终然夭乎羽之野。" />
+		</sense>
+		<sense tag="动" vernacular="摧残；摧折">
+			<exam article="《病梅馆记》" ref="以夭梅、病梅为业以求钱也。" />
+		</sense>
+		<sense tag="形" vernacular="草木茂盛的样子">
+			<exam article="《书·禹贡》" ref="厥草惟夭。" />
+		</sense>
+		<sense tag="名" vernacular="灾害">
+			<exam article="《诗经·小雅·正月》" ref="民今之无禄，天夭是椓。" />
+		</sense>
+	</pron>
+	<pron value="ǎo">
+		<sense tag="名" vernacular="幼小的东西">
+			<exam article="《战国策·赵策四》" ref="刳胎焚夭，而骐驎不至。" />
+		</sense>
+	</pron>
+	<phrase value="夭柔">
+		<sense value="妖娆、娇艳的样子" />
+	</phrase>
+	<phrase value="夭绍">
+		<sense value="轻盈多姿貌" />
+	</phrase>
+	<phrase value="夭夭">
+		<sense value="艳丽茂盛的样子" />
+		<sense value="颜色和悦的样子" />
+	</phrase>
+</character>

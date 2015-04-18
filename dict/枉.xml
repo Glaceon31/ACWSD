@@ -1,0 +1,36 @@
+<character value="枉">
+	<introduce>
+		<pinyin value="wang3" writing="wăng" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横竖撇捺横横竖横" />
+	</introduce>
+	<pron value="wǎng">
+		<sense tag="形" vernacular="弯曲，与“直”相对">
+			<exam article="《荀子·王霸》" ref="犹立直木而求其影之枉也。" />
+		</sense>
+		<sense tag="形" vernacular="不正直的；邪恶的">
+			<exam article="《训俭示康》" ref="君子多欲则贪慕富贵，枉道速祸。" />
+		</sense>
+		<sense tag="动" vernacular="歪曲；曲解">
+			<exam article="《书博鸡者事》" ref="臧使者枉用三尺，以仇一言之憾。" />
+		</sense>
+		<sense tag="动" vernacular="冤枉；冤屈">
+			<exam article="《狱中杂记》" ref="其枉民也，亦甚矣哉。" />
+		</sense>
+		<sense tag="动" vernacular="委屈；降低身份">
+			<exam article="《出师表》" ref="先帝不以臣卑鄙，猥自枉屈，三顾臣于草庐之中。" />
+		</sense>
+		<sense tag="副" vernacular="徒然；白白地">
+			<exam article="《清平调》" ref="云雨巫山枉断肠。" />
+		</sense>
+	</pron>
+	<phrase value="枉法">
+		<sense value="执法者出于私利或某种企图而歪曲、破坏法律" />
+	</phrase>
+	<phrase value="枉驾">
+		<sense value="敬辞" />
+		<sense value="屈驾；屈尊相访" />
+	</phrase>
+</character>

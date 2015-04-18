@@ -1,0 +1,26 @@
+<character value="邮">
+	<introduce>
+		<pinyin value="you2" writing="yóu" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="竖折横竖横折竖" />
+	</introduce>
+	<pron value="yóu">
+		<sense tag="名" vernacular="古代传递文书的人在路上的宿舍">
+			<exam article="《孟子·公孙丑上》" ref="德之流行，速于置邮而传命。" />
+		</sense>
+		<sense tag="名" vernacular="通“尤”">
+			<exam article="《诗经·小雅·宾之初筵》" ref="不知其邮。" />
+		</sense>
+	</pron>
+	<phrase value="邮签">
+		<sense value="驿站用于夜间报时的牌子" />
+	</phrase>
+	<phrase value="邮亭">
+		<sense value="驿站；驿馆" />
+	</phrase>
+	<phrase value="邮筒">
+		<sense value="古代用来封寄书信的竹管" />
+	</phrase>
+</character>

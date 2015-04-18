@@ -1,0 +1,20 @@
+<character value="瘳">
+	<introduce>
+		<pinyin value="chou1" writing="chōu" />
+		<bushou value="疒" />
+		<bushoustroke value="5" />
+		<stroke value="16" />
+		<order value="捺横撇捺横折捺横折捺横撇捺撇撇撇" />
+	</introduce>
+	<pron value="chōu">
+		<sense tag="动" vernacular="病愈">
+			<exam article="《狱中杂记》" ref="染此者十不一二，或随有瘳。" />
+		</sense>
+		<sense tag="动" vernacular="损失，损害">
+			<exam article="《国语·晋语》" ref="于己也何瘳？。" />
+		</sense>
+		<sense tag="动" vernacular="救治，治理">
+			<exam article="《田家》" ref="清心罢苞苴，养民瘳国脉。" />
+		</sense>
+	</pron>
+</character>

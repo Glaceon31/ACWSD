@@ -1,0 +1,14 @@
+<character value="粝">
+	<introduce>
+		<pinyin value="li4" writing="lì" />
+		<bushou value="米" />
+		<bushoustroke value="6" />
+		<stroke value="11" />
+		<order value="捺撇横竖撇捺横撇横折撇" />
+	</introduce>
+	<pron value="lì">
+		<sense tag="名" vernacular="粗米；粗粮；粗糙饭食">
+			<exam article="《五蠹》" ref="粝粢之食，藜藿之羹。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,24 @@
+<character value="琅">
+	<introduce>
+		<pinyin value="lang2" writing="láng" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横横竖横捺折横横折撇捺" />
+	</introduce>
+	<pron value="láng">
+		<sense tag="名" vernacular="似玉的白色美石">
+			<exam article="《汉武帝内传》" ref="王母乃命诸侍女王子弹八琅之璈。" />
+		</sense>
+		<sense tag="形" vernacular="洁白">
+			<exam article="《奉和鲁望白菊》" ref="已过重阳半月天，琅华千点照寒烟。" />
+		</sense>
+	</pron>
+	<phrase value="琅珰">
+		<sense value="锁住" />
+		<sense value="金属或玉器撞击声" />
+	</phrase>
+	<phrase value="琅玕">
+		<sense value="像玉一样的宝石" />
+	</phrase>
+</character>

@@ -1,0 +1,20 @@
+<character value="沬">
+	<introduce>
+		<pinyin value="mei4" writing="mèi" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺横横横竖撇捺" />
+	</introduce>
+	<pron value="mèi">
+		<sense tag="名" vernacular="地名，在今河南淇县" />
+		<sense tag="形" vernacular="通“昧”，微暗">
+			<exam article="《周易·丰卦》" ref="日中见沬。" />
+		</sense>
+	</pron>
+	<pron value="mèi">
+		<sense tag="动" vernacular="洗脸">
+			<exam article="《汉书·淮南厉王传》" ref="沬风雨。" />
+		</sense>
+	</pron>
+</character>

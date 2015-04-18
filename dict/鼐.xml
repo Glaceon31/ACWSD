@@ -1,0 +1,14 @@
+<character value="鼐">
+	<introduce>
+		<pinyin value="nai4" writing="nài" />
+		<bushou value="鼎" />
+		<bushoustroke value="12" />
+		<stroke value="14" />
+		<order value="折撇竖折横横横折横撇竖横竖折" />
+	</introduce>
+	<pron value="nài">
+		<sense tag="名" vernacular="最大的鼎">
+			<exam article="《诗经·周颂·丝衣》" ref="鼐鼎及鼒。" />
+		</sense>
+	</pron>
+</character>

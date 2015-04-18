@@ -1,0 +1,17 @@
+<character value="迸">
+	<introduce>
+		<pinyin value="beng4" writing="bèng" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺撇横横撇竖捺折捺" />
+	</introduce>
+	<pron value="bèng">
+		<sense tag="动" vernacular="奔散；走散">
+			<exam article="《三国志·魏书·满宠传》" ref="督将迸走，死伤过半。" />
+		</sense>
+		<sense tag="动" vernacular="喷射；涌流">
+			<exam article="《琵琶行》" ref="银瓶乍破水浆迸。" />
+		</sense>
+	</pron>
+</character>

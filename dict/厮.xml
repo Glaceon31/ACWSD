@@ -1,0 +1,20 @@
+<character value="厮">
+	<introduce>
+		<pinyin value="si1" writing="sī" />
+		<bushou value="厂" />
+		<bushoustroke value="2" />
+		<stroke value="14" />
+		<order value="横撇横竖竖横横横撇捺撇撇横竖" />
+	</introduce>
+	<pron value="sī">
+		<sense tag="名" vernacular="古代的男性杂役">
+			<exam article="《淮南子·览冥》" ref="厮徒马圉。" />
+		</sense>
+		<sense tag="名" vernacular="对男子的蔑称">
+			<exam article="《鲁提辖拳打镇关西》" ref="这厮，只顾来聒噪。" />
+		</sense>
+		<sense tag="副" vernacular="相互；相">
+			<exam article="《智取生辰纲》" ref="一个个面面厮觑。" />
+		</sense>
+	</pron>
+</character>

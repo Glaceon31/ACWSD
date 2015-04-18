@@ -1,0 +1,20 @@
+<character value="婴">
+	<introduce>
+		<pinyin value="ying1" writing="yīng" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="竖折撇捺竖折撇捺折撇横" />
+	</introduce>
+	<pron value="yīng">
+		<sense tag="名" vernacular="婴儿">
+			<exam article="《察今》" ref="见人方引婴儿而欲投之江中。" />
+		</sense>
+		<sense tag="动" vernacular="缠绕">
+			<exam article="《荀子·富国》" ref="是犹使处女婴宝珠。" />
+		</sense>
+		<sense tag="动" vernacular="通“撄”，触犯">
+			<exam article="《荀子·强国》" ref="兵劲城固，敌国不敢婴也。" />
+		</sense>
+	</pron>
+</character>

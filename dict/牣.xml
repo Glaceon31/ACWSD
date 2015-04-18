@@ -1,0 +1,14 @@
+<character value="牣">
+	<introduce>
+		<pinyin value="ren4" writing="rèn" />
+		<bushou value="牜" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="撇横竖横折撇捺" />
+	</introduce>
+	<pron value="rèn">
+		<sense tag="形" vernacular="满">
+			<exam article="《子虚赋》" ref="充牣其中，不可胜记。" />
+		</sense>
+	</pron>
+</character>

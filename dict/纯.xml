@@ -1,0 +1,35 @@
+<character value="纯">
+	<introduce>
+		<pinyin value="chun2" writing="chún" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折折横横折竖折" />
+	</introduce>
+	<pron value="chún">
+		<sense tag="名" vernacular="丝">
+			<exam article="《汉书·王褒传》" ref="难与道纯绵之丽密。" />
+		</sense>
+		<sense tag="形" vernacular="纯净；纯粹">
+			<exam article="《齐民要术·种红蓝花梔子》" ref="绞取纯汁。" />
+		</sense>
+		<sense tag="形" vernacular="善、好、美">
+			<exam article="《史记·汉兴以来诸侯王年表》" ref="非德不纯，形势弱也。" />
+		</sense>
+	</pron>
+	<pron value="zhǔn">
+		<sense tag="名" vernacular="衣服鞋帽的镶边">
+			<exam article="《荀子·正论》" ref="赭衣而不纯。" />
+		</sense>
+	</pron>
+	<pron value="tún">
+		<sense tag="量" vernacular="捆；包">
+			<exam article="《诗经·召南·野有死麕》" ref="野有死麕，白茅纯束。" />
+		</sense>
+	</pron>
+	<pron value="quán">
+		<sense tag="量" vernacular="双；对">
+			<exam article="《少牢馈食礼》" ref="鱼十有五而鼎，腊一纯而鼎。" />
+		</sense>
+	</pron>
+</character>

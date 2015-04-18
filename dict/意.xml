@@ -1,0 +1,37 @@
+<character value="意">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="捺横捺撇横竖折横横捺折捺捺" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="名" vernacular="心意；意图">
+			<exam article="《廉颇蔺相如列传》" ref="相如视秦王无意偿赵城。" />
+		</sense>
+		<sense tag="名" vernacular="意义">
+			<exam article="《马巴黎油画记》" ref="则其意深长矣。" />
+		</sense>
+		<sense tag="名" vernacular="心情；神态">
+			<exam article="《杜少府之任蜀州》" ref="与君离别意，同宦游人。" />
+			<exam article="《狼》" ref="目似螟，意暇甚。" />
+		</sense>
+		<sense tag="名" vernacular="情趣">
+			<exam article="《醉翁亭记》" ref="醉翁之意不在酒，在乎山水之间也。" />
+		</sense>
+		<sense tag="动" vernacular="料想；估计">
+			<exam article="《鸿门宴》" ref="然不自意能先入关破秦。" />
+			<exam article="《促织》" ref="当其为里正，受扑责时，岂意其至此哉！" />
+		</sense>
+		<sense tag="动" vernacular="怀疑">
+			<exam article="《列子·论符》" ref="人有亡铁者，意其邻人之子。" />
+		</sense>
+	</pron>
+	<phrase value="意表">
+		<sense value="意料之外" />
+	</phrase>
+	<phrase value="意会">
+		<sense value="不用说明解释而内心明白" />
+	</phrase>
+</character>

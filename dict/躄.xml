@@ -1,0 +1,20 @@
+<character value="躄">
+	<introduce>
+		<pinyin value="bi4" writing="bì" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="20" />
+		<order value="折横撇竖折横捺横捺撇横横竖竖折横竖横撇捺" />
+	</introduce>
+	<pron value="bì">
+		<sense tag="形" vernacular="腿瘸">
+			<exam article="《起废答》" ref="少而病躄，日愈以剧。" />
+		</sense>
+		<sense tag="动" vernacular="仆倒">
+			<exam article="《佛国记》" ref="王来见之，迷闷躄地，诸臣以水洒面，良久乃苏。" />
+		</sense>
+	</pron>
+	<phrase value="躄躄">
+		<sense value="行动迟缓的样子" />
+	</phrase>
+</character>

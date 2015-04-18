@@ -1,0 +1,14 @@
+<character value="苑">
+	<introduce>
+		<pinyin value="yuan4" writing="yuàn" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖竖撇折捺折折" />
+	</introduce>
+	<pron value="yuǎn">
+		<sense tag="名" vernacular="养禽兽植树木的地方">
+			<exam article="《史记·高祖本纪》" ref="诸故秦苑囿园池，皆令人得田之。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="癯">
+	<introduce>
+		<pinyin value="qu2" writing="qú" />
+		<bushou value="疒" />
+		<bushoustroke value="5" />
+		<stroke value="23" />
+		<order value="捺横撇捺横竖折横横横竖折横横横撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="qú">
+		<sense tag="形" vernacular="瘦">
+			<exam article="《国子司业阳城遗爱碣》" ref="癯者既肥。" />
+		</sense>
+	</pron>
+</character>

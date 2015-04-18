@@ -1,0 +1,20 @@
+<character value="伶">
+	<introduce>
+		<pinyin value="ling2" writing="líng" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇竖撇捺捺折捺" />
+	</introduce>
+	<pron value="líng">
+		<sense tag="名" vernacular="古代的乐官">
+			<exam article="《国语·周语》" ref="问之伶州鸠。" />
+		</sense>
+		<sense tag="名" vernacular="表演歌舞戏曲的人">
+			<exam article="《伶官传序》" ref="及其衰也，数十伶人困之。" />
+		</sense>
+		<sense tag="名" vernacular="被役使的人">
+			<exam article="《府斋感怀酬梦得》" ref="府伶呼唤争先到。" />
+		</sense>
+	</pron>
+</character>

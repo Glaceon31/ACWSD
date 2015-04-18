@@ -1,0 +1,25 @@
+<character value="觞">
+	<introduce>
+		<pinyin value="shang1" writing="shāng" />
+		<bushou value="角" />
+		<bushoustroke value="7" />
+		<stroke value="12" />
+		<order value="撇折撇折横横竖撇横折撇撇" />
+	</introduce>
+	<pron value="shāng">
+		<sense tag="名" vernacular="古代的酒具；酒杯">
+			<exam article="《兰亭集序》" ref="引以为流觞曲水，列坐其次。" />
+			<exam article="《归去来兮辞》" ref="引壶觞以自酌。" />
+		</sense>
+		<sense tag="动" vernacular="劝人饮酒">
+			<exam article="《训俭示康》" ref="臣家贫。客至无器皿、肴果，故就酒家觞之。" />
+			<exam article="《兰亭集序》" ref="一觞一咏，亦足以畅叙幽情。" />
+		</sense>
+	</pron>
+	<phrase value="觞豆">
+		<sense value="饮食的器具，因作觞酒豆肉的简称，又泛指饮食" />
+	</phrase>
+	<phrase value="觞咏">
+		<sense value="饮酒赋诗" />
+	</phrase>
+</character>

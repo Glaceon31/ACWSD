@@ -1,0 +1,21 @@
+<character value="篱">
+	<introduce>
+		<pinyin value="li2" writing="lí" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="16" />
+		<order value="撇横捺撇横捺捺横撇捺折竖竖折折捺" />
+	</introduce>
+	<pron value="lí">
+		<sense tag="名" vernacular="篱笆">
+			<exam article="《项脊轩志》" ref="庭中始为篱，已为墙，凡再变矣。" />
+			<exam article="《饮酒》" ref="采菊东篱下，悠然见南山。" />
+		</sense>
+	</pron>
+	<phrase value="篱落">
+		<sense value="篱笆" />
+	</phrase>
+	<phrase value="篱壁间物">
+		<sense value="谓家园所产之物" />
+	</phrase>
+</character>

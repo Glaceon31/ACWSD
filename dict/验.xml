@@ -1,0 +1,26 @@
+<character value="验">
+	<introduce>
+		<pinyin value="yan4" writing="yàn" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="折折横撇捺横捺捺撇横" />
+	</introduce>
+	<pron value="yàn">
+		<sense tag="名" vernacular="证据；凭证">
+			<exam article="《史记·晋世家》" ref="何以为验？" />
+		</sense>
+		<sense tag="动" vernacular="检验">
+			<exam article="《张衡传》" ref="验之以事，合契若神。" />
+		</sense>
+		<sense tag="名" vernacular="效果">
+			<exam article="《淮南子·主术》" ref="验在近而求之远。" />
+		</sense>
+	</pron>
+	<phrase value="验治">
+		<sense value="考问" />
+	</phrase>
+	<phrase value="验左">
+		<sense value="佐证；证据" />
+	</phrase>
+</character>

@@ -1,0 +1,15 @@
+<character value="槁">
+	<introduce>
+		<pinyin value="gao3" writing="găo" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="横竖撇捺捺横竖折横竖折竖折横" />
+	</introduce>
+	<pron value="gǎo">
+		<sense tag="形" vernacular="草木枯干">
+			<exam article="《九叹·远势》" ref="草木摇落时槁悴兮。" />
+			<exam article="《孟子·公孙丑上》" ref="其子趋而往视之，则苗槁矣。" />
+		</sense>
+	</pron>
+</character>

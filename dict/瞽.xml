@@ -1,0 +1,27 @@
+<character value="瞽">
+	<introduce>
+		<pinyin value="gu3" writing="gŭ" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="18" />
+		<order value="横竖横竖折横捺撇横横竖折捺竖折横横横" />
+	</introduce>
+	<pron value="gǔ">
+		<sense tag="形" vernacular="瞎眼">
+			<exam article="《柳毅传》" ref="老父之罪，不能鉴听，坐贻聋瞽。" />
+		</sense>
+		<sense tag="名" vernacular="古代以瞽者为乐官，故为乐官的代称">
+			<exam article="《邵公谏厉王弭谤》" ref="瞽献曲，史献书。" />
+		</sense>
+		<sense tag="形" vernacular="比喻人没有能力">
+			<exam article="《劝学》" ref="不观气色而，谓之瞽。" />
+		</sense>
+	</pron>
+	<phrase value="瞽说">
+		<sense value="不合事理的言论；瞎说" />
+	</phrase>
+	<phrase value="瞽言">
+		<sense value="无见识的话，多用作谦辞" />
+	</phrase>
+	<phrase value="瞽议" />
+</character>

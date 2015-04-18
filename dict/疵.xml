@@ -1,0 +1,32 @@
+<character value="疵">
+	<introduce>
+		<pinyin value="ci1" writing="cī" />
+		<pinyin value="ci2" writing="cí" />
+		<bushou value="疒" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="捺横撇捺横竖横竖横撇折" />
+	</introduce>
+	<pron value="cī">
+		<sense tag="名" vernacular="毛病">
+			<exam article="《后汉书·杜林传》" ref="吹毛索疵，诋欺无限。" />
+		</sense>
+		<sense tag="动" vernacular="挑剔；指责">
+			<exam article="《吕氏春秋·精谕》" ref="不言之谋，不闻之事，殷虽恶周，不能疵矣。" />
+		</sense>
+		<sense tag="动" vernacular="忧虑" />
+	</pron>
+	<phrase value="疵毁">
+		<sense value="指责缺点，加以诋毁" />
+	</phrase>
+	<phrase value="疵疠">
+		<sense value="灾害疫病" />
+	</phrase>
+	<phrase value="疵瑕">
+		<sense value="1" />
+		<sense value="毛病；过失" />
+	</phrase>
+	<phrase value="疵衅">
+		<sense value="过失" />
+	</phrase>
+</character>

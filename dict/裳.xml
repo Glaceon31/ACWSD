@@ -1,0 +1,20 @@
+<character value="裳">
+	<introduce>
+		<pinyin value="shang5" writing="shang" />
+		<pinyin value="chang2" writing="cháng" />
+		<bushou value="衣" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="竖捺撇捺折竖折横捺横撇折撇捺" />
+	</introduce>
+	<pron value="cháng">
+		<sense tag="名" vernacular="古人穿的下衣">
+			<exam article="《诗经·绿衣》" ref="绿衣黄裳。" />
+			<exam article="《琵琶行》" ref="整顿衣裳起敛容。" />
+			<exam article="《左忠毅公逸事》" ref="每寒夜起，振衣裳，甲上冰霜迸落，铿然有声。" />
+		</sense>
+	</pron>
+	<phrase value="裳裳">
+		<sense value="鲜明美盛的样子" />
+	</phrase>
+</character>

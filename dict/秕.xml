@@ -1,0 +1,17 @@
+<character value="秕">
+	<introduce>
+		<pinyin value="bi3" writing="bĭ" />
+		<bushou value="禾" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="撇横竖撇捺横折撇折" />
+	</introduce>
+	<pron value="bǐ">
+		<sense tag="名" vernacular="空壳无实或子实不饱满的谷粒">
+			<exam article="《尚书·仲虺之诰》" ref="若苗之表莠，若粟之有秕。" />
+		</sense>
+		<sense tag="形" vernacular="坏，不好">
+			<exam article="《儒林传论》" ref="自桓、灵之间，君道秕僻。" />
+		</sense>
+	</pron>
+</character>

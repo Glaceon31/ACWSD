@@ -1,0 +1,21 @@
+<character value="斋">
+	<introduce>
+		<pinyin value="zhai1" writing="zhāi" />
+		<bushou value="文" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="捺横撇捺横撇竖折竖竖" />
+	</introduce>
+	<pron value="zhāi">
+		<sense tag="名" vernacular="斋戒">
+			<exam article="《廉颇蔺相如列传》" ref="秦王度之，终不可强夺，遂许斋五日。" />
+		</sense>
+		<sense tag="名" vernacular="素食" />
+		<sense tag="名" vernacular="房舍，多指书房、学舍">
+			<exam article="《陶侃》" ref="（侃）辄朝运百甓于斋外，暮运于斋内。" />
+		</sense>
+	</pron>
+	<phrase value="斋戒">
+		<sense value="古人在祭祀或进行重大活动前，沐浴更衣，不喝酒，不吃荤，洁净身心，以示虔诚" />
+	</phrase>
+</character>

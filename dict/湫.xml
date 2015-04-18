@@ -1,0 +1,28 @@
+<character value="湫">
+	<introduce>
+		<pinyin value="qiu1" writing="qiū" />
+		<pinyin value="jia3" writing="jiă" />
+		<pinyin value="jiao3" writing="jiăo" />
+		<pinyin value="jiu1" writing="jiū" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺横撇横竖撇捺捺撇撇捺" />
+	</introduce>
+	<pron value="qiū">
+		<sense tag="名" vernacular="水池" />
+		<sense tag="形" vernacular="凉">
+			<exam article="《高唐赋》" ref="湫兮如风，凄兮如雨。" />
+		</sense>
+	</pron>
+	<pron value="jiǎo">
+		<sense tag="形" vernacular="低下">
+			<exam article="《左传·昭公三年》" ref="子之宅近市，湫隘器尘，不可以居。" />
+		</sense>
+	</pron>
+	<pron value="chóu">
+		<sense vernacular="通“愁”">
+			<exam article="《左传·昭公三年》" ref="恤恤乎，湫乎攸乎！深思而浅谋，迩身而远志，家臣而君图，有人矣哉！" />
+		</sense>
+	</pron>
+</character>

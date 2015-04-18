@@ -1,0 +1,18 @@
+<character value="浣">
+	<introduce>
+		<pinyin value="huan4" writing="huàn" />
+		<pinyin value="wan3" writing="wăn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横捺捺折横横撇折" />
+	</introduce>
+	<pron value="huàn">
+		<sense tag="动" vernacular="洗涤">
+			<exam article="《史记·扁鹊传》" ref="湔浣肠胃，漱涤五藏。" />
+		</sense>
+		<sense tag="名" vernacular="唐代规定官吏每十天休息沐浴一次叫浣">
+			<exam article="《朝下过卢郎中叙旧游》" ref="复此休浣时，闲为畴昔言。" />
+		</sense>
+	</pron>
+</character>

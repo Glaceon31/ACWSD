@@ -1,0 +1,23 @@
+<character value="妆">
+	<introduce>
+		<pinyin value="zhuang1" writing="zhuāng" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="捺横竖折撇横" />
+	</introduce>
+	<pron value="zhuāng">
+		<sense tag="动" vernacular="打扮">
+			<exam article="《琵琶行》" ref="曲罢曾教善才服，妆成每被秋娘妒。" />
+		</sense>
+		<sense tag="名" vernacular="妇女用的脂粉、衣物等装饰物">
+			<exam article="《木兰诗》" ref="阿姐闻妹来，当户理红妆。" />
+		</sense>
+		<sense tag="动" vernacular="通“装”，装作">
+			<exam article="《群英会蒋干中计》" ref="蒋干只妆着睡着。" />
+		</sense>
+	</pron>
+	<phrase value="妆点">
+		<sense value="妆饰点缀" />
+	</phrase>
+</character>

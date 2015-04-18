@@ -1,0 +1,23 @@
+<character value="伪">
+	<introduce>
+		<pinyin value="wei3" writing="wĕi" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇竖捺撇折捺" />
+	</introduce>
+	<pron value="wěi">
+		<sense tag="形" vernacular="人为的；后天形成的">
+			<exam article="《荀子·性恶》" ref="可学而能，可事而之在人者，谓之伪。" />
+		</sense>
+		<sense tag="形" vernacular="虚假；不真实">
+			<exam article="《狱中杂记》" ref="部中老胥，家藏伪章。" />
+		</sense>
+		<sense tag="形" vernacular="非法的">
+			<exam article="《陈情表》" ref="且臣之事伪朝。" />
+		</sense>
+		<sense tag="动" vernacular="假装；佯装">
+			<exam article="《童区寄传》" ref="寄伪儿啼。" />
+		</sense>
+	</pron>
+</character>

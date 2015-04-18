@@ -1,0 +1,20 @@
+<character value="拒">
+	<introduce>
+		<pinyin value="ju4" writing="jù" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横横折横折" />
+	</introduce>
+	<pron value="jù">
+		<sense tag="动" vernacular="抗拒；抵御">
+			<exam article="《阿房宫赋》" ref="使六国各爱其人，则足以拒秦。" />
+		</sense>
+		<sense tag="动" vernacular="拒绝">
+			<exam article="《答司马谏议书》" ref="辟邪说，难壬人，不为拒谏。" />
+		</sense>
+	</pron>
+	<phrase value="拒后">
+		<sense value="阻击敌军，保障大军安全转移" />
+	</phrase>
+</character>

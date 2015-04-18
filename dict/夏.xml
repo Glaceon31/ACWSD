@@ -1,0 +1,22 @@
+<character value="夏">
+	<introduce>
+		<pinyin value="xia4" writing="xià" />
+		<pinyin value="jia3" writing="jiă" />
+		<bushou value="夂" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横撇竖折横横横撇折捺" />
+	</introduce>
+	<pron value="xià">
+		<sense tag="名" vernacular="四季的第二季">
+			<exam article="《论贵粟疏》" ref="春耕，夏耘，秋获，冬藏。" />
+		</sense>
+		<sense tag="名" vernacular="我国古代对中原地区的称呼，也称“华夏”、“诸夏”">
+			<exam article="《荀子·儒效》" ref="居楚而楚，居越而越，居夏而夏。" />
+		</sense>
+		<sense tag="名" vernacular="通“厦”，高大的房屋">
+			<exam article="《九章·哀郢》" ref="曾不知夏之为丘兮。" />
+		</sense>
+		<sense tag="名" vernacular="朝代名" />
+	</pron>
+</character>

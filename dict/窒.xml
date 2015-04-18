@@ -1,0 +1,14 @@
+<character value="窒">
+	<introduce>
+		<pinyin value="zhi4" writing="zhì" />
+		<bushou value="穴" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="捺捺折撇捺横折捺横竖横" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="动" vernacular="阻塞；不通">
+			<exam article="《诗经·豳风·七月》" ref="穹窒熏鼠。" />
+		</sense>
+	</pron>
+</character>

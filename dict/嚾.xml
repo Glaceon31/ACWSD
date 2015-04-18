@@ -1,0 +1,14 @@
+<character value="嚾">
+	<introduce>
+		<pinyin value="huan4" writing="huàn" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="20" />
+		<order value="竖折横横竖竖竖折横竖折横撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="huān">
+		<sense vernacular="嚾嚾，喧哗叫嚷">
+			<exam article="《荀子·非十二子》" ref="世俗之沟犹瞀儒，嚾然不知其所非也。" />
+		</sense>
+	</pron>
+</character>

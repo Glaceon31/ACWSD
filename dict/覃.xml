@@ -1,0 +1,27 @@
+<character value="覃">
+	<introduce>
+		<pinyin value="tan2" writing="tán" />
+		<pinyin value="qin2" writing="qín" />
+		<bushou value="覀" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="横竖折竖竖横竖折横横横竖" />
+	</introduce>
+	<pron value="tán">
+		<sense tag="形" vernacular="长">
+			<exam article="《诗经·大雅·生民》" ref="实覃实圩，厥声载路。" />
+		</sense>
+		<sense tag="动" vernacular="延；延伸">
+			<exam article="《诗经·周南·葛覃》" ref="葛之覃兮，施于中谷，维叶萋萋。" />
+			<exam article="《五等论》" ref="祸止畿甸，害不覃及。" />
+		</sense>
+		<sense tag="形" vernacular="深">
+			<exam article="《尚书序》" ref="于是遂研精覃思，博考经籍。" />
+		</sense>
+	</pron>
+	<pron value="yǎn">
+		<sense tag="形" vernacular="通“剡”">
+			<exam article="《诗经·小雅·大田》" ref="以我覃耜，俶载南亩。" />
+		</sense>
+	</pron>
+</character>

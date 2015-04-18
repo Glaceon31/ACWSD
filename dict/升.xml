@@ -1,0 +1,23 @@
+<character value="升">
+	<introduce>
+		<pinyin value="sheng1" writing="shēng" />
+		<bushou value="十" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="撇横撇竖" />
+	</introduce>
+	<pron value="shēng">
+		<sense tag="名" vernacular="容量单位">
+			<exam article="《齐民要术·种谷》" ref="良地一亩，用子五升。" />
+		</sense>
+		<sense tag="动" vernacular="上升；登">
+			<exam article="《诗经·小雅·天保》" ref="如月之恒，如日之升。" />
+		</sense>
+		<sense tag="形" vernacular="成熟">
+			<exam article="《谷梁传·襄公二十四年》" ref="五谷不升为大饥。" />
+		</sense>
+		<sense tag="形" vernacular="太平">
+			<exam article="《三国志·魏书·王朗传》" ref="蒸庶欣欣，喜遇升平。" />
+		</sense>
+	</pron>
+</character>

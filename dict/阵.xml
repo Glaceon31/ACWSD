@@ -1,0 +1,23 @@
+<character value="阵">
+	<introduce>
+		<pinyin value="zhen4" writing="zhèn" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="折竖横折横竖" />
+	</introduce>
+	<pron value="zhèn">
+		<sense tag="名" vernacular="军队作战时按一定的作战意图排列的队伍">
+			<exam article="《出师表》" ref="愚以为营之事，悉以咨之，必能使行阵和睦，优劣得所。" />
+		</sense>
+		<sense tag="名" vernacular="泛指行列">
+			<exam article="《滕王阁序》" ref="雁阵惊寒，声断衡阳之浦。" />
+		</sense>
+		<sense tag="名" vernacular="战事">
+			<exam article="《失街亭》" ref="吾累随丞相经阵。" />
+		</sense>
+		<sense tag="量" vernacular="表示时间的长度">
+			<exam article="《失街亭》" ref="二将合兵一处，大杀一阵。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="仞">
+	<introduce>
+		<pinyin value="ren4" writing="rèn" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="5" />
+		<order value="撇竖折撇捺" />
+	</introduce>
+	<pron value="rèn">
+		<sense tag="名" vernacular="古代长度单位">
+			<exam article="《愚公移山》" ref="太行、王屋二山，方七百里，高万仞。" />
+		</sense>
+	</pron>
+</character>

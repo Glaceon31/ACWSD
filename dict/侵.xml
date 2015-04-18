@@ -1,0 +1,29 @@
+<character value="侵">
+	<introduce>
+		<pinyin value="qin1" writing="qīn" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="撇竖折横横捺折折捺" />
+	</introduce>
+	<pron value="qīn">
+		<sense tag="动" vernacular="侵略；进攻">
+			<exam article="《冯婉贞》" ref="英法联军自海入侵。" />
+		</sense>
+		<sense tag="动" vernacular="侵犯；欺凌">
+			<exam article="《史记·游侠列传》" ref="豪暴侵凌孤弱。" />
+		</sense>
+		<sense tag="动" vernacular="侵蚀；侵夺">
+			<exam article="《答司马谏议书》" ref="以授之于有司，不为侵官。" />
+		</sense>
+	</pron>
+	<phrase value="侵晨">
+		<sense value="破晓；拂晓" />
+	</phrase>
+	<phrase value="侵轶">
+		<sense value="突龚；包抄" />
+	</phrase>
+	<phrase value="侵渔">
+		<sense value="侵夺吞没" />
+	</phrase>
+</character>

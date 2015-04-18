@@ -1,0 +1,43 @@
+<character value="听">
+	<introduce>
+		<pinyin value="ting1" writing="tīng" />
+		<pinyin value="yin3" writing="yĭn" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="竖折横撇撇横竖" />
+	</introduce>
+	<pron value="tīng">
+		<sense tag="动" vernacular="耳听">
+			<exam article="《十一月四日风雨大作》" ref="夜阑卧听风吹雨，铁马冰马河入梦来。" />
+		</sense>
+		<sense tag="动" vernacular="听从；接受">
+			<exam article="《陈情表》" ref="愿陛下矜悯愚诚，听臣微志。" />
+		</sense>
+		<sense tag="动" vernacular="听信">
+			<exam article="《屈原列传》" ref="怀王竟听郑袖，复释去张仪。" />
+		</sense>
+		<sense tag="动" vernacular="听凭；听任">
+			<exam article="《王冕读书》" ref="儿痴如此，曷不听其所为。" />
+		</sense>
+		<sense tag="名" vernacular="听力；听闻">
+			<exam article="《出师表》" ref="诚宜开张圣听，以光先帝遗德。" />
+		</sense>
+		<sense tag="动" vernacular="治理；处理">
+			<exam article="《论语·颜渊》" ref="听讼，吾犹人也，必也使无讼乎。" />
+		</sense>
+		<sense tag="名" vernacular="通“厅”，厅堂">
+			<exam article="《世说新语·政事》" ref="大司马府听前有一老槐。" />
+		</sense>
+	</pron>
+	<phrase value="听事">
+		<sense value="处理政事" />
+		<sense value="厅堂；官府办公的地方" />
+	</phrase>
+	<phrase value="听讼">
+		<sense value="审理诉讼；判案" />
+	</phrase>
+	<phrase value="听政">
+		<sense value="处理政务" />
+	</phrase>
+</character>

@@ -1,0 +1,45 @@
+<character value="尽">
+	<introduce>
+		<pinyin value="jin3" writing="jĭn" />
+		<pinyin value="jin4" writing="jìn" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折横撇捺捺捺" />
+	</introduce>
+	<pron value="jìn">
+		<sense tag="动" vernacular="完；完尽；完了">
+			<exam article="《赤壁赋》" ref="肴核既尽，杯盘狼藉。" />
+		</sense>
+		<sense tag="动" vernacular="全部用出">
+			<exam article="《寡人之于国也》" ref="寡人之于国也，尽心焉耳矣。" />
+		</sense>
+		<sense tag="动" vernacular="完结；消亡">
+			<exam article="《捕蛇者说》" ref="退而甘食其土之有，以尽吾齿。" />
+			<exam article="《促织》" ref="转侧床头，惟思自尽。" />
+		</sense>
+		<sense tag="名" vernacular="尽头">
+			<exam article="《赤壁之战》" ref="则物与我皆无尽也，而又何羡乎。" />
+		</sense>
+		<sense tag="动" vernacular="达到顶点；穷极">
+			<exam article="《张衡传》" ref="妙尽璇机之正。" />
+		</sense>
+		<sense tag="副" vernacular="全部；全都">
+			<exam article="《滕王阁序》" ref="萍水相逢，尽是他乡之客。" />
+		</sense>
+		<sense tag="副" vernacular="极端；最">
+			<exam article="《论语·八佾》" ref="子谓《韶》尽美矣，又尽善也。" />
+		</sense>
+		<sense tag="动" vernacular="同“进”，进行">
+			<exam article="《邵公谏厉王弭谤》" ref="近臣尽规。" />
+		</sense>
+	</pron>
+	<pron value="jǐn">
+		<sense tag="动" vernacular="尽量；尽可能">
+			<exam article="《礼记·曲礼》" ref="虚坐尽后，食坐尽后。" />
+		</sense>
+		<sense tag="副" vernacular="任凭；任随">
+			<exam article="《宫词》" ref="惟有落红不禁，尽教飞舞出宫墙。" />
+		</sense>
+	</pron>
+</character>

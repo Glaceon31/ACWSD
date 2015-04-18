@@ -1,0 +1,63 @@
+<character value="引">
+	<introduce>
+		<pinyin value="yin3" writing="yĭn" />
+		<bushou value="弓" />
+		<bushoustroke value="3" />
+		<stroke value="4" />
+		<order value="折横折竖" />
+	</introduce>
+	<pron value="yǐn">
+		<sense tag="动" vernacular="拉开（弓）">
+			<exam article="《塞翁失马》" ref="丁壮者引弦而战。" />
+		</sense>
+		<sense tag="动" vernacular="延长；伸长">
+			<exam article="《三峡》" ref="常有高猿长啸，属引凄异。" />
+		</sense>
+		<sense tag="动" vernacular="拉；牵引">
+			<exam article="《廉颇蔺相如列传》" ref="左右欲引相如去。" />
+		</sense>
+		<sense tag="动" vernacular="延请">
+			<exam article="《廉颇蔺相如列传》" ref="乃设九宾礼于廷，引赵使者蔺相如。" />
+		</sense>
+		<sense tag="动" vernacular="带领">
+			<exam article="《垓下之战》" ref="项王乃复引兵而东。" />
+		</sense>
+		<sense tag="动" vernacular="招出；牵连">
+			<exam article="《苏武传》" ref="虞常果引张胜。" />
+		</sense>
+		<sense tag="动" vernacular="拿；举">
+			<exam article="《归去来兮辞》" ref="引壶觞以自酌。" />
+		</sense>
+		<sense tag="动" vernacular="招引；引来">
+			<exam article="《兰亭集序》" ref="又有清流激湍，映带左右，引以为流觞曲水。" />
+		</sense>
+		<sense tag="动" vernacular="避开；退却">
+			<exam article="《赤壁之战》" ref="操军不利，引次江北。" />
+		</sense>
+		<sense tag="动" vernacular="掉转">
+			<exam article="《廉颇蔺相如列传》" ref="相如引车避匿。" />
+		</sense>
+		<sense tag="动" vernacular="延长；延续">
+			<exam article="《诗·小雅·楚茨》" ref="子子孙孙，忽替引之。" />
+		</sense>
+		<sense tag="动" vernacular="伸着">
+			<exam article="《中山狼传》" ref="引首顾曰。" />
+		</sense>
+		<sense tag="动" vernacular="援引；引录；引用">
+			<exam article="《出师表》" ref="不宜妄自菲薄，引喻失义。" />
+		</sense>
+		<sense tag="动" vernacular="荐举">
+			<exam article="《史记·魏其武安侯传》" ref="两人相为引重，其游如父子然。" />
+		</sense>
+		<sense tag="动" vernacular="承认；承担">
+			<exam article="《三国志·吴志》" ref="权引咎责躬。" />
+		</sense>
+		<sense tag="量" vernacular="长度单位" />
+		<sense tag="名" vernacular="序言">
+			<exam article="《滕王阁序》" ref="敢竭鄙怀，恭疏经引。" />
+		</sense>
+	</pron>
+	<phrase value="引决">
+		<sense value="自杀" />
+	</phrase>
+</character>

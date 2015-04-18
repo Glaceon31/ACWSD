@@ -1,0 +1,53 @@
+<character value="常">
+	<introduce>
+		<pinyin value="chang2" writing="cháng" />
+		<bushou value="巾" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="竖捺撇捺折竖折横竖折竖" />
+	</introduce>
+	<pron value="cháng">
+		<sense tag="形" vernacular="永久的；固定的">
+			<exam article="《师说》" ref="圣人无常师。" />
+			<exam article="《促织》" ref="有华阴令，欲媚上官，以一头进，试使斗而才，因责常供。" />
+		</sense>
+		<sense tag="名" vernacular="规律；准则">
+			<exam article="《荀子·天论》" ref="天行有常，不为尧存，不为桀亡。" />
+		</sense>
+		<sense tag="形" vernacular="平常；普通">
+			<exam article="《马说》" ref="且欲与常马等不可得，安求其能千里也？" />
+			<exam article="《采草药》" ref="盖常理也。" />
+		</sense>
+		<sense tag="名" vernacular="平日；平时">
+			<exam article="《张衡传》" ref="常从容淡静，不好交接俗人。" />
+		</sense>
+		<sense tag="副" vernacular="经常；常常">
+			<exam article="《伶官传序》" ref="夫祸患常积于忽微，而智勇多困于所溺。" />
+			<exam article="《信陵君窃符救赵》" ref="赢闻晋鄙之兵符常在王卧内。" />
+		</sense>
+		<sense tag="量" vernacular="长度单位，古代八尺为寻，两寻为常">
+			<exam article="《韩非子·五蠹》" ref="布帛寻常，庸人不释。" />
+		</sense>
+		<sense vernacular="通“尝”">
+			<exam article="《史记·留侯世家》" ref="项伯常杀人，从良匿。" />
+		</sense>
+	</pron>
+	<phrase value="常典">
+		<sense value="1" />
+		<sense value="常例，正常的法度" />
+		<sense value="2" />
+		<sense value="经典" />
+	</phrase>
+	<phrase value="常流">
+		<sense value="1" />
+		<sense value="长河" />
+		<sense value="常，通“长”" />
+	</phrase>
+	<phrase value="常式">
+		<sense value="1" />
+		<sense value="固定的制度" />
+	</phrase>
+	<phrase value="常侍">
+		<sense value="经常侍从君主的官员，秦汉有中常侍，魏晋有散骑常侍，隋唐内侍省有内常侍" />
+	</phrase>
+</character>

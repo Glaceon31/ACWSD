@@ -1,0 +1,20 @@
+<character value="髟">
+	<introduce>
+		<pinyin value="biao1" writing="biāo" />
+		<pinyin value="shan1" writing="shān" />
+		<bushou value="髟" />
+		<bushoustroke value="10" />
+		<stroke value="10" />
+		<order value="横竖横横横折捺撇撇撇" />
+	</introduce>
+	<pron value="biāo">
+		<sense tag="动" vernacular="长发下垂">
+			<exam article="《秋兴赋》" ref="斑鬓髟以承弁兮,素发飒以垂领。" />
+		</sense>
+	</pron>
+	<pron value="piáo">
+		<sense tag="名" vernacular="长髦">
+			<exam article="《长笛赋》" ref="寒熊振颔,特麚昏髟。" />
+		</sense>
+	</pron>
+</character>

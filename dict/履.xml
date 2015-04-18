@@ -1,0 +1,26 @@
+<character value="履">
+	<introduce>
+		<pinyin value="lu3" writing="lǚ" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="折横撇撇撇竖撇横竖折横横撇折捺" />
+	</introduce>
+	<pron value="lǚ">
+		<sense tag="动" vernacular="踩；踏">
+			<exam article="《少年中国说》" ref="天戴其苍，地履其黄。" />
+		</sense>
+		<sense tag="动" vernacular="登；登位">
+			<exam article="《过秦论》" ref="吞二周而亡诸侯，履至尊而制六合。" />
+		</sense>
+		<sense tag="名" vernacular="鞋子">
+			<exam article="《孔雀东南飞》" ref="揽裙脱丝履，举身赴清池。" />
+		</sense>
+		<sense tag="名为动" vernacular="为（替）……穿上鞋子">
+			<exam article="《史记·留侯世家》" ref="因跪履之。" />
+		</sense>
+	</pron>
+	<phrase value="履尾">
+		<sense value="践踏虎尾，喻处于险境" />
+	</phrase>
+</character>

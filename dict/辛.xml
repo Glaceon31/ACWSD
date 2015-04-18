@@ -1,0 +1,21 @@
+<character value="辛">
+	<introduce>
+		<pinyin value="xin1" writing="xīn" />
+		<bushou value="辛" />
+		<bushoustroke value="7" />
+		<stroke value="7" />
+		<order value="捺横捺撇横横竖" />
+	</introduce>
+	<pron value="xīn">
+		<sense tag="形" vernacular="辣味">
+			<exam article="《苦斋记》" ref="味苦而微辛。" />
+		</sense>
+		<sense tag="形" vernacular="心中的痛苦">
+			<exam article="《孔雀东南飞》" ref="昼夜勤作息，伶俜萦苦辛。" />
+		</sense>
+		<sense tag="形" vernacular="辛劳；劳苦">
+			<exam article="《贾客词》" ref="农夫何为者，辛苦事寒耕。" />
+		</sense>
+		<sense tag="名" vernacular="天干的第八位" />
+	</pron>
+</character>

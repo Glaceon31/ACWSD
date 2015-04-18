@@ -1,0 +1,17 @@
+<character value="憾">
+	<introduce>
+		<pinyin value="han4" writing="hàn" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="捺捺竖横撇横竖折横折撇捺捺折捺捺" />
+	</introduce>
+	<pron value="hàn">
+		<sense tag="名" vernacular="恨；怨恨">
+			<exam article="《寡人之于国也》" ref="是使民养生丧死无憾也。" />
+		</sense>
+		<sense tag="名" vernacular="不满意;遗憾">
+			<exam article="《论语》" ref="愿车马,衣轻裘,与朋友共,敝之无憾。" />
+		</sense>
+	</pron>
+</character>

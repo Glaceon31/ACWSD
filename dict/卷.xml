@@ -1,0 +1,37 @@
+<character value="卷">
+	<introduce>
+		<pinyin value="juan3" writing="juăn" />
+		<pinyin value="juan4" writing="juàn" />
+		<pinyin value="quan2" writing="quán" />
+		<bushou value="厄" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="捺撇横横撇捺折折" />
+	</introduce>
+	<pron value="juǎn">
+		<sense tag="动" vernacular="把东西卷裹成圆筒形">
+			<exam article="《过秦论》" ref="有席卷天下，包举宇内，囊括四海之意。" />
+		</sense>
+		<sense tag="动" vernacular="翻卷；掀起；裹起">
+			<exam article="《念奴娇·赤壁怀古》" ref="乱石穿空，惊涛拍岸，卷起千堆雪。" />
+			<exam article="《茅屋为秋风所破歌》" ref="八月秋高风怒号，卷我屋上三重茅。" />
+		</sense>
+		<sense tag="动" vernacular="席卷；全部盗取或侵吞">
+			<exam article="《葫芦僧判断葫芦案》" ref="他意欲卷了两家的银子逃去。" />
+		</sense>
+	</pron>
+	<pron value="juàn">
+		<sense tag="名" vernacular="书卷；书籍">
+			<exam article="《核舟记》" ref="鲁直左手执卷末，右手指卷。" />
+		</sense>
+		<sense tag="名" vernacular="整部书的一部分">
+			<exam article="《&lt;指南录&gt;后序》" ref="使北营，留北关外，为一卷。" />
+		</sense>
+		<sense tag="量" vernacular="表示文书、书籍的单位">
+			<exam article="《木兰辞》" ref="军书十二卷。" />
+		</sense>
+		<sense tag="名" vernacular="试卷；考卷">
+			<exam article="《左忠毅公逸事》" ref="呈卷，即而署第一。" />
+		</sense>
+	</pron>
+</character>

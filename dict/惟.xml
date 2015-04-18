@@ -1,0 +1,27 @@
+<character value="惟">
+	<introduce>
+		<pinyin value="wei2" writing="wéi" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺竖撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="wéi">
+		<sense tag="动" vernacular="思考；考虑">
+			<exam article="《墨池记》" ref="惟王君之心，岂爱人之善。" />
+			<exam article="《陈情表》" ref="伏惟圣朝以孝治天下。" />
+		</sense>
+		<sense tag="副" vernacular="只；只是">
+			<exam article="《木兰诗》" ref="不闻机杼声，惟闻女叹息。" />
+		</sense>
+		<sense tag="介" vernacular="因为">
+			<exam article="《少年中国说》" ref="惟思既往也故生留恋心。" />
+		</sense>
+		<sense tag="助" vernacular="句首表语气希望">
+			<exam article="《中山狼传》" ref="惟先生速图。" />
+		</sense>
+	</pron>
+	<phrase value="惟度">
+		<sense value="思量；揣度" />
+	</phrase>
+</character>

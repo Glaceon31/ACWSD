@@ -1,0 +1,24 @@
+<character value="赴">
+	<introduce>
+		<pinyin value="fu4" writing="fù" />
+		<bushou value="走" />
+		<bushoustroke value="7" />
+		<stroke value="9" />
+		<order value="横竖横竖横撇捺竖捺" />
+	</introduce>
+	<pron value="fù">
+		<sense tag="动" vernacular="奔向；投向">
+			<exam article="《信陵君窃符求赵》" ref="无他端，而欲赴秦军。" />
+			<exam article="《孔雀东南飞》" ref="举身赴清池" />
+		</sense>
+		<sense tag="动" vernacular="前往；到">
+			<exam article="《齐桓晋文之事》" ref="天下之欲疾其君者，皆欲赴愬于王。" />
+		</sense>
+		<sense tag="动" vernacular="报丧，后来写作“讣”">
+			<exam article="《左传·隐公三年》" ref="王平崩，赴以庚戍，故书之。" />
+		</sense>
+		<sense tag="动" vernacular="赴任">
+			<exam article="《石钟山记》" ref="而长子迈将赴饶之德兴尉。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,20 @@
+<character value="羸">
+	<introduce>
+		<pinyin value="lei2" writing="léi" />
+		<bushou value="羊" />
+		<bushoustroke value="6" />
+		<stroke value="19" />
+		<order value="捺横折竖折横撇折横横捺撇横横横竖撇折捺" />
+	</introduce>
+	<pron value="léi">
+		<sense tag="形" vernacular="瘦弱">
+			<exam article="《赤壁之战》" ref="羸兵为人马所蹈藉。" />
+		</sense>
+		<sense tag="动" vernacular="倾覆；败坏">
+			<exam article="《周易·井》" ref="羸其瓶，是以凶也。" />
+		</sense>
+	</pron>
+	<phrase value="羸恶">
+		<sense value="干瘪；瘦弱" />
+	</phrase>
+</character>

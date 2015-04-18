@@ -1,0 +1,20 @@
+<character value="润">
+	<introduce>
+		<pinyin value="run4" writing="rùn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横捺竖折横横竖横" />
+	</introduce>
+	<pron value="rùn">
+		<sense tag="动" vernacular="滋润">
+			<exam article="《论衡·雷虚》" ref="雨润万物。" />
+		</sense>
+		<sense tag="形" vernacular="潮湿">
+			<exam article="《满庭芳·风老莺雏》" ref="衣润费烟。" />
+		</sense>
+		<sense tag="名" vernacular="雨水">
+			<exam article="《后汉书·钟离意传》" ref="比日密云，遂无大润。" />
+		</sense>
+	</pron>
+</character>

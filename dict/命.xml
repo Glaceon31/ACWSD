@@ -1,0 +1,48 @@
+<character value="命">
+	<introduce>
+		<pinyin value="ming4" writing="mìng" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇捺横竖折横折竖" />
+	</introduce>
+	<pron value="mìng">
+		<sense tag="动" vernacular="差使；命令">
+			<exam article="《归去来兮辞》" ref="或命巾车，或棹孤舟。" />
+		</sense>
+		<sense tag="名" vernacular="命令">
+			<exam article="《陈情表》" ref="臣以供养无主，辞不赴命。" />
+		</sense>
+		<sense tag="名" vernacular="命运；天命">
+			<exam article="《论积贮疏》" ref="大命将泛，莫之振救。" />
+			<exam article="《论语·颜渊》" ref="死生有命，富贵在天。" />
+		</sense>
+		<sense tag="名" vernacular="生命">
+			<exam article="《陈情表》" ref="母孙二人，更相为命。" />
+		</sense>
+		<sense tag="动" vernacular="命名">
+			<exam article="《琵琶行》" ref="凡六百一十六言，命曰《琵琶行》。" />
+		</sense>
+		<sense tag="动" vernacular="任用">
+			<exam article="《越妇言》" ref="天子疏爵以命之。" />
+		</sense>
+	</pron>
+	<phrase value="命笔">
+		<sense value="执笔（写诗文或作画）" />
+	</phrase>
+	<phrase value="命服">
+		<sense value="帝王按等级赐给公侯、卿大夫等的制服" />
+	</phrase>
+	<phrase value="命妇">
+		<sense value="受到封号的妇女" />
+	</phrase>
+	<phrase value="命世">
+		<sense value="扬名于当世" />
+	</phrase>
+	<phrase value="命途">
+		<sense value="平生的经历" />
+	</phrase>
+	<phrase value="命意">
+		<sense value="寓意" />
+	</phrase>
+</character>

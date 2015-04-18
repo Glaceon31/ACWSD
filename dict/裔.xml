@@ -1,0 +1,26 @@
+<character value="裔">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="衣" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="捺横撇折撇捺竖折撇捺竖折横" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="名" vernacular="衣服的边沿">
+			<exam article="《九歌·湘夫人》" ref="蛟何为兮水裔？" />
+		</sense>
+		<sense tag="名" vernacular="边远的地方">
+			<exam article="《左传·文公十八年》" ref="投诸四裔。" />
+		</sense>
+		<sense tag="名" vernacular="子孙后代">
+			<exam article="《吴都赋》" ref="虞、魏之昆，顾、陆之裔。" />
+		</sense>
+	</pron>
+	<phrase value="裔胄">
+		<sense value="后代" />
+	</phrase>
+	<phrase value="裔子">
+		<sense value="玄孙以后的子孙" />
+	</phrase>
+</character>

@@ -1,0 +1,20 @@
+<character value="哉">
+	<introduce>
+		<pinyin value="zai1" writing="zāi" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横竖折横折撇捺" />
+	</introduce>
+	<pron value="zāi">
+		<sense tag="语助" vernacular="表示感叹的语气，相当于“啊”">
+			<exam article="《秋声赋》" ref="噫嘻悲哉！此秋声也。" />
+		</sense>
+		<sense tag="语助" vernacular="表示疑问的语气，相当于“呢”">
+			<exam article="《石钟山记》" ref="而此独以钟名，何哉？" />
+		</sense>
+		<sense tag="语助" vernacular="表示反问语气">
+			<exam article="《廉颇蔺相如列传》" ref="相如虽驽，独畏廉将军哉？" />
+		</sense>
+	</pron>
+</character>

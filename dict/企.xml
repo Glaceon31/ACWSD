@@ -1,0 +1,18 @@
+<character value="企">
+	<introduce>
+		<pinyin value="qi3" writing="qĭ" />
+		<pinyin value="qi4" writing="qì" />
+		<bushou value="人" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇捺竖横竖横" />
+	</introduce>
+	<pron value="qǐ">
+		<sense tag="动" vernacular="踮起后脚跟">
+			<exam article="《汉书·高帝纪上》" ref="日夜企而望归。" />
+		</sense>
+	</pron>
+	<phrase value="企望">
+		<sense value="举踵而望" />
+	</phrase>
+</character>

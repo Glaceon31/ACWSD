@@ -1,0 +1,29 @@
+<character value="计">
+	<introduce>
+		<pinyin value="ji4" writing="jì" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="捺折横竖" />
+	</introduce>
+	<pron value="jì">
+		<sense tag="动" vernacular="算帐；计算">
+			<exam article="《出师表》" ref="则汉室之隆，可计日而待也。" />
+		</sense>
+		<sense tag="名" vernacular="账薄">
+			<exam article="《汉书·黄霸传》" ref="使领郡钱谷计，……以廉称。" />
+		</sense>
+		<sense tag="动" vernacular="送账簿">
+			<exam article="《左传·昭公二十五年》" ref="计于季氏。" />
+		</sense>
+		<sense tag="动" vernacular="打算；盘算；谋划">
+			<exam article="《廉颇蔺相如列传》" ref="臣尝有罪，窃计欲亡走燕。" />
+		</sense>
+		<sense tag="动" vernacular="计议；商量">
+			<exam article="《廉颇蔺相如列传》" ref="唯大王与群臣孰计议之。" />
+		</sense>
+		<sense tag="名" vernacular="计谋；计策">
+			<exam article="《赤壁之战》" ref="愿早定大计，莫用众人之议也。" />
+		</sense>
+	</pron>
+</character>

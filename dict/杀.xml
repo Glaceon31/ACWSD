@@ -1,0 +1,35 @@
+<character value="杀">
+	<introduce>
+		<pinyin value="sha1" writing="shā" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="撇捺横竖撇捺" />
+	</introduce>
+	<pron value="shā">
+		<sense tag="动" vernacular="杀死；弄死">
+			<exam article="《寡人之于国也》" ref="是何异于刺人而之。" />
+			<exam article="《陈涉世家》" ref="陈胜佐之，并杀两尉。" />
+		</sense>
+		<sense tag="动" vernacular="战斗；搏斗">
+			<exam article="《教战守策》" ref="使其心志安于斩刈杀伐之际而不慑。" />
+		</sense>
+		<sense tag="动" vernacular="衰败；败坏">
+			<exam article="《秋声赋》" ref="物过盛而当杀。" />
+			<exam article="《菊花》" ref="待到秋来九月八，我花开后百花杀。" />
+		</sense>
+		<sense tag="副" vernacular="形容程度深">
+			<exam article="《智取生辰纲》" ref="这样天气热，兀的不晒杀人。" />
+		</sense>
+		<sense tag="动" vernacular="削；消除">
+			<exam article="《后汉书·吴祐传》" ref="恢欲杀青简以写经书。" />
+		</sense>
+	</pron>
+	<phrase value="杀青">
+		<sense value="泛指书籍定稿" />
+		<sense value="洗掉浸烂后的竹青" />
+	</phrase>
+	<phrase value="杀字">
+		<sense value="收笔" />
+	</phrase>
+</character>

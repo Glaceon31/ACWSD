@@ -1,0 +1,20 @@
+<character value="览">
+	<introduce>
+		<pinyin value="lan3" writing="lăn" />
+		<bushou value="见" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="竖竖撇横捺竖折撇折" />
+	</introduce>
+	<pron value="lǎn">
+		<sense tag="动" vernacular="看；观赏；观望">
+			<exam article="《兰亭集序》" ref="每览昔人兴感之由，若合一契。" />
+		</sense>
+		<sense tag="动" vernacular="阅览">
+			<exam article="《柳毅传》" ref="洞庭君览毕，以袖掩面而泣。" />
+		</sense>
+		<sense tag="名" vernacular="所看到的事物、景色等">
+			<exam article="《游黄山记》" ref="因念黄山当生平奇览。" />
+		</sense>
+	</pron>
+</character>

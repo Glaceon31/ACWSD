@@ -1,0 +1,14 @@
+<character value="讣">
+	<introduce>
+		<pinyin value="fu4" writing="fù" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="捺折竖捺" />
+	</introduce>
+	<pron value="fù">
+		<sense vernacular="报丧；报告人死了的消息">
+			<exam article="《陶征士诔》" ref="省讣却赙。" />
+		</sense>
+	</pron>
+</character>

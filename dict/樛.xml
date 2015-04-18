@@ -1,0 +1,22 @@
+<character value="樛">
+	<introduce>
+		<pinyin value="jiu1" writing="jiū" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="15" />
+		<order value="横竖撇捺折捺横折捺横撇捺撇撇撇" />
+	</introduce>
+	<pron value="jiū">
+		<sense tag="动" vernacular="树枝向下弯曲">
+			<exam article="《诗经·小雅·南有嘉鱼》" ref="南有樛木，甘瓠累之。" />
+		</sense>
+		<sense tag="动" vernacular="缠绕；纠结">
+			<exam article="《乾元中寓居同谷县作歌》" ref="古巃嵸枝相樛樛。" />
+		</sense>
+	</pron>
+	<phrase value="樛流">
+		<sense value="曲折迂回的样子" />
+		<sense value="周转回环的样子" />
+		<sense value="高低错落的样子" />
+	</phrase>
+</character>

@@ -1,0 +1,36 @@
+<character value="夷">
+	<introduce>
+		<pinyin value="yi2" writing="yí" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="横折横折撇捺" />
+	</introduce>
+	<pron value="yí">
+		<sense tag="名" vernacular="我国古代东部民族，后泛指中原以外各族">
+			<exam article="《涉江》" ref="哀南夷之莫吾知兮，旦余济乎江湘。" />
+		</sense>
+		<sense tag="名" vernacular="泛指外国或外国人">
+			<exam article="《三元里抗英》" ref="逆夷各狐凭鼠伏，潜逃两炮台中，不敢出入。" />
+		</sense>
+		<sense tag="形" vernacular="平坦">
+			<exam article="《核舟记》" ref="其船背稍夷。" />
+			<exam article="《游褒禅山记》" ref="夫夷以近，则游者众。" />
+		</sense>
+		<sense tag="动" vernacular="铲平；除平">
+			<exam article="《赤壁之战》" ref="今操芟夷大难，略已平矣。" />
+		</sense>
+		<sense tag="动" vernacular="杀；灭">
+			<exam article="《苏武传》" ref="大臣亡罪夷灭者数十家。" />
+		</sense>
+		<sense tag="形" vernacular="和悦">
+			<exam article="《送东阳马生序》" ref="与之论辩，言和而色夷。" />
+		</sense>
+	</pron>
+	<phrase value="夷世">
+		<sense value="太平的世道" />
+	</phrase>
+	<phrase value="夷犹">
+		<sense value="迟疑不前" />
+	</phrase>
+</character>

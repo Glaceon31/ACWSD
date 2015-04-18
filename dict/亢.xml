@@ -1,0 +1,40 @@
+<character value="亢">
+	<introduce>
+		<pinyin value="kang4" writing="kàng" />
+		<bushou value="亠" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="捺横撇折" />
+	</introduce>
+	<pron value="kàng">
+		<sense tag="形" vernacular="高">
+			<exam article="《庄子·人间世》" ref="故解之以牛之白颡者与豚之亢鼻者。" />
+		</sense>
+		<sense tag="动" vernacular="举">
+			<exam article="《楚辞·卜居》" ref="宁与骐骥亢轭乎？" />
+		</sense>
+		<sense tag="动" vernacular="绝；断绝">
+			<exam article="《解嘲》" ref="搤其咽而亢其气。" />
+		</sense>
+		<sense tag="副" vernacular="极；极度">
+			<exam article="《窦娥冤》" ref="着这楚州亢旱三年。" />
+		</sense>
+	</pron>
+	<pron value="gāng">
+		<sense tag="名" vernacular="咽喉；喉咙">
+			<exam article="《汉书·娄敬传》" ref="夫与斗，不搤其亢，拊其背，不能全胜。" />
+		</sense>
+		<sense tag="名" vernacular="要害；关键之处">
+			<exam article="《史记·孙子吴起列传》" ref="批亢捣虚。" />
+		</sense>
+	</pron>
+	<phrase value="亢礼">
+		<sense value="彼此以平等礼节相对待" />
+	</phrase>
+	<phrase value="亢阳">
+		<sense value="阳气极盛，指久旱不雨" />
+	</phrase>
+	<phrase value="亢宗">
+		<sense value="庇护宗族" />
+	</phrase>
+</character>

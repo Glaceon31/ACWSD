@@ -1,0 +1,17 @@
+<character value="粒">
+	<introduce>
+		<pinyin value="li4" writing="lì" />
+		<bushou value="米" />
+		<bushoustroke value="6" />
+		<stroke value="11" />
+		<order value="捺撇横竖撇捺捺横捺撇横" />
+	</introduce>
+	<pron value="lì">
+		<sense tag="名" vernacular="米粒；谷粒">
+			<exam article="《张望补稻畦水归》" ref="玉粒足晨炊。" />
+		</sense>
+		<sense tag="量" vernacular="计量颗状物体">
+			<exam article="《悯农》" ref="谁知盘中餐，粒粒皆辛苦。" />
+		</sense>
+	</pron>
+</character>

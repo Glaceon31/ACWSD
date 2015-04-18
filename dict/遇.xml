@@ -1,0 +1,44 @@
+<character value="遇">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="竖折横横竖折竖横捺捺折捺" />
+	</introduce>
+	<pron value="yù">
+		<sense tag="动" vernacular="遇到">
+			<exam article="《陈涉世家》" ref="公等遇雨，皆已失期。" />
+		</sense>
+		<sense tag="动" vernacular="会面；会见">
+			<exam article="《大铁椎传》" ref="北平陈子灿省兄河南，与遇宋将军家。" />
+		</sense>
+		<sense tag="动" vernacular="接触；感触">
+			<exam article="《庖丁解牛》" ref="臣以神遇而不以目视。" />
+		</sense>
+		<sense tag="动" vernacular="看到">
+			<exam article="《赤壁赋》" ref="目遇之而成色。" />
+		</sense>
+		<sense tag="动" vernacular="遇合；投合">
+			<exam article="《战国策·秦策》" ref="王何不与寡人遇。" />
+		</sense>
+		<sense tag="动" vernacular="对待；招待">
+			<exam article="《鸿门宴》" ref="不如因善遇之。" />
+		</sense>
+		<sense tag="名" vernacular="际遇；机会">
+			<exam article="《五人墓碑记》" ref="斯固百世之遇也。" />
+		</sense>
+		<sense tag="动" vernacular="嫁">
+			<exam article="《祭妹文》" ref="汝以一念之贞，遇人仳离，致孤危托落。" />
+		</sense>
+		<sense tag="名" vernacular="待遇">
+			<exam article="《出师表》" ref="盖追先帝之殊遇，欲报之于陛下也。" />
+		</sense>
+	</pron>
+	<phrase value="遇合">
+		<sense value="得到君主的赏识" />
+	</phrase>
+	<phrase value="遇事生风">
+		<sense value="借故生事" />
+	</phrase>
+</character>

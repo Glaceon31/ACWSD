@@ -1,0 +1,36 @@
+<character value="没">
+	<introduce>
+		<pinyin value="mei2" writing="méi" />
+		<pinyin value="mo4" writing="mò" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺横撇折折捺" />
+	</introduce>
+	<pron value="mò">
+		<sense tag="动" vernacular="沉入水中">
+			<exam article="《孔雀东南飞》" ref="其家逼之，乃没水而死。" />
+		</sense>
+		<sense tag="动" vernacular="淹没">
+			<exam article="《西门豹治邺》" ref="水来漂没，溺其人民。" />
+		</sense>
+		<sense tag="动" vernacular="掩没；掩埋">
+			<exam article="《兵车行》" ref="生女犹得嫁比邻，生男埋没随百草。" />
+		</sense>
+		<sense tag="动" vernacular="覆没；陷没">
+			<exam article="《报任安书》" ref="陵未没时，使有来报。" />
+		</sense>
+		<sense tag="动" vernacular="隐没；隐匿">
+			<exam article="《﹤指南录﹥后序》" ref="日与北骑相出没于长淮间。" />
+		</sense>
+		<sense tag="动" vernacular="消失">
+			<exam article="《中山狼传》" ref="良久，羽旄之影渐没，车马之音不闻。" />
+		</sense>
+		<sense tag="动" vernacular="没收">
+			<exam article="《柳子厚墓志铭》" ref="子本相侔，则没为奴婢。" />
+		</sense>
+		<sense tag="动" vernacular="通“殁”，死">
+			<exam article="《过秦论》" ref="始皇既没，余威震于殊俗。" />
+		</sense>
+	</pron>
+</character>

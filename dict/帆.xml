@@ -1,0 +1,19 @@
+<character value="帆">
+	<introduce>
+		<pinyin value="fan1" writing="fān" />
+		<pinyin value="fan2" writing="fán" />
+		<bushou value="巾" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="竖折竖撇折捺" />
+	</introduce>
+	<pron value="fān">
+		<sense tag="名" vernacular="船桅上的布篷;风帆">
+			<exam article="《行路难》" ref="直挂云帆帆济沧海。" />
+		</sense>
+		<sense tag="名" vernacular="代指船">
+			<exam article="《望天门山》" ref="孤帆一片日边来。" />
+			<exam article="《酬乐天扬州初逢席上见赠》" ref="沉舟侧畔千帆过。" />
+		</sense>
+	</pron>
+</character>

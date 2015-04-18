@@ -1,0 +1,24 @@
+<character value="屠">
+	<introduce>
+		<pinyin value="tu2" writing="tú" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="折横撇横竖横撇竖折横横" />
+	</introduce>
+	<pron value="tú">
+		<sense tag="动" vernacular="宰杀">
+			<exam article="《信陵君窃符救赵》" ref="臣乃市井鼓刀屠者。" />
+		</sense>
+		<sense tag="动" vernacular="屠杀；大规模地残杀">
+			<exam article="《史记·萧相国世家》" ref="项王与诸侯屠烧咸阳而去。" />
+		</sense>
+		<sense tag="名" vernacular="屠夫；宰杀牲畜为业的人">
+			<exam article="《狼》" ref="一屠晚归，担中肉尽，止有剩骨。" />
+		</sense>
+	</pron>
+	<phrase value="屠伯">
+		<sense value="宰杀牲畜的能手" />
+		<sense value="多喻称胡乱杀人的人" />
+	</phrase>
+</character>

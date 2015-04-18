@@ -1,0 +1,18 @@
+<character value="觑">
+	<introduce>
+		<pinyin value="qu4" writing="qù" />
+		<pinyin value="qu1" writing="qū" />
+		<bushou value="见" />
+		<bushoustroke value="4" />
+		<stroke value="15" />
+		<order value="竖横折撇横折竖竖捺撇横竖折撇折" />
+	</introduce>
+	<pron value="qù">
+		<sense tag="动" vernacular="窥视；窥探">
+			<exam article="《新唐书·张说传》" ref="胡寇觑边。" />
+		</sense>
+		<sense tag="动" vernacular="看；瞧">
+			<exam article="《高祖还乡》" ref="觑多时认得，险气破我胸脯。" />
+		</sense>
+	</pron>
+</character>

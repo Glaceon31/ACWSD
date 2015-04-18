@@ -1,0 +1,14 @@
+<character value="樽">
+	<introduce>
+		<pinyin value="zun1" writing="zūn" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="16" />
+		<order value="横竖撇捺捺撇横竖折撇折横横横竖捺" />
+	</introduce>
+	<pron value="zūn">
+		<sense tag="名" vernacular="酒器">
+			<exam article="《江上吟》" ref="美酒樽中置千斛。" />
+		</sense>
+	</pron>
+</character>

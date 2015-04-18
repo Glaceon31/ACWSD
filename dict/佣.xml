@@ -1,0 +1,21 @@
+<character value="佣">
+	<introduce>
+		<pinyin value="yong1" writing="yōng" />
+		<pinyin value="yong4" writing="yòng" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇竖撇折横横竖" />
+	</introduce>
+	<pron value="yōng">
+		<sense tag="动" vernacular="被雇用劳动">
+			<exam article="《陈涉世家》" ref="陈涉少时，尝与人佣耕。" />
+		</sense>
+		<sense tag="形" vernacular="通“庸”，不高明">
+			<exam article="《荀子·非相》" ref="是以终身不免坤佣污俗。" />
+		</sense>
+	</pron>
+	<phrase value="佣书">
+		<sense value="受雇为人抄书" />
+	</phrase>
+</character>

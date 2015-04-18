@@ -1,0 +1,30 @@
+<character value="灾">
+	<introduce>
+		<pinyin value="zai1" writing="zāi" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="捺捺折捺撇撇捺" />
+	</introduce>
+	<pron value="zāi">
+		<sense tag="名" vernacular="火灾">
+			<exam article="《左传·宣公十六年》" ref="凡火，人火曰火，天火曰灾。" />
+		</sense>
+		<sense tag="名" vernacular="泛指各种灾祸">
+			<exam article="《齐桓晋文之事》" ref="缘木求鱼，虽不得鱼，无后灾。" />
+			<exam article="《与吴质书》" ref="昔年疾疫，亲故多离其灾。" />
+		</sense>
+	</pron>
+	<phrase value="灾变">
+		<sense value="反常的自然变化" />
+	</phrase>
+	<phrase value="灾眚">
+		<sense value="灾难" />
+	</phrase>
+	<phrase value="灾祥">
+		<sense value="祸福" />
+	</phrase>
+	<phrase value="灾异">
+		<sense value="自然灾害和反常的自然现象" />
+	</phrase>
+</character>

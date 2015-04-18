@@ -1,0 +1,17 @@
+<character value="阜">
+	<introduce>
+		<pinyin value="fu4" writing="fù" />
+		<bushou value="阜" />
+		<bushoustroke value="8" />
+		<stroke value="8" />
+		<order value="撇竖折横折横横竖" />
+	</introduce>
+	<pron value="fù">
+		<sense tag="名" vernacular="土山">
+			<exam article="《荀子·赋篇》" ref="生于山阜。" />
+		</sense>
+		<sense tag="形" vernacular="盛；大">
+			<exam article="《西京赋》" ref="百物殷阜。" />
+		</sense>
+	</pron>
+</character>

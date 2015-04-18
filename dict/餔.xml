@@ -1,0 +1,18 @@
+<character value="餔">
+	<introduce>
+		<pinyin value="bu1" writing="bū" />
+		<bushou value="飠" />
+		<bushoustroke value="8" />
+		<stroke value="15" />
+		<order value="撇捺捺折横横折捺横竖折横横竖捺" />
+	</introduce>
+	<pron value="bū">
+		<sense tag="名" vernacular="申时食，晚饭" />
+		<sense tag="动" vernacular="吃">
+			<exam article="《超然台记》" ref="餔糟啜醨，皆可以醉。" />
+		</sense>
+		<sense tag="动" vernacular="给人吃">
+			<exam article="《国语·越语上》" ref="国之孺子之游者，无不餔也。" />
+		</sense>
+	</pron>
+</character>

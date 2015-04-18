@@ -1,0 +1,20 @@
+<character value="嶒">
+	<introduce>
+		<pinyin value="ceng2" writing="céng" />
+		<bushou value="山" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="竖折竖捺撇竖折竖捺撇横竖折横横" />
+	</introduce>
+	<pron value="céng">
+		<sense tag="形" vernacular="高耸；特出">
+			<exam article="《镜论语》" ref="意恬怅兮有端，才嶒峻兮可观。" />
+		</sense>
+		<sense tag="形" vernacular="形容山势高峻">
+			<exam article="《七命》" ref="既乃琼巘嶒崚，金岸崥崹。" />
+		</sense>
+		<sense tag="形" vernacular="高峻">
+			<exam article="《明堂赋》" ref="峥嵘嶒嶷，粲宇宙兮光辉；崔嵬赫奕，张天地之神威。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="绂">
+	<introduce>
+		<pinyin value="fu2" writing="fú" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折折横横撇折捺捺" />
+	</introduce>
+	<pron value="fú">
+		<sense tag="名" vernacular="系印章或佩玉用的丝带">
+			<exam article="《汉书·匈奴传》" ref="解故印绂奉上。" />
+		</sense>
+	</pron>
+</character>

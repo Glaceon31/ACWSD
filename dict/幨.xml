@@ -1,0 +1,20 @@
+<character value="幨">
+	<introduce>
+		<pinyin value="dan4" writing="dàn" />
+		<bushou value="巾" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="竖折竖撇折横撇撇捺捺横横横竖折横" />
+	</introduce>
+	<pron value="chān">
+		<sense vernacular="车帷">
+			<exam article="《新唐书·魏徵传》" ref="乃用素车，白布幨帷。" />
+		</sense>
+		<sense vernacular="chàn衣襟">
+			<exam article="《管子·揆度》" ref="卿大夫豹饰，列大夫豹幨。" />
+		</sense>
+	</pron>
+	<phrase value="幨幌">
+		<sense value="帷幔" />
+	</phrase>
+</character>

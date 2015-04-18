@@ -1,0 +1,22 @@
+<character value="耆">
+	<introduce>
+		<pinyin value="qi2" writing="qí" />
+		<bushou value="耂" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横竖横撇撇折竖折横横" />
+	</introduce>
+	<pron value="qí">
+		<sense tag="形" vernacular="老">
+			<exam article="《庄子·寓言》" ref="以期年耆者。" />
+		</sense>
+	</pron>
+	<pron value="shì">
+		<sense tag="动" vernacular="通“嗜”，喜好">
+			<exam article="《孟子·告子上》" ref="耆秦人之炙。" />
+		</sense>
+	</pron>
+	<phrase value="耆艾">
+		<sense value="指年老或老人" />
+	</phrase>
+</character>

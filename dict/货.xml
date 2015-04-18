@@ -1,0 +1,28 @@
+<character value="货">
+	<introduce>
+		<pinyin value="huo4" writing="huò" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="撇竖撇折竖折撇捺" />
+	</introduce>
+	<pron value="huò">
+		<sense tag="名" vernacular="物品；货物">
+			<exam article="《鸿门宴》" ref="沛公居山东时，贪财货，好美姬。" />
+			<exam article="《促织》" ref="昂其直，居为奇货。" />
+		</sense>
+		<sense tag="名" vernacular="货币">
+			<exam article="《汉书·叙传》" ref="货自龟贝，至此五铢。" />
+		</sense>
+		<sense tag="动" vernacular="买">
+			<exam article="《记王忠肃公翱事》" ref="昔先皇颁僧保所货西洋珠于侍臣。" />
+		</sense>
+		<sense tag="动" vernacular="卖">
+			<exam article="《晋书·王戎传》" ref="家有好李，常出货之，恐人得种，恒钻其核。" />
+		</sense>
+	</pron>
+	<phrase value="货殖">
+		<sense value="经商营利" />
+		<sense value="商人" />
+	</phrase>
+</character>

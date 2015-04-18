@@ -1,0 +1,33 @@
+<character value="但">
+	<introduce>
+		<pinyin value="dan4" writing="dàn" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇竖竖折横横横" />
+	</introduce>
+	<pron value="dàn">
+		<sense tag="副" vernacular="只；仅；唯独">
+			<exam article="《陈情表》" ref="但以刘日薄西山，气息奄奄。" />
+			<exam article="《木兰诗》" ref="不闻爷娘唤女声，但闻黄河流水鸣溅溅。" />
+			<exam article="《〈指南录〉后序》" ref="但欲求死，不复顾利害。" />
+		</sense>
+		<sense tag="副" vernacular="只管；尽管">
+			<exam article="《孔雀东南飞》" ref="卿但暂还家，吾今且报府。" />
+		</sense>
+		<sense tag="副" vernacular="不过；只是">
+			<exam article="《卖油翁》" ref="无他，但手熟尔。" />
+			<exam article="《采草药》" ref="但二月草已芽，八月苗正枯，采掇者易辩识耳。" />
+		</sense>
+		<sense tag="副" vernacular="徒然；白白地">
+			<exam article="《汉书·食货志》" ref="民欲祭祀丧纪而无用者，钱府以所人工商之贡但赊之。" />
+			<exam article="《汉书·匃奴传》" ref="何但远走，亡匿于幕北寒苦无水草之地为？。" />
+		</sense>
+		<sense tag="连" vernacular="只要">
+			<exam article="《失街亭》" ref="与汝一万兵，去此城屯扎，但街亭危。可引兵救之" />
+		</sense>
+	</pron>
+	<phrase value="但可">
+		<sense value="只须" />
+	</phrase>
+</character>

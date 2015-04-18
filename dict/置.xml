@@ -1,0 +1,38 @@
+<character value="置">
+	<introduce>
+		<pinyin value="zhi4" writing="zhì" />
+		<bushou value="罒" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="竖折竖竖横横竖竖折横横横横" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="动" vernacular="放弃">
+			<exam article="《鸿门宴》" ref="沛公则置车骑，脱身独骑。" />
+		</sense>
+		<sense tag="动" vernacular="放置；安放">
+			<exam article="《五人墓碑记》" ref="断头置城上，颜色不少变。" />
+		</sense>
+		<sense tag="动" vernacular="放逐">
+			<exam article="《郑伯克段于鄢》" ref="遂置姜氏于城颍。" />
+		</sense>
+		<sense tag="动" vernacular="摆设">
+			<exam article="《信陵君窃符救赵》" ref="公子于是乃置酒大会宾客。" />
+		</sense>
+		<sense tag="动" vernacular="设置">
+			<exam article="《过小孤山大孤山》" ref="南朝自武昌到京口，列置烽燧。" />
+		</sense>
+		<sense tag="动" vernacular="置办；购买">
+			<exam article="《苏武传》" ref="既至胸奴，置币遗单于。" />
+		</sense>
+		<sense tag="动" vernacular="释放">
+			<exam article="《史记·吴王濞列传》" ref="斩首盘虏，比三百石以上皆杀之，无有所置。" />
+		</sense>
+		<sense tag="动" vernacular="关押">
+			<exam article="《狱中杂记》" ref="苟入狱，不问罪之有无，必械手足，置老监。" />
+		</sense>
+	</pron>
+	<phrase value="置邮">
+		<sense value="驿站" />
+	</phrase>
+</character>

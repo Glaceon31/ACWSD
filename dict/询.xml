@@ -1,0 +1,14 @@
+<character value="询">
+	<introduce>
+		<pinyin value="xun2" writing="xún" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺折撇折竖折横横" />
+	</introduce>
+	<pron value="xún">
+		<sense tag="动" vernacular="问；征求意见；请教">
+			<exam article="《左传·成公十三年》" ref="秦大夫不询于我寡，擅及郑盟。" />
+		</sense>
+	</pron>
+</character>

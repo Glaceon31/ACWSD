@@ -1,0 +1,38 @@
+<character value="离">
+	<introduce>
+		<pinyin value="li2" writing="lí" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺横撇捺折竖竖折折捺" />
+	</introduce>
+	<pron value="lí">
+		<sense tag="动" vernacular="分离；分散">
+			<exam article="《庄暴见孟子》" ref="父子不相见，兄弟妻子离散。" />
+		</sense>
+		<sense tag="动" vernacular="离开；离别">
+			<exam article="《出师表》" ref="今当远离，临表涕零。" />
+		</sense>
+		<sense tag="动" vernacular="距离；相隔">
+			<exam article="《林教头风雪山神庙》" ref="只是小家离得远了。" />
+		</sense>
+		<sense tag="动" vernacular="背离；违背">
+			<exam article="《赤壁之战》" ref="如有离违，宜别图之。" />
+		</sense>
+		<sense tag="动" vernacular="通“罹”">
+			<exam article="《屈原列传》" ref="‘离骚’者，犹离忧也。" />
+			<exam article="《与吴质书》" ref="昔年疾疫，亲故多离其灾。" />
+		</sense>
+	</pron>
+	<phrase value="离离">
+		<sense value="草木繁密茂盛的样子" />
+		<sense value="忧伤的样子" />
+		<sense value="历历分明的样子" />
+	</phrase>
+	<phrase value="离披">
+		<sense value="散乱的样子" />
+	</phrase>
+	<phrase value="离析">
+		<sense value="分离；散失" />
+	</phrase>
+</character>

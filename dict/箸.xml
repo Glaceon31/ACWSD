@@ -1,0 +1,22 @@
+<character value="箸">
+	<introduce>
+		<pinyin value="zhu4" writing="zhù" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="撇横捺撇横捺横竖横撇竖折横横" />
+	</introduce>
+	<pron value="zhù">
+		<sense tag="名" vernacular="筷子">
+			<exam article="《韩非子·说林上》" ref="纣为象箸而箕子怖。" />
+		</sense>
+		<sense tag="副" vernacular="通“著”">
+			<exam article="《荀子·大略》" ref="夫类之相从也，如此之箸也。" />
+		</sense>
+	</pron>
+	<pron value="zhuó">
+		<sense tag="动" vernacular="通“着”">
+			<exam article="《世说新语·雅量》" ref="此手那可使箸贼？" />
+		</sense>
+	</pron>
+</character>

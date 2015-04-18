@@ -1,0 +1,15 @@
+<character value="鈇">
+	<introduce>
+		<pinyin value="fu1" writing="fū" />
+		<bushou value="釒" />
+		<bushoustroke value="8" />
+		<stroke value="12" />
+		<order value="撇捺横横竖捺撇横横横撇捺" />
+	</introduce>
+	<pron value="fū">
+		<sense tag="名" vernacular="切草的刀，即铡刀" />
+		<sense tag="名" vernacular="斧头">
+			<exam article="《列子·说符》" ref="人有亡鈇者，意其邻人之子。" />
+		</sense>
+	</pron>
+</character>

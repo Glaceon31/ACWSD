@@ -1,0 +1,17 @@
+<character value="倘">
+	<introduce>
+		<pinyin value="tang3" writing="tăng" />
+		<pinyin value="chang2" writing="cháng" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="撇竖竖捺撇竖折竖折横" />
+	</introduce>
+	<pron value="tǎng">
+		<sense tag="连" vernacular="假如">
+			<exam article="《杜十娘怒沉百宝箱》" ref="兄倘能割爱，见机而作，仆愿以千金相赠。" />
+			<exam article="《君子国》" ref="倘以子女筵花费之资，尽为周济贫寒及物放生之用，自必不求福而福自至，不求寿而寿自长。" />
+			<exam article="《〈黄花冈七十二烈士事略〉序》" ref="倘国人皆以诸先烈之牺牲精神为国奋斗，……。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,28 @@
+<character value="约">
+	<introduce>
+		<pinyin value="yue1" writing="yuē" />
+		<pinyin value="yao1" writing="yāo" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折折横撇折捺" />
+	</introduce>
+	<pron value="yuē">
+		<sense tag="动" vernacular="捆绑" />
+		<sense tag="动" vernacular="约束；检束">
+			<exam article="《廉颇蔺相如列传》" ref="秦自缪公以来二十余君，未尝有坚明约束者也。" />
+		</sense>
+		<sense tag="动" vernacular="约定">
+			<exam article="《鸿门宴》" ref="怀王与诸将约曰。" />
+		</sense>
+		<sense tag="名" vernacular="预先商定共同遵守的条件、盟约">
+			<exam article="《伶官传序》" ref="契丹与吾约为兄弟。" />
+		</sense>
+		<sense tag="形" vernacular="简约">
+			<exam article="《屈原列传》" ref="其文约，其辞微。" />
+		</sense>
+		<sense tag="副" vernacular="大约；大概">
+			<exam article="《核舟记》" ref="舟首尾长约八分有奇。" />
+		</sense>
+	</pron>
+</character>

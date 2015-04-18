@@ -1,0 +1,21 @@
+<character value="罕">
+	<introduce>
+		<pinyin value="han3" writing="hăn" />
+		<bushou value="冖" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺折撇捺横横竖" />
+	</introduce>
+	<pron value="hǎn">
+		<sense tag="名" vernacular="一种捕鸟的网">
+			<exam article="《高唐赋》" ref="弓弩不发，罘罕不倾。" />
+		</sense>
+		<sense tag="名" vernacular="古代一种旗帜">
+			<exam article="《史记·周本纪》" ref="百夫荷罕旗以先驱。" />
+		</sense>
+		<sense tag="形" vernacular="少">
+			<exam article="《论语·子罕》" ref="子罕言利与命与仁。" />
+			<exam article="《林黛玉进贾府》" ref="想来那玉是一件罕物，岂能人人有的。" />
+		</sense>
+	</pron>
+</character>

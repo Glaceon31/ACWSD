@@ -1,0 +1,21 @@
+<character value="窈">
+	<introduce>
+		<pinyin value="yao3" writing="yăo" />
+		<bushou value="穴" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="捺捺折撇捺折折捺折撇" />
+	</introduce>
+	<pron value="yǎo">
+		<sense tag="形" vernacular="幽深；深远">
+			<exam article="《游褒禅山记》" ref="有穴窈然。" />
+		</sense>
+	</pron>
+	<phrase value="窈窕">
+		<sense value="文静而漂亮" />
+		<sense value="幽深；深远" />
+	</phrase>
+	<phrase value="窈窈">
+		<sense value="形容精深微妙" />
+	</phrase>
+</character>

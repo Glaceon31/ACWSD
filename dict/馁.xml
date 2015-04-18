@@ -1,0 +1,20 @@
+<character value="馁">
+	<introduce>
+		<pinyin value="nei3" writing="nĕi" />
+		<bushou value="饣" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="撇折折撇捺捺撇折撇横" />
+	</introduce>
+	<pron value="něi">
+		<sense tag="动" vernacular="饥饿">
+			<exam article="《中山狼传》" ref="我馁甚，馁不得贪，亦终必亡。" />
+		</sense>
+		<sense tag="形" vernacular="空虚；失去勇气">
+			<exam article="《孟子·公孙丑》" ref="其为气也，配义与道，无是，馁也。" />
+		</sense>
+		<sense tag="动" vernacular="鱼肉腐烂、不新鲜">
+			<exam article="《论语·乡党》" ref="鱼馁而肉败。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="剐">
+	<introduce>
+		<pinyin value="gua3" writing="guă" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="竖折横竖折撇捺竖竖" />
+	</introduce>
+	<pron value="guǎ">
+		<sense tag="名" vernacular="古代一种残酷的死刑，也叫“凌迟”，即把犯人的皮肉一块块地割下来">
+			<exam article="《说郛》" ref="遂擒赪，钉于车上，将剐之。" />
+		</sense>
+	</pron>
+</character>

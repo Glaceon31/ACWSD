@@ -1,0 +1,26 @@
+<character value="隽">
+	<introduce>
+		<pinyin value="juan4" writing="juàn" />
+		<pinyin value="jun4" writing="jùn" />
+		<bushou value="隹" />
+		<bushoustroke value="8" />
+		<stroke value="10" />
+		<order value="撇竖捺横横横竖横折撇" />
+	</introduce>
+	<pron value="juàn">
+		<sense tag="形" vernacular="鸟肉肥美，味道好" />
+		<sense tag="名" vernacular="姓" />
+	</pron>
+	<pron value="jùn">
+		<sense tag="形" vernacular="通“俊”，才智出众">
+			<exam article="《汉书·礼乐志》" ref="至武帝即位，进用英隽。" />
+		</sense>
+	</pron>
+	<phrase value="隽永">
+		<sense value="食物甘美，有味道" />
+		<sense value="意味深长" />
+	</phrase>
+	<phrase value="隽彦">
+		<sense value="俊才，美才" />
+	</phrase>
+</character>

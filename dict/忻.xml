@@ -1,0 +1,17 @@
+<character value="忻">
+	<introduce>
+		<pinyin value="xin1" writing="xīn" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺竖撇撇横竖" />
+	</introduce>
+	<pron value="xīn">
+		<sense tag="动" vernacular="启发">
+			<exam article="《司马法》" ref="善者忻民之善，闭民之恶。" />
+		</sense>
+		<sense tag="形" vernacular="喜悦；高兴">
+			<exam article="《世说新语·任诞》" ref="张素闻其名，大相忻待。" />
+		</sense>
+	</pron>
+</character>

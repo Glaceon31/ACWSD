@@ -1,0 +1,15 @@
+<character value="怙">
+	<introduce>
+		<pinyin value="hu4" writing="hù" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺竖横竖竖折横" />
+	</introduce>
+	<pron value="hù">
+		<sense tag="动" vernacular="依；凭借">
+			<exam article="《诗经·小雅·蓼莪》" ref="无父何怙，无母何恃。" />
+			<exam article="《封建论》" ref="怙势作威。" />
+		</sense>
+	</pron>
+</character>

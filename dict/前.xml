@@ -1,0 +1,30 @@
+<character value="前">
+	<introduce>
+		<pinyin value="qian2" writing="qián" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="捺撇横竖折横横竖竖" />
+	</introduce>
+	<pron value="qián">
+		<sense tag="动" vernacular="上前；前进">
+			<exam article="《廉颇蔺相如列传》" ref="乃前曰：‘璧有瑕，请指示王。’" />
+		</sense>
+		<sense tag="名" vernacular="前面；之前">
+			<exam article="《师说》" ref="生乎吾前，其闻道也固先乎吾。" />
+		</sense>
+		<sense tag="副" vernacular="先前；早前">
+			<exam article="《柳毅传》" ref="迫而视之，乃前寄辞者。" />
+		</sense>
+	</pron>
+	<phrase value="前度">
+		<sense value="前人的法度" />
+		<sense value="前次；上回" />
+	</phrase>
+	<phrase value="前光">
+		<sense value="祖先的功德" />
+	</phrase>
+	<phrase value="前席">
+		<sense value="移坐而前" />
+	</phrase>
+</character>

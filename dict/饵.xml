@@ -1,0 +1,29 @@
+<character value="饵">
+	<introduce>
+		<pinyin value="er3" writing="ĕr" />
+		<bushou value="饣" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="撇折折横竖竖横横横" />
+	</introduce>
+	<pron value="ěr">
+		<sense tag="名" vernacular="糕饼">
+			<exam article="《先妣事略》" ref="吴家桥岁致鱼蟹饼饵，率人人得食。" />
+		</sense>
+		<sense tag="名" vernacular="泛指食物">
+			<exam article="《聊斋志异·蛇人》" ref="饲以美饵，祝而纵之。" />
+		</sense>
+		<sense tag="名" vernacular="鱼饵">
+			<exam article="《春水》" ref="接缕垂芳饵。" />
+		</sense>
+		<sense tag="名" vernacular="药饵">
+			<exam article="《捕蛇者说》" ref="然得而腊之以为饵，可以已大风。" />
+		</sense>
+		<sense tag="动" vernacular="引诱">
+			<exam article="《三国志·魏书·武帝纪》" ref="此所以饵敌，如何去之？。" />
+		</sense>
+	</pron>
+	<phrase value="饵敌">
+		<sense value="用计谋引诱敌人上当" />
+	</phrase>
+</character>

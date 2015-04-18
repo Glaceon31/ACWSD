@@ -1,0 +1,23 @@
+<character value="漓">
+	<introduce>
+		<pinyin value="li2" writing="lí" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="捺捺横捺横撇捺折竖竖折折捺" />
+	</introduce>
+	<pron value="lí">
+		<sense tag="动" vernacular="水渗入地">
+			<exam article="《河东赋》" ref="云霏霏而来迎兮，泽渗漓而下降。" />
+		</sense>
+		<sense tag="形" vernacular="薄，与厚相对">
+			<exam article="《何君墓表》" ref="一卷之诗有淳漓，一篇之诗有善病。" />
+		</sense>
+		<sense tag="形" vernacular="沾湿或下滴的样子">
+			<exam article="《昆仑使者》" ref="金盘玉露自淋漓，元气茫茫收不得。" />
+		</sense>
+		<sense tag="形" vernacular="酣畅的样子">
+			<exam article="《哀郢》" ref="淋漓痛饮长亭暮，慷慨悲歌白发新。" />
+		</sense>
+	</pron>
+</character>

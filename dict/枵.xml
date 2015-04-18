@@ -1,0 +1,12 @@
+<character value="枵">
+	<introduce>
+		<pinyin value="xiao1" writing="xiāo" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横竖撇捺竖折横横折" />
+	</introduce>
+	<pron value="xiāo">
+		<sense tag="名" vernacular="空了心的大树" />
+	</pron>
+</character>

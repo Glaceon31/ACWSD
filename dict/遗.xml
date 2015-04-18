@@ -1,0 +1,38 @@
+<character value="遗">
+	<introduce>
+		<pinyin value="yi2" writing="yí" />
+		<pinyin value="wei4" writing="wèi" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="竖折横竖横竖折撇捺捺折捺" />
+	</introduce>
+	<pron value="yí">
+		<sense tag="动" vernacular="遗失；丢失">
+			<exam article="《过秦论》" ref="秦无亡矢遗镞之费，而天下诸侯已困矣。" />
+		</sense>
+		<sense tag="动" vernacular="放弃；舍弃">
+			<exam article="《师说》" ref="小学而大遗，吾未见其明也。" />
+		</sense>
+		<sense tag="名" vernacular="遗失的东西">
+			<exam article="《乐羊子妻》" ref="况拾遗求利以污其行乎？" />
+		</sense>
+		<sense tag="动" vernacular="遗留">
+			<exam article="《伶官传序》" ref="此三者，吾遗恨也。" />
+		</sense>
+	</pron>
+	<pron value="wèi">
+		<sense tag="动" vernacular="赠送">
+			<exam article="《信陵君窃符救赵》" ref="公子闻之，往请，欲厚遗之。" />
+		</sense>
+		<sense tag="名" vernacular="给予的东西">
+			<exam article="《送东阳马生序》" ref="父母岁有裘葛之遗。" />
+		</sense>
+	</pron>
+	<phrase value="遗风">
+		<sense value="流传下来的风尚" />
+	</phrase>
+	<phrase value="遗民">
+		<sense value="改朝代后仍然效忠前朝的人" />
+	</phrase>
+</character>

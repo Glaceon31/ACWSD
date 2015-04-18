@@ -1,0 +1,29 @@
+<character value="禽">
+	<introduce>
+		<pinyin value="qin2" writing="qín" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="撇捺捺横撇捺折竖竖折折捺" />
+	</introduce>
+	<pron value="qín">
+		<sense tag="名" vernacular="鸟兽的总称">
+			<exam article="《三国志·魏书·华佗传》" ref="吾有一术，名曰五禽之戏：一曰虎，……五曰鸟。" />
+		</sense>
+		<sense tag="名" vernacular="鸟类的总称">
+			<exam article="《醉翁亭记》" ref="游人去而禽鸟乐也。" />
+		</sense>
+		<sense tag="动" vernacular="通“擒”">
+			<exam article="《赤壁之战》" ref="将军禽操，宜在今日。" />
+		</sense>
+	</pron>
+	<phrase value="禽荒">
+		<sense value="沉迷于畋猎" />
+	</phrase>
+	<phrase value="禽困覆车">
+		<sense value="犹言困兽斗" />
+	</phrase>
+	<phrase value="禽息鸟视">
+		<sense value="比喻养尊处优而益于世" />
+	</phrase>
+</character>

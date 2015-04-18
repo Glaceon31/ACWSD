@@ -1,0 +1,17 @@
+<character value="暨">
+	<introduce>
+		<pinyin value="ji4" writing="jì" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="折横横折捺横折撇折竖折横横横" />
+	</introduce>
+	<pron value="jì">
+		<sense tag="连" vernacular="和；同">
+			<exam article="《左传·定公十年》" ref="宋公之弟辰暨宋仲佗、石彄出奔陈。" />
+		</sense>
+		<sense tag="介" vernacular="到；至">
+			<exam article="《十渐不克终疏》" ref="暨乎今岁，天灾流行。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,18 @@
+<character value="踏">
+	<introduce>
+		<pinyin value="ta4" writing="tà" />
+		<pinyin value="ta1" writing="tā" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="15" />
+		<order value="竖折横竖横竖横竖折撇捺竖折横横" />
+	</introduce>
+	<pron value="tà">
+		<sense tag="动" vernacular="踩；践踏">
+			<exam article="《齐民要术·种葵》" ref="足踏使坚平。" />
+		</sense>
+		<sense tag="动" vernacular="亲临现场调查">
+			<exam article="《元史·刑法志一》" ref="诸郡县灾伤，过时不申，或申不以实,及按治官不以时检踏，皆罪之。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,18 @@
+<character value="诩">
+	<introduce>
+		<pinyin value="xu3" writing="xŭ" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺折折捺横折捺横" />
+	</introduce>
+	<pron value="xǔ">
+		<sense tag="动" vernacular="说大话；夸耀">
+			<exam article="《长扬赋》" ref="夸诩众庶。" />
+		</sense>
+	</pron>
+	<phrase value="诩诩">
+		<sense value="同“栩栩”，生动活泼的样子" />
+		<sense value="融洽地聚合的样子" />
+	</phrase>
+</character>

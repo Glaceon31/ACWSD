@@ -1,0 +1,23 @@
+<character value="侑">
+	<introduce>
+		<pinyin value="you4" writing="yòu" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇竖横撇竖折横横" />
+	</introduce>
+	<pron value="yòu">
+		<sense tag="动" vernacular="用奏乐或献玉帛劝人饮食">
+			<exam article="《周礼·天官·膳夫》" ref="以乐侑食。" />
+		</sense>
+		<sense tag="动" vernacular="通“宥”">
+			<exam article="《管子·法法》" ref="文有三侑，武毋一赦。" />
+		</sense>
+	</pron>
+	<phrase value="侑欢">
+		<sense value="劝欢，助兴" />
+	</phrase>
+	<phrase value="侑觞">
+		<sense value="劝酒" />
+	</phrase>
+</character>

@@ -1,0 +1,20 @@
+<character value="岂">
+	<introduce>
+		<pinyin value="qi3" writing="qĭ" />
+		<bushou value="山" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="竖折竖折横折" />
+	</introduce>
+	<pron value="qǐ">
+		<sense tag="副" vernacular="难道；哪里">
+			<exam article="《鸿门宴》" ref="日夜望将军至，岂敢反乎？" />
+		</sense>
+		<sense tag="副" vernacular="大概；或许">
+			<exam article="《荆轲刺秦王》" ref="将军岂有意乎？" />
+		</sense>
+	</pron>
+	<phrase value="岂但">
+		<sense value="哪里只是；何止" />
+	</phrase>
+</character>

@@ -1,0 +1,20 @@
+<character value="躞">
+	<introduce>
+		<pinyin value="xie4" writing="xiè" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="24" />
+		<order value="竖折横竖横竖横捺横横横竖折横捺撇撇捺捺撇撇捺折捺" />
+	</introduce>
+	<pron value="xiè">
+		<sense vernacular="见“躞蹀”" />
+		<sense tag="名" vernacular="书卷的轴心">
+			<exam article="《燕马笺·骇像》" ref="玉题金躞，又把吴绫帧。" />
+		</sense>
+	</pron>
+	<phrase value="躞蹀">
+		<sense value="同“蹀躞”" />
+		<sense value="小步行走" />
+		<sense value="佩带上的饰物" />
+	</phrase>
+</character>

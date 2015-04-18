@@ -1,0 +1,17 @@
+<character value="嗷">
+	<introduce>
+		<pinyin value="ao2" writing="áo" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="竖折横横横竖横折撇撇横撇捺" />
+	</introduce>
+	<pron value="áo" />
+	<phrase value="嗷嗷">
+		<sense value="1" />
+		<sense value="哀鸣声" />
+	</phrase>
+	<phrase value="嗷嘈">
+		<sense value="áocáo声音嘈杂,喧嚣" />
+	</phrase>
+</character>

@@ -1,0 +1,16 @@
+<character value="忉">
+	<introduce>
+		<pinyin value="dao1" writing="dāo" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="捺捺竖折撇" />
+	</introduce>
+	<pron value="dāo" />
+	<phrase value="忉怛">
+		<sense value="忧伤；悲哀" />
+	</phrase>
+	<phrase value="忉忉">
+		<sense value="忧伤样子" />
+	</phrase>
+</character>

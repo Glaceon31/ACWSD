@@ -1,0 +1,19 @@
+<character value="芼">
+	<introduce>
+		<pinyin value="mao4" writing="mào" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖竖撇横横折" />
+	</introduce>
+	<pron value="mào">
+		<sense tag="动" vernacular="择；择取">
+			<exam article="《诗经·周南·关雎》" ref="参差荇菜，左右芼之。" />
+		</sense>
+	</pron>
+	<pron value="máo">
+		<sense tag="名" vernacular="可食用的野菜或水草">
+			<exam article="《游南亭夜还叙志》" ref="野蔬盈顷筐，颇杂池沼芼。" />
+		</sense>
+	</pron>
+</character>

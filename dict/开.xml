@@ -1,0 +1,61 @@
+<character value="开">
+	<introduce>
+		<pinyin value="kai1" writing="kāi" />
+		<bushou value="廾" />
+		<bushoustroke value="3" />
+		<stroke value="4" />
+		<order value="横横撇竖" />
+	</introduce>
+	<pron value="kāi">
+		<sense tag="动" vernacular="开（门）；（把门）打开">
+			<exam article="《木兰诗》" ref="开我东阁门，坐我西阁床。" />
+			<exam article="《老子》" ref="善闭，无关楗而不可开。" />
+			<exam article="《山市》" ref="窗扉皆洞开。" />
+		</sense>
+		<sense tag="动" vernacular="打开；开启">
+			<exam article="《过秦论》" ref="秦人开关延敌。" />
+			<exam article="《左忠毅公逸事》" ref="公辨其声，目不可开。" />
+			<exam article="《阿房宫赋》" ref="明星荧荧，开妆镜也。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……舒畅；使……展开">
+			<exam article="《梦游天姥吟留别》" ref="安能摧眉折腰事权贵，使我不得开心颜。" />
+		</sense>
+		<sense tag="动" vernacular="（花）开；开放">
+			<exam article="《白雪歌送武判官归京》" ref="忽如一夜春风来，千树万树梨花开。" />
+		</sense>
+		<sense tag="动" vernacular="开辟；扩展">
+			<exam article="《荀子·富国》" ref="节其流，开其源。" />
+		</sense>
+		<sense tag="动" vernacular="散开；消散">
+			<exam article="《岳阳楼记》" ref="若夫日出而林霏开。" />
+		</sense>
+		<sense tag="动" vernacular="开拓；开垦">
+			<exam article="《归园田居》" ref="开荒南野际，守拙归园田。" />
+			<exam article="《物竞天择》" ref="而矿事日辟，掘地开山，多得古禽兽遗蜕。" />
+			<exam article="《兵车行》" ref="边庭流血成海水，武皇开边意未已。" />
+		</sense>
+		<sense tag="动" vernacular="创始；开创">
+			<exam article="《&lt;黄花冈七十二烈士事略&gt;序》" ref="则此一部开国血史，可传世而不朽。" />
+		</sense>
+		<sense tag="动" vernacular="开设；设置">
+			<exam article="《春夜宴从弟桃花园序》" ref="开琼筵以坐花，飞羽觞而醉月。" />
+			<exam article="《林教头风雪山神庙》" ref="权在营前开了个茶洒店。" />
+			<exam article="《琵琶行》" ref="移船相近邀相见，添酒回灯重开宴。" />
+		</sense>
+		<sense tag="动" vernacular="分开；分离">
+			<exam article="《望天门山》" ref="天门中断楚江开。" />
+		</sense>
+		<sense tag="动" vernacular="发表；提出">
+			<exam article="《赤壁之战》" ref="不复料其虚实，便开开此议。" />
+		</sense>
+		<sense tag="动" vernacular="发射">
+			<exam article="《冯婉贞》" ref="三保见敌势可乘，争挥帜曰：‘开火！’" />
+		</sense>
+	</pron>
+	<phrase value="开济">
+		<sense value="创业济时" />
+	</phrase>
+	<phrase value="开罪">
+		<sense value="冒犯得罪" />
+	</phrase>
+</character>

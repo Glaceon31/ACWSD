@@ -1,0 +1,14 @@
+<character value="荻">
+	<introduce>
+		<pinyin value="di2" writing="dí" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖竖撇折撇捺撇撇捺" />
+	</introduce>
+	<pron value="dí">
+		<sense tag="名" vernacular="多年生草本植物">
+			<exam article="《琵琶行》" ref="浔阳江头夜送客，枫叶荻花秋瑟瑟。" />
+		</sense>
+	</pron>
+</character>

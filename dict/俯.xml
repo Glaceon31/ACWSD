@@ -1,0 +1,19 @@
+<character value="俯">
+	<introduce>
+		<pinyin value="fu3" writing="fŭ" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="撇竖捺横撇撇竖横竖捺" />
+	</introduce>
+	<pron value="fǔ">
+		<sense tag="动" vernacular="屈身；低头">
+			<exam article="《白马篇》" ref="仰手接飞猱，俯身散马蹄。" />
+			<exam article="《送东阳马生序》" ref="俯身倾耳以请。" />
+		</sense>
+		<sense tag="动" vernacular="卧伏；蛰伏">
+			<exam article="《礼记·月令》" ref="蛰虫咸俯在内。" />
+		</sense>
+		<sense vernacular="旧时公文书信中称对方行为的敬词" />
+	</pron>
+</character>

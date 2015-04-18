@@ -1,0 +1,55 @@
+<character value="可">
+	<introduce>
+		<pinyin value="ke3" writing="kĕ" />
+		<pinyin value="ke4" writing="kè" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="横竖折横竖" />
+	</introduce>
+	<pron value="kě">
+		<sense tag="动" vernacular="可以；能够">
+			<exam article="《殽之战》" ref="师劳力竭，远主备之，无乃不可乎？" />
+		</sense>
+		<sense tag="动" vernacular="认为……可以；肯定">
+			<exam article="《答韦中立论师道书》" ref="吾子好道而可吾文。" />
+		</sense>
+		<sense tag="动" vernacular="适合；适宜">
+			<exam article="《芙蕖》" ref="芙蕖之可人，其事不一而足。" />
+		</sense>
+		<sense tag="动" vernacular="值得">
+			<exam article="《师说》" ref="其可怪也欤？" />
+			<exam article="《项脊轩志》" ref="风移影动，珊珊可爱。" />
+		</sense>
+		<sense tag="动" vernacular="痊愈">
+			<exam article="《西厢记》" ref="瘦得浑如削，百般医疗终难可。" />
+		</sense>
+		<sense tag="副" vernacular="大约；大概">
+			<exam article="《核舟记》" ref="舟首尾长约八分有奇，高可三黍许。" />
+		</sense>
+		<sense tag="副" vernacular="莫非；怕是">
+			<exam article="《林教头风雪山神庙》" ref="李小二入来问道：‘可要吃酒？’" />
+		</sense>
+		<sense tag="副" vernacular="难道；岂">
+			<exam article="《永遇乐·京口北固亭怀古》" ref="可堪回首，佛狸祠下，一片神鸦社鼓。" />
+		</sense>
+	</pron>
+	<pron value="kè">
+		<sense vernacular="见“可汗”" />
+	</pron>
+	<phrase value="可怜">
+		<sense value="可爱" />
+		<sense value="可惜" />
+		<sense value="值得怜悯同情" />
+	</phrase>
+	<phrase value="可巧">
+		<sense value="正巧；刚好" />
+	</phrase>
+	<phrase value="可中">
+		<sense value="假若" />
+		<sense value="正好" />
+	</phrase>
+	<phrase value="可汗">
+		<sense value="古代对鲜卑、突厥、回纥、蒙古等西北少数民族君主的称呼" />
+	</phrase>
+</character>

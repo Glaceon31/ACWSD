@@ -1,0 +1,26 @@
+<character value="撰">
+	<introduce>
+		<pinyin value="zhuan4" writing="zhuàn" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="横竖横折横折折横折横竖竖横撇捺" />
+	</introduce>
+	<pron value="zhuàn">
+		<sense tag="动" vernacular="著述；写作">
+			<exam article="《送东阳马生序》" ref="撰长书以贽，辞甚畅达。" />
+		</sense>
+		<sense tag="动" vernacular="持拿">
+			<exam article="《东君》" ref="撰余辔兮高翔。" />
+		</sense>
+		<sense tag="名" vernacular="具；才能">
+			<exam article="《子路曾皙冉有公西华侍坐》" ref="（曾晳）对曰：‘异乎三子者之撰。’" />
+		</sense>
+	</pron>
+	<phrase value="撰次">
+		<sense value="编排次序" />
+	</phrase>
+	<phrase value="撰录">
+		<sense value="收集著录" />
+	</phrase>
+</character>

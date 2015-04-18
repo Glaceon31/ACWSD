@@ -1,0 +1,20 @@
+<character value="狱">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="撇折撇捺折横撇捺捺" />
+	</introduce>
+	<pron value="yù">
+		<sense tag="名" vernacular="官司；案件">
+			<exam article="《曹刿论战》" ref="小大之狱，虽不能察，必以情。" />
+		</sense>
+		<sense tag="名" vernacular="监狱">
+			<exam article="《狱中杂记》" ref="余在刑部狱，见死而由窦出者，日三四人。" />
+		</sense>
+		<sense tag="名" vernacular="罪状">
+			<exam article="《狱中杂记》" ref="法应立决，狱具矣。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="寥">
+	<introduce>
+		<pinyin value="liao2" writing="liáo" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="捺捺折折捺横折捺横撇捺撇撇撇" />
+	</introduce>
+	<pron value="liáo">
+		<sense tag="形" vernacular="空虚；空而静">
+			<exam article="《小石潭记》" ref="四面竹树环合，寂寥无人。" />
+		</sense>
+		<sense tag="名" vernacular="指广阔的天空">
+			<exam article="《望海亭赋》" ref="腾驾碧寥，指麾沧溟。" />
+		</sense>
+	</pron>
+</character>

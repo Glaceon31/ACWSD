@@ -1,0 +1,14 @@
+<character value="祺">
+	<introduce>
+		<pinyin value="qi2" writing="qí" />
+		<bushou value="礻" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="捺折竖捺横竖竖横横横撇捺" />
+	</introduce>
+	<pron value="qí">
+		<sense tag="形" vernacular="吉祥，福气">
+			<exam article="《诗经·大雅·行苇》" ref="寿考维祺。" />
+		</sense>
+	</pron>
+</character>

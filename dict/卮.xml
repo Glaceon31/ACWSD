@@ -1,0 +1,15 @@
+<character value="卮">
+	<introduce>
+		<pinyin value="zhi1" writing="zhī" />
+		<bushou value="厄" />
+		<bushoustroke value="4" />
+		<stroke value="5" />
+		<order value="撇撇横折折" />
+	</introduce>
+	<pron value="zhī">
+		<sense tag="名" vernacular="古代盛酒的器皿">
+			<exam article="《战国策·齐策》" ref="乃左手持卮，右手持画蛇。" />
+			<exam article="《鸿门宴》" ref="臣死且不避，卮酒安足辞。" />
+		</sense>
+	</pron>
+</character>

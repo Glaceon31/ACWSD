@@ -1,0 +1,21 @@
+<character value="蕲">
+	<introduce>
+		<pinyin value="qi2" writing="qí" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="横竖竖捺撇竖折横横横竖撇撇横竖" />
+	</introduce>
+	<pron value="qí">
+		<sense tag="名" vernacular="一种药草，即当归" />
+		<sense tag="动" vernacular="通“祈”，求">
+			<exam article="《庄子·养生主》" ref="泽雉十步一啄，百步一饮，不蕲畜乎攀中。" />
+		</sense>
+		<sense tag="名" vernacular="通“圻”，边界">
+			<exam article="《荀子·儒效》" ref="跨天下而无蕲。" />
+		</sense>
+		<sense tag="名" vernacular="马嚼子">
+			<exam article="《东京赋》" ref="结驷方蕲。" />
+		</sense>
+	</pron>
+</character>

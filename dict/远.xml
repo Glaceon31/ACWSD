@@ -1,0 +1,42 @@
+<character value="远">
+	<introduce>
+		<pinyin value="yuan3" writing="yuăn" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横横撇折捺折捺" />
+	</introduce>
+	<pron value="yuǎn">
+		<sense tag="形" vernacular="空间距离大，跟“近”相对">
+			<exam article="《劝学》" ref="登高而招，臂非加长也，而见者远。" />
+		</sense>
+		<sense tag="名" vernacular="远方；远方的国家或人民">
+			<exam article="《殽之战》" ref="劳师以袭远，非所闻也。" />
+		</sense>
+		<sense tag="动" vernacular="疏远">
+			<exam article="《出师表》" ref="亲贤臣，远小人，此先帝所以兴隆也。" />
+		</sense>
+		<sense tag="动" vernacular="远离">
+			<exam article="《陈情表》" ref="母孙二人，更相为命，是以区区不能废远。" />
+		</sense>
+		<sense tag="形" vernacular="时间长、久">
+			<exam article="《登泰山记》" ref="其远古刻尽漫失。" />
+		</sense>
+		<sense tag="形" vernacular="长远；深远">
+			<exam article="《六国论》" ref="燕赵之君，始有远略。" />
+		</sense>
+		<sense tag="动" vernacular="远播">
+			<exam article="《爱莲说》" ref="香远益清。" />
+		</sense>
+		<sense tag="副" vernacular="差距大">
+			<exam article="《邹忌讽齐王纳谏》" ref="窥镜而自视，又弗如远甚。" />
+		</sense>
+	</pron>
+	<phrase value="远布">
+		<sense value="远扬" />
+	</phrase>
+	<phrase value="远人">
+		<sense value="关系疏远的人" />
+		<sense value="远方的人" />
+	</phrase>
+</character>

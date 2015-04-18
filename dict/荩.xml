@@ -1,0 +1,20 @@
+<character value="荩">
+	<introduce>
+		<pinyin value="jin4" writing="jìn" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖竖折横撇捺捺捺" />
+	</introduce>
+	<pron value="jìn">
+		<sense tag="名" vernacular="一种野草，可用来编织器物">
+			<exam article="《三遣悲怀》" ref="顾我无衣搜荩箧。" />
+		</sense>
+		<sense tag="名" vernacular="通“烬”，没有烧尽的柴草">
+			<exam article="《长笛赋》" ref="荩滞抗绝，中息更装。" />
+		</sense>
+		<sense tag="动" vernacular="通“进”，进用">
+			<exam article="《诗经·大雅·文王》" ref="王之荩臣，无念尔祖。" />
+		</sense>
+	</pron>
+</character>

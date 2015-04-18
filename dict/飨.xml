@@ -1,0 +1,20 @@
+<character value="飨">
+	<introduce>
+		<pinyin value="xiang3" writing="xiăng" />
+		<bushou value="飠" />
+		<bushoustroke value="8" />
+		<stroke value="12" />
+		<order value="折折撇撇捺捺折横横折撇捺" />
+	</introduce>
+	<pron value="xiǎng">
+		<sense tag="动" vernacular="供奉祭品">
+			<exam article="《诗经·楚茨》" ref="神保是飨。" />
+		</sense>
+		<sense tag="动" vernacular="用酒食款待">
+			<exam article="《鸿门宴》" ref="旦日飨士卒。" />
+		</sense>
+		<sense tag="动" vernacular="通“享”">
+			<exam article="《柳毅传》" ref="飨德怀恩，辞不悉心。" />
+		</sense>
+	</pron>
+</character>

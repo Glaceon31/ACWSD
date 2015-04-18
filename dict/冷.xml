@@ -1,0 +1,20 @@
+<character value="冷">
+	<introduce>
+		<pinyin value="leng3" writing="lĕng" />
+		<bushou value="冫" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺横撇捺捺折捺" />
+	</introduce>
+	<pron value="lěng">
+		<sense tag="形" vernacular="寒冷；温度低">
+			<exam article="《茅屋为秋风所破歌》" ref="布衾多年冷似铁。" />
+		</sense>
+		<sense tag="形" vernacular="冷清；萧条">
+			<exam article="《琵瑟行》" ref="门前冷落鞍马稀，老大嫁作商人妇。" />
+		</sense>
+		<sense tag="形" vernacular="冷淡；不热情">
+			<exam article="《智取生辰纲》" ref="那挑酒的汉子看着杨志冷笑道。" />
+		</sense>
+	</pron>
+</character>

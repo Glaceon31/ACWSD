@@ -1,0 +1,15 @@
+<character value="睫">
+	<introduce>
+		<pinyin value="jie2" writing="jié" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="竖折横横横横折横横竖横撇捺" />
+	</introduce>
+	<pron value="jié">
+		<sense tag="名" vernacular="眼睫毛">
+			<exam article="《韩非子·喻老》" ref="能见百步之外，而涌自见其睫。" />
+		</sense>
+		<sense tag="动" vernacular="眨眼" />
+	</pron>
+</character>

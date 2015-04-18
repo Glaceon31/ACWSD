@@ -1,0 +1,16 @@
+<character value="碌">
+	<introduce>
+		<pinyin value="liu4" writing="liù" />
+		<pinyin value="lu4" writing="lù" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="横撇竖折横折横横竖捺横撇捺" />
+	</introduce>
+	<pron value="lù">
+		<sense vernacular="见“碌碌”" />
+	</pron>
+	<phrase value="碌碌">
+		<sense value="平庸无能" />
+	</phrase>
+</character>

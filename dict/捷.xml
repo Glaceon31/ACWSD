@@ -1,0 +1,23 @@
+<character value="捷">
+	<introduce>
+		<pinyin value="jie2" writing="jié" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖横横折横横竖横撇捺" />
+	</introduce>
+	<pron value="jié">
+		<sense tag="形" vernacular="胜利；成功">
+			<exam article="《史记·卫青传》" ref="军大捷，皆诸校尉力战之功也。" />
+		</sense>
+		<sense tag="名" vernacular="战利品">
+			<exam article="《左传·襄公二十五年》" ref="郑子产献捷于晋。" />
+		</sense>
+		<sense tag="形" vernacular="迅速；敏捷">
+			<exam article="《韩非子·难言》" ref="捷敏辩给。" />
+		</sense>
+		<sense tag="动" vernacular="抄近路">
+			<exam article="《左传·成公五年》" ref="待我，不如捷之速也。" />
+		</sense>
+	</pron>
+</character>

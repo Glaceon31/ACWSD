@@ -1,0 +1,15 @@
+<character value="萚">
+	<introduce>
+		<pinyin value="tuo4" writing="tuò" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖竖横竖横折捺横横竖" />
+	</introduce>
+	<pron value="tuò">
+		<sense tag="名" vernacular="草木脱落的皮叶">
+			<exam article="《诗经·豳风·七月》" ref="八月其获，十月陨萚。" />
+			<exam article="《诗经·小雅·鹤鸣》" ref="乐彼之园，爰有树檀，其下维萚。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,20 @@
+<character value="呓">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="竖折横横竖竖折" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="动" vernacular="说梦话">
+			<exam article="《西湖七月半》" ref="如魇如呓。" />
+		</sense>
+	</pron>
+	<phrase value="呓语">
+		<sense value="说梦话" />
+	</phrase>
+	<phrase value="呓挣">
+		<sense value="打寒噤；发怔" />
+	</phrase>
+</character>

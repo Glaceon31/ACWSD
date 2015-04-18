@@ -1,0 +1,21 @@
+<character value="窾">
+	<introduce>
+		<pinyin value="kuan3" writing="kuăn" />
+		<bushou value="穴" />
+		<bushoustroke value="5" />
+		<stroke value="17" />
+		<order value="捺捺折撇捺横竖横横横竖撇捺撇折撇捺" />
+	</introduce>
+	<pron value="kuǎn">
+		<sense tag="名" vernacular="空隙；空当处">
+			<exam article="《庖丁解牛》" ref="批大郤，导大窾。" />
+			<exam article="《庄子?养生主》" ref="批大郤，道大窾。" />
+			<exam article="《淮南子?说山》" ref="见窾木浮而为舟。" />
+			<exam article="《汉书?杨王孙传》" ref="窾木为椟。" />
+			<exam article="《石钟山记》" ref="窾镗鞳者，魏庄子之歌钟也。" />
+		</sense>
+	</pron>
+	<phrase value="窾坎">
+		<sense value="形容物体撞击的声音" />
+	</phrase>
+</character>

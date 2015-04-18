@@ -1,0 +1,14 @@
+<character value="髫">
+	<introduce>
+		<pinyin value="tiao2" writing="tiáo" />
+		<bushou value="髟" />
+		<bushoustroke value="10" />
+		<stroke value="15" />
+		<order value="横竖横横横折捺撇撇撇折撇竖折横" />
+	</introduce>
+	<pron value="tiáo">
+		<sense tag="名" vernacular="古代儿童头上下垂的短发">
+			<exam article="《桃花源记》" ref="黄发垂髫，并怡然自乐。" />
+		</sense>
+	</pron>
+</character>

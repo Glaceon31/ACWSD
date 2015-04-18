@@ -1,0 +1,20 @@
+<character value="洎">
+	<introduce>
+		<pinyin value="ji4" writing="jì" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺横撇竖折横横横" />
+	</introduce>
+	<pron value="jì">
+		<sense tag="动" vernacular="往锅里加水；添水">
+			<exam article="《吕氏春秋·应言》" ref="市丘之鼎以烹鸡，多洎之则淡而不可食。" />
+		</sense>
+		<sense tag="动" vernacular="浸润；渗透">
+			<exam article="《管子·水地》" ref="越之水，浊重而洎。" />
+		</sense>
+		<sense tag="介" vernacular="及；等到；到……之时">
+			<exam article="《六国论》" ref="洎牧以谗诛，邯郸为郡。" />
+		</sense>
+	</pron>
+</character>

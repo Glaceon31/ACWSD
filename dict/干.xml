@@ -1,0 +1,58 @@
+<character value="干">
+	<introduce>
+		<pinyin value="gan1" writing="gān" />
+		<pinyin value="gan4" writing="gàn" />
+		<bushou value="干" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="横横竖" />
+	</introduce>
+	<pron value="gàn">
+		<sense tag="名" vernacular="盾牌">
+			<exam article="《过零丁洋》" ref="辛苦遭逢起一经，干戈寥落四周星。" />
+		</sense>
+		<sense tag="动" vernacular="捍卫">
+			<exam article="《卖柑者言》" ref="今夫佩虎符，坐皋比者，洸洸乎干城之具也。" />
+		</sense>
+		<sense tag="动" vernacular="冒犯；冲犯">
+			<exam article="《商君书·业分》" ref="民不敢犯法以干法官也。" />
+		</sense>
+		<sense tag="动" vernacular="直冲">
+			<exam article="《兵行车》" ref="哭声直上干云霄。" />
+			<exam article="《雁荡山》" ref="自岭外望之，都无所见，至谷中则森然干霄。" />
+		</sense>
+		<sense tag="动" vernacular="追求；求取">
+			<exam article="《中山狼传》" ref="时墨者东郭先生将北适中山以干仕。" />
+		</sense>
+		<sense tag="动" vernacular="干预；牵涉">
+			<exam article="《智取生辰纲》" ref="我们自凑钱买酒吃，干你甚事？。" />
+		</sense>
+		<sense tag="名" vernacular="水边；河岸">
+			<exam article="《伐檀》" ref="坎坎伐檀兮，置之河之干兮。" />
+		</sense>
+		<sense tag="名" vernacular="山涧">
+			<exam article="《诗经·斯干》" ref="秩秩斯干，幽幽南山。" />
+		</sense>
+		<sense tag="名" vernacular="天下" />
+		<sense tag="形" vernacular="没有水分或含水分很少的">
+			<exam article="《卖柑者言》" ref="视其中，则干若败絮干。" />
+		</sense>
+	</pron>
+	<pron value="gàn">
+		<sense tag="名" vernacular="树干">
+			<exam article="《淮南子·主术》" ref="枝不得大于干。" />
+		</sense>
+		<sense tag="名" vernacular="指事物的主体或重要部分">
+			<exam article="《国语·晋语》" ref="爱亲明贤，政之干也。" />
+		</sense>
+		<sense tag="名" vernacular="才能；才干">
+			<exam article="《三国志·诸葛亮》" ref="理民之干，优于将略。" />
+		</sense>
+		<sense tag="动" vernacular="办理；主治">
+			<exam article="《水浒传》" ref="明日干了这事，更是这里安身不得了。" />
+		</sense>
+		<sense tag="名" vernacular="事情；事务">
+			<exam article="《水浒传》" ref="学生来时，说道先生今日有干，权放一日假。" />
+		</sense>
+	</pron>
+</character>

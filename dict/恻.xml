@@ -1,0 +1,47 @@
+<character value="恻">
+	<introduce>
+		<pinyin value="ce4" writing="cè" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺竖竖折撇捺竖竖" />
+	</introduce>
+	<pron value="cè">
+		<sense tag="形" vernacular="忧伤，悲痛">
+			<exam article="《汉书·宣元六王传》" ref="朕恻焉不忍闻，为王伤之。" />
+		</sense>
+		<sense tag="形" vernacular="诚恳；恳切">
+			<exam article="《上仁宗皇帝言事书》" ref="盖以至诚恳恻之心，力行而为之倡。" />
+		</sense>
+	</pron>
+	<phrase value="恻恻">
+		<sense value="1" />
+		<sense value="表伤痛" />
+		<sense value="2" />
+		<sense value="表诚恳" />
+	</phrase>
+	<phrase value="恻怆">
+		<sense value="悲伤；伤痛" />
+	</phrase>
+	<phrase value="恻怛">
+		<sense value="1" />
+		<sense value="忧伤" />
+		<sense value="2" />
+		<sense value="同情；哀怜" />
+	</phrase>
+	<phrase value="恻然">
+		<sense value="1" />
+		<sense value="表哀痛，忧伤" />
+		<sense value="2" />
+		<sense value="表同情怜悯" />
+	</phrase>
+	<phrase value="恻隐">
+		<sense value="1" />
+		<sense value="隐痛" />
+		<sense value="2" />
+		<sense value="对别人不幸的同情、怜悯" />
+	</phrase>
+	<phrase value="恻惐">
+		<sense value="表悲伤" />
+	</phrase>
+</character>

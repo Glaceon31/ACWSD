@@ -1,0 +1,52 @@
+<character value="经">
+	<introduce>
+		<pinyin value="jing1" writing="jīng" />
+		<pinyin value="jing4" writing="jìng" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折折横折捺横竖横" />
+	</introduce>
+	<pron value="jīng">
+		<sense tag="名" vernacular="织物的纵线，与“纬”相对">
+			<exam article="《织妇怨》" ref="皆言边幅好，自爱经纬密。" />
+		</sense>
+		<sense tag="名" vernacular="经络；经脉">
+			<exam article="《庖丁解牛》" ref="技经肯綮之未尝，而况大畖乎？" />
+		</sense>
+		<sense tag="名" vernacular="经典；经书">
+			<exam article="《师说》" ref="六艺经传皆通习之。" />
+			<exam article="《过零丁洋》" ref="辛苦遭逢起一经。" />
+		</sense>
+		<sense tag="名" vernacular="我国古代图书四大类别之一，以儒学经传著术为主，与“史”、“子”、“集”相对">
+			<exam article="《复庵记》" ref="诸子及经史多所涉猎。" />
+		</sense>
+		<sense tag="名" vernacular="分界；界线">
+			<exam article="《察传》" ref="是非之经，不可不分。" />
+		</sense>
+		<sense tag="动" vernacular="上吊；缢">
+			<exam article="《史记·田单列传》" ref="经其颈于树枝。" />
+		</sense>
+		<sense tag="动" vernacular="经过；经历">
+			<exam article="《归去来兮辞》" ref="既窈窕以寻壑，亦崎岖而经丘。" />
+		</sense>
+		<sense tag="动" vernacular="治理">
+			<exam article="《左传·隐公十一年》" ref="礼，经国家，定社稷。" />
+		</sense>
+		<sense tag="动" vernacular="合符常理">
+			<exam article="《杜十娘怒沉百宝箱》" ref="海内必以兄为经之人。" />
+		</sense>
+	</pron>
+	<phrase value="经纪">
+		<sense value="纲常；法度" />
+		<sense value="条理；秩序" />
+		<sense value="经营；料理" />
+		<sense value="买卖，贸易" />
+	</phrase>
+	<phrase value="经年">
+		<sense value="经过一整年或若干年" />
+	</phrase>
+	<phrase value="经传">
+		<sense value="儒家经典与前人对这些经典所作的解释的统称" />
+	</phrase>
+</character>

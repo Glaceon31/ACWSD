@@ -1,0 +1,68 @@
+<character value="金">
+	<introduce>
+		<pinyin value="jin1" writing="jīn" />
+		<bushou value="金" />
+		<bushoustroke value="8" />
+		<stroke value="8" />
+		<order value="撇捺横横竖捺撇横" />
+	</introduce>
+	<pron value="jīn">
+		<sense tag="名" vernacular="金子；黄金">
+			<exam article="《乐羊子妻》" ref="羊子尝行路，得遗金一饼。" />
+		</sense>
+		<sense tag="名" vernacular="泛指钱币；钱财">
+			<exam article="《报刘一丈书》" ref="则甘言媚词，作妇人状，袖金以私之。" />
+		</sense>
+		<sense tag="名" vernacular="金属的通称">
+			<exam article="《劝学》" ref="金就砺则利。" />
+			<exam article="《过秦论》" ref="收天下之兵，聚之咸阳，销锋镝，铸以为金人十二。" />
+		</sense>
+		<sense tag="名" vernacular="金属制成的器皿器具">
+			<exam article="《木兰诗》" ref="朔气传金柝，寒光照铁衣。" />
+		</sense>
+		<sense tag="形" vernacular="像金属般的；比喻坚固">
+			<exam article="《过秦论》" ref="自为关之固，金城千里，子孙帝王万世之业也。" />
+		</sense>
+		<sense tag="量" vernacular="货币单位">
+			<exam article="《公输》" ref="子墨子曰：‘请献十金。’" />
+			<exam article="《垓下之战》" ref="吾闻汉购我头千金。" />
+			<exam article="《五人墓碑记》" ref="有贤士大夫，发五十金，买五人之脰而函之。" />
+			<exam article="《左忠毅公逸事》" ref="持五十金，涕泣谋于禁卒。" />
+		</sense>
+		<sense tag="名" vernacular="金色；金黄色">
+			<exam article="《促织》" ref="巨身修尾，青项金翅。" />
+		</sense>
+	</pron>
+	<phrase value="金榜">
+		<sense value="黄金制成的匾额" />
+		<sense value="多指科举应试录取的榜" />
+	</phrase>
+	<phrase value="金波">
+		<sense value="月亮，月光" />
+		<sense value="月光下的水波" />
+		<sense value="酒名" />
+		<sense value="地名，在今河北大名东" />
+	</phrase>
+	<phrase value="金城汤池">
+		<sense value="金属造成的城，蓄满开水的护城河" />
+		<sense value="比喻城防坚固不可摧" />
+	</phrase>
+	<phrase value="金兰">
+		<sense value="牢固而融洽的友情" />
+		<sense value="指结义的兄弟姐妹" />
+	</phrase>
+	<phrase value="金瓯">
+		<sense value="金制的盆盂之类" />
+		<sense value="比喻国土完固" />
+	</phrase>
+	<phrase value="金阙">
+		<sense value="道家所说的天帝居住的黄金阙" />
+		<sense value="代指人间帝王的宫阙" />
+	</phrase>
+	<phrase value="金蛇">
+		<sense value="喻闪电之光" />
+	</phrase>
+	<phrase value="金屋">
+		<sense value="华丽的房屋" />
+	</phrase>
+</character>

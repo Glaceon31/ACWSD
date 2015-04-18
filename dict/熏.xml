@@ -1,0 +1,27 @@
+<character value="熏">
+	<introduce>
+		<pinyin value="xun1" writing="xūn" />
+		<pinyin value="xun4" writing="xùn" />
+		<bushou value="灬" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="撇横竖折捺撇横竖横横捺捺捺捺" />
+	</introduce>
+	<pron value="xūn">
+		<sense tag="名" vernacular="火烟">
+			<exam article="《许长史旧馆坛碑》" ref="金炉扬熏。" />
+		</sense>
+		<sense tag="动" vernacular="烤；熏">
+			<exam article="《诗经·大雅·云汉》" ref="忧心如熏。" />
+		</sense>
+		<sense tag="动" vernacular="气味侵袭">
+			<exam article="《苦热行》" ref="鄣气昼熏体。" />
+		</sense>
+		<sense tag="形" vernacular="暖；热">
+			<exam article="《首夏南池独酌》" ref="熏风自南至，吹我池上林。" />
+		</sense>
+		<sense tag="名" vernacular="通“曛”，黄昏">
+			<exam article="《后汉书·赵壹传》" ref="至熏夕，极欢而去。" />
+		</sense>
+	</pron>
+</character>

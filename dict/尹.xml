@@ -1,0 +1,17 @@
+<character value="尹">
+	<introduce>
+		<pinyin value="yin3" writing="yĭn" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="4" />
+		<order value="折横横撇" />
+	</introduce>
+	<pron value="yǐn">
+		<sense tag="动" vernacular="治理">
+			<exam article="《左传·定公四年》" ref="以尹天下。" />
+		</sense>
+		<sense tag="名" vernacular="古代长官">
+			<exam article="《尚书·益稷》" ref="庶尹允谐。" />
+		</sense>
+	</pron>
+</character>

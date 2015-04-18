@@ -1,0 +1,29 @@
+<character value="全">
+	<introduce>
+		<pinyin value="quan2" writing="quán" />
+		<bushou value="入" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇捺横横竖横" />
+	</introduce>
+	<pron value="quán">
+		<sense tag="形" vernacular="齐全；齐备">
+			<exam article="《五人墓碑记》" ref="故今之墓中全乎为五人也。" />
+		</sense>
+		<sense tag="形" vernacular="完整；整个">
+			<exam article="《小石潭记》" ref="全石以为底。" />
+		</sense>
+		<sense tag="动" vernacular="保全">
+			<exam article="《出师表》" ref="苟全性命于乱世。" />
+		</sense>
+		<sense tag="形" vernacular="全部；所有的">
+			<exam article="《赤壁之战》" ref="吾不能举全吴之地，十万之众受制于人。" />
+		</sense>
+		<sense tag="副" vernacular="完全；都">
+			<exam article="《少年中国说》" ref="故今日之责任，不在他人，而全在我少年。" />
+		</sense>
+		<sense tag="动" vernacular="通“痊”，病愈">
+			<exam article="《病梅馆记》" ref="以五年为期，必复之全之。" />
+		</sense>
+	</pron>
+</character>

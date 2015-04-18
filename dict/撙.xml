@@ -1,0 +1,17 @@
+<character value="撙">
+	<introduce>
+		<pinyin value="zun3" writing="zŭn" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="横竖横捺撇横竖折撇折横横横竖捺" />
+	</introduce>
+	<pron value="zǔn">
+		<sense tag="动" vernacular="节制；抑制">
+			<exam article="《管子·五辅》" ref="节饮食，撙衣服，则财用足。" />
+		</sense>
+	</pron>
+	<phrase value="撙节">
+		<sense value="克制；约束" />
+	</phrase>
+</character>

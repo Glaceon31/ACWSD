@@ -1,0 +1,30 @@
+<character value="胡">
+	<introduce>
+		<pinyin value="hu2" writing="hú" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横竖竖折横撇折横横" />
+	</introduce>
+	<pron value="hú">
+		<sense tag="名" vernacular="兽类颔下的垂肉">
+			<exam article="《中山狼传》" ref="前虞跋胡。" />
+		</sense>
+		<sense tag="形" vernacular="长寿">
+			<exam article="《诗经·丝衣》" ref="胡考之休。" />
+		</sense>
+		<sense tag="代" vernacular="什么">
+			<exam article="《论积贮疏》" ref="卒然边境有急，数千万之众，国胡以馈之。" />
+		</sense>
+		<sense tag="代" vernacular="为什么；怎么">
+			<exam article="《归去来兮辞》" ref="田园将芜，胡不归?" />
+			<exam article="《察今》" ref="上胡不法先王之法。" />
+		</sense>
+		<sense tag="名" vernacular="古代对北部和西部民族的泛称">
+			<exam article="《过秦论》" ref="胡人不敢南下而牧马。" />
+		</sense>
+	</pron>
+	<phrase value="胡卢">
+		<sense value="笑的样子" />
+	</phrase>
+</character>

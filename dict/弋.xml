@@ -1,0 +1,18 @@
+<character value="弋">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="弋" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="横折捺" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="动" vernacular="用带绳子的箭射">
+			<exam article="《史记·司马相如传》" ref="弋白鹄。" />
+			<exam article="《晋书·谢安传》" ref="出则渔弋山水，入则言咏属文。" />
+		</sense>
+		<sense tag="动" vernacular="取">
+			<exam article="《管子·侈靡》" ref="弋其能者。" />
+		</sense>
+	</pron>
+</character>

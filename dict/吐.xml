@@ -1,0 +1,29 @@
+<character value="吐">
+	<introduce>
+		<pinyin value="tu3" writing="tŭ" />
+		<pinyin value="tu4" writing="tù" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="竖折横横竖横" />
+	</introduce>
+	<pron value="tǔ">
+		<sense tag="动" vernacular="吐出">
+			<exam article="《荀子·赋篇》" ref="食桑而吐丝。" />
+		</sense>
+		<sense tag="动" vernacular="说出来；发表">
+			<exam article="《论衡·问孔》" ref="孔子不能吐辞也。" />
+		</sense>
+		<sense tag="动" vernacular="开放；出现">
+			<exam article="《青木香丛》" ref="六月花新吐，三春叶已长。" />
+		</sense>
+	</pron>
+	<pron value="tù">
+		<sense tag="动" vernacular="呕吐">
+			<exam article="《魏书·高涼王传》" ref="曾就亲人饮食，夜还大吐。" />
+		</sense>
+	</pron>
+	<phrase value="吐握">
+		<sense value="吐哺握发的简称，比喻求贤之心切" />
+	</phrase>
+</character>

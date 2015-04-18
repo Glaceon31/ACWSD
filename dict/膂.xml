@@ -1,0 +1,17 @@
+<character value="膂">
+	<introduce>
+		<pinyin value="lu3" writing="lǚ" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="捺横折撇撇横撇折撇捺竖折横横" />
+	</introduce>
+	<pron value="lǚ">
+		<sense tag="名" vernacular="脊梁骨">
+			<exam article="《尚书·君牙》" ref="今命尔予翼，作股肱心膂。" />
+		</sense>
+	</pron>
+	<phrase value="膂力">
+		<sense value="体力" />
+	</phrase>
+</character>

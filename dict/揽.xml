@@ -1,0 +1,23 @@
+<character value="揽">
+	<introduce>
+		<pinyin value="lan3" writing="lăn" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖横竖竖撇横捺竖折撇折" />
+	</introduce>
+	<pron value="lǎn">
+		<sense tag="动" vernacular="抓；握取；把持">
+			<exam article="《游黄山记》" ref="两峰秀色，俱可手揽。" />
+		</sense>
+		<sense tag="动" vernacular="提；撩起">
+			<exam article="《孔雀东南飞》" ref="揽裙脱丝履，举身赴清池。" />
+		</sense>
+		<sense tag="动" vernacular="摘取">
+			<exam article="《离骚》" ref="揽茹蕙以掩涕兮，沾余襟之浪浪。" />
+		</sense>
+		<sense tag="动" vernacular="招引；招致">
+			<exam article="《隆中对》" ref="总揽英雄，思贤若渴。" />
+		</sense>
+	</pron>
+</character>

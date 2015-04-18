@@ -1,0 +1,18 @@
+<character value="择">
+	<introduce>
+		<pinyin value="ze2" writing="zé" />
+		<pinyin value="zhai2" writing="zhái" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横折捺横横竖" />
+	</introduce>
+	<pron value="zé">
+		<sense tag="动" vernacular="选择">
+			<exam article="《〈论语〉六则》" ref="择其善者而从之，其不善者而改之。" />
+		</sense>
+		<sense tag="名" vernacular="区别">
+			<exam article="《齐桓晋文之事》" ref="王若隐其无罪而就死地，则牛羊何择焉？" />
+		</sense>
+	</pron>
+</character>

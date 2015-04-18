@@ -1,0 +1,24 @@
+<character value="倜">
+	<introduce>
+		<pinyin value="ti4" writing="tì" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="撇竖撇折横竖横竖折横" />
+	</introduce>
+	<pron value="tì">
+		<sense tag="形" vernacular="卓异">
+			<exam article="《后汉书·百官志一》" ref="诸文倜说，较略不究。" />
+		</sense>
+		<sense vernacular="见“倜然”" />
+	</pron>
+	<phrase value="倜然">
+		<sense value="突出地；特殊地" />
+		<sense value="不切实的样子" />
+	</phrase>
+	<phrase value="倜傥">
+		<sense value="又写作“俶傥”" />
+		<sense value="卓越" />
+		<sense value="不拘于俗" />
+	</phrase>
+</character>

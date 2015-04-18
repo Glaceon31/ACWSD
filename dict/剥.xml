@@ -1,0 +1,38 @@
+<character value="剥">
+	<introduce>
+		<pinyin value="bo1" writing="bō" />
+		<pinyin value="bao1" writing="bāo" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="折横横竖捺横撇捺竖竖" />
+	</introduce>
+	<pron value="bō">
+		<sense tag="动" vernacular="割裂">
+			<exam article="《左传·昭公十二年》" ref="君王命剥圭以为鏚柲。" />
+		</sense>
+		<sense tag="动" vernacular="削；剖开">
+			<exam article="《诗经·小雅·信南山》" ref="是剥是菹，献之皇祖。" />
+		</sense>
+		<sense tag="动" vernacular="脱落">
+			<exam article="《庄子·人间世》" ref="实熟则剥，剥则辱。" />
+		</sense>
+		<sense tag="动" vernacular="侵蚀">
+			<exam article="《水经注·榖水》" ref="文字剥缺，不复可识。" />
+		</sense>
+		<sense tag="动" vernacular="掠夺；强制除去" />
+		<sense tag="名" vernacular="六十四卦之一" />
+	</pron>
+	<pron value="bó">
+		<sense vernacular="通“驳”" />
+		<sense vernacular="用小船分载转运货物" />
+	</pron>
+	<pron value="pū">
+		<sense vernacular="通“扑”，打；击">
+			<exam article="《诗经·豳风·七月》" ref="八月剥枣，十月获稻。" />
+		</sense>
+		<sense vernacular="bāo去剥物的外皮">
+			<exam article="《周礼·秋官·柞氏》" ref="冬日至，令剥阴木而水之。" />
+		</sense>
+	</pron>
+</character>

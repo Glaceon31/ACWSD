@@ -1,0 +1,56 @@
+<character value="高">
+	<introduce>
+		<pinyin value="gao1" writing="gāo" />
+		<bushou value="高" />
+		<bushoustroke value="10" />
+		<stroke value="10" />
+		<order value="捺横竖折横竖折竖折横" />
+	</introduce>
+	<pron value="gāo">
+		<sense tag="形" vernacular="高，与“低”、“矮”、“下”相对">
+			<exam article="《涉江》" ref="山峻高而蔽日兮，下幽晦以多雨。" />
+			<exam article="《滕王阁序》" ref="天高地迥，觉宇宙之无穷。" />
+		</sense>
+		<sense tag="动" vernacular="加高；抬高">
+			<exam article="《促织》" ref="欲居之以为利，而高其直，亦无售者。" />
+		</sense>
+		<sense tag="动" vernacular="重；推崇">
+			<exam article="《与陈伯之书》" ref="夫迷途知返，往哲是与；不远而复，先典攸高。" />
+		</sense>
+		<sense tag="名" vernacular="高度">
+			<exam article="《愚公移山》" ref="太行、王屋二山，方七百里，高万仞。" />
+			<exam article="《核舟记》" ref="舟首尾长约八分有奇，高可二黍许。" />
+		</sense>
+		<sense tag="名" vernacular="高处">
+			<exam article="《劝学》" ref="登高而招，臂非加长也，而见者远。" />
+			<exam article="《滕王阁序》" ref="登高作赋，是所望于群公。" />
+		</sense>
+		<sense tag="形" vernacular="指品级地位高；尊贵">
+			<exam article="《岳阳楼记》" ref="居庙堂之高则忧其民，处江湖之远则忧其君。" />
+			<exam article="《滕阁王序》" ref="千里逢迎，高朋满座。" />
+		</sense>
+		<sense tag="形" vernacular="高明；高尚">
+			<exam article="《五蠹》" ref="轻辞天子，非高也，势薄也。" />
+			<exam article="《廉颇蔺相如列传》" ref="臣所以去亲戚而事君者，徒慕君之高义也。" />
+		</sense>
+		<sense tag="副" vernacular="高度">
+			<exam article="《东方朔》" ref="朔文辞不逊，高自称誉，上伟之。" />
+		</sense>
+		<sense tag="形" vernacular="大">
+			<exam article="《鸿门宴》" ref="劳苦而功高如此。" />
+			<exam article="《醉翁亭记》" ref="饮少辄醉，而年又最高，故自号曰醉翁也。" />
+		</sense>
+		<sense tag="形" vernacular="高亢；响亮">
+			<exam article="《代堂上歌行》" ref="筝笛更弹吹，高唱相追和。" />
+		</sense>
+		<sense tag="形" vernacular="热烈；盛大">
+			<exam article="《史记·项羽本纪》" ref="饮酒高会。" />
+		</sense>
+		<sense tag="动" vernacular="高出；超出">
+			<exam article="《张衡传》" ref="虽才高于世，而无骄尚之情。" />
+		</sense>
+		<sense tag="形" vernacular="敬辞，称与对方有关的事物">
+			<exam article="《林教头风雪山神庙》" ref="素不相识，去问官人高姓大名。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="护">
+	<introduce>
+		<pinyin value="hu4" writing="hù" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横捺折横撇" />
+	</introduce>
+	<pron value="hù">
+		<sense tag="动" vernacular="保卫；保护">
+			<exam article="《史记·萧相国世家》" ref="高祖为布衣时，何数以吏事护高祖。" />
+		</sense>
+		<sense tag="动" vernacular="统辖；统率">
+			<exam article="《史记·陈丞相世家》" ref="今日大王尊官之，令护军。" />
+		</sense>
+	</pron>
+</character>

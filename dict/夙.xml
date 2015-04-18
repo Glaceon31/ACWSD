@@ -1,0 +1,20 @@
+<character value="夙">
+	<introduce>
+		<pinyin value="su4" writing="sù" />
+		<bushou value="夕" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="撇折横撇折捺" />
+	</introduce>
+	<pron value="sù">
+		<sense tag="名" vernacular="早晨">
+			<exam article="《出师表》" ref="受命以来，夙夜忧叹。" />
+		</sense>
+		<sense tag="名" vernacular="早年">
+			<exam article="《陈情表》" ref="臣以险衅，夙遭闵凶。" />
+		</sense>
+		<sense tag="形" vernacular="平素；过去的；旧有的">
+			<exam article="《葫芦僧判断葫芦案》" ref="死者冯渊与薛蟠原系夙孽相逢，今狭路既遇，原应了结。" />
+		</sense>
+	</pron>
+</character>

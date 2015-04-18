@@ -1,0 +1,20 @@
+<character value="戛">
+	<introduce>
+		<pinyin value="jia2" writing="jiá" />
+		<bushou value="戈" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横撇竖折横横横横折撇捺" />
+	</introduce>
+	<pron value="jiá">
+		<sense tag="名" vernacular="长矛，一种兵器">
+			<exam article="《东京赋》" ref="立戈迤戛。" />
+		</sense>
+		<sense tag="动" vernacular="敲击；弹奏">
+			<exam article="《华原磬》" ref="铿金戛瑟徒相杂。" />
+		</sense>
+		<sense tag="象声词" vernacular="">
+			<exam article="《画雕赞》" ref="戛然欲鸣。" />
+		</sense>
+	</pron>
+</character>

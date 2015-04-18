@@ -1,0 +1,23 @@
+<character value="映">
+	<introduce>
+		<pinyin value="ying4" writing="yìng" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="竖折横横竖折横撇捺" />
+	</introduce>
+	<pron value="yìng">
+		<sense tag="动" vernacular="照；映照">
+			<exam article="《晓出净慈侍送林子方》" ref="接天莲叶无穷碧,映日荷花别样红。" />
+		</sense>
+		<sense tag="动" vernacular="衬托">
+			<exam article="《江南春绝句》" ref="千里莺啼绿映红。" />
+		</sense>
+		<sense tag="动" vernacular="掩映">
+			<exam article="《与朱元思书》" ref="疏条交映,有时见日。" />
+		</sense>
+	</pron>
+	<phrase value="映带">
+		<sense value="景物相互映衬,彼此相连" />
+	</phrase>
+</character>

@@ -1,0 +1,17 @@
+<character value="烁">
+	<introduce>
+		<pinyin value="shuo4" writing="shuò" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="捺撇撇捺撇折竖撇捺" />
+	</introduce>
+	<pron value="shuō">
+		<sense tag="形" vernacular="发光的样子">
+			<exam article="《新唐书·天文志》" ref="中夜有大流星长数丈，光烁如电。" />
+		</sense>
+		<sense tag="动" vernacular="通“铄”，熔化金属">
+			<exam article="《考工记·序》" ref="烁金以为刃。" />
+		</sense>
+	</pron>
+</character>

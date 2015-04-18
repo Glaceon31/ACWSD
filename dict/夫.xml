@@ -1,0 +1,37 @@
+<character value="夫">
+	<introduce>
+		<pinyin value="fu1" writing="fū" />
+		<pinyin value="fu2" writing="fú" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="4" />
+		<order value="横横撇捺" />
+	</introduce>
+	<pron value="fū">
+		<sense tag="名" vernacular="成年男子">
+			<exam article="《愚公移山》" ref="遂率子孙荷担者三夫。" />
+			<exam article="《论积贮疏》" ref="一夫不耕，或受之饥。" />
+		</sense>
+		<sense tag="名" vernacular="大丈夫">
+			<exam article="《左传·宣公十二年》" ref="闻敌强而退，非夫也。" />
+		</sense>
+		<sense tag="名" vernacular="指服劳役或从事某种体力劳动的人">
+			<exam article="《智取生辰纲》" ref="农夫心内如汤煮，公子王孙把扇摇。" />
+			<exam article="《宫词》" ref="宫人早起笑相呼，不识阶前扫地夫。" />
+		</sense>
+		<sense tag="名" vernacular="女子的配偶；丈夫">
+			<exam article="《陌上桑》" ref="罗敷自有夫。" />
+		</sense>
+	</pron>
+	<pron value="fú">
+		<sense tag="代" vernacular="这；那">
+			<exam article="《归去来兮辞》" ref="乐夫天命复奚疑？" />
+			<exam article="《左传·襄公二十年》" ref="使夫往而学焉。" />
+		</sense>
+		<sense tag="助" vernacular="用在句首，引起议论">
+			<exam article="《烛之武退秦师》" ref="夫晋何厌之有？" />
+			<exam article="《论语·阳货》" ref="食夫稻，衣夫锦，放女安乎？" />
+			<exam article="《兰亭集序》" ref="后之视今，亦犹今之视昔，悲夫！" />
+		</sense>
+	</pron>
+</character>

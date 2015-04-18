@@ -1,0 +1,23 @@
+<character value="陨">
+	<introduce>
+		<pinyin value="yun3" writing="yŭn" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="折竖竖折横竖折撇捺" />
+	</introduce>
+	<pron value="yǔn">
+		<sense tag="动" vernacular="落下">
+			<exam article="《采草药》" ref="并、汾乔木，望秋先陨。" />
+		</sense>
+		<sense tag="动" vernacular="毁坏">
+			<exam article="《淮南子·览冥》" ref="景公台陨。" />
+		</sense>
+		<sense tag="动" vernacular="通“殒”，死亡">
+			<exam article="《韩非子·说疑》" ref="陨身灭国。" />
+		</sense>
+	</pron>
+	<phrase value="陨节">
+		<sense value="死" />
+	</phrase>
+</character>

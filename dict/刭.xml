@@ -1,0 +1,15 @@
+<character value="刭">
+	<introduce>
+		<pinyin value="jing3" writing="jĭng" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="折捺横竖横竖竖" />
+	</introduce>
+	<pron value="jǐng">
+		<sense tag="动" vernacular="割脖子">
+			<exam article="《信陵君窃符救赵》" ref="侯生果北乡自刭。" />
+			<exam article="《&lt;指南录&gt;后序》" ref="去京口，挟匕首以备不测，几自刭死。" />
+		</sense>
+	</pron>
+</character>

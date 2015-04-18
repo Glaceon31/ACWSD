@@ -1,0 +1,14 @@
+<character value="麋">
+	<introduce>
+		<pinyin value="mi2" writing="mí" />
+		<bushou value="鹿" />
+		<bushoustroke value="11" />
+		<stroke value="17" />
+		<order value="捺横撇折竖竖横横折撇折捺撇横竖撇捺" />
+	</introduce>
+	<pron value="mí">
+		<sense tag="名" vernacular="麋鹿">
+			<exam article="《殽之战》" ref="吾子取其麋鹿，以闲敝邑，若何？" />
+		</sense>
+	</pron>
+</character>

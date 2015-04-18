@@ -1,0 +1,17 @@
+<character value="刳">
+	<introduce>
+		<pinyin value="ku1" writing="kū" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="横撇捺横横折竖竖" />
+	</introduce>
+	<pron value="kū">
+		<sense tag="动" vernacular="剖；剖开">
+			<exam article="《后汉书·华佗传》" ref="刳破腹背，抽割积聚。" />
+		</sense>
+		<sense tag="动" vernacular="挖空">
+			<exam article="《周易·系辞下》" ref="刳木为舟。" />
+		</sense>
+	</pron>
+</character>

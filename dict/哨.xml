@@ -1,0 +1,18 @@
+<character value="哨">
+	<introduce>
+		<pinyin value="shao4" writing="shào" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="竖折横竖捺撇竖折横横" />
+	</introduce>
+	<pron value="shào">
+		<sense tag="动" vernacular="放哨；巡察">
+			<exam article="《失街亭》" ref="男亲自哨见，当道并无寨栅。" />
+		</sense>
+		<sense tag="名" vernacular="哨兵；警戒巡察的士兵">
+			<exam article="《&lt;指南录&gt;后序》" ref="质明，避哨林中，逻者数十骑。" />
+		</sense>
+		<sense tag="名" vernacular="古代军事编制单位" />
+	</pron>
+</character>

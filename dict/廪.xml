@@ -1,0 +1,24 @@
+<character value="廪">
+	<introduce>
+		<pinyin value="lin3" writing="lĭn" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="捺横撇捺横竖折竖折横横横横竖撇捺" />
+	</introduce>
+	<pron value="lǐn">
+		<sense tag="名" vernacular="米仓">
+			<exam article="《论积贮疏》" ref="管子曰：‘仓廪实而知礼节’。" />
+		</sense>
+		<sense tag="名" vernacular="官府供应的粮食">
+			<exam article="《送东阳马生序》" ref="县官日有廪稍之供，父母岁有裘葛之遗。" />
+		</sense>
+		<sense tag="动" vernacular="储藏；积聚">
+			<exam article="《素问·皮部论》" ref="廪于肠胃。" />
+		</sense>
+	</pron>
+	<phrase value="廪廪">
+		<sense value="通“懔懔”，恐惧害怕的样子" />
+		<sense value="渐近的样子" />
+	</phrase>
+</character>

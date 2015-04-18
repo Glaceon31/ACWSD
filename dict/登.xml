@@ -1,0 +1,41 @@
+<character value="登">
+	<introduce>
+		<pinyin value="deng1" writing="dēng" />
+		<bushou value="癶" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="折捺撇撇捺横竖折横捺撇横" />
+	</introduce>
+	<pron value="dēng">
+		<sense tag="动" vernacular="升；由低处到高处">
+			<exam article="《劝学》" ref="吾尝跂而望矣，不如登高之博见也。" />
+			<exam article="《曹刿论战》" ref="登轼而望之。" />
+		</sense>
+		<sense tag="动" vernacular="进入；踏上">
+			<exam article="《孔雀东南飞》" ref="从人四五百。郁郁登郡门。" />
+			<exam article="《石壕史》" ref="天明登前途，独与老翁别。" />
+		</sense>
+		<sense tag="形" vernacular="庄稼成熟">
+			<exam article="《孟子·滕文公》" ref="五谷不登，禽兽偪人。" />
+		</sense>
+		<sense tag="动" vernacular="登记；记载">
+			<exam article="《周礼·遂人》" ref="以岁时登其夫家之众寡及其六畜车辇。" />
+		</sense>
+		<sense tag="副" vernacular="立即；立刻">
+			<exam article="《孔雀东南飞》" ref="登即相许和，便可作婚姻。" />
+		</sense>
+		<sense tag="动" vernacular="穿">
+			<exam article="《林黛玉进贾府》" ref="（宝玉）登着青缎粉底小朝靴。" />
+		</sense>
+	</pron>
+	<phrase value="登第">
+		<sense value="应试得中" />
+		<sense value="科举考试分等第，故云" />
+	</phrase>
+	<phrase value="登假">
+		<sense value="对帝王死去的讳称" />
+	</phrase>
+	<phrase value="登衍">
+		<sense value="丰收" />
+	</phrase>
+</character>

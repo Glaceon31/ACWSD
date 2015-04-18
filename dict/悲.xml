@@ -1,0 +1,42 @@
+<character value="悲">
+	<introduce>
+		<pinyin value="bei1" writing="bēi" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="竖横横横竖横横横捺折捺捺" />
+	</introduce>
+	<pron value="bēi">
+		<sense tag="形" vernacular="悲哀;伤心">
+			<exam article="《柳毅传》" ref="悲泗淋漓,诚怛人心。" />
+			<exam article="《岳阳楼记》" ref="不以物喜,不以己悲。" />
+		</sense>
+		<sense tag="形" vernacular="可悲的">
+			<exam article="《察今》" ref="以为治岂不悲哉。" />
+		</sense>
+		<sense tag="形为动" vernacular="为……而悲伤">
+			<exam article="《韩非子?和氏》" ref="吾非悲刖也。" />
+			<exam article="《登高》" ref="万里悲秋常作客,百年多病独登台。" />
+		</sense>
+		<sense tag="动" vernacular="怜悯,同情">
+			<exam article="《捕蛇者说》" ref="余悲之,且曰‘若毒之乎?’。" />
+			<exam article="《指南录后序》" ref="使来者读之,悲予志焉。" />
+		</sense>
+		<sense tag="动" vernacular="顾念;怀念">
+			<exam article="《汉书·高帝纪》" ref="游子悲故乡。" />
+		</sense>
+		<sense tag="动" vernacular="悲伤">
+			<exam article="《游褒禅山记》" ref="又以悲夫古书之不存。" />
+		</sense>
+	</pron>
+	<phrase value="悲摧">
+		<sense value="悲痛;悲伤" />
+	</phrase>
+	<phrase value="悲秋">
+		<sense value="受到秋天景色的触动而产生伤感" />
+	</phrase>
+	<phrase value="悲角">
+		<sense value="号角" />
+		<sense value="以其声悲壮而名" />
+	</phrase>
+</character>

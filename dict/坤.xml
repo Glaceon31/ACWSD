@@ -1,0 +1,15 @@
+<character value="坤">
+	<introduce>
+		<pinyin value="kun1" writing="kūn" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横竖折横横竖" />
+	</introduce>
+	<pron value="kūn">
+		<sense tag="名" vernacular="八卦之一，代表地">
+			<exam article="《周易·系辞上》" ref="天尊地卑，乾坤定矣。" />
+			<exam article="《后苦寒行》" ref="杀气南行动坤轴。" />
+		</sense>
+	</pron>
+</character>

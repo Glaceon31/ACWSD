@@ -1,0 +1,18 @@
+<character value="诅">
+	<introduce>
+		<pinyin value="zu3" writing="zŭ" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺折竖折横横横" />
+	</introduce>
+	<pron value="zǔ">
+		<sense tag="动" vernacular="诅咒">
+			<exam article="《晏子春秋·谏上》" ref="百姓之咎怨诽谤，诅君于上帝者多矣。" />
+		</sense>
+		<sense tag="动" vernacular="盟誓">
+			<exam article="《左传·宣公二年》" ref="诅无畜群公子。" />
+			<exam article="《后汉书·西羌传》" ref="乃解仇诅盟。" />
+		</sense>
+	</pron>
+</character>

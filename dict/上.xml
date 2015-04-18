@@ -1,0 +1,71 @@
+<character value="上">
+	<introduce>
+		<pinyin value="shang4" writing="shàng" />
+		<pinyin value="shang3" writing="shăng" />
+		<bushou value="一" />
+		<bushoustroke value="1" />
+		<stroke value="3" />
+		<order value="竖横横" />
+	</introduce>
+	<pron value="shàng">
+		<sense tag="名" vernacular="上面；位置在高处的">
+			<exam article="《陈涉世家》" ref="辍耕之垄上，怅恨久之。" />
+			<exam article="《墨池记》" ref="新城之上。有池洼然而方以长。" />
+		</sense>
+		<sense tag="形" vernacular="等级高的；质量高的；上等">
+			<exam article="《廉颇蔺相如列传》" ref="拜相如为上大夫。" />
+			<exam article="《邹忌讽齐王纳谏》" ref="群臣吏民能面刺寡人之过者，受上赏。" />
+		</sense>
+		<sense tag="名" vernacular="地位高的人；主持、领导的人">
+			<exam article="《谋攻》" ref="上下同欲者胜。" />
+			<exam article="《周亚夫军细柳》" ref="上自劳累。" />
+			<exam article="《东方朔》" ref="上伟之。" />
+		</sense>
+		<sense tag="形" vernacular="时间或次序在前的">
+			<exam article="《屈原列传》" ref="上称帝喾，下道歉齐桓，中述汤武。" />
+			<exam article="《陌上桑》" ref="东方千余骑，夫婿居上头。" />
+		</sense>
+		<sense tag="动" vernacular="上升；登上">
+			<exam article="《陈情表》" ref="郡县逼迫，催臣上道。" />
+			<exam article="《游黄山记》" ref="十里，上黄泥冈。" />
+		</sense>
+		<sense tag="副" vernacular="向上">
+			<exam article="《鸿门宴》" ref="哙遂入，披帷西向立，瞋目视项王，头发上指，目眦尽裂。" />
+			<exam article="《赵威后问齐使》" ref="上不臣于王，下不治其家，中不索交诸侯。" />
+		</sense>
+		<sense tag="动" vernacular="献上；送上；呈上">
+			<exam article="《廉颇蔺相如列传》" ref="臣乃敢上壁。" />
+			<exam article="《狱中杂记》" ref="狱辞上。中有立决者。" />
+		</sense>
+		<sense tag="动" vernacular="向上；走向">
+			<exam article="《孔雀东南飞》" ref="上堂拜阿母。" />
+			<exam article="《柳敬亭传》" ref="始复上街头理其故业。" />
+		</sense>
+		<sense tag="动" vernacular="装上；加上">
+			<exam article="《冯婉贞》" ref="以枪上刺刀相博击。" />
+		</sense>
+		<sense tag="动" vernacular="通“尚”">
+			<exam article="《史记·秦始皇本纪》" ref="上农除未，黔首是富。" />
+		</sense>
+	</pron>
+	<pron value="shǎng">
+		<sense tag="名" vernacular="上声">
+			<exam article="《诗品序》" ref="至平上去入，则余病未能。" />
+		</sense>
+	</pron>
+	<phrase value="上足">
+		<sense value="徒弟的美称，相当于“高足”" />
+		<sense value="指骏马" />
+	</phrase>
+	<phrase value="上手">
+		<sense value="技艺高超的人；高手" />
+		<sense value="先例；榜样" />
+		<sense value="先前经手的人" />
+		<sense value="较尊的位置；处在较尊的位置上的人" />
+	</phrase>
+	<phrase value="上头">
+		<sense value="首位；第一" />
+		<sense value="古代男子束发加冠或女子束发插笄，是成年人象征" />
+		<sense value="娼妓初次接客" />
+	</phrase>
+</character>

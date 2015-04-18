@@ -1,0 +1,37 @@
+<character value="三">
+	<introduce>
+		<pinyin value="san1" writing="sān" />
+		<bushou value="一" />
+		<bushoustroke value="1" />
+		<stroke value="3" />
+		<order value="横横横" />
+	</introduce>
+	<pron value="sān">
+		<sense tag="数" vernacular="三；第三" />
+		<sense tag="数" vernacular="再三；多次；多（年）">
+			<exam article="《硕鼠》" ref="三岁贯女，莫我肯顾。" />
+			<exam article="《鸿门宴》" ref="范增数目项王，举所佩玉玦以示之者三。" />
+		</sense>
+	</pron>
+	<phrase value="三尺">
+		<sense value="剑" />
+		<sense value="剑长约三尺，所以这样称" />
+		<sense value="法律" />
+		<sense value="古代把法律写在三尺长的竹简上，所以用“三尺”代称法律" />
+	</phrase>
+	<phrase value="三辅">
+		<sense value="汉代治理京畿地区三个行政长官的合称，也指他们所管辖的区域" />
+		<sense value="后代泛指京城附近的地区" />
+	</phrase>
+	<phrase value="三宫">
+		<sense value="儒家称天子六宫，诸侯夫人减半，称作三宫" />
+		<sense value="三个星座" />
+		<sense value="明堂、辟雍、灵台" />
+		<sense value="皇帝、太后、皇后" />
+	</phrase>
+	<phrase value="三军">
+		<sense value="古代诸侯大国军队分上军、中军、下军，其三万七千五百人" />
+		<sense value="古代指步、车、骑三军；现代指海陆空三军" />
+		<sense value="全军，通称军队" />
+	</phrase>
+</character>

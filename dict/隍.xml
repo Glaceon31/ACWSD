@@ -1,0 +1,14 @@
+<character value="隍">
+	<introduce>
+		<pinyin value="huang2" writing="huáng" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="折竖撇竖折横横横横竖横" />
+	</introduce>
+	<pron value="huáng">
+		<sense tag="名" vernacular="没有水的护城壕">
+			<exam article="《列子·周穆王》" ref="藏诸隍中。" />
+		</sense>
+	</pron>
+</character>

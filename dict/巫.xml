@@ -1,0 +1,21 @@
+<character value="巫">
+	<introduce>
+		<pinyin value="wu1" writing="wū" />
+		<pinyin value="wu2" writing="wú" />
+		<bushou value="工" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖撇捺撇捺横" />
+	</introduce>
+	<pron value="wū">
+		<sense tag="名" vernacular="以装神弄鬼替人祈祷为职业的人">
+			<exam article="《促织》" ref="时村中来一驼背巫，能以神卜。" />
+		</sense>
+	</pron>
+	<phrase value="巫娥">
+		<sense value="巫山神女，泛指美女" />
+	</phrase>
+	<phrase value="巫祝">
+		<sense value="以通鬼神，为人预测祸福，祈祷等迷信活动为职业的人" />
+	</phrase>
+</character>

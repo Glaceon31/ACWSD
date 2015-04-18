@@ -1,0 +1,23 @@
+<character value="烝">
+	<introduce>
+		<pinyin value="zheng1" writing="zhēng" />
+		<bushou value="灬" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="折竖折撇捺横捺捺捺捺" />
+	</introduce>
+	<pron value="zhēng">
+		<sense tag="动" vernacular="用火烘烤">
+			<exam article="《荀子·性恶》" ref="枸木必将待檃栝烝矫然后直。" />
+		</sense>
+		<sense tag="动" vernacular="用热气蒸">
+			<exam article="《齐民要术·烝缹法》" ref="烝令极熟。" />
+		</sense>
+		<sense tag="形" vernacular="众；多">
+			<exam article="《诗经·大雅·烝民》" ref="天生烝民。" />
+		</sense>
+		<sense tag="动" vernacular="祭祀，特指冬祭">
+			<exam article="《礼记·王制》" ref="尝则不烝。" />
+		</sense>
+	</pron>
+</character>

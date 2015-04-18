@@ -1,0 +1,23 @@
+<character value="穰">
+	<introduce>
+		<pinyin value="rang2" writing="ráng" />
+		<bushou value="禾" />
+		<bushoustroke value="5" />
+		<stroke value="22" />
+		<order value="撇横竖撇捺捺横竖折横竖折横横横竖竖横撇折撇捺" />
+	</introduce>
+	<pron value="ráng">
+		<sense tag="名" vernacular="稻麦等粮食作物的茎杆">
+			<exam article="《齐民要术·杂说》" ref="场上所有穰、谷稖等，并须收贮一处。" />
+		</sense>
+		<sense tag="形" vernacular="丰收" />
+	</pron>
+	<pron value="ráng">
+		<sense tag="形" vernacular="多，盛">
+			<exam article="《汉书·张敝传》" ref="京兆典京师，长安中浩穰，于在三辅尤为剧。" />
+		</sense>
+	</pron>
+	<phrase value="穰穰">
+		<sense value="五谷丰饶" />
+	</phrase>
+</character>

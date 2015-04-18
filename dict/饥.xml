@@ -1,0 +1,17 @@
+<character value="饥">
+	<introduce>
+		<pinyin value="ji1" writing="jī" />
+		<bushou value="饣" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="撇折折撇折" />
+	</introduce>
+	<pron value="jī">
+		<sense tag="动" vernacular="饿；饥饿">
+			<exam article="《齐桓晋文之事》" ref="老者衣帛食肉，黎民不饥不寒。" />
+		</sense>
+		<sense tag="名" vernacular="饥荒；谷物歉收；年成不好">
+			<exam article="《论积贮疏》" ref="世之有饥穰，天之行也。" />
+		</sense>
+	</pron>
+</character>

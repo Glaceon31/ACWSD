@@ -1,0 +1,12 @@
+<character value="纴">
+	<introduce>
+		<pinyin value="ren4" writing="rèn" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折折横撇横竖横" />
+	</introduce>
+	<pron value="rèn">
+		<sense tag="动" vernacular="绕线" />
+	</pron>
+</character>

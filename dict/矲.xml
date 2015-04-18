@@ -1,0 +1,16 @@
+<character value="矲">
+	<introduce>
+		<pinyin value="bai3" writing="băi" />
+		<pinyin value="bai4" writing="bài" />
+		<pinyin value="pai3" writing="păi" />
+		<bushou value="矢" />
+		<bushoustroke value="5" />
+		<stroke value="20" />
+		<order value="撇横横撇捺竖折竖竖横折捺竖折横横撇折撇折" />
+	</introduce>
+	<pron value="bà">
+		<sense tag="形" vernacular="低矮；短小">
+			<exam article="《藏丹洞记》" ref="地中获瓦缶矲矮，贮丹砂云母奇石，或料然类黄金。" />
+		</sense>
+	</pron>
+</character>

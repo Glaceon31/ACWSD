@@ -1,0 +1,25 @@
+<character value="欧">
+	<introduce>
+		<pinyin value="ou1" writing="ōu" />
+		<bushou value="欠" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横撇捺折撇折撇捺" />
+	</introduce>
+	<pron value="ōu">
+		<sense tag="动" vernacular="通“殴”，击打">
+			<exam article="《汉书·张良传》" ref="良愕然，欲欧之。" />
+		</sense>
+		<sense tag="动" vernacular="通“讴”">
+			<exam article="《隶释·三公山碑》" ref="百姓欧歌，得我惠君。" />
+		</sense>
+	</pron>
+	<pron value="ǒu">
+		<sense tag="动" vernacular="通“呕”，吐">
+			<exam article="《三国志·魏书·许褚传》" ref="太祖崩，褚号泣欧血。" />
+		</sense>
+	</pron>
+	<phrase value="欧刀">
+		<sense value="刑刀" />
+	</phrase>
+</character>

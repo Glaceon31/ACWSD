@@ -1,0 +1,20 @@
+<character value="芜">
+	<introduce>
+		<pinyin value="wu2" writing="wú" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖竖横横撇折" />
+	</introduce>
+	<pron value="wú">
+		<sense tag="形" vernacular="田地荒废">
+			<exam article="《老子》" ref="田甚芜，仓甚虚。" />
+		</sense>
+		<sense tag="名" vernacular="丛生的草">
+			<exam article="《徐步》" ref="整履步青芜。" />
+		</sense>
+		<sense tag="形" vernacular="繁杂，多指文章">
+			<exam article="《史通·表历》" ref="改表为注，名目虽巧，芜累亦多。" />
+		</sense>
+	</pron>
+</character>

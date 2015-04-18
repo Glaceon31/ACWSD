@@ -1,0 +1,23 @@
+<character value="怪">
+	<introduce>
+		<pinyin value="guai4" writing="guài" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺竖折捺横竖横" />
+	</introduce>
+	<pron value="guài">
+		<sense tag="形" vernacular="奇异；奇特">
+			<exam article="《三峡》" ref="绝巘多生怪柏。" />
+		</sense>
+		<sense vernacular="〈动&gt;责备；怪罪">
+			<exam article="《张衡传》" ref="京师学者咸怪其无征。" />
+		</sense>
+		<sense tag="名" vernacular="传说中的妖怪、鬼怪">
+			<exam article="《西游记》" ref="山高必有怪，岭峻却生精。" />
+		</sense>
+		<sense tag="副" vernacular="很；非常">
+			<exam article="《红楼梦》" ref="我怪闷的，来瞧瞧你作什么呢。" />
+		</sense>
+	</pron>
+</character>

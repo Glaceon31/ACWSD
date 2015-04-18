@@ -1,0 +1,51 @@
+<character value="载">
+	<introduce>
+		<pinyin value="zai3" writing="zăi" />
+		<pinyin value="zai4" writing="zài" />
+		<bushou value="车" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横竖横横折竖横折撇捺" />
+	</introduce>
+	<pron value="zài">
+		<sense tag="名" vernacular="乘具；车子">
+			<exam article="《殽之战》" ref="郑穆公使视客馆，则束载。厉兵、秣马矣。" />
+		</sense>
+		<sense tag="动" vernacular="乘坐">
+			<exam article="《陌上桑》" ref="使君谢罗敷：‘宁可共载不？’" />
+		</sense>
+		<sense tag="动" vernacular="装载">
+			<exam article="《赤壁之战》" ref="乃取蒙冲斗舰十艘，载燥荻枯柴。" />
+		</sense>
+		<sense tag="动" vernacular="负载">
+			<exam article="《谏太宗十思疏》" ref="载舟覆舟，所宜深慎。" />
+		</sense>
+		<sense tag="动" vernacular="充满">
+			<exam article="《诗经·生民》" ref="厥声载道。" />
+		</sense>
+		<sense tag="动" vernacular="开始">
+			<exam article="《诗经·七月》" ref="春日载阳。" />
+		</sense>
+		<sense vernacular="词缀，用于动词前">
+			<exam article="《归去来兮辞》" ref="乃瞻衡宇，载欣载奔。" />
+		</sense>
+	</pron>
+	<pron value="zǎi">
+		<sense tag="名" vernacular="年">
+			<exam article="《张衡传》" ref="自去史职，五载复还。" />
+		</sense>
+		<sense tag="动" vernacular="记录">
+			<exam article="《〈黄花冈七十二烈士事略〉序》" ref="如史载田横事。" />
+		</sense>
+	</pron>
+	<phrase value="载笔">
+		<sense value="携带文具记录王事" />
+	</phrase>
+	<phrase value="载籍">
+		<sense value="书籍；典籍" />
+	</phrase>
+	<phrase value="载书">
+		<sense value="盟书" />
+		<sense value="古代诸侯会盟时，记载盟誓的文书" />
+	</phrase>
+</character>

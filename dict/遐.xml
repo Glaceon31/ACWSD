@@ -1,0 +1,27 @@
+<character value="遐">
+	<introduce>
+		<pinyin value="xia2" writing="xiá" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折横竖横横折横折捺捺折捺" />
+	</introduce>
+	<pron value="xiá">
+		<sense tag="形" vernacular="远">
+			<exam article="《归去来兮辞》" ref="策扶老以流憩，时矫首而遐观。" />
+		</sense>
+		<sense tag="动" vernacular="远">
+			<exam article="《东京赋》" ref="俟阊风而西遐。" />
+		</sense>
+		<sense tag="形" vernacular="长久">
+			<exam article="《魏书·常景传》" ref="以知命为遐龄。以乐天为大惠" />
+		</sense>
+		<sense tag="代" vernacular="通“胡”，何">
+			<exam article="《诗经·大雅·棫朴》" ref="周王寿考，遐不作人。" />
+		</sense>
+	</pron>
+	<phrase value="遐举">
+		<sense value="远扬" />
+		<sense value="远行" />
+	</phrase>
+</character>

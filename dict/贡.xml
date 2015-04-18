@@ -1,0 +1,20 @@
+<character value="贡">
+	<introduce>
+		<pinyin value="gong4" writing="gòng" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="横竖横竖折撇捺" />
+	</introduce>
+	<pron value="gòng">
+		<sense tag="动" vernacular="把物品进献给君主">
+			<exam article="《左传·桓公十五年》" ref="诸侯不贡车服。" />
+		</sense>
+		<sense tag="名" vernacular="赋税，传说中夏代的租赋制度">
+			<exam article="《孟子·滕文公上》" ref="夏后氏五十而贡。" />
+		</sense>
+		<sense tag="动" vernacular="推荐；选举">
+			<exam article="《后汉书·章帝纪》" ref="举人贡士。" />
+		</sense>
+	</pron>
+</character>

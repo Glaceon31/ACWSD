@@ -1,0 +1,26 @@
+<character value="逝">
+	<introduce>
+		<pinyin value="shi4" writing="shì" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖横撇撇横竖捺折捺" />
+	</introduce>
+	<pron value="shì">
+		<sense tag="动" vernacular="去；离去">
+			<exam article="《论语·子罕》" ref="了在川上曰：‘逝者如斯夫，不舍昼夜。’" />
+		</sense>
+		<sense tag="动" vernacular="奔跑">
+			<exam article="《垓下之战》" ref="时不利兮骓不逝。" />
+		</sense>
+		<sense tag="动" vernacular="消逝；消失">
+			<exam article="《祭妹文》" ref="旧事填膺，思之凄梗，如影历历，逼取便逝。" />
+		</sense>
+		<sense tag="动" vernacular="死">
+			<exam article="《&lt;黄花岗七十二烈士事略&gt;序》" ref="既痛逝者，并以为国人之读兹编勖。" />
+		</sense>
+		<sense tag="动" vernacular="通“誓”，发誓">
+			<exam article="《硕鼠》" ref="逝将去女，适彼乐土。" />
+		</sense>
+	</pron>
+</character>

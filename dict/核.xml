@@ -1,0 +1,24 @@
+<character value="核">
+	<introduce>
+		<pinyin value="he2" writing="hé" />
+		<pinyin value="hu2" writing="hú" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横竖撇捺捺横折撇撇捺" />
+	</introduce>
+	<pron value="hé">
+		<sense tag="名" vernacular="果核;果实中心的坚硬部分">
+			<exam article="《核舟记》" ref="盖简核桃修狭者为之。" />
+		</sense>
+		<sense tag="名" vernacular="有核的果实">
+			<exam article="《赤壁赋》" ref="肴核既尽，杯盘狼藉。" />
+		</sense>
+		<sense tag="形" vernacular="真实；实在">
+			<exam article="《汉书·司马迁传》" ref="其文直，其事核。" />
+		</sense>
+		<sense tag="动" vernacular="核实；验证">
+			<exam article="《张衡传》" ref="有遂乃研核阴阳，妙尽璇玑之正。" />
+		</sense>
+	</pron>
+</character>

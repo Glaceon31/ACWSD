@@ -1,0 +1,17 @@
+<character value="骤">
+	<introduce>
+		<pinyin value="zhou4" writing="zhòu" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="17" />
+		<order value="折折横横竖竖横横横折捺撇竖撇撇撇捺" />
+	</introduce>
+	<pron value="zhòu">
+		<sense tag="动" vernacular="马奔驰">
+			<exam article="《诗经·小雅·四牡》" ref="载骤骎骎。" />
+		</sense>
+		<sense tag="副" vernacular="屡次；多次">
+			<exam article="《左传·宣公二年》" ref="宣子骤谏。" />
+		</sense>
+	</pron>
+</character>

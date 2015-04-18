@@ -1,0 +1,18 @@
+<character value="瞑">
+	<introduce>
+		<pinyin value="ming2" writing="míng" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="15" />
+		<order value="竖折横横横捺折竖折横横捺横撇捺" />
+	</introduce>
+	<pron value="míng">
+		<sense tag="动" vernacular="闭（眼睛）">
+			<exam article="《陈州粜米》" ref="则我这双儿鹘鸰也似眼中睛，应不瞑。" />
+			<exam article="《狼》" ref="久之，目似瞑，意暇甚。" />
+		</sense>
+		<sense tag="形" vernacular="视觉不清">
+			<exam article="《晋书·山涛传》" ref="臣耳目聋瞑，不能自励。" />
+		</sense>
+	</pron>
+</character>

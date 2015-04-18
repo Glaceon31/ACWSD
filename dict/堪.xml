@@ -1,0 +1,24 @@
+<character value="堪">
+	<introduce>
+		<pinyin value="kan1" writing="kān" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖横横竖竖横横横撇捺折" />
+	</introduce>
+	<pron value="kān">
+		<sense tag="动" vernacular="经受得起；能够承受">
+			<exam article="《郑伯克段于鄢》" ref="今京不度，非制也，君将不堪。" />
+			<exam article="《&lt;指南录&gt;后序》" ref="境界危恶，层见错出，非人世所堪。" />
+		</sense>
+		<sense tag="动" vernacular="胜任">
+			<exam article="《孔雀东南飞》" ref="不堪吏人妇，岂合令郎君？" />
+		</sense>
+		<sense tag="动" vernacular="可以；能够">
+			<exam article="《房兵曹胡马》" ref="所向无空阔，真堪托死生。" />
+		</sense>
+	</pron>
+	<phrase value="堪舆">
+		<sense value="相地看风水的迷信职业者" />
+	</phrase>
+</character>

@@ -1,0 +1,36 @@
+<character value="粲">
+	<introduce>
+		<pinyin value="can4" writing="càn" />
+		<bushou value="米" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="竖横撇折捺折捺捺撇横竖撇捺" />
+	</introduce>
+	<pron value="càn">
+		<sense tag="名" vernacular="上等白米">
+			<exam article="《诗经·郑风·缁衣》" ref="适子之兮，还，予授子之粲兮。" />
+		</sense>
+		<sense tag="形" vernacular="众多">
+			<exam article="《国语·周语上》" ref="夫兽三为群，人三为众，女三为粲。" />
+		</sense>
+		<sense tag="形" vernacular="开口笑" />
+	</pron>
+	<pron value="cān">
+		<sense vernacular="通“餐”">
+			<exam article="《天对》" ref="益革民艰，咸粲厥粒。" />
+		</sense>
+	</pron>
+	<phrase value="粲粲">
+		<sense value="光彩鲜明" />
+	</phrase>
+	<phrase value="粲烂">
+		<sense value="1" />
+		<sense value="光彩鲜明" />
+	</phrase>
+	<phrase value="粲然">
+		<sense value="1" />
+		<sense value="精洁" />
+		<sense value="2" />
+		<sense value="鲜明；显著" />
+	</phrase>
+</character>

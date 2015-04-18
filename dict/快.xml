@@ -1,0 +1,32 @@
+<character value="快">
+	<introduce>
+		<pinyin value="kuai4" writing="kuài" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺竖折横撇捺" />
+	</introduce>
+	<pron value="kuài">
+		<sense tag="动" vernacular="痛快；高兴">
+			<exam article="《兰亭集序》" ref="快然自足。" />
+		</sense>
+		<sense tag="形" vernacular="尽情地；尽兴地">
+			<exam article="《琵琶行》" ref="遂命酒，使快弹数曲。" />
+		</sense>
+		<sense tag="动" vernacular="称心；满意">
+			<exam article="《答韦中立论师道书》" ref="天下不以非郑尹而快孙子，何哉？" />
+		</sense>
+		<sense tag="形" vernacular="迅速">
+			<exam article="《晋书·王湛传》" ref="此马虽快，然力薄不堪苦行。" />
+		</sense>
+		<sense tag="形" vernacular="不加考虑，有话就说">
+			<exam article="《快嘴李翠莲记》" ref="女儿诸般好了，只是口快，我和你放心不下。" />
+		</sense>
+		<sense tag="副" vernacular="赶快">
+			<exam article="《陈州粜米》" ref="儿也，你快去告。" />
+		</sense>
+		<sense tag="形" vernacular="锋利">
+			<exam article="《戏题王宰画山水图歌》" ref="焉得并州快剪刀，剪取吴松半江水。" />
+		</sense>
+	</pron>
+</character>

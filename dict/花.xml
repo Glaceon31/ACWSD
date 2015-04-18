@@ -1,0 +1,34 @@
+<character value="花">
+	<introduce>
+		<pinyin value="hua1" writing="huā" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖竖撇竖撇折" />
+	</introduce>
+	<pron value="huā">
+		<sense tag="名" vernacular="花朵">
+			<exam article="《将进酒》" ref="桃花乱落如红雨。" />
+		</sense>
+	</pron>
+	<pron value="【】">
+		<sense tag="动" vernacular="开花">
+			<exam article="《采草药》" ref="深山中则四月花。" />
+		</sense>
+		<sense tag="名" vernacular="能开花供观赏的植物">
+			<exam article="《书湖阴先生壁》" ref="花木成畦手自栽。" />
+		</sense>
+		<sense tag="名" vernacular="形状像花朵的东西">
+			<exam article="《约客》" ref="闲敲棋子落灯花。" />
+		</sense>
+		<sense tag="形" vernacular="不只一种颜色的，有花纹图案的">
+			<exam article="《勃泥入贡记》" ref="腰缠花布，无舆马，出入徒行。" />
+		</sense>
+		<sense tag="形" vernacular="视觉迷乱模糊">
+			<exam article="《饮中八仙歌》" ref="眼花落进水底眠。" />
+		</sense>
+		<sense tag="动" vernacular="耗费；用掉">
+			<exam article="《红楼梦》" ref="只是白花钱，不见效。" />
+		</sense>
+	</pron>
+</character>

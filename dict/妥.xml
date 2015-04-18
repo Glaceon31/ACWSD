@@ -1,0 +1,21 @@
+<character value="妥">
+	<introduce>
+		<pinyin value="tuo3" writing="tuŏ" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="撇捺捺撇折撇横" />
+	</introduce>
+	<pron value="tuǒ">
+		<sense tag="形" vernacular="安坐">
+			<exam article="《诗经·小雅·楚茨》" ref="以妥以侑，以介景福。" />
+		</sense>
+		<sense tag="动" vernacular="落下">
+			<exam article="《重过何氏》" ref="花妥莺捎蝶。" />
+		</sense>
+	</pron>
+	<phrase value="妥帖">
+		<sense value="安定；稳定" />
+		<sense value="恰当；合适" />
+	</phrase>
+</character>

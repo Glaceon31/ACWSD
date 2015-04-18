@@ -1,0 +1,38 @@
+<character value="迫">
+	<introduce>
+		<pinyin value="po4" writing="pò" />
+		<pinyin value="pai3" writing="păi" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇竖折横横捺折捺" />
+	</introduce>
+	<pron value="pò">
+		<sense tag="形" vernacular="近">
+			<exam article="《韩非子·亡征》" ref="怙强大之救而侮所迫之国者，可亡也。" />
+		</sense>
+		<sense tag="动" vernacular="走近；逼近">
+			<exam article="《&lt;指南录&gt;后序》" ref="时北兵已迫修门外，战、守、迁皆不及施。" />
+		</sense>
+		<sense tag="动" vernacular="逼；逼迫">
+			<exam article="《赤壁之战》" ref="荆州之民附曹者迫兵势耳，非心服也。" />
+		</sense>
+		<sense tag="形" vernacular="急迫；危急；紧急">
+			<exam article="《鸿门宴》" ref="此迫矣，臣请入，与之同命。" />
+		</sense>
+		<sense tag="动" vernacular="催促">
+			<exam article="《戏题画山水图歌》" ref="能事不受相促迫。" />
+		</sense>
+		<sense tag="形" vernacular="狭窄">
+			<exam article="《后汉书·窦融传》" ref="西州地势局迫。" />
+		</sense>
+	</pron>
+	<phrase value="迫胁">
+		<sense value="强迫；逼迫；威逼" />
+		<sense value="狭窄" />
+	</phrase>
+	<phrase value="迫措">
+		<sense value="夹击；围捕" />
+		<sense value="措，通“笮”，挤压，夹住" />
+	</phrase>
+</character>

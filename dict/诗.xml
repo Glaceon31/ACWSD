@@ -1,0 +1,20 @@
+<character value="诗">
+	<introduce>
+		<pinyin value="shi1" writing="shī" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺折横竖横横竖捺" />
+	</introduce>
+	<pron value="shī">
+		<sense tag="名" vernacular="一种文学体裁；诗歌">
+			<exam article="《孔雀东南飞》" ref="时人伤之，为诗云尔。" />
+		</sense>
+		<sense tag="名" vernacular="指《诗经》">
+			<exam article="《诗经》。《齐桓晋文之事》" ref="诗云：‘他人有心，予忖度之。’" />
+		</sense>
+	</pron>
+	<phrase value="诗馀">
+		<sense value="词的别称" />
+	</phrase>
+</character>

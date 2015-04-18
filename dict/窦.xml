@@ -1,0 +1,20 @@
+<character value="窦">
+	<introduce>
+		<pinyin value="dou4" writing="dòu" />
+		<bushou value="穴" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="捺捺折撇捺横竖折捺捺横撇捺" />
+	</introduce>
+	<pron value="dòu">
+		<sense tag="名" vernacular="洞；孔穴">
+			<exam article="《狱中杂记》" ref="余在刑部狱，见死而由窦出者日四人。" />
+		</sense>
+		<sense tag="名" vernacular="水道；沟渠">
+			<exam article="《五蠹》" ref="泽居苦水者，买庸而决窦。" />
+		</sense>
+		<sense tag="动" vernacular="穿通；决开">
+			<exam article="《国语·周语》" ref="不窦泽。" />
+		</sense>
+	</pron>
+</character>

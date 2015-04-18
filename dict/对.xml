@@ -1,0 +1,37 @@
+<character value="对">
+	<introduce>
+		<pinyin value="dui4" writing="duì" />
+		<bushou value="寸" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="折捺横竖捺" />
+	</introduce>
+	<pron value="duì">
+		<sense tag="动" vernacular="回答">
+			<exam article="《庄暴见孟子》" ref="暴见于王，王语暴以好乐，暴未有以对也。" />
+			<exam article="《曹刿论战》" ref="既克，公问其故。对曰：‘夫战，勇气也。’" />
+		</sense>
+		<sense tag="动" vernacular="并着；向着">
+			<exam article="《梦游天姥吟留别》" ref="对此欲倒东南倾。" />
+			<exam article="《望天门山》" ref="两岸青山相对出，孤帆一片日边来。" />
+		</sense>
+		<sense tag="动" vernacular="敌对；对立">
+			<exam article="《三国志·诸葛亮传》" ref="而所与对敌，或值人杰。" />
+		</sense>
+		<sense tag="名" vernacular="配偶">
+			<exam article="《后汉书·梁鸿传》" ref="择对不嫁。" />
+		</sense>
+		<sense tag="名" vernacular="对偶的词句" />
+	</pron>
+	<phrase value="对薄">
+		<sense value="受审问" />
+		<sense value="薄，狱辞的文书，相当于现在的诉状" />
+		<sense value="古代审讯时，依据状文核对事实，故称对薄" />
+	</phrase>
+	<phrase value="对策">
+		<sense value="古代科举考试取士的一种方法" />
+		<sense value="用政治、经义等设问写在简策上，让应考者对答" />
+		<sense value="明清时在殿试时进行" />
+		<sense value="对付的策略或办法" />
+	</phrase>
+</character>

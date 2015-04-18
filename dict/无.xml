@@ -1,0 +1,39 @@
+<character value="无">
+	<introduce>
+		<pinyin value="wu2" writing="wú" />
+		<pinyin value="mo2" writing="mó" />
+		<bushou value="一" />
+		<bushoustroke value="1" />
+		<stroke value="4" />
+		<order value="横横撇折" />
+	</introduce>
+	<pron value="wú">
+		<sense tag="动" vernacular="没有">
+			<exam article="《黔之驴》" ref="黔无驴，有好事者船载以入。" />
+		</sense>
+		<sense tag="副" vernacular="不；别">
+			<exam article="《硕鼠》" ref="硕鼠硕鼠，无食我麦。" />
+		</sense>
+		<sense tag="连" vernacular="不论；无论">
+			<exam article="《师说》" ref="是故无贵无贱，无长无少，道之所存师之所存也。" />
+		</sense>
+		<sense tag="形" vernacular="贫穷；无资财">
+			<exam article="《货殖列传》" ref="礼生于有而废于无。" />
+		</sense>
+	</pron>
+	<phrase value="无道">
+		<sense value="行为暴虐，不施仁政" />
+	</phrase>
+	<phrase value="无非">
+		<sense value="无一不是；全部都是" />
+	</phrase>
+	<phrase value="无几">
+		<sense value="不多；很少" />
+		<sense value="没有希望" />
+		<sense value="不久" />
+	</phrase>
+	<phrase value="无乃">
+		<sense value="莫非；恐怕；岂不是" />
+		<sense value="常与“乎”、“欤”等语气词配合使用，表示委婉的语气" />
+	</phrase>
+</character>

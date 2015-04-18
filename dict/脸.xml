@@ -1,0 +1,20 @@
+<character value="脸">
+	<introduce>
+		<pinyin value="lian3" writing="liăn" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="撇折横横撇捺横捺捺撇横" />
+	</introduce>
+	<pron value="liǎn">
+		<sense tag="名" vernacular="面颊的上部">
+			<exam article="《柳毅传》" ref="然而蛾脸不舒。" />
+		</sense>
+		<sense tag="名" vernacular="指整个面部">
+			<exam article="《明湖居听书》" ref="长长鸭蛋脸儿。" />
+		</sense>
+		<sense tag="名" vernacular="面子；颜面">
+			<exam article="《红楼梦》" ref="挑剩下的才给你，你还充有脸呢。" />
+		</sense>
+	</pron>
+</character>

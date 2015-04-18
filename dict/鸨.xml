@@ -1,0 +1,18 @@
+<character value="鸨">
+	<introduce>
+		<pinyin value="bao3" writing="băo" />
+		<bushou value="鸟" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="撇折横竖撇折捺折横" />
+	</introduce>
+	<pron value="bǎo">
+		<sense tag="名" vernacular="比雁略大的一种鸟,背上有斑纹,不善于飞,而善于奔跑">
+			<exam article="《枯柏渡》" ref="急流鸨鹢散,绝岸鼋鼍骄。" />
+		</sense>
+		<sense tag="名" vernacular="旧社会对妓女或妓女养母的称呼" />
+		<sense tag="名" vernacular="通“駂”,黑白杂毛的马">
+			<exam article="《诗经·郑风·大叔于田》" ref="叔于田,乘乘鸨。" />
+		</sense>
+	</pron>
+</character>

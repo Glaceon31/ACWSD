@@ -1,0 +1,49 @@
+<character value="善">
+	<introduce>
+		<pinyin value="shan4" writing="shàn" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺撇横横横竖捺撇横竖折横" />
+	</introduce>
+	<pron value="shàn">
+		<sense tag="形" vernacular="好；善良">
+			<exam article="《〈论语〉六则》" ref="择其善者而从之，其不善者而改之。" />
+			<exam article="《〈论语〉十则》" ref="愿无伐善，无施劳。" />
+			<exam article="《信陵君窃符救赵》" ref="晋鄙听，大善；不听，可使击之。" />
+		</sense>
+		<sense tag="动" vernacular="具有杰出的（惊人的）成就">
+			<exam article="《墨池记》" ref="羲之之书晚乃善。" />
+		</sense>
+		<sense tag="形意动" vernacular="认为……好">
+			<exam article="《史记·留侯世家》" ref="良数以《太公兵法》说沛公，沛公善之。" />
+		</sense>
+		<sense tag="动" vernacular="喜欢；羡慕">
+			<exam article="《归去来兮辞》" ref="善万物之得时，感吾生之行休。" />
+			<exam article="《陌上桑》" ref="罗敷善蚕桑，采桑城南隅。" />
+		</sense>
+		<sense tag="形" vernacular="表示赞许">
+			<exam article="《邹忌讽齐王纳谏》" ref="王曰：‘善。’乃下令。" />
+		</sense>
+		<sense tag="名" vernacular="好的行为；长处">
+			<exam article="《墨池记》" ref="惟王君之心，岂爱人之善，虽一能为以废，而因为及其迹邪？" />
+			<exam article="《原毁》" ref="一善易能也。" />
+		</sense>
+		<sense tag="动" vernacular="亲善；友好">
+			<exam article="《鸿门宴》" ref="楚左尹项伯者，项羽季父也，素善留侯张良。" />
+		</sense>
+		<sense tag="动" vernacular="善于；擅长">
+			<exam article="《劝学》" ref="君子生非异也，善假于物也。" />
+			<exam article="《卖油翁》" ref="陈康肃公尧咨善射。" />
+		</sense>
+		<sense tag="副" vernacular="好好地">
+			<exam article="《荆轲刺秦王》" ref="愿得将军之首以献秦，秦王必喜而善见臣。" />
+		</sense>
+		<sense tag="形" vernacular="熟悉">
+			<exam article="《林黛玉进贾府》" ref="我看着面善，心里就算是旧相识。" />
+		</sense>
+		<sense tag="动" vernacular="通“缮”">
+			<exam article="《庖丁解牛》" ref="善刀而藏之。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,20 @@
+<character value="销">
+	<introduce>
+		<pinyin value="xiao1" writing="xiāo" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="撇横横横折竖捺撇竖折横横" />
+	</introduce>
+	<pron value="xiāo">
+		<sense tag="动" vernacular="熔化金属">
+			<exam article="《过秦论》" ref="销锋镝，铸以为金人十二。" />
+		</sense>
+		<sense tag="动" vernacular="消减；消散；消失">
+			<exam article="《滕王阁序》" ref="云销雨霁，彩彻区明。" />
+		</sense>
+	</pron>
+	<phrase value="销落">
+		<sense value="哀落；散落" />
+	</phrase>
+</character>

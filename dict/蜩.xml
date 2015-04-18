@@ -1,0 +1,14 @@
+<character value="蜩">
+	<introduce>
+		<pinyin value="tiao2" writing="tiáo" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="竖折横竖横捺撇折横竖横竖折横" />
+	</introduce>
+	<pron value="tiáo">
+		<sense tag="名" vernacular="蝉的一种">
+			<exam article="《诗经·豳风·七月》" ref="四月秀葽，五月鸣蜩。" />
+		</sense>
+	</pron>
+</character>

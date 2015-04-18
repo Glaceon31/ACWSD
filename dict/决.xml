@@ -1,0 +1,36 @@
+<character value="决">
+	<introduce>
+		<pinyin value="jue2" writing="jué" />
+		<bushou value="冫" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺横折横撇捺" />
+	</introduce>
+	<pron value="jué">
+		<sense tag="动" vernacular="疏通水道；开口子导引水流">
+			<exam article="《五蠹》" ref="中古之世，天下大水，而鲧禹决渎。" />
+		</sense>
+		<sense tag="动" vernacular="决口；洪水冲开堤岸">
+			<exam article="《汉书·武帝纪》" ref="河水决濮阳，泛六郡。" />
+		</sense>
+		<sense tag="动" vernacular="决定；确定">
+			<exam article="《赤壁之战》" ref="受制于人，吾计决矣。" />
+		</sense>
+		<sense tag="动" vernacular="判决；裁决">
+			<exam article="《狱中杂记》" ref="情稍重，京兆、五城即不敢专决。" />
+			<exam article="《两小儿辩日》" ref="孔子不能决也。" />
+		</sense>
+		<sense tag="动" vernacular="处决；执行死刑">
+			<exam article="《狱中杂记》" ref="大盗未杀人，及他犯同谋多人者，止主谋一二人立决。" />
+		</sense>
+		<sense tag="动" vernacular="决战；较量出胜负高低">
+			<exam article="《赤壁之战》" ref="孤当与孟德决之。" />
+		</sense>
+		<sense tag="副" vernacular="必定；肯定；一定">
+			<exam article="《廉颇蔺相如列传》" ref="相如自度秦王虽斋，决负约不偿城。" />
+		</sense>
+		<sense tag="动" vernacular="通“诀”，辞诀；告辞；告别">
+			<exam article="《信陵君窃符救赵》" ref="公子与侯生决，至军，侯生果北乡自刭。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,23 @@
+<character value="毛">
+	<introduce>
+		<pinyin value="mao2" writing="máo" />
+		<bushou value="毛" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="撇横横折" />
+	</introduce>
+	<pron value="máo">
+		<sense tag="名" vernacular="动植物表皮所生的丝状物">
+			<exam article="《柳毅传》" ref="恨无毛羽，不能奋飞。" />
+		</sense>
+		<sense tag="名" vernacular="头发；胡须">
+			<exam article="《子鱼论战》" ref="君子不重伤，不禽二毛。" />
+		</sense>
+		<sense tag="名" vernacular="草木">
+			<exam article="《愚公移山》" ref="曾不能毁山之一毛，其如土石何？" />
+		</sense>
+		<sense tag="名" vernacular="五谷；庄稼">
+			<exam article="《出师表》" ref="故五月渡泸，深入不毛。" />
+		</sense>
+	</pron>
+</character>

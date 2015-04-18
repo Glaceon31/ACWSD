@@ -1,0 +1,76 @@
+<character value="从">
+	<introduce>
+		<pinyin value="cong2" writing="cóng" />
+		<pinyin value="cong1" writing="cōng" />
+		<bushou value="人" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="撇捺撇捺" />
+	</introduce>
+	<pron value="cóng">
+		<sense tag="动" vernacular="跟随；跟从">
+			<exam article="《垓下之战》" ref="有美人名虞，常幸从。" />
+			<exam article="《荷蓧丈人》" ref="子路从而后。" />
+			<exam article="《廉颇蔺相如列传》" ref="臣尝从大王与燕王会境上。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……跟从；让……跟随">
+			<exam article="《鸿门宴》" ref="沛公旦日从百余骑来见项王。" />
+			<exam article="《信陵君窃符救赵》" ref="公子从车骑，虚左，自迎夷门后生。" />
+			<exam article="《左忠毅公逸事》" ref="从数骑出，微行入古寺。" />
+		</sense>
+		<sense tag="动" vernacular="顺从；听从">
+			<exam article="《论语·十则》" ref="多闻，择其善者而从之。" />
+		</sense>
+		<sense tag="动" vernacular="参与">
+			<exam article="《上皇帝万言书》" ref="及使之从政，则茫然不知其方……。" />
+			<exam article="《琵琶行》" ref="弟走从军阿姨死。" />
+		</sense>
+		<sense tag="动" vernacular="依傍；紧靠着">
+			<exam article="《鸿门宴》" ref="樊哙从良坐。" />
+		</sense>
+		<sense tag="形" vernacular="副，与“正”相对">
+			<exam article="《魏书·官氏志》" ref="前世职次皆无从品，魏氏始置之。" />
+		</sense>
+		<sense tag="动" vernacular="行；做；处理">
+			<exam article="《教战守策》" ref="而行之既久，则又以军法从事。" />
+			<exam article="《群英会蒋干中计》" ref="汝既为水军都督，可以便宜从事。" />
+		</sense>
+		<sense tag="动" vernacular="任；任凭">
+			<exam article="《论语·为政》" ref="七十而从心所欲，不逾矩。" />
+		</sense>
+		<sense tag="介" vernacular="由；自">
+			<exam article="《鸿门宴》" ref="从此道至吾军，不过二十里耳。" />
+			<exam article="《邹忌讽齐王纳谏》" ref="旦日，客从外来。" />
+			<exam article="《木兰诗》" ref="愿为市鞍马，从此替爷征。" />
+		</sense>
+		<sense tag="介" vernacular="跟；向">
+			<exam article="《送东阳马生序》" ref="尝趋百里外从乡之先达执经扣问。" />
+			<exam article="《项脊轩志》" ref="从余问古事。" />
+		</sense>
+	</pron>
+	<pron value="zòng">
+		<sense vernacular="通“纵”" />
+		<sense tag="名" vernacular="特指合纵">
+			<exam article="《论衡·答佞》" ref="六国约从，则秦畏而六国强；三秦称横，则秦强而天下弱。" />
+			<exam article="《诗经·齐风·南山》" ref="衡从其亩。" />
+		</sense>
+		<sense tag="动" vernacular="放纵">
+			<exam article="《汉书·王吉传》" ref="其后复放从自若。" />
+		</sense>
+	</pron>
+	<phrase value="从良">
+		<sense value="1" />
+		<sense value="封建社会奴婢皆有籍，被释放或赎身为平民叫“从良”" />
+	</phrase>
+	<phrase value="从容">
+		<sense value="不慌不忙；悠闲舒缓" />
+	</phrase>
+	<phrase value="从事">
+		<sense value="1" />
+		<sense value="办事；处理事务" />
+	</phrase>
+	<phrase value="从一而终" />
+	<phrase value="从亲">
+		<sense value="合纵相亲" />
+	</phrase>
+</character>

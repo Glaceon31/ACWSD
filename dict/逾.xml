@@ -1,0 +1,30 @@
+<character value="逾">
+	<introduce>
+		<pinyin value="yu2" writing="yú" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="撇捺横竖折横横竖竖捺折捺" />
+	</introduce>
+	<pron value="yú">
+		<sense tag="动" vernacular="越过">
+			<exam article="《石壕吏》" ref="老翁逾墙走，老妇出门看。" />
+		</sense>
+		<sense tag="动" vernacular="超过">
+			<exam article="《童区寄传》" ref="去逾四十里。" />
+		</sense>
+		<sense tag="形" vernacular="过分的">
+			<exam article="《张衡传》" ref="自王侯以下莫不逾侈。" />
+		</sense>
+	</pron>
+	<pron value="yù">
+		<sense tag="副" vernacular="通“愈”，更加">
+			<exam article="《阎典史传》" ref="贝勒既觇知城中无降意，攻逾急。" />
+		</sense>
+	</pron>
+	<pron value="yáo">
+		<sense tag="形" vernacular="通“遥”，远">
+			<exam article="《后汉书·班超传》" ref="延颈逾，三年于今，未蒙省录。" />
+		</sense>
+	</pron>
+</character>

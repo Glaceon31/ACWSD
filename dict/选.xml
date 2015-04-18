@@ -1,0 +1,17 @@
+<character value="选">
+	<introduce>
+		<pinyin value="xuan3" writing="xuăn" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="撇横竖横撇折捺折捺" />
+	</introduce>
+	<pron value="xuǎn">
+		<sense tag="动" vernacular="挑拣；选择">
+			<exam article="《左传·定公八年》" ref="孟氏选圉人之壮者三百人。" />
+		</sense>
+	</pron>
+	<phrase value="选举">
+		<sense value="古代通过推选或科举选拔官吏的制度" />
+	</phrase>
+</character>

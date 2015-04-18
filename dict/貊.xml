@@ -1,0 +1,17 @@
+<character value="貊">
+	<introduce>
+		<pinyin value="mo4" writing="mò" />
+		<bushou value="豸" />
+		<bushoustroke value="7" />
+		<stroke value="13" />
+		<order value="撇捺捺撇折撇撇横撇竖折横横" />
+	</introduce>
+	<pron value="mò">
+		<sense tag="名" vernacular="一种动物">
+			<exam article="《后汉书·南蛮西南夷列传》" ref="(哀牢)出貊兽。" />
+		</sense>
+		<sense tag="名" vernacular="我国古代对东北部一个民族的称呼；又写作“貘”">
+			<exam article="《盐铁论·通有》" ref="求蛮貊之物，以眩中国。" />
+		</sense>
+	</pron>
+</character>

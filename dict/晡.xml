@@ -1,0 +1,20 @@
+<character value="晡">
+	<introduce>
+		<pinyin value="bu1" writing="bū" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="竖折横横横竖折横横竖捺" />
+	</introduce>
+	<pron value="bū">
+		<sense tag="名" vernacular="申时,相当于下午三至五点钟">
+			<exam article="《李愬雪夜)蔡州》" ref="晡时,门坏。" />
+		</sense>
+		<sense tag="动" vernacular="日落">
+			<exam article="《三元里抗英》" ref="亦半时许方晡也。" />
+		</sense>
+	</pron>
+	<phrase value="晡食">
+		<sense value="吃第二顿饭,相当于今之晚饭" />
+	</phrase>
+</character>

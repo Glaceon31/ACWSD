@@ -1,0 +1,20 @@
+<character value="涨">
+	<introduce>
+		<pinyin value="zhang3" writing="zhăng" />
+		<pinyin value="zhang4" writing="zhàng" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横折横折撇横折捺" />
+	</introduce>
+	<pron value="zhǎng">
+		<sense tag="动" vernacular="水面高起来">
+			<exam article="《江上阻风雨》" ref="云低岸花掩，水涨滩草没。" />
+		</sense>
+	</pron>
+	<pron value="zhàng">
+		<sense tag="动" vernacular="弥漫">
+			<exam article="《南史·陈武帝纪》" ref="纵火烧栅，烟尘涨天。" />
+		</sense>
+	</pron>
+</character>

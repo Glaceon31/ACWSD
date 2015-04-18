@@ -1,0 +1,21 @@
+<character value="圻">
+	<introduce>
+		<pinyin value="qi2" writing="qí" />
+		<pinyin value="yin2" writing="yín" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横撇撇横竖" />
+	</introduce>
+	<pron value="qí">
+		<sense tag="名" vernacular="天子都城周围千里之地">
+			<exam article="《左传·襄公二十五年》" ref="且昔天子之地一圻。" />
+		</sense>
+		<sense tag="名" vernacular="通“碕”" />
+	</pron>
+	<pron value="yín">
+		<sense tag="名" vernacular="同“垠”">
+			<exam article="《淮南子·俶真》" ref="四达无境，通于无圻。" />
+		</sense>
+	</pron>
+</character>

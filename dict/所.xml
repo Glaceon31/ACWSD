@@ -1,0 +1,34 @@
+<character value="所">
+	<introduce>
+		<pinyin value="suo3" writing="suŏ" />
+		<bushou value="户" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="撇撇折横撇撇横竖" />
+	</introduce>
+	<pron value="suǒ">
+		<sense tag="名" vernacular="处所；地方">
+			<exam article="《硕鼠》" ref="乐土乐土，爰得我所。" />
+		</sense>
+		<sense tag="名" vernacular="合理的结果；应有的归宿">
+			<exam article="《原君》" ref="今也天下之人怨恶其君，视之如寇仇，名之为独夫，固其所也。" />
+		</sense>
+		<sense tag="代" vernacular="放在动词或动短语前，组成名词性短语">
+			<exam article="《师说》" ref="道之所存，师之所存也。" />
+		</sense>
+		<sense tag="助" vernacular="与“为”相呼应，构成“为……所……”的被动句式">
+			<exam article="《鸿门宴》" ref="不者，若属皆且为所虏。" />
+			<exam article="《六国论》" ref="而为秦人积威之所劫" />
+		</sense>
+		<sense tag="数" vernacular="表示不确定的数目">
+			<exam article="《西门豹治邺》" ref="从弟子女十人所，皆衣缯单衣。" />
+		</sense>
+		<sense tag="量" vernacular="处；座">
+			<exam article="《魏书·尔朱荣传》" ref="秀容界有池三所，在高山之上。" />
+		</sense>
+	</pron>
+	<phrase value="所以">
+		<sense value="表示行为所凭借的方式、方法或依据，相当于“用来……的（手段、方法、东西等）”" />
+		<sense value="表示原因，相当于“……的原因、缘故”" />
+	</phrase>
+</character>

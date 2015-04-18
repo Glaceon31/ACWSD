@@ -1,0 +1,15 @@
+<character value="昵">
+	<introduce>
+		<pinyin value="ni4" writing="nì" />
+		<pinyin value="ni3" writing="nĭ" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="竖折横横折横撇撇折" />
+	</introduce>
+	<pron value="nì">
+		<sense tag="动" vernacular="同“暱”">
+			<exam article="《韩非子·难言》" ref="昵近习亲。" />
+		</sense>
+	</pron>
+</character>

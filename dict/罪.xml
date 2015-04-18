@@ -1,0 +1,31 @@
+<character value="罪">
+	<introduce>
+		<pinyin value="zui4" writing="zuì" />
+		<bushou value="罒" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="竖折竖竖横竖横横横竖横横横" />
+	</introduce>
+	<pron value="zuì">
+		<sense tag="名" vernacular="罪过；犯法的行为">
+			<exam article="《出师表》" ref="愿陛下托臣以讨贼兴复之效，不效则治臣之罪。" />
+			<exam article="《狱中杂记》" ref="苟入狱，不问罪之有无，心械手足，置老监，俾困苦不可忍。" />
+		</sense>
+		<sense tag="名" vernacular="有罪的人；罪犯">
+			<exam article="《赤壁之战》" ref="近者奉辞伐罪。" />
+		</sense>
+		<sense tag="名" vernacular="过失；过错">
+			<exam article="《垓下之战》" ref="此天之亡我，非战之罪也。" />
+			<exam article="《廉颇蔺相如列传》" ref="因宾客至蔺相如门谢罪。" />
+		</sense>
+		<sense tag="动" vernacular="惩罚罪行">
+			<exam article="《韩非子·五蠹》" ref="以其犯禁也，罪之。" />
+		</sense>
+		<sense tag="动" vernacular="归罪于">
+			<exam article="《寡人之于国也》" ref="五无罪岁，斯天下之民至焉。" />
+		</sense>
+		<sense tag="动" vernacular="犯罪">
+			<exam article="《训俭示康》" ref="远罪丰家。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,29 @@
+<character value="语">
+	<introduce>
+		<pinyin value="yu3" writing="yŭ" />
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="捺折横竖折横竖折横" />
+	</introduce>
+	<pron value="yǔ">
+		<sense tag="动" vernacular="谈论；说话">
+			<exam article="《核舟记》" ref="鲁直左手执卷末，右手指卷，如有所语。" />
+		</sense>
+		<sense tag="名" vernacular="话；言论">
+			<exam article="《琵琶行》" ref="又闻此语重唧唧。" />
+		</sense>
+		<sense tag="名" vernacular="谚语；俗语">
+			<exam article="《左传·僖公二年》" ref="语曰：‘唇亡齿寒。’" />
+		</sense>
+	</pron>
+	<pron value="yù">
+		<sense tag="动" vernacular="告诉">
+			<exam article="《为学》" ref="贫者语于富者曰……" />
+		</sense>
+	</pron>
+	<phrase value="语次">
+		<sense value="谈话之间" />
+	</phrase>
+</character>

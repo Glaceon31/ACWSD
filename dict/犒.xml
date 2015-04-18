@@ -1,0 +1,15 @@
+<character value="犒">
+	<introduce>
+		<pinyin value="kao4" writing="kào" />
+		<pinyin value="di2" writing="dí" />
+		<bushou value="牜" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="撇横竖横捺横竖折横竖折竖折横" />
+	</introduce>
+	<pron value="kào">
+		<sense tag="动" vernacular="用酒食款待、慰问">
+			<exam article="《殽之战》" ref="以乘韦先，牛十二犒师。" />
+		</sense>
+	</pron>
+</character>

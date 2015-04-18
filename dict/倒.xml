@@ -1,0 +1,51 @@
+<character value="倒">
+	<introduce>
+		<pinyin value="dao3" writing="dăo" />
+		<pinyin value="dao4" writing="dào" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="撇竖横折捺横竖横竖竖" />
+	</introduce>
+	<pron value="dǎo">
+		<sense tag="动" vernacular="人或坚立的东西横躺下来">
+			<exam article="《梦游天姥吟留别》" ref="天台一万八千丈，对此欲倒东南倾。" />
+		</sense>
+		<sense tag="动" vernacular="失败；垮台">
+			<exam article="《三国志·曹爽传》" ref="于今日卿等门户倒矣。" />
+		</sense>
+		<sense tag="动" vernacular="把商店作价卖给别人">
+			<exam article="《儒林外史》" ref="我东头街上谈家当铺折了本，要倒与人。" />
+		</sense>
+	</pron>
+	<pron value="dào">
+		<sense tag="动" vernacular="位置、顺序、方向等颠倒">
+			<exam article="《祭妹文》" ref="则虽年光倒流，儿时可再，而已无与为印证者矣。" />
+		</sense>
+		<sense tag="动" vernacular="不顺；违逆">
+			<exam article="《韩非子·难言》" ref="且至于忤于耳而倒于心。" />
+		</sense>
+		<sense tag="动" vernacular="斟出；倾出">
+			<exam article="《天津感事诗》" ref="芳樽倒尽人归去，月光波色战未休。" />
+		</sense>
+		<sense tag="副" vernacular="反而；反倒">
+			<exam article="《窦娥冤》" ref="不想婆婆让与他老子吃，倒把他老子药死了。" />
+		</sense>
+	</pron>
+	<phrase value="倒冠落佩">
+		<sense value="指去官归隐" />
+	</phrase>
+	<phrase value="倒灶">
+		<sense value="做事不顺利" />
+	</phrase>
+	<phrase value="倒持泰阿">
+		<sense value="倒拿着宝剑，将剑柄与人" />
+		<sense value="比喻授权与人，反受其害" />
+		<sense value="泰阿，宝剑名" />
+	</phrase>
+	<phrase value="倒屣">
+		<sense value="急于迎客，把鞋子穿倒了" />
+		<sense value="引申为热情迎客" />
+		<sense value="“倒履”" />
+	</phrase>
+</character>

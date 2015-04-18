@@ -1,0 +1,49 @@
+<character value="转">
+	<introduce>
+		<pinyin value="zhuan3" writing="zhuăn" />
+		<pinyin value="zhuan4" writing="zhuàn" />
+		<pinyin value="zhuai3" writing="zhuăi" />
+		<bushou value="车" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横折竖横横横折捺" />
+	</introduce>
+	<pron value="zhuǎn">
+		<sense tag="动" vernacular="转动；辗转">
+			<exam article="《孔雀东南飞》" ref="表雀白鹄舫，四角龙子幡，婀娜随风转。" />
+			<exam article="《促织》" ref="转侧床头，唯思自尽。" />
+		</sense>
+		<sense tag="动" vernacular="回转；拐弯">
+			<exam article="《过秦论》" ref="率疲弊之卒，将数百之众，转而攻秦。" />
+			<exam article="《醉翁亭记》" ref="峰回路转，有亭翼然临于泉上者。" />
+		</sense>
+		<sense tag="动" vernacular="迁徙；移动">
+			<exam article="《捕蛇者说》" ref="号呼而转徙，饥渴而顿踣。" />
+		</sense>
+		<sense tag="动" vernacular="转向">
+			<exam article="《琵琶行》" ref="却坐促弦弦转急。" />
+		</sense>
+		<sense tag="动" vernacular="调任">
+			<exam article="《张衡传》" ref="再转复为太史令。" />
+		</sense>
+	</pron>
+	<pron value="zhuàn">
+		<sense tag="动" vernacular="旋转">
+			<exam article="《琵琶行》" ref="转轴拨弦三两声，未成曲调先有情。" />
+		</sense>
+		<sense tag="量" vernacular="旋转一圈叫一转，动作往返完成一次也叫转">
+			<exam article="《木兰诗》" ref="策勋十二转，赏赐百千强。" />
+		</sense>
+		<sense tag="动" vernacular="鸣叫声的回转">
+			<exam article="《与朱元思书》" ref="蝉则千转不穷，猿则百叫无绝。" />
+		</sense>
+	</pron>
+	<phrase value="转漕">
+		<sense value="运粮" />
+		<sense value="车运叫转，水运叫漕" />
+	</phrase>
+	<phrase value="转蓬">
+		<sense value="草丛随风摇动" />
+		<sense value="后比喻身世飘零，行踪不定" />
+	</phrase>
+</character>

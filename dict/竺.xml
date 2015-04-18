@@ -1,0 +1,17 @@
+<character value="竺">
+	<introduce>
+		<pinyin value="zhu2" writing="zhú" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="8" />
+		<order value="撇横捺撇横捺横横" />
+	</introduce>
+	<pron value="zhú">
+		<sense tag="名" vernacular="天竺，印度的古称" />
+	</pron>
+	<pron value="dǔ">
+		<sense tag="形" vernacular="通“笃”">
+			<exam article="《天问》" ref="稷惟元子，帝何竺之。" />
+		</sense>
+	</pron>
+</character>

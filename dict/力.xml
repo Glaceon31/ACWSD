@@ -1,0 +1,32 @@
+<character value="力">
+	<introduce>
+		<pinyin value="li4" writing="lì" />
+		<bushou value="力" />
+		<bushoustroke value="2" />
+		<stroke value="2" />
+		<order value="折撇" />
+	</introduce>
+	<pron value="lì">
+		<sense tag="名" vernacular="力气；气力">
+			<exam article="《齐桓晋文之事》" ref="一羽之不举，为不用力焉。" />
+		</sense>
+		<sense tag="名" vernacular="能力；力量">
+			<exam article="《信陵君窃符救赵》" ref="出入王卧内，力能窃之。" />
+		</sense>
+		<sense tag="名" vernacular="威力；权力">
+			<exam article="《过秦论》" ref="试使山东之国与陈涉度长絜大，比权量力，则不可同年而语矣。" />
+		</sense>
+		<sense tag="名" vernacular="武力">
+			<exam article="《项羽本纪赞》" ref="欲以力征经营天下。" />
+		</sense>
+		<sense tag="名" vernacular="人力；劳力">
+			<exam article="《治平篇》" ref="使野无闲田，民无剩力。" />
+		</sense>
+		<sense tag="名" vernacular="功劳">
+			<exam article="《五人墓碑记》" ref="不可谓非五人之力也。" />
+		</sense>
+		<sense tag="动" vernacular="尽力；用力">
+			<exam article="《殽之战》" ref="武夫力而拘诸原，妇人暂而免诸国。" />
+		</sense>
+	</pron>
+</character>

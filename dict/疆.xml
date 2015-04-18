@@ -1,0 +1,20 @@
+<character value="疆">
+	<introduce>
+		<pinyin value="jiang1" writing="jiāng" />
+		<bushou value="田" />
+		<bushoustroke value="5" />
+		<stroke value="19" />
+		<order value="折横折横竖横横竖折横竖横横竖折横竖横横" />
+	</introduce>
+	<pron value="jiāng">
+		<sense tag="名" vernacular="疆界；边界">
+			<exam article="《得道多助，失道寡助》" ref="域民不以封疆之界。" />
+		</sense>
+		<sense tag="动" vernacular="划分边界；设立界限">
+			<exam article="《诗经·小雅·信南山》" ref="我疆我理，南东其亩。" />
+		</sense>
+		<sense tag="名" vernacular="极限；止境">
+			<exam article="《少年中国说》" ref="壮哉我中国少年，与国无疆。" />
+		</sense>
+	</pron>
+</character>

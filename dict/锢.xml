@@ -1,0 +1,29 @@
+<character value="锢">
+	<introduce>
+		<pinyin value="gu4" writing="gù" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="撇横横横折竖折横竖竖折横横" />
+	</introduce>
+	<pron value="gù">
+		<sense tag="动" vernacular="用熔化的金属堵塞空隙">
+			<exam article="《汉书·贾山传》" ref="冶铜锢其内，桼涂其外。" />
+		</sense>
+		<sense tag="动" vernacular="禁锢；禁止人做官或参加政治活动">
+			<exam article="《晋书·谢安传》" ref="有司奏安被召，历年不至，禁锢终身。" />
+		</sense>
+		<sense tag="名" vernacular="通“痼”，经久难愈的疾病">
+			<exam article="《汉书·贾宜传》" ref="失今不治，必为锢疾。" />
+		</sense>
+		<sense tag="动" vernacular="专取；包揽">
+			<exam article="《汉书·货殖传》" ref="上争王者之利，下锢齐民之业。" />
+		</sense>
+	</pron>
+	<phrase value="锢寝">
+		<sense value="犹言专房" />
+	</phrase>
+	<phrase value="锢身">
+		<sense value="以枷锁加于其身" />
+	</phrase>
+</character>

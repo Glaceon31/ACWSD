@@ -1,0 +1,21 @@
+<character value="估">
+	<introduce>
+		<pinyin value="gu1" writing="gū" />
+		<pinyin value="gu4" writing="gù" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇竖横竖竖折横" />
+	</introduce>
+	<pron value="gǔ">
+		<sense tag="名" vernacular="物价">
+			<exam article="《行次西郊作》" ref="高估铜与铅。" />
+		</sense>
+		<sense tag="名" vernacular="通“贾”，商人">
+			<exam article="《后汉书·灵帝纪》" ref="帝著商估服。" />
+		</sense>
+		<sense vernacular="gū估量物的价值或数量">
+			<exam article="《三朝北盟会编·靖康城下奉使录》" ref="不妨高估其值。" />
+		</sense>
+	</pron>
+</character>

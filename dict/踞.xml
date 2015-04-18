@@ -1,0 +1,23 @@
+<character value="踞">
+	<introduce>
+		<pinyin value="ju4" writing="jù" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="15" />
+		<order value="竖折横竖横竖横折横撇横竖竖折横" />
+	</introduce>
+	<pron value="jù">
+		<sense tag="动" vernacular="叉开腿坐，亦说“箕踞”，是一种随便的不拘礼节的坐法">
+			<exam article="《史记·高祖本纪》" ref="沛公方踞床。，使两女子洗足。" />
+		</sense>
+		<sense tag="动" vernacular="蹲；蹲坐">
+			<exam article="《左忠毅公逸事》" ref="令二人蹲踞而背倚之。" />
+		</sense>
+		<sense tag="动" vernacular="倚；倚靠">
+			<exam article="《史记·留侯世家》" ref="汉王下马踞鞍而问。" />
+		</sense>
+	</pron>
+	<phrase value="踞肆">
+		<sense value="踞坐" />
+	</phrase>
+</character>

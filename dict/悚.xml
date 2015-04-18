@@ -1,0 +1,14 @@
+<character value="悚">
+	<introduce>
+		<pinyin value="song3" writing="sŏng" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺竖横竖折横竖撇捺" />
+	</introduce>
+	<pron value="sǒng">
+		<sense tag="动" vernacular="惊惧；恐惧">
+			<exam article="《射雉赋》" ref="情骇而神悚。" />
+		</sense>
+	</pron>
+</character>

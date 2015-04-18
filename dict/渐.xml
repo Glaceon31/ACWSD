@@ -1,0 +1,41 @@
+<character value="渐">
+	<introduce>
+		<pinyin value="jian4" writing="jiàn" />
+		<pinyin value="jian1" writing="jiān" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺横横折竖横撇撇横竖" />
+	</introduce>
+	<pron value="jiān">
+		<sense tag="动" vernacular="浸渍；浸泡">
+			<exam article="《劝学》" ref="兰槐之根是为芷，其渐之滫，君子不近，庶人不服。" />
+		</sense>
+		<sense tag="动" vernacular="浸湿；沾湿">
+			<exam article="《诗经·卫风·氓》" ref="淇水汤汤，渐车帷裳。" />
+		</sense>
+		<sense tag="动" vernacular="浸染；沾染">
+			<exam article="《汉书·龚遂传》" ref="今大王亲近群小，渐渍邪恶。" />
+		</sense>
+		<sense tag="动" vernacular="逐渐传入">
+			<exam article="《天工开物·蔗种》" ref="今蜀中盛种，亦自西域渐来也。" />
+		</sense>
+	</pron>
+	<pron value="jiàn">
+		<sense tag="动" vernacular="渐进；逐步发展">
+			<exam article="《史记·太史公自序》" ref="非一旦一夕之故也，其渐久矣。" />
+		</sense>
+		<sense tag="副" vernacular="逐渐；渐渐">
+			<exam article="《醉翁亭记》" ref="渐闻水声潺潺。" />
+		</sense>
+		<sense tag="名" vernacular="苗头；事物发展的开端">
+			<exam article="《教战守策》" ref="而士大夫亦未尝言兵，以为生事扰民，渐不可长。" />
+		</sense>
+	</pron>
+	<phrase value="渐泽">
+		<sense value="低湿之地" />
+	</phrase>
+	<phrase value="渐冉">
+		<sense value="逐渐，时光一点一点地过去" />
+	</phrase>
+</character>

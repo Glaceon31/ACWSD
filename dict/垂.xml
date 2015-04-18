@@ -1,0 +1,66 @@
+<character value="垂">
+	<introduce>
+		<pinyin value="chui2" writing="chuí" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇横竖横竖竖横横" />
+	</introduce>
+	<pron value="chuí">
+		<sense tag="名" vernacular="边疆，边境">
+			<exam article="《白马篇》" ref="少小去乡邑，扬声沙漠垂。" />
+		</sense>
+		<sense tag="动" vernacular="垂挂">
+			<exam article="《促织》" ref="入其舍，则密室垂帘。" />
+			<exam article="《孔雀东南飞》" ref="红罗复斗帐，四角垂香囊。" />
+		</sense>
+		<sense tag="动" vernacular="垂落，落下">
+			<exam article="《荆轲刺秦王》" ref="士皆垂泪涕泣。" />
+			<exam article="《行路难》" ref="闲来垂犯钓碧溪上。" />
+		</sense>
+		<sense tag="动" vernacular="流传">
+			<exam article="《荀子·王霸》" ref="名垂乎后世。" />
+		</sense>
+		<sense tag="动" vernacular="临近">
+			<exam article="《段太尉逸事状》" ref="以大杖击二十，垂死。" />
+		</sense>
+		<sense tag="副" vernacular="敬词">
+			<exam article="《答崔侍郎书》" ref="垂问以鄙况。" />
+			<exam article="《中山狼传》" ref="请诉之，愿丈人垂听。" />
+		</sense>
+	</pron>
+	<phrase value="垂成">
+		<sense value="1" />
+		<sense value="接近完成" />
+	</phrase>
+	<phrase value="垂垂">
+		<sense value="1" />
+		<sense value="渐渐" />
+		<sense value="2" />
+		<sense value="表下落" />
+		<sense value="3" />
+		<sense value="低垂" />
+		<sense value="4" />
+		<sense value="延伸" />
+	</phrase>
+	<phrase value="垂拱">
+		<sense value="1" />
+		<sense value="垂衣拱手，言不亲理事务" />
+	</phrase>
+	<phrase value="垂暮">
+		<sense value="傍晚，比喻晚年" />
+	</phrase>
+	<phrase value="垂荣">
+		<sense value="焕发光彩" />
+	</phrase>
+	<phrase value="垂世">
+		<sense value="留传后世" />
+	</phrase>
+	<phrase value="垂示">
+		<sense value="1" />
+		<sense value="留给后人示范" />
+	</phrase>
+	<phrase value="垂髫">
+		<sense value="古时候儿童头发下垂，故用以代指儿童" />
+	</phrase>
+</character>

@@ -1,0 +1,26 @@
+<character value="讹">
+	<introduce>
+		<pinyin value="e2" writing="é" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺折撇竖撇折" />
+	</introduce>
+	<pron value="é">
+		<sense tag="名" vernacular="谣言；邪说；蛊惑人心的话">
+			<exam article="《汉书·成帝纪》" ref="京师无故讹言大水至。" />
+		</sense>
+		<sense tag="动" vernacular="改变；变化">
+			<exam article="《诗经·小雅·节南山》" ref="式讹尔心。" />
+		</sense>
+		<sense tag="动" vernacular="通“吪”，行动">
+			<exam article="《诗经·小雅·无羊》" ref="或降于阿，或饮于池，或寝或讹。" />
+		</sense>
+		<sense tag="动" vernacular="借端敲诈">
+			<exam article="《红楼梦》" ref="讹他拖欠官银，拿他到了衙门里去。" />
+		</sense>
+		<sense tag="动" vernacular="野火烧">
+			<exam article="《明堂赋》" ref="粲炳炳以照烂，倏山讹而晷换。" />
+		</sense>
+	</pron>
+</character>

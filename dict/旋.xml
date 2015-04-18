@@ -1,0 +1,30 @@
+<character value="旋">
+	<introduce>
+		<pinyin value="xuan2" writing="xuán" />
+		<pinyin value="xuan4" writing="xuàn" />
+		<bushou value="方" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="捺横折撇撇横折竖横撇捺" />
+	</introduce>
+	<pron value="xuán">
+		<sense tag="动" vernacular="转动；回转">
+			<exam article="《柳毅传》" ref="香气环旋，入于宫中。" />
+		</sense>
+		<sense tag="动" vernacular="返回">
+			<exam article="《伶官传序》" ref="及凯旋而纳之。" />
+		</sense>
+		<sense tag="副" vernacular="随即；不久">
+			<exam article="《促织》" ref="旋见鸡伸颈摆扑。" />
+		</sense>
+	</pron>
+	<pron value="xuàn">
+		<sense tag="副" vernacular="临时">
+			<exam article="《活板》" ref="有奇字素无备者，旋刻之，以草火烧，瞬息可成。" />
+		</sense>
+	</pron>
+	<phrase value="旋踵">
+		<sense value="退缩" />
+		<sense value="转足之间，形容迅速" />
+	</phrase>
+</character>

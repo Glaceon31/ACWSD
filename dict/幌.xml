@@ -1,0 +1,21 @@
+<character value="幌">
+	<introduce>
+		<pinyin value="huang3" writing="huăng" />
+		<bushou value="巾" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="竖折竖竖折横横竖捺撇横撇折" />
+	</introduce>
+	<pron value="huǎng">
+		<sense tag="名" vernacular="帷幔、窗帘">
+			<exam article="《月夜》" ref="何时倚虚幌，双照泪痕干。" />
+			<exam article="《恼公》" ref="细管吟朝幌，芳醪落夜枫。" />
+		</sense>
+		<sense tag="名" vernacular="酒店的幌子">
+			<exam article="《和袭美初冬偶作》" ref="小垆低幌还遮掩，酒滴灰香似去年。" />
+		</sense>
+		<sense tag="动" vernacular="摇动；闪动">
+			<exam article="《西游记》" ref="耳朵中掣出宝贝，幌一幌，碗来粗细。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,21 @@
+<character value="畔">
+	<introduce>
+		<pinyin value="pan4" writing="pàn" />
+		<bushou value="田" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="竖折横竖横捺撇横横竖" />
+	</introduce>
+	<pron value="pàn">
+		<sense tag="名" vernacular="田界">
+			<exam article="《左传·襄公二十五年》" ref="行无越思，如农之有畔。" />
+		</sense>
+		<sense tag="名" vernacular="边；旁边；旁侧">
+			<exam article="《酬乐天扬州初逢席上见赠》" ref="沉舟侧畔千帆过。" />
+			<exam article="《柳毅传》" ref="见有妇人，牧羊于道畔。" />
+		</sense>
+		<sense tag="动" vernacular="通“叛”">
+			<exam article="《得道多助，失道寡助》" ref="寡助之至，亲戚畔之。" />
+		</sense>
+	</pron>
+</character>

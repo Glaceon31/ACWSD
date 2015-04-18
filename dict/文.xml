@@ -1,0 +1,42 @@
+<character value="文">
+	<introduce>
+		<pinyin value="wen2" writing="wén" />
+		<pinyin value="wen4" writing="wèn" />
+		<bushou value="文" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="捺横撇捺" />
+	</introduce>
+	<pron value="wén">
+		<sense tag="名" vernacular="线条交错的图形；花纹">
+			<exam article="《公输》" ref="荆有长松文梓楩楠豫章。" />
+		</sense>
+		<sense tag="形" vernacular="华美；有文彩的">
+			<exam article="《冯谖客孟尝君》" ref="黄金千斤，文车二驷，服剑一。" />
+		</sense>
+		<sense tag="名" vernacular="文章">
+			<exam article="《醉翁亭记》" ref="醉能同其乐，醒能述以文者，太守也。" />
+		</sense>
+		<sense tag="名" vernacular="文字">
+			<exam article="《游褒禅山记》" ref="独其文犹可识。" />
+		</sense>
+		<sense tag="名" vernacular="非军事的，与“武”相对">
+			<exam article="《谏太宗十思疏》" ref="文武并用，垂拱而治。" />
+		</sense>
+		<sense tag="动" vernacular="在身上刺花纹，叫“文身”">
+			<exam article="《庄子·逍遥遊》" ref="越人断发文身。" />
+		</sense>
+		<sense tag="名" vernacular="文化；文教">
+			<exam article="《论语·子罕》" ref="文王既没，文不在兹乎？" />
+		</sense>
+		<sense tag="量" vernacular="用于旧时的铜钱，古称铜钱一枚为一文">
+			<exam article="《魏书·高崇传》" ref="在市铜价，八十一文得铜一斤，私造薄钱，斤馀二百。" />
+		</sense>
+		<sense tag="动" vernacular="修饰；掩盖">
+			<exam article="《论语·子张》" ref="小人之过也必文。" />
+		</sense>
+		<sense tag="名" vernacular="规定、仪式">
+			<exam article="《上圆丘合祭六仪》" ref="仪者必又曰：省去繁文末节，则一岁可以再郊。" />
+		</sense>
+	</pron>
+</character>

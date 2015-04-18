@@ -1,0 +1,26 @@
+<character value="亿">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="3" />
+		<order value="撇竖折" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="数" vernacular="十万">
+			<exam article="《国语·楚语下》" ref="官有十丑为亿丑。" />
+		</sense>
+		<sense tag="形" vernacular="比喻数目很大">
+			<exam article="《过秦论》" ref="据亿丈之城，临不测之谿以为固。" />
+		</sense>
+		<sense tag="形" vernacular="安">
+			<exam article="《左传·昭公二十一年》" ref="心亿则乐。" />
+		</sense>
+		<sense tag="动" vernacular="推测">
+			<exam article="《旧唐书·李道宗传》" ref="不可亿度。" />
+		</sense>
+		<sense tag="叹" vernacular="通“噫”">
+			<exam article="《周易·震》" ref="震来厉，亿丧贝。" />
+		</sense>
+	</pron>
+</character>

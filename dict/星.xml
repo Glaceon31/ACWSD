@@ -1,0 +1,14 @@
+<character value="星">
+	<introduce>
+		<pinyin value="xing1" writing="xīng" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="竖折横横撇横横竖横" />
+	</introduce>
+	<pron value="xīng">
+		<sense tag="名" vernacular="星星">
+			<exam article="《荀子·天论》" ref="列星随旋，日月递炤。" />
+		</sense>
+	</pron>
+</character>

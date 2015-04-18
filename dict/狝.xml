@@ -1,0 +1,14 @@
+<character value="狝">
+	<introduce>
+		<pinyin value="xian3" writing="xiăn" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇折撇撇折竖撇捺" />
+	</introduce>
+	<pron value="xiǎn">
+		<sense tag="动" vernacular="秋天打猎">
+			<exam article="《管子·小匡》" ref="秋以田曰狝。" />
+		</sense>
+	</pron>
+</character>

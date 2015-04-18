@@ -1,0 +1,50 @@
+<character value="奥">
+	<introduce>
+		<pinyin value="ao4" writing="ào" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="撇竖折捺撇横竖撇捺横撇捺" />
+	</introduce>
+	<pron value="ǎo">
+		<sense tag="名" vernacular="室内西南角,古人设神主或尊长居坐的地方">
+			<exam article="《后汉书·周磐传》" ref="与我讲于阴堂之奥。" />
+		</sense>
+		<sense tag="形" vernacular="深">
+			<exam article="《明史·广西土司传》" ref="其中多冥岩奥谷。" />
+		</sense>
+		<sense tag="形" vernacular="深奥">
+			<exam article="《诗义序》" ref="微言奥义,既自得之。" />
+		</sense>
+		<sense tag="名" vernacular="主人">
+			<exam article="《老子·六十二章》" ref="道者,万物之奥。" />
+		</sense>
+		<sense tag="名" vernacular="灶王神">
+			<exam article="《礼记2礼器》" ref="夫奥者,老妇之祭也。" />
+		</sense>
+		<sense tag="名" vernacular="猪圈">
+			<exam article="《庄子·徐无鬼》" ref="吾未尝为牧,而牂生干奥。" />
+		</sense>
+	</pron>
+	<pron value="yù">
+		<sense tag="名" vernacular="通“澳”,水边弯曲的地方;浑浊">
+			<exam article="《诗经·卫风·淇澳》" ref="瞻彼淇奥,绿竹猗猗。" />
+		</sense>
+		<sense tag="形" vernacular="通“燠”热,温暖">
+			<exam article="《诗经·小雅·小明》" ref="日月方奥。" />
+		</sense>
+		<sense tag="名" vernacular="可居住的地方,后作“墺”">
+			<exam article="《汉书·地理志上》" ref="九州逌同,四奥既宅。" />
+		</sense>
+	</pron>
+	<phrase value="奥草">
+		<sense value="àocǎo长得很深的丛生杂草" />
+	</phrase>
+	<phrase value="奥援">
+		<sense value="àoyuán得力的靠山" />
+	</phrase>
+	<phrase value="奥赜">
+		<sense value="àozé奥秘，深奥" />
+		<sense value="指精深微妙的义蕴" />
+	</phrase>
+</character>

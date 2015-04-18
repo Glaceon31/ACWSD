@@ -1,0 +1,76 @@
+<character value="以">
+	<introduce>
+		<pinyin value="yi3" writing="yĭ" />
+		<bushou value="人" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="折捺撇捺" />
+	</introduce>
+	<pron value="yǐ">
+		<sense tag="动" vernacular="用；使用">
+			<exam article="《涉江》" ref="忠不必用兮，贤不必以。" />
+		</sense>
+		<sense tag="动" vernacular="做">
+			<exam article="《子路、曾晳、冉有、公西华侍坐》" ref="如或知尔，则何以哉？" />
+		</sense>
+		<sense tag="动" vernacular="认为">
+			<exam article="《邹忌讽齐王纳谏》" ref="皆以美于徐公。" />
+		</sense>
+		<sense tag="介" vernacular="表示动作行为所用或所凭借的工具、方法，可视情况译为“拿”、“用”、“凭”、“把”等">
+			<exam article="《廉颇蔺相如列传》" ref="愿以十五城请易璧。" />
+		</sense>
+		<sense tag="介" vernacular="起提宾作用，可译为“把”">
+			<exam article="《廉颇蔺相如列传》" ref="秦亦不以城予赵，赵亦终不予秦璧。" />
+		</sense>
+		<sense tag="介" vernacular="表示动作行为产生的原因，可译为“因为”、“由于”等">
+			<exam article="《捕蛇者说》" ref="而吾以捕蛇独存。" />
+			<exam article="《廉颇蔺相如列传》" ref="且以强秦之故逆强秦之欢，不可。" />
+		</sense>
+		<sense tag="介" vernacular="表示动作行为发生的时间、地点，可译为“在”、“从”">
+			<exam article="《苏武传》" ref="武以始元六年春至京师。" />
+		</sense>
+		<sense tag="介" vernacular="表示动作、行为的对象，用法同“与”，可译为“和”、“跟”；有时可译为“率领、带领”">
+			<exam article="《战国策·周策》" ref="天下有变，王割汉中以楚和。" />
+			<exam article="《信陵君窃符救赵》" ref="（公子）欲以客往赴秦军，与赵俱死。" />
+		</sense>
+		<sense tag="连" vernacular="表示并列或递进关系，可译为“而”、“又”、“并且”等，也可省去">
+			<exam article="《游褒禅山记》" ref="夫夷以近，则游者众；险以远,则至者少。" />
+		</sense>
+		<sense tag="连" vernacular="表示承接关系，“以”前的动作行为，往往是后一动作行为的手段和方式，可译为“而”，也可省去">
+			<exam article="《游褒禅山记》" ref="予与四人拥火以入。" />
+		</sense>
+		<sense tag="连" vernacular="表示因果关系，常用在表原因的分句前，可译为“因为”、“由于”">
+			<exam article="《廉颇蔺相如列传》" ref="吾所以为此者，以先国家之急而后私仇也。" />
+		</sense>
+		<sense tag="连" vernacular="表修饰和被修饰关系">
+			<exam article="《归去来辞》" ref="木欣欣以向荣，泉涓涓而始流。" />
+		</sense>
+		<sense tag="连" vernacular="表目的关系，可译为“而”“来”“用来”等">
+			<exam article="《师说》" ref="作《师说》以贻之。" />
+		</sense>
+		<sense tag="连" vernacular="表示时间、方位、数量的界限或范围，用法同现代汉语">
+			<exam article="《张衡传》" ref="自王侯以下，莫不逾侈。" />
+		</sense>
+		<sense tag="连" vernacular="表示在叙述某件事时又转到另一件事上，可译为“至于”">
+			<exam article="《柳毅传》" ref="然自约其心者，达君之冤，余无及也。以言慎勿相避者，偶然耳，岂有意哉！" />
+		</sense>
+		<sense tag="副" vernacular="通“已”">
+			<exam article="《陈涉世家》" ref="座买鱼烹食，得鱼腹中书，固以怪之矣。" />
+		</sense>
+		<sense tag="动" vernacular="通“已”">
+			<exam article="《齐桓晋文之事》" ref="无以，则王乎？" />
+		</sense>
+		<sense tag="副" vernacular="只是">
+			<exam article="《冯谖客孟尝君》" ref="君家所寡有者，以义耳。" />
+		</sense>
+	</pron>
+	<phrase value="以往">
+		<sense value="以后" />
+	</phrase>
+	<phrase value="以为">
+		<sense value="认为" />
+		<sense value="使……成为" />
+		<sense value="把……当作" />
+		<sense value="作为；用作" />
+	</phrase>
+</character>

@@ -1,0 +1,17 @@
+<character value="聊">
+	<introduce>
+		<pinyin value="liao2" writing="liáo" />
+		<bushou value="耳" />
+		<bushoustroke value="6" />
+		<stroke value="11" />
+		<order value="横竖竖横横横撇折撇折竖" />
+	</introduce>
+	<pron value="liáo">
+		<sense tag="动" vernacular="依靠；依赖">
+			<exam article="《&lt;指南录&gt;后序》" ref="穷饿无聊。" />
+		</sense>
+		<sense tag="副" vernacular="姑且；暂且">
+			<exam article="《归去来兮辞》" ref="聊乘化以归尽，乐夫天命复奚疑。" />
+		</sense>
+	</pron>
+</character>

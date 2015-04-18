@@ -1,0 +1,36 @@
+<character value="闲">
+	<introduce>
+		<pinyin value="xian2" writing="xián" />
+		<bushou value="门" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺竖折横竖撇捺" />
+	</introduce>
+	<pron value="xián">
+		<sense tag="名" vernacular="马圈；栅栏">
+			<exam article="《治安策》" ref="今民卖僮者，为之绣衣丝履偏诸缘，内之闲中。" />
+		</sense>
+		<sense tag="名" vernacular="一定的范围或界限">
+			<exam article="《论语·子张》" ref="大德不逾闲，小德出入可也。" />
+		</sense>
+		<sense tag="动" vernacular="限制；隔离">
+			<exam article="《西门豹治邺》" ref="洗沐之，为治新缯绮穀衣，闲居斋戒。" />
+		</sense>
+		<sense tag="形" vernacular="通“娴”">
+			<exam article="《战国策·燕策》" ref="闲于兵甲，习于战攻。" />
+		</sense>
+		<sense tag="形" vernacular="闲暇；清闲">
+			<exam article="《行路难》" ref="闲来垂钓碧溪上。" />
+		</sense>
+		<sense tag="形" vernacular="空闲；空">
+			<exam article="《柳敬亭传》" ref="华堂旅会，闲亭独坐。" />
+		</sense>
+		<sense tag="形" vernacular="安静；安宁">
+			<exam article="《鸟鸣涧》" ref="人闲桂花落，夜静春山空。" />
+		</sense>
+	</pron>
+	<phrase value="闲人">
+		<sense value="清闲少事的确" />
+		<sense value="帮闲食客" />
+	</phrase>
+</character>

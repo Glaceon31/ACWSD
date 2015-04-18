@@ -1,0 +1,19 @@
+<character value="侥">
+	<introduce>
+		<pinyin value="jiao3" writing="jiăo" />
+		<pinyin value="yao2" writing="yáo" />
+		<pinyin value="jia3" writing="jiă" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇竖横折撇横撇折" />
+	</introduce>
+	<pron value="jiǎo">
+		<sense tag="动" vernacular="求">
+			<exam article="《上梅直讲书》" ref="苟其侥一时之幸。" />
+		</sense>
+		<sense tag="副" vernacular="侥幸">
+			<exam article="《潜夫论·述赦》" ref="以赦赎数而有侥望也。" />
+		</sense>
+	</pron>
+</character>

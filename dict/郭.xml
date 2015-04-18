@@ -1,0 +1,21 @@
+<character value="郭">
+	<introduce>
+		<pinyin value="guo1" writing="guō" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺横竖折横折竖横折竖" />
+	</introduce>
+	<pron value="guō">
+		<sense tag="名" vernacular="外城（在城门外围加筑的一道城墙）">
+			<exam article="《木兰辞》" ref="爷娘闻女来，出郭相扶将。" />
+		</sense>
+		<sense tag="名" vernacular="泛指城墙或城">
+			<exam article="《江南春绝句》" ref="水村山郭酒旗风。" />
+			<exam article="《登泰山记》" ref="望晚日照城郭，汶水、徂徕如画。" />
+		</sense>
+		<sense tag="名" vernacular="物体的四周">
+			<exam article="《汉书·食货志》" ref="卒铸大钱，文曰：‘宝货’，肉好皆有周郭。" />
+		</sense>
+	</pron>
+</character>

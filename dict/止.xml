@@ -1,0 +1,39 @@
+<character value="止">
+	<introduce>
+		<pinyin value="zhi3" writing="zhĭ" />
+		<bushou value="止" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="竖横竖横" />
+	</introduce>
+	<pron value="zhǐ">
+		<sense tag="名" vernacular="脚">
+			<exam article="《汉书·刑法志》" ref="当斩左止者，笞五百。" />
+		</sense>
+		<sense tag="动" vernacular="停止">
+			<exam article="《察今》" ref="舟止，从其所契者入水求之。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……停止">
+			<exam article="《鸿门宴》" ref="交戟之卫士欲止（之）不内。" />
+		</sense>
+		<sense tag="动" vernacular="住下">
+			<exam article="《游黄山记》" ref="复从峡度栈以上，止文殊院。" />
+		</sense>
+		<sense tag="动" vernacular="留住">
+			<exam article="《荷蓧丈人》" ref="止子路宿，杀鸡为黍而食之。" />
+		</sense>
+		<sense tag="动" vernacular="阻止">
+			<exam article="《愚公移山》" ref="河曲智叟笑而止之。" />
+		</sense>
+		<sense tag="动" vernacular="中止">
+			<exam article="《〈论语〉十则》" ref="臂如为山，未成一篑，止吾止也。" />
+		</sense>
+		<sense tag="副" vernacular="通“只”">
+			<exam article="《黔之驴》" ref="技止此耳。" />
+			<exam article="《活板》" ref="若止印三二本，未为简易。" />
+		</sense>
+		<sense tag="助" vernacular="用于句未，表示感叹">
+			<exam article="《诗经·南山》" ref="既曰归止，曷又怀止。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,48 @@
+<character value="独">
+	<introduce>
+		<pinyin value="du2" writing="dú" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="撇折撇竖折横竖横捺" />
+	</introduce>
+	<pron value="dú">
+		<sense tag="形" vernacular="单独；独自">
+			<exam article="《庄暴见孟子》" ref="独乐乐，与人乐乐，孰乐？" />
+			<exam article="《六国论》" ref="盖失强援，不能独完。" />
+			<exam article="《捕蛇者说》" ref="而吾以捕蛇独存。" />
+		</sense>
+		<sense tag="形" vernacular="老而无子这样一种状态叫“独”">
+			<exam article="《赵威后问齐使》" ref="哀鳏寡，恤孤独，振困穷，补为足。" />
+			<exam article="《礼记·大同》" ref="鳏、寡孤、独、废疾者皆有所养。" />
+		</sense>
+		<sense tag="形" vernacular="独特；特殊">
+			<exam article="《史记·游侠列传序》" ref="读书怀独行君子之德，义不苟合当世。" />
+			<exam article="《与朱元思书》" ref="奇山异水，天下独绝。" />
+		</sense>
+		<sense tag="副" vernacular="只是；仅仅">
+			<exam article="《垓下之战》" ref="今独臣有船，汉军至，无以渡。" />
+			<exam article="《陈涉世家》" ref="陈守令皆不在，独守丞与战谯门中。" />
+			<exam article="《赤壁之战》" ref="独卿与子敬与孤同耳。" />
+		</sense>
+		<sense tag="副" vernacular="唯独">
+			<exam article="《石钟山记》" ref="石之铿然有声者，所在皆是，而此独以钟名，何哉？" />
+			<exam article="《卖柑者言》" ref="吾售之，人取之，未尝有言，而独不足子所乎？" />
+		</sense>
+		<sense tag="副" vernacular="岂；难道">
+			<exam article="《廉颇蔺相如列传》" ref="相如虽驽，独畏廉将军哉？" />
+			<exam article="《信陵君窍符救赵》" ref="且公子纵轻胜，弃之降秦，独不怜公子姊邪？" />
+		</sense>
+	</pron>
+	<phrase value="独步">
+		<sense value="指超群出众，无与伦比" />
+	</phrase>
+	<phrase value="独夫">
+		<sense value="独身的男人" />
+		<sense value="残暴无道、众叛亲离的统治者" />
+	</phrase>
+	<phrase value="独行">
+		<sense value="只身孤行" />
+		<sense value="志节高尚，不随俗沉浮" />
+	</phrase>
+</character>

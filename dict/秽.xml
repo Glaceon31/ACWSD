@@ -1,0 +1,28 @@
+<character value="秽">
+	<introduce>
+		<pinyin value="hui4" writing="huì" />
+		<bushou value="禾" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="撇横竖撇捺竖折竖撇折捺" />
+	</introduce>
+	<pron value="huì">
+		<sense tag="形" vernacular="荒芜">
+			<exam article="《离骚》" ref="虽萎绝其亦何伤兮，哀众芳之芜秽。" />
+			<exam article="《荀子·富国》" ref="民贫则田瘠以秽。" />
+		</sense>
+		<sense tag="名" vernacular="邪恶的行为或人">
+			<exam article="《荀子·劝学》" ref="邪秽在身，怨之所构。" />
+			<exam article="《赤壁之战》" ref="当横行天下，为汉家除残去秽。" />
+		</sense>
+		<sense tag="形" vernacular="淫乱">
+			<exam article="《韩非子·亡徵》" ref="后妻淫乱，主母荡秽。" />
+		</sense>
+		<sense tag="形" vernacular="丑陋">
+			<exam article="《晋书·卫玠传》" ref="珠玉在侧，觉我形秽!" />
+		</sense>
+	</pron>
+	<phrase value="秽囊">
+		<sense value="佛教称人的肉体" />
+	</phrase>
+</character>

@@ -1,0 +1,61 @@
+<character value="期">
+	<introduce>
+		<pinyin value="qi1" writing="qī" />
+		<pinyin value="ji1" writing="jī" />
+		<pinyin value="qi2" writing="qí" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖竖横横横撇捺撇折横横" />
+	</introduce>
+	<pron value="qī">
+		<sense tag="名" vernacular="时限；期限；限定或约定的时间">
+			<exam article="《陈涉世家》" ref="会天大雨，道不通，度已失期。" />
+			<exam article="《病梅馆记》" ref="以五年为期，必复之全之。" />
+		</sense>
+		<sense tag="动" vernacular="约会；约定">
+			<exam article="《大铁椎传》" ref="今夜半，方期我决斗某所。" />
+			<exam article="《陈太丘与友期》" ref="陈太丘与友期行，期日中。" />
+		</sense>
+		<sense tag="动" vernacular="期望；要求">
+			<exam article="《五蠹》" ref="是以圣人不期修古，不法常可。" />
+			<exam article="《察今》" ref="良剑期乎断，不期乎镆铘。" />
+		</sense>
+		<sense tag="动" vernacular="预料；料想">
+			<exam article="《水浒传》" ref="曾有东京来的人传说兄长的豪杰，不期今日得会。" />
+		</sense>
+		<sense tag="名" vernacular="时日；日期">
+			<exam article="《促织》" ref="业根，死期至矣！" />
+			<exam article="《梅花岭记》" ref="谁为我临期成此大节者？" />
+		</sense>
+		<sense tag="动" vernacular="及；至">
+			<exam article="《归去来兮辞》" ref="宝贵非吾愿，帝乡不可期。" />
+			<exam article="《兰亭集序》" ref="况修短随化，终期于尽。" />
+		</sense>
+		<sense tag="副" vernacular="必定；必然">
+			<exam article="《西门豹治邺》" ref="然百岁后期令子孙思我言。" />
+		</sense>
+	</pron>
+	<pron value="jī">
+		<sense vernacular="同“朞”、“稘”">
+			<exam article="《尚书·尧典》" ref="期三百有六旬有六日。" />
+			<exam article="《东京赋》" ref="多历年所，二百馀期。" />
+		</sense>
+		<sense vernacular="期服；为去世的亲属服一年的丧">
+			<exam article="《墨子·公孟》" ref="伯父、叔父、兄弟，期。" />
+		</sense>
+	</pron>
+	<phrase value="期数">
+		<sense value="气数；运数" />
+	</phrase>
+	<phrase value="期颐">
+		<sense value="称百岁老人" />
+		<sense value="百年为生人年数之极，故曰期；此时起居生活待人养护，曰颐" />
+	</phrase>
+	<phrase value="期服">
+		<sense value="为去世的亲属服一年的丧" />
+	</phrase>
+	<phrase value="期年">
+		<sense value="一整年" />
+	</phrase>
+</character>

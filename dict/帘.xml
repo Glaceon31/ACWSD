@@ -1,0 +1,20 @@
+<character value="帘">
+	<introduce>
+		<pinyin value="lian2" writing="lián" />
+		<bushou value="巾" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺折撇捺竖折竖" />
+	</introduce>
+	<pron value="lián">
+		<sense tag="名" vernacular="古代酒家、茶馆用作标志的旗子">
+			<exam article="《江边吟》" ref="闪闪酒帘招醉客。" />
+		</sense>
+		<sense tag="名" vernacular="用布、竹等做成的遮蔽门窗的用具">
+			<exam article="《陋室铭》" ref="苔痕上阶绿，草色入帘青。" />
+		</sense>
+		<sense tag="名" vernacular="箱子；匣子">
+			<exam article="《孔雀东南飞》" ref="箱帘六七十，绿碧青丝绳。" />
+		</sense>
+	</pron>
+</character>

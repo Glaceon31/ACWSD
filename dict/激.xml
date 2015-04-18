@@ -1,0 +1,40 @@
+<character value="激">
+	<introduce>
+		<pinyin value="ji1" writing="jī" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="捺捺横撇竖折横横捺横折撇撇横撇捺" />
+	</introduce>
+	<pron value="jī">
+		<sense tag="动" vernacular="阻遏水势以使之腾涌">
+			<exam article="《孟子·告子上》" ref="激而行之，可使在山。" />
+			<exam article="《答韦中立论师道书》" ref="激而发之欲其清，固而存之欲其重。" />
+		</sense>
+		<sense tag="动" vernacular="（水势）腾涌冲撞">
+			<exam article="《与朱元思书》" ref="泉水激石，泠泠作响。" />
+		</sense>
+		<sense tag="动" vernacular="激动；激发">
+			<exam article="《出师表》" ref="由是感激，遂许先帝以驱驰。" />
+			<exam article="《五人墓碑记》" ref="激于义而死焉者也。" />
+		</sense>
+		<sense tag="形" vernacular="疾速；猛烈">
+			<exam article="《兰亭集序》" ref="又有清流激湍，映带左右。" />
+		</sense>
+		<sense tag="形" vernacular="（声音）激烈高亢">
+			<exam article="《谭嗣同》" ref="冀缓急或可救助，词极激切。" />
+		</sense>
+	</pron>
+	<phrase value="激楚">
+		<sense value="音调高亢凄清" />
+		<sense value="通俗、淫逸之音，比喻谄谀之说" />
+	</phrase>
+	<phrase value="激诡">
+		<sense value="掩饰真情，标新立异" />
+		<sense value="毁誉失当" />
+	</phrase>
+	<phrase value="激激">
+		<sense value="水清的样子" />
+		<sense value="形容急流的声音" />
+	</phrase>
+</character>

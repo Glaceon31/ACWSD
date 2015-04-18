@@ -1,0 +1,17 @@
+<character value="讵">
+	<introduce>
+		<pinyin value="ju4" writing="jù" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺折横折横折" />
+	</introduce>
+	<pron value="jù">
+		<sense tag="副" vernacular="表示反问，难道，哪里">
+			<exam article="《行路难》" ref="华亭鹤唳讵可闻。" />
+		</sense>
+		<sense tag="连" vernacular="假如">
+			<exam article="《国语·晋语》" ref="讵非圣人，不有外患，必有内忧。" />
+		</sense>
+	</pron>
+</character>

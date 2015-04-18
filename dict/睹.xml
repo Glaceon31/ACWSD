@@ -1,0 +1,19 @@
+<character value="睹">
+	<introduce>
+		<pinyin value="du3" writing="dŭ" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="竖折横横横横竖横撇竖折横横" />
+	</introduce>
+	<pron value="dǔ">
+		<sense tag="动" vernacular="见；看见">
+			<exam article="《望洋兴叹》" ref="今我睹子之难穷也，吾非至于之门，则殆矣。" />
+			<exam article="《梦游天姥吟留别》" ref="越人语天姥，云霞明灭或可睹。" />
+			<exam article="《促织》" ref="然睹促织，隐中胸怀。" />
+		</sense>
+		<sense tag="动" vernacular="察看">
+			<exam article="《吕氏春秋·召类》" ref="赵简子将袭卫，使史默往睹之。" />
+		</sense>
+	</pron>
+</character>

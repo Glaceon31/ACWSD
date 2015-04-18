@@ -1,0 +1,25 @@
+<character value="愈">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="撇捺横竖折横横竖竖捺折捺捺" />
+	</introduce>
+	<pron value="yù">
+		<sense tag="动" vernacular="通“瘉”，病好了">
+			<exam article="《狱中杂记》" ref="伤肤，兼旬愈。" />
+		</sense>
+		<sense tag="形" vernacular="贤；胜过">
+			<exam article="《论语·公冶长》" ref="女与回也孰愈?" />
+		</sense>
+		<sense tag="副" vernacular="更加；越发">
+			<exam article="《送东阳马生序》" ref="或遇其叱咄，色愈恭，礼愈至。" />
+		</sense>
+	</pron>
+	<pron value="yú">
+		<sense tag="形" vernacular="通“愉”，愉快">
+			<exam article="《荀子·君子》" ref="心至愈。" />
+		</sense>
+	</pron>
+</character>

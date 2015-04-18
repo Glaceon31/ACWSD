@@ -1,0 +1,66 @@
+<character value="强">
+	<introduce>
+		<pinyin value="qiang2" writing="qiáng" />
+		<pinyin value="qiang3" writing="qiăng" />
+		<pinyin value="jiang4" writing="jiàng" />
+		<bushou value="弓" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折横折竖折横竖折横竖横捺" />
+	</introduce>
+	<pron value="qiáng">
+		<sense tag="形" vernacular="(弓弩)硬而有力">
+			<exam article="《赤壁之战》" ref="强弩之末势不能穿鲁缟。" />
+		</sense>
+		<sense tag="形" vernacular="泛指强健有力">
+			<exam article="《劝学》" ref="蚓无爪牙之利，筋骨之强。" />
+		</sense>
+		<sense tag="形" vernacular="强大；强盛">
+			<exam article="《陈情表》" ref="外无期功强近之亲，内无应门五尺之僮。" />
+		</sense>
+		<sense tag="名" vernacular="强者">
+			<exam article="《齐桓晋文之事》" ref="弱固不可以敌强。" />
+		</sense>
+		<sense tag="动" vernacular="加强；增强">
+			<exam article="《谏逐客疏》" ref="强公室，杜私门。" />
+		</sense>
+		<sense tag="形" vernacular="强悍；强横">
+			<exam article="《周处》" ref="周处年少时，凶强侠气，为乡里所患。" />
+		</sense>
+		<sense tag="动" vernacular="胜过；比……强">
+			<exam article="《上神宗皇帝书》" ref="宣宗收燕、赵，复河、隍，力强于宪、武矣。" />
+		</sense>
+		<sense tag="形" vernacular="馀；有馀">
+			<exam article="《木兰诗》" ref="策勋十二转，赏赐百千强。" />
+		</sense>
+	</pron>
+	<pron value="qiǎng">
+		<sense tag="动" vernacular="强迫">
+			<exam article="《促织》" ref="少年固强之。" />
+		</sense>
+		<sense tag="副" vernacular="强行">
+			<exam article="《廉颇蔺相如列传》" ref="秦王度之，终不可强夺。" />
+		</sense>
+		<sense tag="副" vernacular="勉强">
+			<exam article="《黄生借书说》" ref="非夫人之物而强假焉，必虑人逼取。" />
+		</sense>
+		<sense tag="副" vernacular="竭力；尽力">
+			<exam article="《触龙说赵太后》" ref="太后不肯，大臣强谏。" />
+		</sense>
+	</pron>
+	<pron value="jiàng">
+		<sense tag="形" vernacular="固执；强硬不屈">
+			<exam article="《与陈伯之书》" ref="唯北狄野心，掘强沙塞之间。" />
+		</sense>
+	</pron>
+	<phrase value="强死">
+		<sense value="壮健而死，死于非命" />
+	</phrase>
+	<phrase value="强宗">
+		<sense value="豪门，有权势之家" />
+	</phrase>
+	<phrase value="强起">
+		<sense value="强迫人出来做官" />
+		<sense value="勉强起身" />
+	</phrase>
+</character>

@@ -1,0 +1,43 @@
+<character value="封">
+	<introduce>
+		<pinyin value="feng1" writing="fēng" />
+		<bushou value="寸" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横横竖横横竖捺" />
+	</introduce>
+	<pron value="fēng">
+		<sense tag="动" vernacular="在植物的根部培土">
+			<exam article="《左传·昭公二年》" ref="宿不敢封植此树。" />
+		</sense>
+		<sense tag="动" vernacular="聚土筑坟">
+			<exam article="《五人墓碑记》" ref="五亦得以加其土封。" />
+		</sense>
+		<sense tag="名" vernacular="疆界；分界">
+			<exam article="《得道多助，失道寡助》" ref="域民不以封疆之界。" />
+		</sense>
+		<sense tag="名使动" vernacular="把……作为疆界">
+			<exam article="《烛之武退秦师》" ref="既东封郑，又欲肆其西封。" />
+		</sense>
+		<sense tag="动" vernacular="帝王以爵位、土地、名号等赐人">
+			<exam article="《触龙说赵太后》" ref="而封之以膏腴之地。" />
+			<exam article="《六国论》" ref="以赂秦之地封天下之谋臣。" />
+		</sense>
+		<sense tag="名" vernacular="领地；邦国">
+			<exam article="《尚书·蔡仲之》" ref="肆予命尔侯于东土，往即乃封。" />
+		</sense>
+		<sense tag="名" vernacular="古代帝王或大臣在山上筑坛祭神的活动">
+			<exam article="《永遇乐·京口北固亭怀古》" ref="元嘉草草，封狼居胥。" />
+		</sense>
+		<sense tag="动" vernacular="封闭；封合">
+			<exam article="《鸿门宴》" ref="籍吏民，封府库。" />
+			<exam article="《记王忠肃公翱事》" ref="出珠授之，封志宛然。" />
+		</sense>
+		<sense tag="量" vernacular="指封缄物的件数">
+			<exam article="《范进中举》" ref="一封一封雪白的的细丝锭子。" />
+		</sense>
+		<sense tag="形" vernacular="大">
+			<exam article="《左传·四年》" ref="封豕长蛇。" />
+		</sense>
+	</pron>
+</character>

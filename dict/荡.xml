@@ -1,0 +1,49 @@
+<character value="荡">
+	<introduce>
+		<pinyin value="dang4" writing="dàng" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖竖捺捺横折撇撇" />
+	</introduce>
+	<pron value="dàng">
+		<sense tag="动" vernacular="摇动；飘动">
+			<exam article="《与朱元思书》" ref="从流飘荡，任意东西。" />
+		</sense>
+		<sense tag="动" vernacular="不安定；动摇">
+			<exam article="《荀子·劝学》" ref="是故权利不能倾也，群众不能移也，天下不能荡也。" />
+		</sense>
+		<sense tag="动" vernacular="洗涤；清除">
+			<exam article="《史记·乐书》" ref="万民咸荡涤邪秽。" />
+		</sense>
+		<sense tag="动" vernacular="碰撞；来回冲击">
+			<exam article="《黔之驴》" ref="稍近，益狎，荡倚冲冒。" />
+			<exam article="《晋问》" ref="若江之水，疾风驱涛，击山荡壑。" />
+		</sense>
+		<sense tag="形" vernacular="放纵；不受拘束">
+			<exam article="《论语·阳货》" ref="古之狂也肆，今之狂也荡。" />
+		</sense>
+		<sense tag="形" vernacular="平坦；宽广">
+			<exam article="《诗经·南山》" ref="鲁道有荡。" />
+		</sense>
+		<sense tag="名" vernacular="积水处；池塘；湖泽">
+			<exam article="《雁荡山》" ref="山顶有大池，相传以为雁荡。" />
+		</sense>
+	</pron>
+	<phrase value="荡骀">
+		<sense value="悠闲自得" />
+		<sense value="舒展" />
+	</phrase>
+	<phrase value="荡覆">
+		<sense value="倾覆" />
+	</phrase>
+	<phrase value="荡佚">
+		<sense value="放荡纵逸，不拘世俗" />
+	</phrase>
+	<phrase value="荡志">
+		<sense value="荡涤心怀" />
+	</phrase>
+	<phrase value="荡子">
+		<sense value="游荡在外的男子" />
+	</phrase>
+</character>

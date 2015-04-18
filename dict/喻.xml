@@ -1,0 +1,20 @@
+<character value="喻">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="竖折横撇捺横竖折横横竖竖" />
+	</introduce>
+	<pron value="yù">
+		<sense tag="动" vernacular="明白">
+			<exam article="《兰亭集序》" ref="未尝不临文嗟悼，不能喻之于怀。" />
+		</sense>
+		<sense tag="动" vernacular="比喻">
+			<exam article="《寡人之于国也》" ref="王好战，请以战喻。" />
+		</sense>
+		<sense tag="动" vernacular="表达">
+			<exam article="《淮南子·修务》" ref="故作书以喻意。" />
+		</sense>
+	</pron>
+</character>

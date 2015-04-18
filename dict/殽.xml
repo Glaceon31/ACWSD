@@ -1,0 +1,20 @@
+<character value="殽">
+	<introduce>
+		<pinyin value="yao2" writing="yáo" />
+		<bushou value="殳" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="撇捺横撇竖折横横撇折折捺" />
+	</introduce>
+	<pron value="xiáo">
+		<sense tag="动" vernacular="混杂；错乱">
+			<exam article="《汉书·艺文志》" ref="战国纵横，真伪分争，诸子之言纷然殽乱。" />
+		</sense>
+		<sense tag="名" vernacular="通“崤”，山名">
+			<exam article="《过秦论》" ref="秦孝公据殽函之固，拥雍州之地。" />
+		</sense>
+		<sense vernacular="yáo同“肴”">
+			<exam article="《诗经·大雅·凫鹥》" ref="尔酒既清，尔殽既馨。" />
+		</sense>
+	</pron>
+</character>

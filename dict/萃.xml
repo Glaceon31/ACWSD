@@ -1,0 +1,26 @@
+<character value="萃">
+	<introduce>
+		<pinyin value="cui4" writing="cuì" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖竖捺横撇捺撇捺横竖" />
+	</introduce>
+	<pron value="cuì">
+		<sense tag="动" vernacular="聚集">
+			<exam article="《天问》" ref="苍鸟群飞，孰使萃之？" />
+		</sense>
+		<sense tag="动" vernacular="停止">
+			<exam article="《天问》" ref="北至回水，萃何喜？" />
+		</sense>
+		<sense vernacular="通“悴”">
+			<exam article="《荀子·富国》" ref="劳苦顿萃而愈无功。" />
+		</sense>
+		<sense vernacular="六十四卦之一" />
+	</pron>
+	<phrase value="萃蔡">
+		<sense value="同“綷粲”" />
+		<sense value="象声词" />
+		<sense value="形容摩擦声" />
+	</phrase>
+</character>

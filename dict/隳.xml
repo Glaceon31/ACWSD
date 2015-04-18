@@ -1,0 +1,18 @@
+<character value="隳">
+	<introduce>
+		<pinyin value="hui1" writing="huī" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="17" />
+		<order value="折竖横撇横竖横竖折横横撇捺竖捺捺捺" />
+	</introduce>
+	<pron value="huī">
+		<sense tag="动" vernacular="毁坏；横行霸道">
+			<exam article="《过秦论》" ref="隳名城，杀豪杰。" />
+			<exam article="《失街亭》" ref="父亲何故自隳志气耶？" />
+		</sense>
+	</pron>
+	<phrase value="隳突">
+		<sense value="骚扰；冲撞" />
+	</phrase>
+</character>

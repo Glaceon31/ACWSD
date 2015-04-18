@@ -1,0 +1,17 @@
+<character value="镌">
+	<introduce>
+		<pinyin value="juan1" writing="juān" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="14" />
+		<order value="竖折折捺折竖折横横捺横折撇撇捺" />
+	</introduce>
+	<pron value="juān">
+		<sense tag="动" vernacular="凿；开掘">
+			<exam article="《汉书·沟洫志》" ref="患底柱隘，可镌广之。" />
+		</sense>
+		<sense tag="动" vernacular="官吏降级">
+			<exam article="《宋史·食货志上四》" ref="扰民及不实者镌罚。" />
+		</sense>
+	</pron>
+</character>

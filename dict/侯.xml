@@ -1,0 +1,26 @@
+<character value="侯">
+	<introduce>
+		<pinyin value="hou4" writing="hòu" />
+		<pinyin value="hou2" writing="hóu" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="撇竖折横撇横横撇捺" />
+	</introduce>
+	<pron value="hóu">
+		<sense tag="名" vernacular="箭靶">
+			<exam article="《诗经·猗嗟》" ref="终日射侯,不出正亏。" />
+		</sense>
+		<sense tag="名" vernacular="古代公侯伯子男五等爵位的第二等,又为诸侯国国君的通称">
+			<exam article="《屈原列传》" ref="出则接遇宾客,应对诸侯。" />
+		</sense>
+		<sense tag="副" vernacular="同“何”" />
+	</pron>
+	<phrase value="侯服">
+		<sense value="古称离王城一千里以外的方圆五百里的地区" />
+	</phrase>
+	<phrase value="侯畿">
+		<sense value="古代以王城为中心,把周围五千里的地区划为九畿" />
+		<sense value="王城附近的区域叫侯畿" />
+	</phrase>
+</character>

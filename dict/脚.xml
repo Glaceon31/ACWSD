@@ -1,0 +1,25 @@
+<character value="脚">
+	<introduce>
+		<pinyin value="jiao3" writing="jiăo" />
+		<pinyin value="jue2" writing="jué" />
+		<pinyin value="jia3" writing="jiă" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="撇折横横横竖横折捺折竖" />
+	</introduce>
+	<pron value="jiǎo">
+		<sense tag="名" vernacular="小腿">
+			<exam article="《墨子·明鬼》" ref="羊起而触之，折其脚。" />
+		</sense>
+		<sense tag="名" vernacular="足；脚板">
+			<exam article="《梦游天姥吟留别》" ref="脚著谢公屐，身登轻云梯。" />
+		</sense>
+		<sense tag="名" vernacular="物体的支撑部分">
+			<exam article="《南齐书·五行志》" ref="巴州城西古楼脚柏柱数百年。" />
+		</sense>
+		<sense tag="名" vernacular="物体的根基部分">
+			<exam article="《美猴王》" ref="原来此处远通山脚之下。" />
+		</sense>
+	</pron>
+</character>

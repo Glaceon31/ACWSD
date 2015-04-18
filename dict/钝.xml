@@ -1,0 +1,21 @@
+<character value="钝">
+	<introduce>
+		<pinyin value="dun4" writing="dùn" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="撇横横横折横折竖折" />
+	</introduce>
+	<pron value="dùn">
+		<sense tag="形" vernacular="不锋利；不锐利">
+			<exam article="《荀子·性恶》" ref="钝金必将待砻厉然后利。" />
+		</sense>
+		<sense tag="形" vernacular="心性迟钝；不灵活">
+			<exam article="《文心雕龙》" ref="且夫思有利钝，时有通塞。" />
+			<exam article="《出师表》" ref="庶竭驽钝，攘除奸凶。" />
+		</sense>
+	</pron>
+	<phrase value="钝眊">
+		<sense value="衰颓" />
+	</phrase>
+</character>

@@ -1,0 +1,23 @@
+<character value="慊">
+	<introduce>
+		<pinyin value="qian4" writing="qiàn" />
+		<pinyin value="qie4" writing="qiè" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="捺捺竖捺撇横折横横竖竖撇捺" />
+	</introduce>
+	<pron value="qiàn">
+		<sense tag="形" vernacular="少，不足">
+			<exam article="《辩亡论》" ref="宫室舆服，盖慊如也。" />
+		</sense>
+		<sense tag="形" vernacular="遗憾，不满足">
+			<exam article="《孟子·公孙丑下》" ref="彼以其爵，我以吾义，吾何慊乎哉?" />
+		</sense>
+	</pron>
+	<pron value="qiè">
+		<sense tag="形" vernacular="满足，快意">
+			<exam article="《战国策·齐策一》" ref="苟可慊剂貌辨者，吾无辞为之。" />
+		</sense>
+	</pron>
+</character>

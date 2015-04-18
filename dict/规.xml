@@ -1,0 +1,33 @@
+<character value="规">
+	<introduce>
+		<pinyin value="gui1" writing="guī" />
+		<bushou value="见" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横横撇捺竖折撇折" />
+	</introduce>
+	<pron value="guī">
+		<sense tag="名" vernacular="画圆形的工具；圆规">
+			<exam article="《劝学》" ref="木直中绳，輮以为轮，其曲中规。" />
+		</sense>
+		<sense tag="名" vernacular="圆形">
+			<exam article="《梦溪笔谈》" ref="图为一圆规，及画极星于规中。" />
+		</sense>
+		<sense tag="名" vernacular="法度；准则">
+			<exam article="《三国志·臧洪传》" ref="以趣舍异规，不得相见。" />
+		</sense>
+		<sense tag="名" vernacular="典范">
+			<exam article="《咏史》" ref="生为百夫雄，死为壮士规。" />
+		</sense>
+		<sense tag="动" vernacular="谋划；规划">
+			<exam article="《桃花源记》" ref="闻之，欣然规往。" />
+		</sense>
+		<sense tag="动" vernacular="谋划；打算">
+			<exam article="《三国志·诸葛亮传》" ref="与豫州协规同力。" />
+		</sense>
+		<sense tag="动" vernacular="劝告，告诫">
+			<exam article="《邵公谏厉王弭谤》" ref="近臣尽规，亲戚补察。" />
+		</sense>
+		<sense tag="名" vernacular="古代田制之一" />
+	</pron>
+</character>

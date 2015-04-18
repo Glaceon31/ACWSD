@@ -1,0 +1,32 @@
+<character value="遣">
+	<introduce>
+		<pinyin value="qian3" writing="qiăn" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="竖折横竖横竖折横折横捺折捺" />
+	</introduce>
+	<pron value="qiǎn">
+		<sense tag="动" vernacular="差遣；派遣">
+			<exam article="《桃花源记》" ref="太守即遣人随其往。" />
+		</sense>
+		<sense tag="动" vernacular="打发；送走">
+			<exam article="《卖油翁》" ref="康肃笑而遣之。" />
+		</sense>
+		<sense tag="动" vernacular="休；休弃">
+			<exam article="《孔雀东南飞》" ref="便可速遣之，遣去慎莫留。" />
+		</sense>
+		<sense tag="动" vernacular="排遣；消遣">
+			<exam article="《祭妹文》" ref="无所娱遣。" />
+		</sense>
+		<sense tag="动" vernacular="发遣；发配">
+			<exam article="《狱中杂记》" ref="时方冬停遣，李具状求在狱候春发遣。" />
+		</sense>
+	</pron>
+	<phrase value="遣戍">
+		<sense value="旧时发送犯人戍边，使效力赎罪" />
+	</phrase>
+	<phrase value="遣昼">
+		<sense value="犹放晴" />
+	</phrase>
+</character>

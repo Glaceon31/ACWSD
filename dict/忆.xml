@@ -1,0 +1,20 @@
+<character value="忆">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="4" />
+		<order value="捺捺竖折" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="动" vernacular="回想">
+			<exam article="《与妻书》" ref="汝忆否？" />
+		</sense>
+		<sense tag="动" vernacular="思念">
+			<exam article="《木兰诗》" ref="问女何所思？问女何所忆？" />
+		</sense>
+		<sense tag="动" vernacular="记住不忘">
+			<exam article="《梁书·昭明太子传》" ref="过目皆忆。" />
+		</sense>
+	</pron>
+</character>

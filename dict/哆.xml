@@ -1,0 +1,25 @@
+<character value="哆">
+	<introduce>
+		<pinyin value="duo1" writing="duō" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="竖折横撇折捺撇折捺" />
+	</introduce>
+	<pron value="chǐ" />
+	<pron value="chě">
+		<sense tag="动" vernacular="张大口，张大" />
+		<sense tag="动" vernacular="放纵，放荡">
+			<exam article="《法言·吾子》" ref="述正道而稍邪哆者有矣，未有述邪哆而稍正也。" />
+		</sense>
+	</pron>
+	<phrase value="哆哆">
+		<sense value="口张大" />
+	</phrase>
+	<phrase value="哆然">
+		<sense value="1" />
+		<sense value="人心不服、离散" />
+		<sense value="2" />
+		<sense value="张口欲噬" />
+	</phrase>
+</character>

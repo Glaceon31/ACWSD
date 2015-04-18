@@ -1,0 +1,41 @@
+<character value="族">
+	<introduce>
+		<pinyin value="zu2" writing="zú" />
+		<bushou value="方" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="捺横折撇撇横撇横横撇捺" />
+	</introduce>
+	<pron value="zú">
+		<sense tag="名" vernacular="宗族；家族">
+			<exam article="《过秦论》" ref="山东豪俊，遂并起而亡秦族矣。" />
+		</sense>
+		<sense tag="名" vernacular="类">
+			<exam article="《师说》" ref="士大夫之族，曰师曰弟子云者。" />
+			<exam article="《淮南子·俶真》" ref="万物百族。" />
+		</sense>
+		<sense tag="动" vernacular="灭族">
+			<exam article="《阿房宫赋》" ref="族秦者秦也，非天下也。" />
+		</sense>
+		<sense tag="形" vernacular="众；一般的">
+			<exam article="《庖丁解牛》" ref="族庖月更刀，折也。" />
+		</sense>
+		<sense tag="动" vernacular="聚结；集中">
+			<exam article="《庄子·在宥》" ref="云气不待族而雨，草木不待黄而落。" />
+		</sense>
+		<sense tag="名" vernacular="筋骨交错的地方">
+			<exam article="《庖丁解牛》" ref="每至于族，吾见其难为，怵然为戒。" />
+		</sense>
+	</pron>
+	<phrase value="族党">
+		<sense value="聚居的同族亲属" />
+	</phrase>
+	<phrase value="族类">
+		<sense value="同族的人" />
+		<sense value="同类" />
+	</phrase>
+	<phrase value="族望">
+		<sense value="名门大族" />
+		<sense value="宗族或家族的声望" />
+	</phrase>
+</character>

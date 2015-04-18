@@ -1,0 +1,17 @@
+<character value="疚">
+	<introduce>
+		<pinyin value="jiu4" writing="jiù" />
+		<bushou value="疒" />
+		<bushoustroke value="5" />
+		<stroke value="8" />
+		<order value="捺横撇捺横撇折捺" />
+	</introduce>
+	<pron value="jiù">
+		<sense tag="名" vernacular="久病">
+			<exam article="《韩非子·显学》" ref="无饥馑疾疚祸罪之殃。" />
+		</sense>
+		<sense tag="形" vernacular="忧苦，心内痛苦">
+			<exam article="《诗经·小雅·大东》" ref="使我心疚。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="驸">
+	<introduce>
+		<pinyin value="fu4" writing="fù" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折折横撇竖横竖捺" />
+	</introduce>
+	<pron value="fù">
+		<sense tag="名" vernacular="副马，驾副车或备用的马">
+			<exam article="《东京赋》" ref="驸承华之蒲梢。" />
+		</sense>
+	</pron>
+</character>

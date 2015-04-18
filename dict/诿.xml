@@ -1,0 +1,14 @@
+<character value="诿">
+	<introduce>
+		<pinyin value="wei3" writing="wĕi" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺折撇横竖撇捺折撇横" />
+	</introduce>
+	<pron value="wěi">
+		<sense tag="动" vernacular="推卸；推托">
+			<exam article="《汉书·胡建传》" ref="执事不诿上。" />
+		</sense>
+	</pron>
+</character>

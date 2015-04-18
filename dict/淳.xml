@@ -1,0 +1,46 @@
+<character value="淳">
+	<introduce>
+		<pinyin value="chun2" writing="chún" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺横捺横竖折横折竖横" />
+	</introduce>
+	<pron value="chún">
+		<sense tag="形" vernacular="质朴；敦厚">
+			<exam article="《超然亭记》" ref="予既乐其风俗之淳，而其吏民亦安予之拙也。" />
+		</sense>
+		<sense tag="形" vernacular="成对的">
+			<exam article="《左传·襄公十一年》" ref="郑人赂晋侯以广车、钝车，淳十五乘。" />
+		</sense>
+		<sense tag="形" vernacular="咸；含盐多">
+			<exam article="《汉书·食货志上》" ref="山林薮泽原陵淳卤之地。" />
+		</sense>
+		<sense vernacular="通“焞”">
+			<exam article="《国语·郑语》" ref="夫黎为高辛氏火正，以淳耀敦大，天明地德，光照四海，故命之曰祝融。" />
+		</sense>
+		<sense vernacular="能“醇”">
+			<exam article="《论衡·自然》" ref="淳酒味甘，饮之者醉不相知。" />
+		</sense>
+		<sense vernacular="通“纯”">
+			<exam article="《梦溪笔谈·杂志一》" ref="土人以雉尾裛之，乃采入缶中，颇似淳漆，然之如麻，但烟甚浓。" />
+		</sense>
+	</pron>
+	<pron value="zhūn">
+		<sense tag="动" vernacular="浇灌">
+			<exam article="《国语·周语上》" ref="王乃淳濯飨醴。" />
+		</sense>
+	</pron>
+	<phrase value="淳淳">
+		<sense value="1" />
+		<sense value="朴实敦厚" />
+		<sense value="2" />
+		<sense value="流动不定" />
+	</phrase>
+	<phrase value="淳化">
+		<sense value="1" />
+		<sense value="敦厚的教化" />
+		<sense value="2" />
+		<sense value="县名，在陕西" />
+	</phrase>
+</character>

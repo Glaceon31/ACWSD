@@ -1,0 +1,45 @@
+<character value="元">
+	<introduce>
+		<pinyin value="yuan2" writing="yuán" />
+		<bushou value="二" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="横横撇折" />
+	</introduce>
+	<pron value="yuán">
+		<sense tag="名" vernacular="头">
+			<exam article="《左传·僖公三十三年》" ref="免胄入狄师，死焉。狄人归其元，面如生。" />
+		</sense>
+		<sense tag="形" vernacular="为首的">
+			<exam article="《荀子·王制》" ref="元恶不待教诛。" />
+		</sense>
+		<sense tag="数" vernacular="第一">
+			<exam article="《陈涉世家》" ref="二世元年七月。" />
+		</sense>
+		<sense vernacular="朝代名(1271年1368年)，开国君王忽必烈" />
+		<sense tag="名" vernacular="黑色">
+			<exam article="《治平篇》" ref="自此而元焉。" />
+		</sense>
+		<sense tag="名" vernacular="天">
+			<exam article="《淮南子·原道》" ref="执元德于心而化驰若神。" />
+		</sense>
+		<sense tag="名" vernacular="指帝王的年号">
+			<exam article="《〈指南录〉后序》" ref="是年夏五，改元景炎。" />
+		</sense>
+	</pron>
+	<phrase value="元本">
+		<sense value="首要" />
+		<sense value="元代刊刻的书籍" />
+	</phrase>
+	<phrase value="元妃">
+		<sense value="诸侯的正妻" />
+	</phrase>
+	<phrase value="元后">
+		<sense value="远古帝王" />
+		<sense value="后世帝王的正妻" />
+	</phrase>
+	<phrase value="元气">
+		<sense value="道家称天地未开时的混浊之气" />
+		<sense value="生命活力" />
+	</phrase>
+</character>

@@ -1,0 +1,26 @@
+<character value="或">
+	<introduce>
+		<pinyin value="huo4" writing="huò" />
+		<bushou value="戈" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横竖折横横折撇捺" />
+	</introduce>
+	<pron value="huò">
+		<sense tag="代" vernacular="有的；有的人；有的事">
+			<exam article="《寡人之于国也》" ref="或百步而后止。" />
+		</sense>
+		<sense tag="副" vernacular="有时">
+			<exam article="《归去来兮辞》" ref="或命巾车，或棹孤舟。" />
+		</sense>
+		<sense tag="副" vernacular="又">
+			<exam article="《诗经·宾之初筵》" ref="既立之监，或佐之史。" />
+		</sense>
+		<sense tag="副" vernacular="或者；或许">
+			<exam article="《冯婉贞》" ref="猱进鸷击，或能免乎？" />
+		</sense>
+		<sense tag="形" vernacular="通“惑”，迷惑">
+			<exam article="《汉书·霍去病传》" ref="别从东道，或失道。" />
+		</sense>
+	</pron>
+</character>

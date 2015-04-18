@@ -1,0 +1,24 @@
+<character value="藻">
+	<introduce>
+		<pinyin value="zao3" writing="zăo" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="19" />
+		<order value="横竖竖捺捺横竖折横竖折横竖折横横竖撇捺" />
+	</introduce>
+	<pron value="zǎo">
+		<sense tag="名" vernacular="一种水草">
+			<exam article="《诗经·召南·采蘋》" ref="于以采藻，于彼行潦。" />
+		</sense>
+		<sense tag="名" vernacular="文采">
+			<exam article="《汉书·叙传上》" ref="摛藻如春华。" />
+		</sense>
+	</pron>
+	<phrase value="藻饰">
+		<sense value="修饰；装饰" />
+		<sense value="修饰文词" />
+	</phrase>
+	<phrase value="藻思">
+		<sense value="文才；文思" />
+	</phrase>
+</character>

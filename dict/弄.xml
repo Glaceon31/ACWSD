@@ -1,0 +1,39 @@
+<character value="弄">
+	<introduce>
+		<pinyin value="nong4" writing="nòng" />
+		<pinyin value="long4" writing="lòng" />
+		<bushou value="廾" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横横竖横横撇竖" />
+	</introduce>
+	<pron value="nòng">
+		<sense tag="动" vernacular="用手把玩、戏弄">
+			<exam article="《汉书·赵尧传》" ref="高祖持御史大夫印，弄之。" />
+		</sense>
+		<sense tag="动" vernacular="作弄">
+			<exam article="《左传·襄公四年》" ref="愚弄其民。" />
+		</sense>
+		<sense tag="动" vernacular="演奏乐曲">
+			<exam article="《史记·司马相如列传》" ref="乃饮卓氏，弄琴。" />
+		</sense>
+		<sense tag="动" vernacular="古代百戏乐舞中扮演肤色或表演节目为“弄”" />
+	</pron>
+	<phrase value="弄臣">
+		<sense value="在帝王身边献媚狎玩的臣子" />
+	</phrase>
+	<phrase value="弄翰">
+		<sense value="谓写文章及作画" />
+	</phrase>
+	<phrase value="弄口">
+		<sense value="逞言巧辩；播弄是非" />
+	</phrase>
+	<phrase value="弄瓦">
+		<sense value="瓦，纺缍" />
+		<sense value="给幼女玩弄瓦，有希望她将来能任女工之意，后因称生女为“弄瓦”" />
+	</phrase>
+	<phrase value="弄璋">
+		<sense value="璋，一种玉器" />
+		<sense value="给男孩玩玉璋，有希望他将来具有像美玉一样的品德之意，后因称生男为“弄璋”" />
+	</phrase>
+</character>

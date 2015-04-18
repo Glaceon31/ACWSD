@@ -1,0 +1,29 @@
+<character value="等">
+	<introduce>
+		<pinyin value="deng3" writing="dĕng" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="撇横捺撇横捺横竖横横竖捺" />
+	</introduce>
+	<pron value="děng">
+		<sense tag="名" vernacular="台阶的级">
+			<exam article="《吕氏春秋·召类》" ref="土阶三等。" />
+		</sense>
+		<sense tag="名" vernacular="等级">
+			<exam article="《狱中杂记》" ref="止主谋一二人立决，余经秋审，皆减等发配。" />
+		</sense>
+		<sense tag="形" vernacular="相同；一样">
+			<exam article="《陈涉世家》" ref="今亡亦死，举大计亦死，等死，死国可乎？" />
+			<exam article="《滕王阁序》" ref="无路请缨，等终军之弱冠。" />
+			<exam article="《马说》" ref="且欲与常马等不可得。" />
+		</sense>
+		<sense tag="动" vernacular="等候">
+			<exam article="《林教头风雪山神庙》" ref="有个官人请说话，商议些事务，专等，专等。" />
+		</sense>
+		<sense tag="代" vernacular="用在人称代词或名词之后，表示多数或列举未尽">
+			<exam article="《陈涉世家》" ref="公等遇雨，皆已失望。" />
+			<exam article="《廉颇蔺相如列传》" ref="臣等不肖，请辞去。" />
+		</sense>
+	</pron>
+</character>

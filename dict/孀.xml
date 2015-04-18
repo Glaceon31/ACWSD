@@ -1,0 +1,14 @@
+<character value="孀">
+	<introduce>
+		<pinyin value="shuang1" writing="shuāng" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="20" />
+		<order value="折撇横横捺折竖捺捺捺捺横竖撇捺竖折横横横" />
+	</introduce>
+	<pron value="shuāng">
+		<sense tag="名" vernacular="寡妇">
+			<exam article="《淮南子·修务》" ref="吊死问疾，以养孤孀。" />
+		</sense>
+	</pron>
+</character>

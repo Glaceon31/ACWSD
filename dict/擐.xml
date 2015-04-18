@@ -1,0 +1,19 @@
+<character value="擐">
+	<introduce>
+		<pinyin value="huan4" writing="huàn" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="横竖横竖折竖竖横横竖折横撇折撇捺" />
+	</introduce>
+	<pron value="huàn">
+		<sense tag="动" vernacular="贯；穿">
+			<exam article="《左传·成公二年》" ref="擐甲执兵，固即死也。" />
+		</sense>
+	</pron>
+	<pron value="xuān">
+		<sense tag="动" vernacular="通“揎”，捋起">
+			<exam article="《酒胡子》" ref="当歌谁擐袖，应节渐轻躯。" />
+		</sense>
+	</pron>
+</character>

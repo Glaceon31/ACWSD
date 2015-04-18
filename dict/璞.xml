@@ -1,0 +1,14 @@
+<character value="璞">
+	<introduce>
+		<pinyin value="pu2" writing="pú" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="16" />
+		<order value="横横竖横竖竖捺撇横捺撇横横横撇捺" />
+	</introduce>
+	<pron value="pú">
+		<sense tag="名" vernacular="含有玉的石头或未雕琢过的玉">
+			<exam article="《韩非子·和氏》" ref="王乃使玉人理其璞而得宝焉。" />
+		</sense>
+	</pron>
+</character>

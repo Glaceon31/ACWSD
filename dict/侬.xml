@@ -1,0 +1,17 @@
+<character value="侬">
+	<introduce>
+		<pinyin value="nong2" writing="nóng" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇竖捺折撇折撇捺" />
+	</introduce>
+	<pron value="nóng">
+		<sense tag="名" vernacular="泛称人">
+			<exam article="《古乐府·寻阳乐》" ref="鸡亭故侬去，九里新侬还。" />
+		</sense>
+		<sense tag="代" vernacular="我；自己">
+			<exam article="《秋浦歌》" ref="寄言向江水，汝意忆侬不？" />
+		</sense>
+	</pron>
+</character>

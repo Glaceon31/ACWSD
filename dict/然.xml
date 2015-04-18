@@ -1,0 +1,35 @@
+<character value="然">
+	<introduce>
+		<pinyin value="ran2" writing="rán" />
+		<bushou value="灬" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="撇折捺捺横撇捺捺捺捺捺捺" />
+	</introduce>
+	<pron value="rán">
+		<sense tag="动" vernacular="燃烧">
+			<exam article="《陈政事疏》" ref="火未及然，因谓之安。" />
+		</sense>
+		<sense tag="代" vernacular="这样；那样">
+			<exam article="《鸿门宴》" ref="不然，籍何以至此?" />
+		</sense>
+		<sense tag="形" vernacular="是的；对的">
+			<exam article="《齐桓晋文之事》" ref="王曰：‘然，诚有百姓者。’" />
+		</sense>
+		<sense tag="形意动" vernacular="认为……对的">
+			<exam article="《促织》" ref="妻曰：‘死何裨益?不如自行搜觅，冀有万一之得。’成然之。" />
+		</sense>
+		<sense tag="词缀" vernacular="用在形容或副词后，表状态，可译为“……的样子”、“地”，也可不译">
+			<exam article="《捕蛇者说》" ref="蒋氏大戚，汪然出涕。" />
+			<exam article="《石钟山记》" ref="森然欲搏人。" />
+			<exam article="《兰亭集序》" ref="快然自足，曾不知老之将至。" />
+		</sense>
+		<sense tag="助" vernacular="用在名词或名词短语后，与前面的动词“如”、“若”、“犹”等呼应，表示“(像)……一样”">
+			<exam article="《登泰山记》" ref="而半山居雾若带然。" />
+			<exam article="《核舟记》" ref="其人视端容寂，若茶声然。" />
+		</sense>
+		<sense tag="连" vernacular="然而；但是">
+			<exam article="《鸿门宴》" ref="然不自意能先入关破秦。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="埴">
+	<introduce>
+		<pinyin value="zhi2" writing="zhí" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖横横竖竖折横横横横" />
+	</introduce>
+	<pron value="zhí">
+		<sense tag="名" vernacular="制作陶器用的黏土">
+			<exam article="《管子·任法》" ref="犹埴在埏也。" />
+		</sense>
+	</pron>
+</character>

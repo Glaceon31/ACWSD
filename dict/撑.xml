@@ -1,0 +1,26 @@
+<character value="撑">
+	<introduce>
+		<pinyin value="cheng1" writing="chēng" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="横竖横竖捺撇捺折竖折横撇横横竖" />
+	</introduce>
+	<pron value="chēng">
+		<sense tag="动" vernacular="抵住">
+			<exam article="《饮马长城窟行》" ref="君独不见长城下，死人骸骨相撑拄。" />
+		</sense>
+		<sense tag="动" vernacular="用篙行船" />
+		<sense tag="名" vernacular="支柱" />
+		<sense tag="形" vernacular="美，漂亮">
+			<exam article="《西厢记诸宫调》" ref="便是月殿里姮娥，也没恁地撑。" />
+		</sense>
+	</pron>
+	<phrase value="撑拒">
+		<sense value="也作“牚拒”、“牚距”" />
+		<sense value="1" />
+		<sense value="撑持，抵住" />
+		<sense value="2" />
+		<sense value="争执" />
+	</phrase>
+</character>

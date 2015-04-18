@@ -1,0 +1,27 @@
+<character value="危">
+	<introduce>
+		<pinyin value="wei1" writing="wēi" />
+		<pinyin value="wei2" writing="wéi" />
+		<bushou value="厄" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="撇折横撇折折" />
+	</introduce>
+	<pron value="wēi">
+		<sense tag="形" vernacular="高">
+			<exam article="《蜀道难》" ref="危乎高哉！蜀道之难，难于上青天。" />
+		</sense>
+		<sense tag="形" vernacular="危险；危急">
+			<exam article="《谏太宗十思疏》" ref="不念居安思危，戒奢以俭。" />
+		</sense>
+		<sense tag="动" vernacular="危害；使处于危险的境地">
+			<exam article="《齐桓晋文之事》" ref="抑王兴甲兵，危士臣，构怨于诸侯。" />
+		</sense>
+		<sense tag="形" vernacular="危弱">
+			<exam article="《陈情表》" ref="人命危浅，朝不虑夕。" />
+		</sense>
+		<sense tag="形" vernacular="端正；正直">
+			<exam article="《陶侃》" ref="侃性聪敏恭勤，终日敛而膝危坐。" />
+		</sense>
+	</pron>
+</character>

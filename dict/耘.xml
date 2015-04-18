@@ -1,0 +1,14 @@
+<character value="耘">
+	<introduce>
+		<pinyin value="yun2" writing="yún" />
+		<bushou value="耒" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="横横横竖撇捺横横折捺" />
+	</introduce>
+	<pron value="yún">
+		<sense tag="动" vernacular="除草">
+			<exam article="《归去来兮辞》" ref="怀良辰以孤往，或植杖而耘耔。" />
+		</sense>
+	</pron>
+</character>

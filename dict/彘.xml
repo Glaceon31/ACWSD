@@ -1,0 +1,14 @@
+<character value="彘">
+	<introduce>
+		<pinyin value="zhi4" writing="zhì" />
+		<bushou value="彑" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折折横撇横横撇捺横折撇折" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="名" vernacular="猪">
+			<exam article="《寡人之于国也》" ref="狗彘食人食而不知检。" />
+		</sense>
+	</pron>
+</character>

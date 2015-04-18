@@ -1,0 +1,26 @@
+<character value="稔">
+	<introduce>
+		<pinyin value="ren3" writing="rĕn" />
+		<bushou value="禾" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="撇横竖撇捺撇捺捺折捺折捺捺" />
+	</introduce>
+	<pron value="rěn">
+		<sense tag="动" vernacular="庄稼成熟">
+			<exam article="《后汉书·明帝纪》" ref="风比登稔。" />
+		</sense>
+		<sense tag="名" vernacular="年">
+			<exam article="《黄冈竹楼记》" ref="竹之为瓦仅十稔，若重覆之，得二十稔。" />
+		</sense>
+		<sense tag="动" vernacular="事物酝酿成熟">
+			<exam article="《奏弹刘整文》" ref="恶积衅稔。" />
+		</sense>
+		<sense tag="形" vernacular="熟；熟悉">
+			<exam article="《西厢记诸宫调》" ref="稔闻是说。" />
+		</sense>
+	</pron>
+	<phrase value="稔色">
+		<sense value="容貌艳丽娇美" />
+	</phrase>
+</character>

@@ -1,0 +1,23 @@
+<character value="祚">
+	<introduce>
+		<pinyin value="zuo4" writing="zuò" />
+		<bushou value="礻" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="捺折竖捺撇横竖横横" />
+	</introduce>
+	<pron value="zuò">
+		<sense tag="名" vernacular="福；福分">
+			<exam article="《陈情表》" ref="门衰祚薄，晚有儿息。" />
+		</sense>
+		<sense tag="动" vernacular="赐福">
+			<exam article="《论衡·艺增》" ref="天地祚之，子孙众多。" />
+		</sense>
+		<sense tag="名" vernacular="皇位">
+			<exam article="《东都赋》" ref="往者王莽作逆，汉祚中缺。" />
+		</sense>
+		<sense tag="名" vernacular="年岁">
+			<exam article="《元会》" ref="初岁无祚，吉日惟良。" />
+		</sense>
+	</pron>
+</character>

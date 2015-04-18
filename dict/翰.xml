@@ -1,0 +1,29 @@
+<character value="翰">
+	<introduce>
+		<pinyin value="han4" writing="hàn" />
+		<bushou value="羽" />
+		<bushoustroke value="6" />
+		<stroke value="16" />
+		<order value="横竖竖折横横横竖撇捺折捺横折捺横" />
+	</introduce>
+	<pron value="hàn">
+		<sense tag="名" vernacular="赤羽的山鸡，也叫锦鸡">
+			<exam article="《逸周书·王会》" ref="文翰者若皋鸡。" />
+		</sense>
+		<sense tag="名" vernacular="毛笔，古代用羽毛制笔，故称笔为翰">
+			<exam article="《公宴诗》" ref="投翰长叹息。" />
+		</sense>
+		<sense tag="名" vernacular="文章">
+			<exam article="《文选序》" ref="义归乎翰藻。" />
+		</sense>
+		<sense tag="名" vernacular="白马">
+			<exam article="《礼记·檀弓》" ref="殷人尚白……戎事乘翰。" />
+		</sense>
+	</pron>
+	<phrase value="翰林">
+		<sense value="文翰之林，指人文学士聚集的场所，即文苑" />
+	</phrase>
+	<phrase value="翰长">
+		<sense value="对翰林前辈的敬称" />
+	</phrase>
+</character>

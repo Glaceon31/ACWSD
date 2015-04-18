@@ -1,0 +1,30 @@
+<character value="爽">
+	<introduce>
+		<pinyin value="shuang3" writing="shuăng" />
+		<bushou value="爻" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横撇捺撇捺撇捺撇捺撇捺" />
+	</introduce>
+	<pron value="shuǎng">
+		<sense tag="形" vernacular="明朗；清爽">
+			<exam article="《水经注·庐江水》" ref="风泽清旷，气爽节和。" />
+		</sense>
+		<sense tag="形" vernacular="直爽；爽快">
+			<exam article="《晋书·桓温传》" ref="温豪爽有风概。" />
+		</sense>
+		<sense tag="形" vernacular="过失；差错">
+			<exam article="《促织》" ref="少间，帘内掷一纸出，即道人意中事，无毫发爽。" />
+		</sense>
+		<sense tag="动" vernacular="伤；败坏">
+			<exam article="《老子》" ref="五音令爱耳聋，五味令人口爽。" />
+		</sense>
+	</pron>
+	<phrase value="爽气">
+		<sense value="清爽的空气" />
+		<sense value="豪爽的气概" />
+	</phrase>
+	<phrase value="爽约">
+		<sense value="失气" />
+	</phrase>
+</character>

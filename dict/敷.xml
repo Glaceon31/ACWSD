@@ -1,0 +1,32 @@
+<character value="敷">
+	<introduce>
+		<pinyin value="fu1" writing="fū" />
+		<bushou value="攵" />
+		<bushoustroke value="4" />
+		<stroke value="15" />
+		<order value="横竖折横横竖捺捺横折撇撇横撇捺" />
+	</introduce>
+	<pron value="fū">
+		<sense tag="动" vernacular="给予；施予">
+			<exam article="《尚书·康王之诰》" ref="戡定厥功，用敷遗后人休。" />
+		</sense>
+		<sense tag="形" vernacular="普遍；遍">
+			<exam article="《诗经·般》" ref="敷天之下。" />
+		</sense>
+		<sense tag="动" vernacular="传布；散布">
+			<exam article="《尚书·大禹谟》" ref="文命敷于四海，祗承于帝。" />
+		</sense>
+		<sense tag="动" vernacular="铺开；扩展">
+			<exam article="《采草药》" ref="用花者取花初敷时。" />
+		</sense>
+		<sense tag="动" vernacular="陈述；铺述">
+			<exam article="《文心雕龙·序志》" ref="迭文以定篇，敷理以举志。" />
+		</sense>
+		<sense tag="动" vernacular="搽；涂">
+			<exam article="《林黛玉进贾府》" ref="面如敷粉，唇若施脂。" />
+		</sense>
+		<sense tag="形" vernacular="足；够">
+			<exam article="《治平篇》" ref="吾以知其必不敷矣。" />
+		</sense>
+	</pron>
+</character>

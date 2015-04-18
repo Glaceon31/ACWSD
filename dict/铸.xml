@@ -1,0 +1,14 @@
+<character value="铸">
+	<introduce>
+		<pinyin value="zhu4" writing="zhù" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="撇横横横折横横横撇横竖捺" />
+	</introduce>
+	<pron value="zhù">
+		<sense tag="动" vernacular="铸造">
+			<exam article="《左传·昭公二十九年》" ref="铸刑鼎，著范宣子所为刑书焉。" />
+		</sense>
+	</pron>
+</character>

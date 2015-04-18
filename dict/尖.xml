@@ -1,0 +1,29 @@
+<character value="尖">
+	<introduce>
+		<pinyin value="jian1" writing="jiān" />
+		<bushou value="小" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="竖撇捺横撇捺" />
+	</introduce>
+	<pron value="jiān">
+		<sense tag="形" vernacular="（物体的末端）细小而尖锐">
+			<exam article="《送张十二参军赴蜀州因呈杨五侍御》" ref="两行秦树直，万点蜀山尖。" />
+		</sense>
+		<sense tag="名" vernacular="物体末端细小而尖锐的部分">
+			<exam article="《咏峰》" ref="不论平地与山尖，无限风光尽被占。" />
+		</sense>
+		<sense tag="形" vernacular="尖刻">
+			<exam article="《和座主相公面亭秋日即事》" ref="诗冷语多尖。" />
+		</sense>
+		<sense tag="形" vernacular="声音尖而细">
+			<exam article="《客思》" ref="促织声尖尖针似，更深刺著旅人心。" />
+		</sense>
+		<sense tag="形" vernacular="拔尖的；出色的">
+			<exam article="《红楼梦》" ref="留的尖儿，孝敬姑奶奶、姑娘们尝尝。" />
+		</sense>
+		<sense tag="动" vernacular="打尖，中途休息略进饮食">
+			<exam article="《儿女英雄传》" ref="说着，便告诉店里，我们那里尖，那里住。" />
+		</sense>
+	</pron>
+</character>

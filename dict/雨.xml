@@ -1,0 +1,29 @@
+<character value="雨">
+	<introduce>
+		<pinyin value="yu3" writing="yŭ" />
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="雨" />
+		<bushoustroke value="8" />
+		<stroke value="8" />
+		<order value="横竖折竖捺捺捺捺" />
+	</introduce>
+	<pron value="yǔ">
+		<sense tag="名" vernacular="雨">
+			<exam article="《殽之战》" ref="其北陵，文王之所辟风雨也。" />
+		</sense>
+	</pron>
+	<pron value="yǔ">
+		<sense tag="动" vernacular="下雨">
+			<exam article="《梦游天姥吟留别》" ref="云青青欲雨。" />
+		</sense>
+		<sense tag="动" vernacular="降落">
+			<exam article="《苏武传》" ref="天雨雪，武卧齧雪。" />
+		</sense>
+	</pron>
+	<phrase value="雨脚">
+		<sense value="像线一样的雨点" />
+	</phrase>
+	<phrase value="雨露">
+		<sense value="雨水和露水，比喻恩惠" />
+	</phrase>
+</character>

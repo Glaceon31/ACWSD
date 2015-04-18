@@ -1,0 +1,14 @@
+<character value="憬">
+	<introduce>
+		<pinyin value="jing3" writing="jĭng" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="捺捺竖竖折横横捺横竖折横竖撇捺" />
+	</introduce>
+	<pron value="jǐng">
+		<sense tag="形" vernacular="远行的样子">
+			<exam article="《诗经·鲁颂·泮水》" ref="憬彼淮夷，来献其琛。" />
+		</sense>
+	</pron>
+</character>

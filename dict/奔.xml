@@ -1,0 +1,32 @@
+<character value="奔">
+	<introduce>
+		<pinyin value="ben1" writing="bēn" />
+		<pinyin value="ben4" writing="bèn" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横撇捺横竖横撇竖" />
+	</introduce>
+	<pron value="bēn">
+		<sense tag="动" vernacular="跑;急跑" />
+		<sense tag="动" vernacular="逃亡;出走">
+			<exam article="《殽之战》" ref="杞子奔齐,逢孙、杨孙奔宋。" />
+			<exam article="《教战守策》" ref="四方之民兽奔鸟窜。" />
+		</sense>
+		<sense tag="形" vernacular="急速;迅疾">
+			<exam article="《将进酒》" ref="君不见黄河之水天上来,奔流到海不复回。" />
+		</sense>
+		<sense tag="动" vernacular="古时指女子不经媒人撮合而私自投奔所爱的人">
+			<exam article="《史记·司马相如列传》" ref="文君夜亡奔相如。" />
+		</sense>
+		<sense tag="名" vernacular="指飞奔的马">
+			<exam article="《三峡》" ref="虽乘奔御风，不以疾也。" />
+			<exam article="《与朱元思书》" ref="急湍若箭，猛浪若奔。" />
+		</sense>
+	</pron>
+	<pron value="bèn">
+		<sense tag="动" vernacular="投奔">
+			<exam article="《汉书·卫青传》" ref="遂将其馀骑可八百奔降单于。" />
+		</sense>
+	</pron>
+</character>

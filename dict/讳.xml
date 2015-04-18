@@ -1,0 +1,26 @@
+<character value="讳">
+	<introduce>
+		<pinyin value="hui4" writing="huì" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺折横横折竖" />
+	</introduce>
+	<pron value="huì">
+		<sense tag="动" vernacular="隐瞒">
+			<exam article="《杜十娘怒沉百宝箱》" ref="有事尽可商量，万勿讳也。" />
+		</sense>
+		<sense tag="动" vernacular="避忌；忌讳">
+			<exam article="《战国策·秦策》" ref="法令至行，公平无私，罚不讳强大。" />
+		</sense>
+		<sense tag="名" vernacular="特指对君主、尊长的名字避开不直称的一种礼节">
+			<exam article="《讳辨》" ref="汉讳武帝，名‘彻’为‘通’。" />
+		</sense>
+		<sense tag="名" vernacular="指应避忌的事物">
+			<exam article="《七谏》" ref="恐犯忌而干讳。" />
+		</sense>
+		<sense tag="形" vernacular="加在已故的君主、尊长的名字前，表示尊敬">
+			<exam article="《三国志·先主备传》" ref="先主姓刘，讳备，字玄德。" />
+		</sense>
+	</pron>
+</character>

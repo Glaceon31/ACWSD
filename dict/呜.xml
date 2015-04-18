@@ -1,0 +1,24 @@
+<character value="呜">
+	<introduce>
+		<pinyin value="wu1" writing="wū" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="竖折横撇折折横" />
+	</introduce>
+	<pron value="wū">
+		<sense tag="动" vernacular="哀叹；低声哭泣">
+			<exam article="《后汉书·袁安传》" ref="及与公卿言国家事，未尝不噫呜流涕。" />
+		</sense>
+		<sense tag="动" vernacular="轻声哼唱">
+			<exam article="《口技》" ref="妇拍而呜之。" />
+		</sense>
+	</pron>
+	<phrase value="呜呼">
+		<sense value="表示感慨；惊奇；悲哀等" />
+	</phrase>
+	<phrase value="呜咽">
+		<sense value="低声哭泣" />
+		<sense value="指凄要的流水声或丝竹声等" />
+	</phrase>
+</character>

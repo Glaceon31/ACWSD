@@ -1,0 +1,29 @@
+<character value="宽">
+	<introduce>
+		<pinyin value="kuan1" writing="kuān" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺折横竖竖竖折撇折" />
+	</introduce>
+	<pron value="kuān">
+		<sense tag="形" vernacular="宽阔；宽广">
+			<exam article="《送韦整尉长沙》" ref="云水洞庭宽。" />
+		</sense>
+		<sense tag="动" vernacular="放宽；放松">
+			<exam article="《狱中杂记》" ref="惟极贫无依，则械系不稍宽。" />
+		</sense>
+		<sense tag="动" vernacular="宽容；宽恕">
+			<exam article="《廉颇蔺相如列传》" ref="鄙贱之人，不知将军宽之至此。" />
+		</sense>
+		<sense tag="形" vernacular="宽容">
+			<exam article="《过秦论》" ref="此四君者，皆明智而忠信，宽厚而爱人。" />
+		</sense>
+		<sense tag="形" vernacular="宽裕；宽绰">
+			<exam article="《治平篇》" ref="以二人居屋十间，食田一顷，宽然有余矣。" />
+		</sense>
+		<sense tag="动" vernacular="宽松松缓">
+			<exam article="《蝶恋花》" ref="衣带渐宽终不悔，为伊消得人憔悴。" />
+		</sense>
+	</pron>
+</character>

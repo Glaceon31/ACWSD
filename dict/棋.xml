@@ -1,0 +1,17 @@
+<character value="棋">
+	<introduce>
+		<pinyin value="qi2" writing="qí" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖撇捺横竖竖横横横撇捺" />
+	</introduce>
+	<pron value="qí">
+		<sense tag="名" vernacular="弈具">
+			<exam article="《左传·襄公二十五年》" ref="弈者举棋不定，不胜其耦。" />
+		</sense>
+		<sense tag="动" vernacular="下棋">
+			<exam article="《王积薪闻棋》" ref="王积薪棋术功成，自谓天下无敌。" />
+		</sense>
+	</pron>
+</character>

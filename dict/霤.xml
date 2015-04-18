@@ -1,0 +1,20 @@
+<character value="霤">
+	<introduce>
+		<pinyin value="liu4" writing="liù" />
+		<bushou value="雨" />
+		<bushoustroke value="8" />
+		<stroke value="18" />
+		<order value="横捺折竖捺捺捺捺撇折捺折撇竖折横竖横" />
+	</introduce>
+	<pron value="liù">
+		<sense tag="动" vernacular="屋顶上的水往下流">
+			<exam article="《礼记·月令》" ref="其祀中霤。" />
+		</sense>
+		<sense tag="名" vernacular="屋中央">
+			<exam article="《公羊传·哀公六年》" ref="使国士举巨囊于中霤。" />
+		</sense>
+		<sense tag="名" vernacular="屋檐下接水的沟槽">
+			<exam article="《左传·定公九年》" ref="先登，求自门出，死于霤下。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,20 @@
+<character value="辇">
+	<introduce>
+		<pinyin value="nian3" writing="niăn" />
+		<bushou value="车" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横横撇捺横横撇捺横折横竖" />
+	</introduce>
+	<pron value="niǎn">
+		<sense tag="名" vernacular="人拉的车，后特指帝王或王后乘坐的车">
+			<exam article="《触龙说赵太后》" ref="老妇恃辇而行。" />
+		</sense>
+		<sense tag="动" vernacular="拉车；乘车">
+			<exam article="《阿房宫赋》" ref="辞楼下殿，辇来于秦。" />
+		</sense>
+	</pron>
+	<phrase value="辇毂">
+		<sense value="皇帝乘坐的车，用以代指皇帝，也泛指京城" />
+	</phrase>
+</character>

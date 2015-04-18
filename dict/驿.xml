@@ -1,0 +1,17 @@
+<character value="驿">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折折横折捺横横竖" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="名" vernacular="古代供传递文书使用的马；也指骑马传递文书的人">
+			<exam article="《张衡传》" ref="后数日驿至，果地震陇西。" />
+		</sense>
+		<sense tag="名" vernacular="传递文书的人或来往官员换马歇宿的地方">
+			<exam article="《雁荡山》" ref="此山南有芙蓉峰，峰下芙蓉驿，前瞰大海。" />
+		</sense>
+	</pron>
+</character>

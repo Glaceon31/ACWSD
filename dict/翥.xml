@@ -1,0 +1,14 @@
+<character value="翥">
+	<introduce>
+		<pinyin value="zhu4" writing="zhù" />
+		<bushou value="羽" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="横竖横撇竖折横横折捺横折捺横" />
+	</introduce>
+	<pron value="zhù">
+		<sense tag="动" vernacular="鸟飞">
+			<exam article="《楚辞·远游》" ref="鸾鸟轩翥而翔飞。" />
+		</sense>
+	</pron>
+</character>

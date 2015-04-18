@@ -1,0 +1,14 @@
+<character value="垣">
+	<introduce>
+		<pinyin value="yuan2" writing="yuán" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横横竖折横横横" />
+	</introduce>
+	<pron value="yuán">
+		<sense tag="名" vernacular="矮墙，泛指墙">
+			<exam article="《项脊轩志》" ref="垣墙周庭，以当南日。" />
+		</sense>
+	</pron>
+</character>

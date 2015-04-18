@@ -1,0 +1,53 @@
+<character value="贯">
+	<introduce>
+		<pinyin value="guan4" writing="guàn" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="折折竖横竖折撇捺" />
+	</introduce>
+	<pron value="guàn">
+		<sense tag="名" vernacular="穿钱的绳">
+			<exam article="《史记·平准书》" ref="京师之钱累巨万，贯朽而不可校。" />
+		</sense>
+		<sense tag="量" vernacular="古代货币单位">
+			<exam article="《智取生辰纲》" ref="五贯足钱一桶。" />
+		</sense>
+		<sense tag="动" vernacular="穿过">
+			<exam article="《柳毅传》" ref="然而恨贯肌骨，亦何能愧避。" />
+		</sense>
+		<sense tag="动" vernacular="融会贯通">
+			<exam article="《张衡传》" ref="遂通五经，贯六艺。" />
+		</sense>
+		<sense tag="名" vernacular="事；例">
+			<exam article="《论语·先进》" ref="仍旧贯，如之何？" />
+		</sense>
+		<sense tag="名" vernacular="条理">
+			<exam article="《屈原列传》" ref="明道德之广崇，治乱之条贯，靡不毕见。" />
+		</sense>
+		<sense tag="动" vernacular="侍奉；服侍">
+			<exam article="《硕鼠》" ref="三岁贯女，莫我肯顾。" />
+		</sense>
+		<sense tag="形" vernacular="通“惯”，习惯">
+			<exam article="《孟子·滕文公》" ref="我不贯与小人乘，请辞。" />
+		</sense>
+		<sense tag="名" vernacular="世代居住的地方；原籍">
+			<exam article="《隋书·食货志》" ref="其无贯之人，乐州县编户者，谓之浮浪人。" />
+		</sense>
+	</pron>
+	<phrase value="贯彻">
+		<sense value="上下贯穿，通达至底" />
+	</phrase>
+	<phrase value="贯日">
+		<sense value="一天又一天，积日" />
+		<sense value="遮蔽日光" />
+	</phrase>
+	<phrase value="贯叙">
+		<sense value="按次序叙录" />
+	</phrase>
+	<phrase value="贯鱼">
+		<sense value="成串的鱼" />
+		<sense value="比喻前后有次序" />
+		<sense value="也写作“鱼贯”" />
+	</phrase>
+</character>

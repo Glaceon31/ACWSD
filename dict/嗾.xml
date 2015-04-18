@@ -1,0 +1,18 @@
+<character value="嗾">
+	<introduce>
+		<pinyin value="sou3" writing="sŏu" />
+		<pinyin value="zu2" writing="zú" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="竖折横捺横折撇撇横撇横横撇捺" />
+	</introduce>
+	<pron value="sǒu">
+		<sense tag="动" vernacular="用嘴发出声音驱使狗">
+			<exam article="《左传·宣公二年》" ref="公嗾夫獒焉。" />
+		</sense>
+		<sense tag="动" vernacular="怂恿，唆使别人">
+			<exam article="《徐光启传》" ref="嗾台臣论劾。" />
+		</sense>
+	</pron>
+</character>

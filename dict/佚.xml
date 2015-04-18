@@ -1,0 +1,24 @@
+<character value="佚">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<pinyin value="die2" writing="dié" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇竖撇横横撇捺" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="动" vernacular="逃跑">
+			<exam article="《公羊传·成公二年》" ref="顷公用是佚而不反。" />
+		</sense>
+		<sense tag="动" vernacular="抛弃">
+			<exam article="《孟子·公孙丑上》" ref="遗佚而不怨。" />
+		</sense>
+		<sense tag="形" vernacular="放荡">
+			<exam article="《汉书·刑法志》" ref="男女淫佚。" />
+		</sense>
+		<sense tag="形" vernacular="通“逸”">
+			<exam article="《孙子兵法·军争》" ref="以近待远，以佚待劳。" />
+		</sense>
+	</pron>
+</character>

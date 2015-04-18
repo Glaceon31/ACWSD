@@ -1,0 +1,47 @@
+<character value="曾">
+	<introduce>
+		<pinyin value="ceng2" writing="céng" />
+		<pinyin value="zeng1" writing="zēng" />
+		<bushou value="曰" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="捺撇竖折竖捺撇横竖折横横" />
+	</introduce>
+	<pron value="céng">
+		<sense tag="副" vernacular="曾经">
+			<exam article="《陈情表》" ref="臣侍汤药，未曾废离。" />
+			<exam article="《琵琶行》" ref="同是天涯沦落人，相逢何必曾相识。" />
+			<exam article="《永遇乐·京口北固亭怀古》" ref="斜阳草树，寻常巷陌，人道寄奴曾往。" />
+		</sense>
+		<sense tag="形" vernacular="通“层”">
+			<exam article="《园葵》" ref="曾云无温液，严霜有疑威。" />
+		</sense>
+	</pron>
+	<pron value="zēng">
+		<sense tag="名" vernacular="与自己隔两代的亲属">
+			<exam article="《治平篇》" ref="是高、曾时为一户者，至曾、元时不分至十户不止。" />
+		</sense>
+		<sense tag="动" vernacular="通“增”">
+			<exam article="《生于忧患，死于安乐》" ref="所以动心忍性，曾益其所不能。" />
+		</sense>
+		<sense tag="副" vernacular="竟然；连……都；甚至">
+			<exam article="《愚公移山》" ref="以君之力，曾不能损魁父之丘，如太行、王屋何？" />
+			<exam article="《兰亭集序》" ref="当其欣于所遇，暂得于己，快然自足，曾不知老之将至。" />
+		</sense>
+		<sense tag="副" vernacular="乃；又">
+			<exam article="《登楼赋》" ref="虽信美而非吾土兮，曾何足以少留。" />
+		</sense>
+	</pron>
+	<phrase value="曾累">
+		<sense value="层层积累" />
+	</phrase>
+	<phrase value="曾阴">
+		<sense value="重叠的阴云" />
+	</phrase>
+	<phrase value="曾臣">
+		<sense value="犹末臣，古代诸侯对天子自称的谦词" />
+	</phrase>
+	<phrase value="曾翁">
+		<sense value="称别人的曾祖父" />
+	</phrase>
+</character>

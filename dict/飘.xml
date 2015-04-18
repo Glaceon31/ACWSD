@@ -1,0 +1,29 @@
+<character value="飘">
+	<introduce>
+		<pinyin value="piao1" writing="piāo" />
+		<bushou value="风" />
+		<bushoustroke value="4" />
+		<stroke value="15" />
+		<order value="横竖折竖竖横横横竖撇捺撇折撇捺" />
+	</introduce>
+	<pron value="piāo">
+		<sense tag="名" vernacular="旋风；大风">
+			<exam article="《离骚》" ref="飘风屯其相离兮，帅云霓而来御。" />
+		</sense>
+		<sense tag="动" vernacular="风吹；吹动">
+			<exam article="《过零丁洋》" ref="山河破碎风飘絮。" />
+		</sense>
+		<sense tag="动" vernacular="随风摆动；飘扬">
+			<exam article="《茅屋为秋风所破歌》" ref="高者挂罥长林梢，下者飘转沉塘坳。" />
+		</sense>
+	</pron>
+	<phrase value="飘忽">
+		<sense value="轻快迅疾的样子" />
+	</phrase>
+	<phrase value="飘蓬">
+		<sense value="蓬蒿随风飘飞，比喻漂泊不定的生活" />
+	</phrase>
+	<phrase value="飘萧">
+		<sense value="飘动" />
+	</phrase>
+</character>

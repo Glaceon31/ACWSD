@@ -1,0 +1,23 @@
+<character value="魁">
+	<introduce>
+		<pinyin value="kui2" writing="kuí" />
+		<bushou value="鬼" />
+		<bushoustroke value="9" />
+		<stroke value="13" />
+		<order value="撇竖折横横撇折折捺捺捺横竖" />
+	</introduce>
+	<pron value="kuí">
+		<sense tag="名" vernacular="勺子；调羹">
+			<exam article="《齐民要术·种榆》" ref="十年之后，魁、碗、瓶、榼、器皿，无所不在。" />
+		</sense>
+		<sense tag="名" vernacular="头目；首领">
+			<exam article="《汉书·游侠传》" ref="闾里之侠，原涉为魁。" />
+		</sense>
+		<sense tag="形" vernacular="高大平；魁梧">
+			<exam article="《汉书·张良传》" ref="闻张良之智勇，为其貌魁梧奇伟。" />
+		</sense>
+		<sense tag="名" vernacular="星名，北斗七星中形成斗形的四颗星">
+			<exam article="《三国志·吴书·吴主传》" ref="犯魁第二星而东。" />
+		</sense>
+	</pron>
+</character>

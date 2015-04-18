@@ -1,0 +1,20 @@
+<character value="泄">
+	<introduce>
+		<pinyin value="xie4" writing="xiè" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺横横竖竖横折" />
+	</introduce>
+	<pron value="xiè">
+		<sense tag="动" vernacular="泄漏；流出">
+			<exam article="《苦斋记》" ref="其泄水皆啮石出。" />
+		</sense>
+		<sense tag="动" vernacular="表露；显露">
+			<exam article="《订鬼》" ref="夫精念存想，或泄于目，或泄于耳。" />
+		</sense>
+	</pron>
+	<phrase value="泄用">
+		<sense value="混用" />
+	</phrase>
+</character>

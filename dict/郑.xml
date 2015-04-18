@@ -1,0 +1,16 @@
+<character value="郑">
+	<introduce>
+		<pinyin value="zheng4" writing="zhèng" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺撇横横撇捺折竖" />
+	</introduce>
+	<pron value="zhèng">
+		<sense tag="名" vernacular="姓" />
+		<sense tag="名" vernacular="周代的诸侯国，在今河南新郑一带" />
+	</pron>
+	<phrase value="郑重">
+		<sense value="频繁" />
+	</phrase>
+</character>

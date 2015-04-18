@@ -1,0 +1,21 @@
+<character value="簇">
+	<introduce>
+		<pinyin value="cu4" writing="cù" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="17" />
+		<order value="撇横捺撇横捺捺横折撇撇横撇横横撇捺" />
+	</introduce>
+	<pron value="cù">
+		<sense tag="动" vernacular="聚集；簇拥">
+			<exam article="《舟夜书所见》" ref="微微风簇浪，散作满河星。" />
+		</sense>
+		<sense tag="量" vernacular="丛；团">
+			<exam article="《江畔独步寻花》" ref="桃花一簇开无主，可爱深红爱线红？" />
+			<exam article="《林教头风雪山神庙》" ref="又行了一回，望见一簇人家。" />
+		</sense>
+	</pron>
+	<phrase value="簇新">
+		<sense value="崭新" />
+	</phrase>
+</character>

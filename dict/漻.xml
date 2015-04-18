@@ -1,0 +1,28 @@
+<character value="漻">
+	<introduce>
+		<pinyin value="liao2" writing="liáo" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="捺捺横折捺横折捺横撇捺撇撇撇" />
+	</introduce>
+	<pron value="liáo">
+		<sense tag="形" vernacular="水清澈的样子">
+			<exam article="《庄子·天地》" ref="夫道，渊乎其居也，漻乎其清也。" />
+		</sense>
+		<sense tag="动" vernacular="流动">
+			<exam article="《吕氏春秋·古乐》" ref="通大川，决壅塞，凿龙门，降通漻水以导河。" />
+		</sense>
+		<sense tag="形" vernacular="通“寥”">
+			<exam article="《楚辞·九辩》" ref="寂漻兮收潦而水清。" />
+		</sense>
+	</pron>
+	<pron value="liú">
+		<sense tag="形" vernacular="变化的样子">
+			<exam article="《庄子·知北遊》" ref="人生天地之间若白驹之过隙，……油然漻然，莫不入焉。" />
+		</sense>
+	</pron>
+	<phrase value="漻涙">
+		<sense value="水急流的样子" />
+	</phrase>
+</character>

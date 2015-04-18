@@ -1,0 +1,15 @@
+<character value="谮">
+	<introduce>
+		<pinyin value="jian4" writing="jiàn" />
+		<pinyin value="zen4" writing="zèn" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="14" />
+		<order value="捺折横折撇折横折撇折竖折横横" />
+	</introduce>
+	<pron value="zèn">
+		<sense tag="动" vernacular="说坏话诬陷别人">
+			<exam article="《荀子·致士》" ref="残贼加累之谮，君子不用。" />
+		</sense>
+	</pron>
+</character>

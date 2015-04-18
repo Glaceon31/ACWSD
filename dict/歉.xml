@@ -1,0 +1,14 @@
+<character value="歉">
+	<introduce>
+		<pinyin value="qian4" writing="qiàn" />
+		<bushou value="欠" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="捺撇横折横横竖竖撇捺撇折撇捺" />
+	</introduce>
+	<pron value="qiàn">
+		<sense tag="形" vernacular="年岁欠收，收成不好">
+			<exam article="《宋史·黄廉传》" ref="是使民遇丰年而思歉岁也。" />
+		</sense>
+	</pron>
+</character>

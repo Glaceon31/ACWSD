@@ -1,0 +1,50 @@
+<character value="见">
+	<introduce>
+		<pinyin value="jian4" writing="jiàn" />
+		<pinyin value="xian4" writing="xiàn" />
+		<bushou value="见" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="竖折撇折" />
+	</introduce>
+	<pron value="jiàn">
+		<sense tag="动" vernacular="看；看到">
+			<exam article="《齐桓晋文之事》" ref="见牛未见羊也。" />
+		</sense>
+		<sense tag="动" vernacular="遇见；碰见">
+			<exam article="《回乡偶书》" ref="儿童相见不相识。" />
+		</sense>
+		<sense tag="动" vernacular="见面；会面">
+			<exam article="《琵琶行》" ref="移船相近邀相见。" />
+		</sense>
+		<sense tag="动" vernacular="拜见；谒见">
+			<exam article="《邹忌讽齐王纳谏》" ref="于是入朝见威王。" />
+		</sense>
+		<sense tag="动" vernacular="召见；接见">
+			<exam article="《廉颇蔺相如列传》" ref="秦王坐章台见相如。" />
+		</sense>
+		<sense tag="动" vernacular="知道；懂得">
+			<exam article="《示儿》" ref="乃翁见事可怜迟。" />
+		</sense>
+		<sense tag="动" vernacular="听见；听到">
+			<exam article="《林黛玉进贾府》" ref="总不许见哭声。" />
+		</sense>
+		<sense tag="名" vernacular="见解；见识">
+			<exam article="《晋书·王浑传》" ref="敢陈愚见。" />
+		</sense>
+		<sense tag="副" vernacular="用在动词前，表被动，译为“被”">
+			<exam article="《屈原列传》" ref="信而见疑，忠而被谤。" />
+		</sense>
+		<sense tag="副" vernacular="在动词前，表示说话人自己，可译为“我”">
+			<exam article="《孔雀东南飞》" ref="君既若见录，不久望君来。" />
+		</sense>
+	</pron>
+	<pron value="xiàn">
+		<sense tag="动" vernacular="同“现”，出现；显现">
+			<exam article="《毛遂自荐》" ref="锥之处囊中，其未立见。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……拜见">
+			<exam article="《荷蓧丈人》" ref="止子路宿，杀鸡为黍而食之，见其二子焉。" />
+		</sense>
+	</pron>
+</character>

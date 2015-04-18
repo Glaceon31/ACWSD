@@ -1,0 +1,18 @@
+<character value="渚">
+	<introduce>
+		<pinyin value="zhu3" writing="zhŭ" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺横横竖横撇竖折横横" />
+	</introduce>
+	<pron value="zhǔ">
+		<sense tag="名" vernacular="水中的小洲">
+			<exam article="《赤壁赋》" ref="况吾与子渔樵于江渚之上。" />
+			<exam article="《登高》" ref="渚清沙白鸟飞回。" />
+		</sense>
+		<sense tag="名" vernacular="海岛">
+			<exam article="《山海经·大荒东经》" ref="东海之渚中神，人机鸟身。" />
+		</sense>
+	</pron>
+</character>

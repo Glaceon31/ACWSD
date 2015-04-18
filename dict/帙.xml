@@ -1,0 +1,17 @@
+<character value="帙">
+	<introduce>
+		<pinyin value="zhi4" writing="zhì" />
+		<bushou value="巾" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="竖折竖撇横横撇捺" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="名" vernacular="包书的布套">
+			<exam article="《杨仲武诔》" ref="披帙散书，屡睹遗文。" />
+		</sense>
+		<sense tag="量" vernacular="用于书籍">
+			<exam article="《长庆集·后序》" ref="凡五帙，每帙十卷。" />
+		</sense>
+	</pron>
+</character>

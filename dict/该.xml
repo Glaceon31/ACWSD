@@ -1,0 +1,20 @@
+<character value="该">
+	<introduce>
+		<pinyin value="gai1" writing="gāi" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺折捺横折撇撇捺" />
+	</introduce>
+	<pron value="gāi">
+		<sense tag="动" vernacular="具备">
+			<exam article="《七发》" ref="滋味杂陈，肴糅错该。" />
+		</sense>
+		<sense tag="副" vernacular="当;应该">
+			<exam article="《洛下卜居》" ref="该知是劳费,其奈心爱惜。" />
+		</sense>
+		<sense tag="动" vernacular="欠">
+			<exam article="《红楼梦》" ref="人家该咱们的……算一算。" />
+		</sense>
+	</pron>
+</character>

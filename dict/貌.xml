@@ -1,0 +1,26 @@
+<character value="貌">
+	<introduce>
+		<pinyin value="mao4" writing="mào" />
+		<bushou value="豸" />
+		<bushoustroke value="7" />
+		<stroke value="14" />
+		<order value="撇捺捺撇折撇撇撇竖折横横撇折" />
+	</introduce>
+	<pron value="mào">
+		<sense tag="名" vernacular="相貌；面容">
+			<exam article="《大铁椎传》" ref="时座上有健啖客，貌甚寝。" />
+		</sense>
+		<sense tag="名" vernacular="表情；神态">
+			<exam article="《捕蛇者说》" ref="言之，貌若甚戚者。" />
+		</sense>
+		<sense tag="名" vernacular="外表；外观">
+			<exam article="《&lt;指南录&gt;后序》" ref="北虽貌敬，实则愤怒。" />
+		</sense>
+	</pron>
+	<phrase value="貌侵">
+		<sense value="形貌矮小丑陋" />
+	</phrase>
+	<phrase value="貌言">
+		<sense value="谀辞，谄媚逢迎之语" />
+	</phrase>
+</character>

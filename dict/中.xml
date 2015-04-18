@@ -1,0 +1,66 @@
+<character value="中">
+	<introduce>
+		<pinyin value="zhong1" writing="zhōng" />
+		<pinyin value="zhong4" writing="zhòng" />
+		<bushou value="丨" />
+		<bushoustroke value="1" />
+		<stroke value="4" />
+		<order value="竖折横竖" />
+	</introduce>
+	<pron value="zhōng">
+		<sense tag="名" vernacular="内；里">
+			<exam article="《狼》" ref="一屠晚归，担中肉尽。" />
+		</sense>
+		<sense tag="名" vernacular="中间；内部">
+			<exam article="《石钟山记》" ref="有大石当中流。" />
+		</sense>
+		<sense tag="形" vernacular="半；一半">
+			<exam article="《乐羊子妻》" ref="若中道而归，何异断斯织乎。" />
+		</sense>
+		<sense tag="形" vernacular="中等；不高，不低">
+			<exam article="《邹忌讽齐王纳谏》" ref="上书谏寡人者，受中赏。" />
+		</sense>
+		<sense tag="名" vernacular="内心">
+			<exam article="《史记·韩安国列传》" ref="深中隐厚。" />
+		</sense>
+		<sense tag="名" vernacular="中国">
+			<exam article="《图画》" ref="图画之设彩者，用水彩，中外所同也。" />
+		</sense>
+	</pron>
+	<pron value="zhòng">
+		<sense tag="动" vernacular="符合">
+			<exam article="《劝学》" ref="木直中绳，輮以为轮，其曲中规。" />
+		</sense>
+		<sense tag="动" vernacular="射中">
+			<exam article="《卖油翁》" ref="见其矢十中八九。" />
+		</sense>
+		<sense tag="动" vernacular="击中">
+			<exam article="《荆轲刺秦王》" ref="乃引其匕首提秦王，不中。" />
+		</sense>
+		<sense tag="动" vernacular="考中">
+			<exam article="《范时中举》" ref="你恭喜中了举人。" />
+		</sense>
+		<sense tag="动" vernacular="猜中">
+			<exam article="《醉翁亭记》" ref="射者中，弈者胜。" />
+		</sense>
+		<sense tag="动" vernacular="中伤">
+			<exam article="《书博鸡者事》" ref="臧怒，欲中守法。" />
+		</sense>
+	</pron>
+	<phrase value="中肠">
+		<sense value="内心" />
+	</phrase>
+	<phrase value="中人">
+		<sense value="平常人" />
+		<sense value="朝中公卿大臣" />
+		<sense value="指宦官；太监" />
+		<sense value="宫女" />
+	</phrase>
+	<phrase value="中节">
+		<sense value="适度" />
+	</phrase>
+	<phrase value="中式">
+		<sense value="科举考试被录取" />
+		<sense value="符合规格" />
+	</phrase>
+</character>

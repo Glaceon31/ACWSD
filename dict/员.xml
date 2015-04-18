@@ -1,0 +1,36 @@
+<character value="员">
+	<introduce>
+		<pinyin value="yuan2" writing="yuán" />
+		<pinyin value="yun2" writing="yún" />
+		<pinyin value="yun4" writing="yùn" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="竖折横竖折撇捺" />
+	</introduce>
+	<pron value="yuán">
+		<sense tag="名" vernacular="人数；定额">
+			<exam article="《毛遂自荐》" ref="今少一人，愿君以遂备员而行矣。" />
+		</sense>
+		<sense tag="量" vernacular="用于将领和官员">
+			<exam article="《失街亭》" ref="再拨一员上将，相助你去。" />
+		</sense>
+		<sense tag="名" vernacular="通“圆”，圆形">
+			<exam article="《张衡传》" ref="员径八尺，合盖隆起，形似酒尊。" />
+		</sense>
+	</pron>
+	<pron value="yún">
+		<sense tag="动" vernacular="增加；扩大">
+			<exam article="《诗经·正月》" ref="无弃尔辅，员于尔幅。" />
+		</sense>
+		<sense tag="助" vernacular="语气助词，相当于“云”">
+			<exam article="《诗经·出其东门》" ref="缟衣綦巾，聊乐我员。" />
+		</sense>
+		<sense vernacular="yùn姓" />
+	</pron>
+	<phrase value="员外">
+		<sense value="古代官名" />
+		<sense value="员外郎的简称" />
+		<sense value="有钱有势的豪绅" />
+	</phrase>
+</character>

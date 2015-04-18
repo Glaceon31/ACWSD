@@ -1,0 +1,21 @@
+<character value="毖">
+	<introduce>
+		<pinyin value="bi4" writing="bì" />
+		<bushou value="比" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横折撇折捺折捺撇捺" />
+	</introduce>
+	<pron value="bì">
+		<sense tag="形" vernacular="谨慎;小心">
+			<exam article="《周颂·小毖》" ref="予其惩而毖后患。" />
+		</sense>
+		<sense tag="形" vernacular="勤劳，操劳">
+			<exam article="《尚书·大诰》" ref="无毖于恤。" />
+		</sense>
+		<sense tag="动" vernacular="犒劳，慰劳" />
+		<sense vernacular="通“泌”，泉水涌出">
+			<exam article="《魏都赋》" ref="温泉毖涌而自浪。" />
+		</sense>
+	</pron>
+</character>

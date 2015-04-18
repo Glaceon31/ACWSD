@@ -1,0 +1,35 @@
+<character value="按">
+	<introduce>
+		<pinyin value="an4" writing="àn" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横捺捺折折撇横" />
+	</introduce>
+	<pron value="àn">
+		<sense tag="动" vernacular="用手压或摁">
+			<exam article="《活板》" ref="以一平板按其面,则字平如砥。" />
+		</sense>
+		<sense tag="动" vernacular="抚;握">
+			<exam article="《鸿门宴》" ref="项王按剑而跽。" />
+		</sense>
+		<sense tag="动" vernacular="压抑">
+			<exam article="《赤壁之战》" ref="何不按兵束甲,北面而事之" />
+		</sense>
+		<sense tag="动" vernacular="控制">
+			<exam article="《周五夫军细柳》" ref="于是天子乃按辔徐行。" />
+		</sense>
+		<sense tag="动" vernacular="止">
+			<exam article="《失街亭》" ref="若街亭有兵守御,即当按乓不行。" />
+		</sense>
+		<sense tag="动" vernacular="查看;巡察">
+			<exam article="《雁荡山》" ref="按西域书,阿罗汉诺矩罗居震旦东南大海际雁荡山芙蓉峰龙湫。" />
+		</sense>
+		<sense tag="动" vernacular="审查;查究">
+			<exam article="《五人墓碑记》" ref="以吴民之乱请于朝,按诛五人。" />
+		</sense>
+	</pron>
+	<phrase value="按比">
+		<sense value="核定户籍时检查年貌,也作“案比”" />
+	</phrase>
+</character>

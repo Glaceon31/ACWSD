@@ -1,0 +1,14 @@
+<character value="荟">
+	<introduce>
+		<pinyin value="hui4" writing="huì" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖竖撇捺横横折捺" />
+	</introduce>
+	<pron value="huì">
+		<sense tag="形" vernacular="草多的样子">
+			<exam article="《江赋》" ref="潜荟葱茏。" />
+		</sense>
+	</pron>
+</character>

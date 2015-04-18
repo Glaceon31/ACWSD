@@ -1,0 +1,20 @@
+<character value="屋">
+	<introduce>
+		<pinyin value="wu1" writing="wū" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折横撇横折捺横竖横" />
+	</introduce>
+	<pron value="wū">
+		<sense tag="名" vernacular="本义为屋顶，后泛指房屋">
+			<exam article="《茅屋为秋风所破歌》" ref="卷我屋上三重茅。" />
+		</sense>
+		<sense tag="名" vernacular="泛指覆盖物，如车盖等">
+			<exam article="《史记·项羽本纪》" ref="纪信乘黄屋车。" />
+		</sense>
+	</pron>
+	<phrase value="屋除">
+		<sense value="屋前台阶" />
+	</phrase>
+</character>

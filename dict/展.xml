@@ -1,0 +1,35 @@
+<character value="展">
+	<introduce>
+		<pinyin value="zhan3" writing="zhăn" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="折横撇横竖竖横折撇捺" />
+	</introduce>
+	<pron value="zhǎn">
+		<sense tag="动" vernacular="伸展">
+			<exam article="《庄子·盗跖》" ref="两展其足，案剑瞋目。" />
+		</sense>
+		<sense tag="动" vernacular="施展">
+			<exam article="《名都篇》" ref="余巧兮未展。" />
+		</sense>
+		<sense tag="动" vernacular="陈列">
+			<exam article="《东君》" ref="展诗兮会舞。" />
+		</sense>
+		<sense tag="动" vernacular="察看；省视">
+			<exam article="《促织》" ref="展玩不可晓。" />
+		</sense>
+		<sense tag="形" vernacular="诚实">
+			<exam article="《诗经·雄雉》" ref="展兮君子。" />
+		</sense>
+		<sense tag="副" vernacular="确实">
+			<exam article="《诗经·猗嗟》" ref="展我甥兮。" />
+		</sense>
+	</pron>
+	<phrase value="展礼">
+		<sense value="行礼" />
+	</phrase>
+	<phrase value="展眉">
+		<sense value="因喜悦而展开眉头" />
+	</phrase>
+</character>

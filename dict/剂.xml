@@ -1,0 +1,30 @@
+<character value="剂">
+	<introduce>
+		<pinyin value="ji4" writing="jì" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺横撇捺撇竖竖竖" />
+	</introduce>
+	<pron value="jì">
+		<sense tag="动" vernacular="调节；调剂">
+			<exam article="《治平篇》" ref="水旱疾疫，即天地调剂之法。" />
+		</sense>
+		<sense tag="名" vernacular="药剂；根据药方由多种药物配成的药">
+			<exam article="《新唐书·吴凑传》" ref="诏侍医敦进汤剂。" />
+		</sense>
+		<sense tag="名" vernacular="剂量；定量">
+			<exam article="《三国志·魏书·华佗传》" ref="心解分剂，不复称量。" />
+		</sense>
+		<sense tag="量" vernacular="付">
+			<exam article="《世说新语·术解》" ref="合一剂汤与之。" />
+		</sense>
+	</pron>
+	<phrase value="剂刀">
+		<sense value="剪刀" />
+	</phrase>
+	<phrase value="剂信">
+		<sense value="刻券以明信" />
+		<sense value="指信用" />
+	</phrase>
+</character>

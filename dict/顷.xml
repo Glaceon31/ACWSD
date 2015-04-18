@@ -1,0 +1,26 @@
+<character value="顷">
+	<introduce>
+		<pinyin value="qing3" writing="qĭng" />
+		<bushou value="页" />
+		<bushoustroke value="6" />
+		<stroke value="8" />
+		<order value="横折横撇竖折撇捺" />
+	</introduce>
+	<pron value="qǐng">
+		<sense tag="量" vernacular="一百亩为一顷">
+			<exam article="《祭十二郎文》" ref="当求数顷之田于伊、颖上。" />
+		</sense>
+		<sense tag="名" vernacular="少时；片刻">
+			<exam article="《赤壁之战》" ref="顷之，烟炎张天。" />
+		</sense>
+		<sense tag="副" vernacular="近来；不久前；刚才">
+			<exam article="《与吴质书》" ref="顷何以自娱？" />
+		</sense>
+	</pron>
+	<phrase value="顷年">
+		<sense value="近年" />
+	</phrase>
+	<phrase value="顷之">
+		<sense value="不久，一会儿" />
+	</phrase>
+</character>

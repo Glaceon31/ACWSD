@@ -1,0 +1,15 @@
+<character value="孜">
+	<introduce>
+		<pinyin value="zi1" writing="zī" />
+		<bushou value="子" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折竖横撇横撇捺" />
+	</introduce>
+	<pron value="zī">
+		<sense vernacular="见“孜孜”" />
+	</pron>
+	<phrase value="孜孜">
+		<sense value="勤勉，努力不懈的样子" />
+	</phrase>
+</character>

@@ -1,0 +1,50 @@
+<character value="斥">
+	<introduce>
+		<pinyin value="chi4" writing="chì" />
+		<bushou value="斤" />
+		<bushoustroke value="4" />
+		<stroke value="5" />
+		<order value="撇撇横竖捺" />
+	</introduce>
+	<pron value="chì">
+		<sense tag="动" vernacular="排斥，斥退">
+			<exam article="《汉书·武帝纪》" ref="与闻国政而益于民者斥。" />
+			<exam article="《盐铁论·利议》" ref="是孔丘斥逐于鲁君，曾不用于世也" />
+		</sense>
+		<sense tag="动" vernacular="责备，斥责（后起意义）">
+			<exam article="《论秦始皇废分封立郡县》" ref="斥秦之私，而欲私其子孙以长存，又岂天下之大公哉？" />
+		</sense>
+		<sense tag="名" vernacular="指">
+			<exam article="《六逆论》" ref="盖斥言择嗣之道。" />
+		</sense>
+		<sense tag="动" vernacular="开拓">
+			<exam article="《盐铁论·非鞅》" ref="斥地千里。" />
+		</sense>
+		<sense tag="动" vernacular="侦察，探测">
+			<exam article="《左传·襄公十八年》" ref="晋人使司马斥山泽之险。" />
+		</sense>
+		<sense vernacular="碱卤，盐碱地">
+			<exam article="《管子·地员》" ref="五沃之土，干而不斥。" />
+		</sense>
+	</pron>
+	<phrase value="斥斥">
+		<sense value="广大的样子" />
+	</phrase>
+	<phrase value="斥侯">
+		<sense value="侦察；候望" />
+		<sense value="《尚书·禹贡》：“五百里侯服" />
+		<sense value="”孔安国传：“侯，侯也" />
+	</phrase>
+	<phrase value="斥近">
+		<sense value="贴近" />
+	</phrase>
+	<phrase value="斥卤">
+		<sense value="盐碱地" />
+	</phrase>
+	<phrase value="斥卖">
+		<sense value="卖掉" />
+	</phrase>
+	<phrase value="斥逐">
+		<sense value="驱逐，斥退" />
+	</phrase>
+</character>

@@ -1,0 +1,19 @@
+<character value="忸">
+	<introduce>
+		<pinyin value="niu3" writing="niŭ" />
+		<pinyin value="nu4" writing="nǜ" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺竖折竖横横" />
+	</introduce>
+	<pron value="niǔ">
+		<sense tag="形" vernacular="羞惭" />
+		<sense tag="动" vernacular="习惯">
+			<exam article="《荀子·议兵》" ref="忸之以庆赏，鰌之以刑罚。" />
+		</sense>
+	</pron>
+	<phrase value="忸怩">
+		<sense value="羞愧的样子" />
+	</phrase>
+</character>

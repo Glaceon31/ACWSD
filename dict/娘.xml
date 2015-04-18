@@ -1,0 +1,23 @@
+<character value="娘">
+	<introduce>
+		<pinyin value="niang2" writing="niáng" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="折撇横捺折横横折撇捺" />
+	</introduce>
+	<pron value="niáng">
+		<sense tag="名" vernacular="母亲">
+			<exam article="《木兰诗》" ref="爷娘闻女来，出郭相扶将。" />
+		</sense>
+		<sense tag="名" vernacular="长辈女性或已婚的年长的妇女" />
+		<sense tag="名" vernacular="妇女的泛称，古代多指青年女子">
+			<exam article="《乐府诗集·黄竹子歌》" ref="一船使两浆，得娘还故乡。" />
+		</sense>
+	</pron>
+	<phrase value="娘娘">
+		<sense value="母亲" />
+		<sense value="皇后；宫妃" />
+		<sense value="女神" />
+	</phrase>
+</character>

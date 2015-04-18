@@ -1,0 +1,26 @@
+<character value="役">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="彳" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="撇撇竖撇折折捺" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="名" vernacular="兵役">
+			<exam article="《石壕吏》" ref="急应河阳役，犹得备晨炊。" />
+		</sense>
+		<sense tag="名" vernacular="劳役">
+			<exam article="《捕蛇者说》" ref="更若役，复若赋，则何如？" />
+		</sense>
+		<sense tag="名" vernacular="战争；战役">
+			<exam article="《&lt;黄花冈七十二烈士事略&gt;序》" ref="死事之惨，以辛亥三月二十九日围攻两广督署之役为最。" />
+		</sense>
+		<sense tag="动" vernacular="驱使；役使">
+			<exam article="《归去来辞》" ref="既自以心为形役，奚惆怅而独悲？" />
+		</sense>
+		<sense tag="名" vernacular="门徒">
+			<exam article="《庄子·更桑楚》" ref="老聃之役，有庚桑楚者，偏得老聃之道。" />
+		</sense>
+	</pron>
+</character>

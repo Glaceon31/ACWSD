@@ -1,0 +1,33 @@
+<character value="莫">
+	<introduce>
+		<pinyin value="mo4" writing="mò" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖竖竖折横横横撇捺" />
+	</introduce>
+	<pron value="mò">
+		<sense tag="代" vernacular="没有什么；没有谁">
+			<exam article="《齐桓晋文之事》" ref="保民而王，莫之能御也。" />
+		</sense>
+		<sense tag="副" vernacular="不要；别">
+			<exam article="《孔雀东南飞》" ref="初七及下九，嬉戏莫莫相忘。" />
+		</sense>
+		<sense tag="副" vernacular="没有；不">
+			<exam article="《促织》" ref="成仓猝莫知所救，顿足失色。" />
+			<exam article="《赤壁赋》" ref="盈虚者如彼，而卒莫消长也。" />
+		</sense>
+	</pron>
+	<pron value="mù">
+		<sense tag="名" vernacular="通“暮”">
+			<exam article="《石钟山记》" ref="至莫夜月明，独与迈乘小舟至绝壁之下。" />
+		</sense>
+	</pron>
+	<phrase value="莫莫">
+		<sense value="茂密的样子" />
+		<sense value="尘土飞扬的样子" />
+		<sense value="广大的样子" />
+		<sense value="暗暗地；不声不响地" />
+		<sense value="⒌敬谨的样子" />
+	</phrase>
+</character>

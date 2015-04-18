@@ -1,0 +1,14 @@
+<character value="幔">
+	<introduce>
+		<pinyin value="man4" writing="màn" />
+		<bushou value="巾" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="竖折竖竖折横横竖折竖竖横折捺" />
+	</introduce>
+	<pron value="màn">
+		<sense tag="名" vernacular="帐幕">
+			<exam article="《墨子·非攻》" ref="幔幕帷盖，三军之用。" />
+		</sense>
+	</pron>
+</character>

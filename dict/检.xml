@@ -1,0 +1,23 @@
+<character value="检">
+	<introduce>
+		<pinyin value="jian3" writing="jiăn" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横竖撇捺撇捺横捺捺撇横" />
+	</introduce>
+	<pron value="jiǎn">
+		<sense tag="名" vernacular="法度；法则；方式">
+			<exam article="《典论·论文》" ref="节奏同检。" />
+			<exam article="《文心雕龙·物色》" ref="然物有恒姿，而思无定检。" />
+		</sense>
+		<sense tag="动" vernacular="收敛；约束；检点">
+			<exam article="《啸赋》" ref="宁子检手而叹息。" />
+			<exam article="《三国志·魏书·锺会传》" ref="会于是禁检士众不得钞略。" />
+			<exam article="《让中书令表》" ref="少无检操。" />
+		</sense>
+		<sense tag="动" vernacular="查看；查验">
+			<exam article="《收租调令》" ref="郡国守相明检察之。" />
+		</sense>
+	</pron>
+</character>

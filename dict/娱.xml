@@ -1,0 +1,23 @@
+<character value="娱">
+	<introduce>
+		<pinyin value="yu2" writing="yú" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="折撇横竖折横横横撇捺" />
+	</introduce>
+	<pron value="yú">
+		<sense tag="形" vernacular="欢乐">
+			<exam article="《五柳先生传》" ref="常著文章自娱，颇示己志。" />
+		</sense>
+		<sense tag="形使动" vernacular="使……快乐">
+			<exam article="《墨池记》" ref="而尝极东方，出沧海，以娱其意于山水之间。" />
+		</sense>
+		<sense tag="名" vernacular="乐趣">
+			<exam article="《兰亭集序》" ref="足以极视听之娱，信可乐也。" />
+		</sense>
+	</pron>
+	<phrase value="娱志">
+		<sense value="寄托高尚的志向" />
+	</phrase>
+</character>

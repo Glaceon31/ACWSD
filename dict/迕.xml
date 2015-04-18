@@ -1,0 +1,20 @@
+<character value="迕">
+	<introduce>
+		<pinyin value="wu3" writing="wŭ" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="撇横横竖捺折捺" />
+	</introduce>
+	<pron value="wǔ">
+		<sense tag="动" vernacular="违反；抵触">
+			<exam article="《论贵粟疏》" ref="上下相反，好恶乖迕。" />
+		</sense>
+		<sense tag="动" vernacular="相遇">
+			<exam article="《后汉书·陈蕃传》" ref="王甫时出，与番相迕，适闻其言。" />
+		</sense>
+		<sense tag="动" vernacular="交错">
+			<exam article="《风赋》" ref="耾耾雷声，回穴错迕。" />
+		</sense>
+	</pron>
+</character>

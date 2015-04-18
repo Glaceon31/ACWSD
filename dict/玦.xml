@@ -1,0 +1,15 @@
+<character value="玦">
+	<introduce>
+		<pinyin value="jue2" writing="jué" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横横竖横折横撇捺" />
+	</introduce>
+	<pron value="jué">
+		<sense tag="名" vernacular="有缺口的环形佩玉">
+			<exam article="《鸿门宴》" ref="范曾数目项王，举所佩玉玦以示之者三。" />
+			<exam article="《湘君》" ref="捐余玦兮江中。" />
+		</sense>
+	</pron>
+</character>

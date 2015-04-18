@@ -1,0 +1,17 @@
+<character value="烽">
+	<introduce>
+		<pinyin value="feng1" writing="fēng" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="捺撇撇捺撇折捺横横横竖" />
+	</introduce>
+	<pron value="fēng">
+		<sense tag="名" vernacular="烽火，古时边疆在高台上烧柴以报警的火">
+			<exam article="《春望》" ref="烽火连三月，家书抵万金。" />
+		</sense>
+		<sense tag="动" vernacular="举火">
+			<exam article="《汉书·五行志》" ref="后章坐走马上林下烽逐，免官。" />
+		</sense>
+	</pron>
+</character>

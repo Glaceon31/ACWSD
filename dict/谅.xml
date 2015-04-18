@@ -1,0 +1,17 @@
+<character value="谅">
+	<introduce>
+		<pinyin value="liang4" writing="liàng" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺折捺横竖折横竖撇捺" />
+	</introduce>
+	<pron value="liàng">
+		<sense tag="形" vernacular="诚信">
+			<exam article="《离骚》" ref="惟此党人之不谅兮。" />
+		</sense>
+		<sense tag="动" vernacular="体谅；原谅">
+			<exam article="《与刁景纯学士书》" ref="未必谅某此心也。" />
+		</sense>
+	</pron>
+</character>

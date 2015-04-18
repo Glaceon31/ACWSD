@@ -1,0 +1,17 @@
+<character value="嫉">
+	<introduce>
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="折撇横捺横撇捺横撇横横撇捺" />
+	</introduce>
+	<pron value="jí">
+		<sense tag="动" vernacular="嫉妒；妒忌">
+			<exam article="《离骚》" ref="众女嫉余之蛾眉兮，谣诼谓余以善淫。" />
+		</sense>
+		<sense tag="动" vernacular="痛恨；憎恶">
+			<exam article="《椟柑者言》" ref="岂其愤世嫉邪者耶?" />
+		</sense>
+	</pron>
+</character>

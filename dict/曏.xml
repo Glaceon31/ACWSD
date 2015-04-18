@@ -1,0 +1,20 @@
+<character value="曏">
+	<introduce>
+		<pinyin value="xiang4" writing="xiàng" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="15" />
+		<order value="竖折横横折折撇捺折横横折捺折竖" />
+	</introduce>
+	<pron value="xiàng">
+		<sense tag="形" vernacular="明">
+			<exam article="《庄子·秋水》" ref="知量无穷，证曏今故。" />
+		</sense>
+		<sense vernacular="通“向”">
+			<exam article="《九怀·思忠》" ref="曏吾路兮葱岭。" />
+		</sense>
+		<sense vernacular="通“向”">
+			<exam article="《仪礼·士相见礼》" ref="曏者吾子辱使某见。" />
+		</sense>
+	</pron>
+</character>

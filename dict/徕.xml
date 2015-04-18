@@ -1,0 +1,14 @@
+<character value="徕">
+	<introduce>
+		<pinyin value="lai2" writing="lái" />
+		<bushou value="彳" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="撇撇竖横捺撇横竖撇捺" />
+	</introduce>
+	<pron value="lái">
+		<sense tag="动" vernacular="招来；使……来">
+			<exam article="《商君书·徕民》" ref="徕三晋之民，而使之事本。" />
+		</sense>
+	</pron>
+</character>

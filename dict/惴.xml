@@ -1,0 +1,14 @@
+<character value="惴">
+	<introduce>
+		<pinyin value="zhui4" writing="zhuì" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺竖竖折竖横撇竖折竖竖" />
+	</introduce>
+	<pron value="zhuì">
+		<sense tag="形" vernacular="恐惧">
+			<exam article="《史记·项羽本纪》" ref="楚战士无不一以当十，札兵呼声动天，诸饿军无不人人惴恐。" />
+		</sense>
+	</pron>
+</character>

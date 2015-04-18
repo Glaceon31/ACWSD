@@ -1,0 +1,14 @@
+<character value="衢">
+	<introduce>
+		<pinyin value="qu2" writing="qú" />
+		<bushou value="行" />
+		<bushoustroke value="6" />
+		<stroke value="24" />
+		<order value="撇撇竖竖折横横横竖折横横横撇竖捺横横横竖横横横竖" />
+	</introduce>
+	<pron value="qú">
+		<sense tag="名" vernacular="四通八达的道路">
+			<exam article="《国子司业阳城遗爱碣》" ref="填街盈衢。" />
+		</sense>
+	</pron>
+</character>

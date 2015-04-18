@@ -1,0 +1,30 @@
+<character value="距">
+	<introduce>
+		<pinyin value="ju4" writing="jù" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="11" />
+		<order value="竖折横竖横竖横横折横折" />
+	</introduce>
+	<pron value="jù">
+		<sense tag="名" vernacular="雄鸡腿后趾样的突起部分">
+			<exam article="《汉书·五行志》" ref="丞相府史家雌鸡伏子，渐化为雄，冠、距、鸣、将。" />
+		</sense>
+		<sense tag="动" vernacular="到达；抵达">
+			<exam article="《史记·苏秦列传》" ref="不至四、五日而距国都矣。" />
+		</sense>
+		<sense tag="动" vernacular="离；距离">
+			<exam article="《冯婉贞》" ref="距圆明园十里，有村曰谢庄。" />
+		</sense>
+		<sense tag="动" vernacular="通“拒”，抵御，抵抗">
+			<exam article="《公输》" ref="子墨子九距之。" />
+		</sense>
+		<sense tag="动" vernacular="通“拒”，拒守，把守">
+			<exam article="《鸿门宴》" ref="距关，毋内诸侯。" />
+		</sense>
+		<sense tag="动" vernacular="通“拒”，拒绝，摒弃">
+			<exam article="《答李翊书》" ref="吾又惧其杂也，迎而距之。" />
+		</sense>
+		<sense tag="形" vernacular="通“巨”，大" />
+	</pron>
+</character>

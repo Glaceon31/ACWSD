@@ -1,0 +1,20 @@
+<character value="奂">
+	<introduce>
+		<pinyin value="huan4" writing="huàn" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="撇折竖折横撇捺" />
+	</introduce>
+	<pron value="huàn">
+		<sense tag="形" vernacular="众多，盛大">
+			<exam article="《礼记·檀弓下》" ref="美哉奂焉。" />
+		</sense>
+	</pron>
+	<phrase value="奂奂">
+		<sense value="华丽，光辉焕发的样子" />
+	</phrase>
+	<phrase value="奂衍">
+		<sense value="多而满布的样子" />
+	</phrase>
+</character>

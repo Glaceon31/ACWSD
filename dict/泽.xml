@@ -1,0 +1,36 @@
+<character value="泽">
+	<introduce>
+		<pinyin value="ze2" writing="zé" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺横折捺横横竖" />
+	</introduce>
+	<pron value="zé">
+		<sense tag="名" vernacular="聚水的洼地">
+			<exam article="《滕五阁序》" ref="山原旷其盈视，川泽纡其骇瞩。" />
+		</sense>
+		<sense tag="名" vernacular="雨露">
+			<exam article="《项脊轩志》" ref="百年老屋，尘泥渗漉，雨泽下注。" />
+		</sense>
+		<sense tag="名" vernacular="津液">
+			<exam article="《采草药》" ref="大率用根者，若有宿根，须取无茎叶时采，则津泽皆归其根。" />
+		</sense>
+		<sense tag="形" vernacular="光泽；润泽">
+			<exam article="《采草药》" ref="未花时采，则根色鲜泽。" />
+		</sense>
+		<sense tag="名" vernacular="恩惠；好处">
+			<exam article="《西门豹治邺》" ref="故西门豹为邺令，名闻天下，泽流后世" />
+		</sense>
+		<sense tag="名使动" vernacular="使……得到恩泽">
+			<exam article="《答司马谏议书》" ref="未能助上大有为，以膏泽斯民。" />
+		</sense>
+		<sense tag="名" vernacular="内衣">
+			<exam article="《诗经·秦风·无衣》" ref="岂曰无衣，与子同泽。" />
+		</sense>
+	</pron>
+	<phrase value="泽国">
+		<sense value="境内多河流、湖泊、沼泽的地区和国家" />
+		<sense value="被水淹的地区" />
+	</phrase>
+</character>

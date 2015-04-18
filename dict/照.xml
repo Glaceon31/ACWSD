@@ -1,0 +1,31 @@
+<character value="照">
+	<introduce>
+		<pinyin value="zhao4" writing="zhào" />
+		<bushou value="灬" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="竖折横横折撇竖折横捺捺捺捺" />
+	</introduce>
+	<pron value="zhào">
+		<sense tag="动" vernacular="照射；照耀">
+			<exam article="《陌上桑》" ref="日出东南隅，照我秦氏楼。" />
+			<exam article="《过零丁洋》" ref="留取丹心照汗青。" />
+		</sense>
+		<sense tag="动" vernacular="发出">
+			<exam article="《滕王阁序》" ref="邺水朱华，光照临川之笔。" />
+		</sense>
+		<sense tag="名" vernacular="日光">
+			<exam article="《桃花扇·哀江南》" ref="秋水长天人过少，冷清清的落照，剩一树柳弯腰。" />
+		</sense>
+		<sense tag="动" vernacular="察看">
+			<exam article="《后汉书·冯勤传》" ref="忠臣孝子，览照前世，以为镜戒。" />
+		</sense>
+		<sense tag="动" vernacular="看镜中的影子">
+			<exam article="《晋书·王衍传》" ref="在车中揽镜自照。" />
+		</sense>
+	</pron>
+	<phrase value="照会">
+		<sense value="参照；对勘" />
+		<sense value="招呼；通知" />
+	</phrase>
+</character>

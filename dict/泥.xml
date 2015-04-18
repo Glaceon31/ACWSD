@@ -1,0 +1,36 @@
+<character value="泥">
+	<introduce>
+		<pinyin value="ni2" writing="ní" />
+		<pinyin value="ni4" writing="nì" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺横折横撇撇折" />
+	</introduce>
+	<pron value="ní">
+		<sense tag="名" vernacular="泥土；泥泞">
+			<exam article="《庄子·秋水》" ref="蹶泥则没足灭跗。" />
+		</sense>
+	</pron>
+	<pron value="nì">
+		<sense tag="动" vernacular="涂抹">
+			<exam article="《晋书·王恂传》" ref="用赤石脂泥壁。" />
+		</sense>
+		<sense tag="动" vernacular="拘泥">
+			<exam article="《宋史·刘几传》" ref="儒者泥古。" />
+		</sense>
+		<sense tag="动" vernacular="软求；缠住不放">
+			<exam article="《遣悲怀》" ref="泥他沽酒酒拔金钗。" />
+		</sense>
+	</pron>
+	<phrase value="泥首">
+		<sense value="用泥涂首，以示服罪" />
+	</phrase>
+	<phrase value="泥古">
+		<sense value="拘泥古法，不知变通" />
+	</phrase>
+	<phrase value="泥饮">
+		<sense value="强留使饮(酒)" />
+		<sense value="久饮不缀" />
+	</phrase>
+</character>

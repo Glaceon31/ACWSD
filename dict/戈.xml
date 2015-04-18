@@ -1,0 +1,17 @@
+<character value="戈">
+	<introduce>
+		<pinyin value="ge1" writing="gē" />
+		<bushou value="戈" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="横折撇捺" />
+	</introduce>
+	<pron value="gē">
+		<sense tag="名" vernacular="古代的一种兵器">
+			<exam article="《永遇乐·京口北固亭怀古》" ref="想当年，金戈铁马，气吐万里如虎。" />
+		</sense>
+		<sense tag="名" vernacular="代指战争，常“干戈”连用">
+			<exam article="《过零丁洋》" ref="辛苦遭逢起一经，干戈寥落四周星。" />
+		</sense>
+	</pron>
+</character>

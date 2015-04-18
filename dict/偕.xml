@@ -1,0 +1,18 @@
+<character value="偕">
+	<introduce>
+		<pinyin value="xie2" writing="xié" />
+		<pinyin value="jie1" writing="jiē" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="撇竖横折撇折撇竖折横横" />
+	</introduce>
+	<pron value="xié">
+		<sense tag="动" vernacular="在一起；共同行动">
+			<exam article="《毛遂自荐》" ref="约与食客门下二十人偕。" />
+		</sense>
+		<sense tag="副" vernacular="共同；一起">
+			<exam article="《大铁椎传》" ref="客不得已，与偕行。" />
+		</sense>
+	</pron>
+</character>

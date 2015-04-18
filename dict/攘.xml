@@ -1,0 +1,37 @@
+<character value="攘">
+	<introduce>
+		<pinyin value="rang3" writing="răng" />
+		<pinyin value="rang2" writing="ráng" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="20" />
+		<order value="横竖横捺横竖折横竖折横横横竖竖横撇折撇捺" />
+	</introduce>
+	<pron value="rǎng">
+		<sense tag="动" vernacular="排除；排斥">
+			<exam article="《出师表》" ref="庶竭驽钝，攘除奸凶。" />
+		</sense>
+		<sense tag="动" vernacular="偷盗；窃取">
+			<exam article="《孟子·滕文公》" ref="今有人日攘其邻之鸡。" />
+		</sense>
+		<sense tag="动" vernacular="侵夺；夺取">
+			<exam article="《盐铁论·非鞅》" ref="是以征敌伐国，攘地斥境，不赋百姓而师以自赡。" />
+		</sense>
+		<sense tag="动" vernacular="挽起；撩起">
+			<exam article="《书搏鸡者事》" ref="使匹夫攘袂群起以伸其愤。" />
+		</sense>
+		<sense tag="动" vernacular="容纳；忍受">
+			<exam article="《楚辞·离骚》" ref="屈心而抑志兮，忍尤而攘诟。" />
+		</sense>
+		<sense tag="动" vernacular="扰乱">
+			<exam article="《淮南子·兵略》" ref="此四君者，皆小有过而莫之讨也，故至于攘天下。" />
+		</sense>
+	</pron>
+	<phrase value="攘攘">
+		<sense value="多；盛" />
+	</phrase>
+	<phrase value="攘善">
+		<sense value="掠人之美" />
+		<sense value="攘，窃取" />
+	</phrase>
+</character>

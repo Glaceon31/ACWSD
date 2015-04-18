@@ -1,0 +1,25 @@
+<character value="肄">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="聿" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="撇折撇横横撇捺折横横横横竖" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="动" vernacular="练习；学习">
+			<exam article="《三国志·魏书·武帝纪》" ref="作玄武池以肄舟师。" />
+			<exam article="《景福殿赋》" ref="讲肄之场。" />
+		</sense>
+		<sense tag="形" vernacular="劳苦">
+			<exam article="《左传·昭公十六年》" ref="莫知我肄。" />
+		</sense>
+		<sense tag="名" vernacular="树木再生的嫩枝">
+			<exam article="《诗经·周南·汝坟》" ref="伐其条肄。" />
+			<exam article="《汉高祖功臣颂》" ref="悴叶更辉，枯条以肄。" />
+		</sense>
+		<sense tag="动" vernacular="查阅；检查">
+			<exam article="《汉书·义纵传》" ref="关吏税肄郡国出入关者。" />
+		</sense>
+	</pron>
+</character>

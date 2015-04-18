@@ -1,0 +1,48 @@
+<character value="索">
+	<introduce>
+		<pinyin value="suo3" writing="suŏ" />
+		<bushou value="糸" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="横竖捺折折折捺竖撇捺" />
+	</introduce>
+	<pron value="suǒ">
+		<sense tag="名" vernacular="大绳子；绳索">
+			<exam article="《报任安书》" ref="其次关木索，被箠楚受辱。" />
+		</sense>
+		<sense tag="动" vernacular="绞合；搓">
+			<exam article="《诗经·七月》" ref="昼尔于茅，宵尔索綯。" />
+		</sense>
+		<sense tag="动" vernacular="寻求">
+			<exam article="《离骚》" ref="路曼曼其修远兮，吾将上下而求索。" />
+		</sense>
+		<sense tag="动" vernacular="寻找">
+			<exam article="《扁鹊见蔡桓公》" ref="居五日，桓侯体痛，使人索扁鹊，已逃秦矣。" />
+		</sense>
+		<sense tag="动" vernacular="索要；索取">
+			<exam article="《兵车行》" ref="县官急索租，租税从何出？" />
+		</sense>
+		<sense tag="形" vernacular="孤独">
+			<exam article="《与元稹书》" ref="索居则以诗相慰，同处则以诗相娱。" />
+		</sense>
+		<sense tag="形" vernacular="尽">
+			<exam article="《宋史·刘绮传》" ref="逮未申间，敌力疲气索。" />
+		</sense>
+		<sense tag="副" vernacular="须；得；能">
+			<exam article="《长亭送别》" ref="久已后书儿、信儿，索与我凄凄惶惶的寄。" />
+		</sense>
+	</pron>
+	<phrase value="索居">
+		<sense value="独居" />
+	</phrase>
+	<phrase value="索然">
+		<sense value="离散的零落的样子" />
+		<sense value="流泪的样子" />
+	</phrase>
+	<phrase value="索笑">
+		<sense value="求笑；取笑" />
+	</phrase>
+	<phrase value="索隐">
+		<sense value="寻求事物的隐僻之理" />
+	</phrase>
+</character>

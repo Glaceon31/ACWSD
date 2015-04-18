@@ -1,0 +1,23 @@
+<character value="蓑">
+	<introduce>
+		<pinyin value="suo1" writing="suō" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="横竖竖捺横竖折横横撇折撇捺" />
+	</introduce>
+	<pron value="suō">
+		<sense tag="名" vernacular="蓑衣">
+			<exam article="《诗经·小雅·无羊》" ref="尔牧来思，何蓑何笠。" />
+		</sense>
+		<sense tag="动" vernacular="用草覆盖">
+			<exam article="《公羊传·定公元年》" ref="仲几之罪何？不蓑城也。" />
+		</sense>
+	</pron>
+	<pron value="sāi">
+		<sense vernacular="见“蓑蓑”" />
+	</pron>
+	<phrase value="蓑蓑">
+		<sense value="sāisāi下垂貌" />
+	</phrase>
+</character>

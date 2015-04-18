@@ -1,0 +1,13 @@
+<character value="翀">
+	<introduce>
+		<pinyin value="chong2" writing="chóng" />
+		<pinyin value="chong1" writing="chōng" />
+		<bushou value="羽" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="折捺横折捺横竖折横竖" />
+	</introduce>
+	<pron value="chōng">
+		<sense vernacular="向上直飞" />
+	</pron>
+</character>

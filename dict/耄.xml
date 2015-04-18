@@ -1,0 +1,23 @@
+<character value="耄">
+	<introduce>
+		<pinyin value="mao4" writing="mào" />
+		<bushou value="耂" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横竖横撇撇折撇横横折" />
+	</introduce>
+	<pron value="mào">
+		<sense tag="形" vernacular="年老">
+			<exam article="《左传·隐公元年》" ref="老夫耄矣。" />
+		</sense>
+		<sense tag="形" vernacular="昏愦；糊涂">
+			<exam article="《敌戒》" ref="纵欲不戒，匪愚伊耄。" />
+		</sense>
+	</pron>
+	<phrase value="耄荒">
+		<sense value="年老糊涂" />
+	</phrase>
+	<phrase value="耄勤">
+		<sense value="老而勤劳" />
+	</phrase>
+</character>

@@ -1,0 +1,20 @@
+<character value="赖">
+	<introduce>
+		<pinyin value="lai4" writing="lài" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="横竖折横竖撇捺撇折竖折撇捺" />
+	</introduce>
+	<pron value="lài">
+		<sense tag="动" vernacular="依赖；依靠">
+			<exam article="《滕王阁序》" ref="所赖君子见机，达人知命。" />
+		</sense>
+		<sense tag="动" vernacular="赢利；有利">
+			<exam article="《战国策·卫策》" ref="为魏则善，为秦则不赖矣。" />
+		</sense>
+		<sense tag="副" vernacular="幸亏">
+			<exam article="《柳毅传》" ref="赖明君子信义昭彰，致达远冤。" />
+		</sense>
+	</pron>
+</character>

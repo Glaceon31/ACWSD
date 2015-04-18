@@ -1,0 +1,48 @@
+<character value="借">
+	<introduce>
+		<pinyin value="jie4" writing="jiè" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="撇竖横竖竖横竖折横横" />
+	</introduce>
+	<pron value="jiè">
+		<sense tag="动" vernacular="借入；暂用他人之物">
+			<exam article="《黄生借书说》" ref="黄生允修借书。" />
+		</sense>
+		<sense tag="动" vernacular="获得；达到">
+			<exam article="《狱中上梁王书》" ref="慈仁殷勤，诚嘉于心，此不可以虚辞借也。" />
+		</sense>
+		<sense tag="动" vernacular="借出；将己物暂供他人使用">
+			<exam article="《论语·卫灵公》" ref="有马者，借人乘之。" />
+		</sense>
+		<sense tag="动" vernacular="给予；托付">
+			<exam article="《后汉书·郑太传》" ref="若借之朝政，……必危朝廷。" />
+		</sense>
+		<sense tag="动" vernacular="凭借；倚仗">
+			<exam article="《公输》" ref="北方有侮臣者，愿借子杀之。" />
+		</sense>
+		<sense tag="动" vernacular="哀悯；怜惜">
+			<exam article="《书驿壁》" ref="女儿薄命天不借，青灯独宿江边舍。" />
+		</sense>
+		<sense tag="连" vernacular="假使；即使">
+			<exam article="《陈涉世家》" ref="借第令勿斩，而戍死者固十六七。" />
+		</sense>
+	</pron>
+	<phrase value="借如">
+		<sense value="假如" />
+	</phrase>
+	<phrase value="借使">
+		<sense value="假使；纵使；纵然" />
+	</phrase>
+	<phrase value="借问">
+		<sense value="询问；过问；古诗中自问自答的假设问语" />
+	</phrase>
+	<phrase value="借职">
+		<sense value="仅有虚衔，不是实际就任的官职" />
+	</phrase>
+	<phrase value="借重">
+		<sense value="凭借他人权势来抬高自己的地位" />
+		<sense value="指依靠他人的力量，犹言倚重" />
+	</phrase>
+</character>

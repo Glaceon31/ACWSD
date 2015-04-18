@@ -1,0 +1,33 @@
+<character value="启">
+	<introduce>
+		<pinyin value="qi3" writing="qĭ" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺折横撇竖折横" />
+	</introduce>
+	<pron value="qǐ">
+		<sense tag="动" vernacular="开启；打开">
+			<exam article="《核舟记》" ref="启窗而观，雕栏相望焉。" />
+		</sense>
+		<sense tag="动" vernacular="扫除；清除">
+			<exam article="《苦斋记》" ref="携童儿数人，启陨箨以艺粟菽。" />
+		</sense>
+		<sense tag="动" vernacular="开导；启发">
+			<exam article="《左传·襄公二十五年》" ref="启敝邑之心。" />
+		</sense>
+		<sense tag="动" vernacular="陈述；禀告">
+			<exam article="《孔雀东南飞》" ref="府吏得闻之，堂上启阿母。" />
+		</sense>
+		<sense tag="动" vernacular="开辟；开拓">
+			<exam article="《韩非子·有度》" ref="齐桓公并国三十，启地三里。" />
+		</sense>
+	</pron>
+	<phrase value="启白">
+		<sense value="陈说" />
+	</phrase>
+	<phrase value="启沃">
+		<sense value="竭诚忠告" />
+		<sense value="旧指以治国之理开导帝王" />
+	</phrase>
+</character>

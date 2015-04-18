@@ -1,0 +1,20 @@
+<character value="黯">
+	<introduce>
+		<pinyin value="an4" writing="àn" />
+		<bushou value="黑" />
+		<bushoustroke value="12" />
+		<stroke value="21" />
+		<order value="竖折捺撇横竖横横捺捺捺捺捺横捺撇横竖折横横" />
+	</introduce>
+	<pron value="àn">
+		<sense tag="形" vernacular="深黑色">
+			<exam article="《采草药》" ref="花过而采,则根色黯恶。" />
+		</sense>
+		<sense tag="形" vernacular="昏暗">
+			<exam article="《山市》" ref="又其上,则黯然缥渺,不可计其层次矣。" />
+		</sense>
+		<sense tag="形" vernacular="情绪低落,沮丧">
+			<exam article="《玉蝴蝶》" ref="黯相望,断鸿声里,立尽斜阳。" />
+		</sense>
+	</pron>
+</character>

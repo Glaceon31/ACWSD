@@ -1,0 +1,30 @@
+<character value="隆">
+	<introduce>
+		<pinyin value="long2" writing="lóng" />
+		<pinyin value="long1" writing="lōng" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="折竖撇折捺横撇横横竖横" />
+	</introduce>
+	<pron value="lóng">
+		<sense tag="名" vernacular="山中央高起的地方">
+			<exam article="《孙子兵法·行军》" ref="战隆无登。" />
+		</sense>
+		<sense tag="动" vernacular="升高；凸起">
+			<exam article="《张衡传》" ref="合盖隆起，形似酒尊。" />
+		</sense>
+		<sense tag="形" vernacular="盛；兴隆；兴盛">
+			<exam article="《出师表》" ref="则汉室之隆，可计日而待也。" />
+		</sense>
+		<sense tag="形" vernacular="高尚；崇高">
+			<exam article="《送东阳马生序》" ref="先达德隆望尊。" />
+		</sense>
+		<sense tag="形" vernacular="深厚；程度深">
+			<exam article="《狱中杂记》" ref="又隆冬，贫者席地而卧。" />
+		</sense>
+		<sense tag="象" vernacular="形容声音很大">
+			<exam article="《冯婉贞》" ref="枪声隆然。" />
+		</sense>
+	</pron>
+</character>

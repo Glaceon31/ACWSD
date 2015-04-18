@@ -1,0 +1,26 @@
+<character value="阖">
+	<introduce>
+		<pinyin value="he2" writing="hé" />
+		<bushou value="门" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="捺竖折横竖横折捺竖折竖竖横" />
+	</introduce>
+	<pron value="hé">
+		<sense tag="名" vernacular="门扇；门板">
+			<exam article="《礼记·月令》" ref="是月也，耕者少舍，乃修阖扇。" />
+		</sense>
+		<sense tag="动" vernacular="通“合”，符合">
+			<exam article="《战国策·秦策》" ref="意者，臣愚而不阖于王耶?" />
+		</sense>
+		<sense tag="动" vernacular="关闭">
+			<exam article="《项脊轩志》" ref="以手阖门。" />
+		</sense>
+		<sense tag="形" vernacular="总；全">
+			<exam article="《汉书·武帝纪》" ref="今或至阖郡而不荐一人。" />
+		</sense>
+		<sense tag="代" vernacular="通“盍”，何，何不">
+			<exam article="《管子·小称》" ref="阖不起为寡人寿乎?" />
+		</sense>
+	</pron>
+</character>

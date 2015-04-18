@@ -1,0 +1,20 @@
+<character value="贬">
+	<introduce>
+		<pinyin value="bian3" writing="biăn" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="竖折撇捺撇捺折捺" />
+	</introduce>
+	<pron value="biǎn">
+		<sense tag="动" vernacular="减少;减低">
+			<exam article="《后汉书·袁绍传》" ref="每贬节军粮,欲使离散。" />
+		</sense>
+		<sense tag="形" vernacular="给予低的评价,与“褒”相对">
+			<exam article="《后汉书·董扶传》" ref="贬纤介之恶。" />
+		</sense>
+		<sense tag="动" vernacular="降级">
+			<exam article="《史记·张仪列传》" ref="贬蜀王更号为侯,而使陈庄相蜀。" />
+		</sense>
+	</pron>
+</character>

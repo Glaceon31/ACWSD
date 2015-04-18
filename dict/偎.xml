@@ -1,0 +1,17 @@
+<character value="偎">
+	<introduce>
+		<pinyin value="wei1" writing="wēi" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="撇竖竖折横竖横横折撇捺" />
+	</introduce>
+	<pron value="wēi">
+		<sense tag="动" vernacular="亲爱">
+			<exam article="《山海经·海内经》" ref="东海之内，北海之隅，有国名曰朝鲜、天毒。其人水居，偎人爱人。" />
+		</sense>
+		<sense tag="动" vernacular="挨傍；贴近">
+			<exam article="《南湖》" ref="野船著岸偎春草，水鸟带波飞夕阳。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,23 @@
+<character value="述">
+	<introduce>
+		<pinyin value="shu4" writing="shù" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖撇捺捺捺折捺" />
+	</introduce>
+	<pron value="shù">
+		<sense tag="动" vernacular="传述；遵循前人的说法或继续前人的事业">
+			<exam article="《〈黄花冈七十二烈士事略〉序》" ref="否则不能继述先烈遗志且光大之。" />
+		</sense>
+		<sense tag="动" vernacular="记述">
+			<exam article="《岳阳楼记》" ref="此则岳阳楼之大观也。前人之述备矣。" />
+		</sense>
+		<sense tag="动" vernacular="讲述">
+			<exam article="《左忠毅公逸事》" ref="后常流涕述其事以语人。" />
+		</sense>
+	</pron>
+	<phrase value="述遵">
+		<sense value="遵循" />
+	</phrase>
+</character>

@@ -1,0 +1,18 @@
+<character value="晕">
+	<introduce>
+		<pinyin value="yun1" writing="yūn" />
+		<pinyin value="yun4" writing="yùn" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="竖折横横捺折横折横竖" />
+	</introduce>
+	<pron value="yùn">
+		<sense tag="名" vernacular="日、月周围形成的光圈">
+			<exam article="《韩非子·备内》" ref="日月晕围于外。" />
+		</sense>
+		<sense tag="形" vernacular="昏眩；眼花">
+			<exam article="《闲居》" ref="眼晕夜书多。" />
+		</sense>
+	</pron>
+</character>

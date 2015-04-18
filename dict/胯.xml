@@ -1,0 +1,17 @@
+<character value="胯">
+	<introduce>
+		<pinyin value="kua4" writing="kuà" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="撇折横横横撇捺横横折" />
+	</introduce>
+	<pron value="kuà">
+		<sense tag="名" vernacular="腰胯骨">
+			<exam article="《梁书·武帝纪》" ref="两胯骿骨，顶上隆起。" />
+		</sense>
+		<sense tag="名" vernacular="两腿之间">
+			<exam article="《史记·淮阴侯列传》" ref="信能死，刺我；不能死，出我胯下。" />
+		</sense>
+	</pron>
+</character>

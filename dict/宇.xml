@@ -1,0 +1,25 @@
+<character value="宇">
+	<introduce>
+		<pinyin value="yu3" writing="yŭ" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="捺捺折横横竖" />
+	</introduce>
+	<pron value="yǔ">
+		<sense tag="名" vernacular="屋檐">
+			<exam article="《涉江》" ref="去霏霏其承宇。" />
+		</sense>
+		<sense tag="名" vernacular="房屋">
+			<exam article="《归去来兮辞》" ref="乃瞻衡宇，载欣载奔。" />
+		</sense>
+		<sense tag="名" vernacular="上下四方；天下">
+			<exam article="《归去来兮辞》" ref="寓形宇内复几时。" />
+		</sense>
+	</pron>
+	<phrase value="宇宙">
+		<sense value="屋檐" />
+		<sense value="国家；天下" />
+		<sense value="无限的空间和时间" />
+	</phrase>
+</character>

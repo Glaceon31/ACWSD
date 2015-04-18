@@ -1,0 +1,30 @@
+<character value="锐">
+	<introduce>
+		<pinyin value="rui4" writing="ruì" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="撇横横横折捺撇竖折横撇折" />
+	</introduce>
+	<pron value="ruì">
+		<sense tag="形" vernacular="锐利；锋利">
+			<exam article="《淮南子·时则》" ref="柔而不刚，锐而不挫。" />
+		</sense>
+		<sense tag="名" vernacular="锐利的武器">
+			<exam article="《陈涉世家》" ref="将军披坚执锐。" />
+		</sense>
+		<sense tag="形" vernacular="精锐">
+			<exam article="《韩非子·存韩》" ref="秦特出锐师取地而韩随之。" />
+		</sense>
+		<sense tag="名" vernacular="精锐的军队">
+			<exam article="《赤壁之战》" ref="瑜率轻锐继其后。" />
+		</sense>
+		<sense tag="名" vernacular="锐气；勇往直前的气势">
+			<exam article="《释诲》" ref="武夫备略，战士讲锐。" />
+		</sense>
+		<sense tag="形" vernacular="细小" />
+		<sense tag="形" vernacular="迅猛；急速">
+			<exam article="《孟子·尽心》" ref="其进锐者，其退速。" />
+		</sense>
+	</pron>
+</character>

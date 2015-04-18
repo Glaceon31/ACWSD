@@ -1,0 +1,59 @@
+<character value="坐">
+	<introduce>
+		<pinyin value="zuo4" writing="zuò" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="撇捺撇捺横竖横" />
+	</introduce>
+	<pron value="zuò">
+		<sense tag="动" vernacular="坐">
+			<exam article="《廉颇蔺相如列传》" ref="秦王坐章台见相如。" />
+		</sense>
+		<sense tag="动" vernacular="坐（在座位上）">
+			<exam article="《口技》" ref="口技人坐屏障，一桌一椅一扇一抚尺而已。" />
+		</sense>
+		<sense tag="名" vernacular="座位">
+			<exam article="《鸿门宴》" ref="项王则受璧，置之坐上。" />
+		</sense>
+		<sense tag="动" vernacular="犯罪；因……犯罪；犯……罪">
+			<exam article="《晏子使楚》" ref="王曰：‘何坐？’曰：‘坐盗。’" />
+		</sense>
+		<sense tag="动" vernacular="牵连治罪">
+			<exam article="《苏武传》" ref="副罪，当相坐。" />
+		</sense>
+		<sense tag="动" vernacular="诉讼时在法官面前对质">
+			<exam article="《左传·昭公二十三年》" ref="晋人使邾大夫坐。" />
+		</sense>
+		<sense tag="动" vernacular="驻守">
+			<exam article="《左传·桓公二十三年》" ref="楚人坐其北门。" />
+		</sense>
+		<sense tag="动" vernacular="坐待；坐等">
+			<exam article="《冯婉贞》" ref="与其坐而待亡，孰若起而拯之。" />
+		</sense>
+		<sense tag="介" vernacular="因为；由于">
+			<exam article="《山行》" ref="停车坐爱枫林晚。" />
+		</sense>
+		<sense tag="副" vernacular="空；徒然">
+			<exam article="《望洞庭湖赠张丞相》" ref="坐观垂钓者，徒有羡鱼情。" />
+		</sense>
+		<sense tag="副" vernacular="恰好">
+			<exam article="《易从师山亭》" ref="西村渡口人烟晚，坐见渔舟两两归。" />
+		</sense>
+		<sense tag="副" vernacular="即将">
+			<exam article="《早梅》" ref="寒英坐销落，何用慰远客。" />
+		</sense>
+	</pron>
+	<phrase value="坐大">
+		<sense value="自然强大" />
+	</phrase>
+	<phrase value="坐法">
+		<sense value="犯法而处罚" />
+	</phrase>
+	<phrase value="坐化">
+		<sense value="佛教用语，指和尚盘膝端坐而死" />
+	</phrase>
+	<phrase value="坐食">
+		<sense value="不劳而食" />
+	</phrase>
+</character>

@@ -1,0 +1,18 @@
+<character value="缯">
+	<introduce>
+		<pinyin value="zeng1" writing="zēng" />
+		<pinyin value="zeng4" writing="zèng" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="折折横捺撇竖折竖捺撇横竖折横横" />
+	</introduce>
+	<pron value="zēng">
+		<sense tag="名" vernacular="丝织品的总称">
+			<exam article="《汉书·灌婴传》" ref="灌婴，睢阳贩缯者也。" />
+		</sense>
+		<sense tag="名" vernacular="通“矰”">
+			<exam article="《战国策·楚策四》" ref="不知夫射者方将修其碆卢，治其缯缴，将加已乎百仞之上。" />
+		</sense>
+	</pron>
+</character>

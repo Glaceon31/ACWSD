@@ -1,0 +1,15 @@
+<character value="瞩">
+	<introduce>
+		<pinyin value="zhu3" writing="zhŭ" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="17" />
+		<order value="竖折横横横折横撇撇竖折横竖折竖横捺" />
+	</introduce>
+	<pron value="zhǔ">
+		<sense tag="动" vernacular="注视；看">
+			<exam article="《三国志·魏书·张渊传》" ref="凝神远瞩。" />
+			<exam article="《洛阳牡丹记》" ref="然目之所瞩，已不胜其丽焉。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,26 @@
+<character value="咽">
+	<introduce>
+		<pinyin value="yan1" writing="yān" />
+		<pinyin value="yan4" writing="yàn" />
+		<pinyin value="ye4" writing="yè" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="竖折横竖折横撇捺横" />
+	</introduce>
+	<pron value="yān">
+		<sense tag="名" vernacular="喉咙">
+			<exam article="《汉书·息夫躬传》" ref="咽已绝，血从鼻耳出。" />
+		</sense>
+	</pron>
+	<pron value="yàn">
+		<sense tag="动" vernacular="吞食">
+			<exam article="《汉书·苏建传》" ref="天雨雪，武卧齧雪与旃毛并咽之，数日不死。" />
+		</sense>
+	</pron>
+	<pron value="yè">
+		<sense tag="形" vernacular="声音阻塞而低微">
+			<exam article="《石壕吏》" ref="夜久语声绝，如闻泣幽咽。" />
+		</sense>
+	</pron>
+</character>

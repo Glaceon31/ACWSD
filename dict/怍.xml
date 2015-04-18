@@ -1,0 +1,17 @@
+<character value="怍">
+	<introduce>
+		<pinyin value="zuo4" writing="zuò" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺竖撇横竖横横" />
+	</introduce>
+	<pron value="zuò">
+		<sense tag="形" vernacular="惭愧">
+			<exam article="《促织》" ref="自增惭怍，不敢与较。" />
+		</sense>
+		<sense tag="动" vernacular="改变脸色">
+			<exam article="《管子·弟子职》" ref="颜色毋怍。" />
+		</sense>
+	</pron>
+</character>

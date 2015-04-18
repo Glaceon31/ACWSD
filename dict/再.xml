@@ -1,0 +1,33 @@
+<character value="再">
+	<introduce>
+		<pinyin value="zai4" writing="zài" />
+		<bushou value="冂" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="横竖折竖横横" />
+	</introduce>
+	<pron value="zài">
+		<sense tag="数" vernacular="第二次">
+			<exam article="《滕王阁序》" ref="胜地不常，盛筵难再。" />
+			<exam article="《曹刿论战》" ref="一鼓作气，再而衰，三而竭。" />
+		</sense>
+		<sense tag="数" vernacular="两次">
+			<exam article="《送东阳马生序》" ref="日再食。" />
+			<exam article="《促织》" ref="问者爇香于鼎，再拜。" />
+		</sense>
+		<sense tag="副" vernacular="连接两个动作，表示先后关系">
+			<exam article="《活板》" ref="用讫再火令药熔。" />
+		</sense>
+	</pron>
+	<phrase value="再蘸">
+		<sense value="第二次斟酒" />
+		<sense value="再娶或再嫁" />
+	</phrase>
+	<phrase value="再四">
+		<sense value="多次" />
+	</phrase>
+	<phrase value="再造">
+		<sense value="重新获得生命" />
+		<sense value="重建" />
+	</phrase>
+</character>

@@ -1,0 +1,23 @@
+<character value="函">
+	<introduce>
+		<pinyin value="han2" writing="hán" />
+		<bushou value="凵" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="折竖捺横撇捺折竖" />
+	</introduce>
+	<pron value="hán">
+		<sense tag="动" vernacular="包含；容纳">
+			<exam article="《南都赋》" ref="巨蟒函珠。" />
+		</sense>
+		<sense tag="名" vernacular="信封；信件">
+			<exam article="《祭妹文》" ref="函使报信迟早云尔。" />
+		</sense>
+		<sense tag="名" vernacular="匣子">
+			<exam article="《荆轲刺秦王》" ref="荆轲奉樊於期头函。" />
+		</sense>
+		<sense tag="名" vernacular="指函谷关">
+			<exam article="《过秦论》" ref="秦孝公据殽函之固，拥雍州之地。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,31 @@
+<character value="济">
+	<introduce>
+		<pinyin value="ji4" writing="jì" />
+		<pinyin value="ji3" writing="jĭ" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺横捺横撇捺撇竖" />
+	</introduce>
+	<pron value="jì">
+		<sense tag="动" vernacular="渡；渡水">
+			<exam article="《子鱼论战》" ref="宋人既成列，楚人未既济。" />
+			<exam article="《行路难》" ref="长风破浪会有时，直挂云帆济沧海。" />
+		</sense>
+		<sense tag="名" vernacular="泛指河水">
+			<exam article="《登楼赋》" ref="路逶迤而修迥兮，川既漾而济深。" />
+		</sense>
+		<sense tag="动" vernacular="成功；成就">
+			<exam article="《赤壁之战》" ref="若事之不济，此乃天也。" />
+		</sense>
+		<sense tag="动" vernacular="救助；帮助">
+			<exam article="《赤壁之战》" ref="莫若遣腹心自结于东，以共济世业。" />
+		</sense>
+		<sense tag="动" vernacular="停止">
+			<exam article="《淮南子·览冥》" ref="于是风济而波罢。" />
+		</sense>
+	</pron>
+	<pron value="jǐ">
+		<sense tag="名" vernacular="济水；河流名称，发源于河南，东流至山东入海，后来下游河道被黄河所夺" />
+	</pron>
+</character>

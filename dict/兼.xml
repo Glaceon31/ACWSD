@@ -1,0 +1,32 @@
+<character value="兼">
+	<introduce>
+		<pinyin value="jian1" writing="jiān" />
+		<bushou value="丷" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺撇横折横横竖竖撇捺" />
+	</introduce>
+	<pron value="jiān">
+		<sense tag="副" vernacular="同时占有几样东西或进行几件事情">
+			<exam article="《鱼我所欲也》" ref="二者不可得兼，舍生而取义者也。" />
+		</sense>
+		<sense tag="动" vernacular="兼职；兼任">
+			<exam article="《&lt;指南录&gt;后序》" ref="予除右丞相兼枢密使。" />
+		</sense>
+		<sense tag="动" vernacular="兼并；合并">
+			<exam article="《过秦论》" ref="约从离衡，兼韩、魏、燕、楚、齐、赵、宋、卫、中山之众。" />
+		</sense>
+		<sense tag="形" vernacular="加倍的；双倍的">
+			<exam article="《汉书·韩信传》" ref="受辱于跨下，无兼人之勇，不足畏也。" />
+		</sense>
+		<sense tag="数" vernacular="两；二">
+			<exam article="《狱中杂记》" ref="一人倍之，伤肤，兼旬愈。" />
+		</sense>
+		<sense tag="动" vernacular="加上；加之">
+			<exam article="《孔雀东南飞》" ref="我有亲父母，逼迫兼弟兄。" />
+		</sense>
+		<sense tag="连" vernacular="并且；而且">
+			<exam article="《赤壁之战》" ref="将军以神武雄才，兼仗父兄之烈。" />
+		</sense>
+	</pron>
+</character>

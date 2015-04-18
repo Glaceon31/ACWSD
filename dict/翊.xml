@@ -1,0 +1,20 @@
+<character value="翊">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="羽" />
+		<bushoustroke value="6" />
+		<stroke value="11" />
+		<order value="捺横捺撇横折捺横折捺横" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="动" vernacular="辅佐；帮助">
+			<exam article="《三国志·蜀书·吕凯传》" ref="翊赞季兴。" />
+		</sense>
+		<sense tag="名" vernacular="通“翌”">
+			<exam article="《议郎胡公夫人哀赞》" ref="疾用欢痊，翊日斯瘳。" />
+		</sense>
+	</pron>
+	<phrase value="翊翊">
+		<sense value="恭敬的样子" />
+	</phrase>
+</character>

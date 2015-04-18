@@ -1,0 +1,15 @@
+<character value="菽">
+	<introduce>
+		<pinyin value="shu1" writing="shū" />
+		<pinyin value="shu2" writing="shú" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖竖竖横横竖撇捺折捺" />
+	</introduce>
+	<pron value="shū">
+		<sense tag="名" vernacular="豆类的总称">
+			<exam article="《苦斋记》" ref="启陨箨以艺粟菽，茹啖其草木之荑实。" />
+		</sense>
+	</pron>
+</character>

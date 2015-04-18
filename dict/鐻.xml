@@ -1,0 +1,22 @@
+<character value="鐻">
+	<introduce>
+		<pinyin value="ju4" writing="jù" />
+		<bushou value="釒" />
+		<bushoustroke value="8" />
+		<stroke value="21" />
+		<order value="撇捺横横竖捺撇横竖横折撇横折横撇折撇撇撇捺" />
+	</introduce>
+	<pron value="jù">
+		<sense tag="名" vernacular="同“虡”，古代悬挂钟的架子两旁的柱子">
+			<exam article="《史记·秦始皇本纪》" ref="收天下兵，聚之咸阳，销以为钟鐻。" />
+		</sense>
+		<sense tag="名" vernacular="一种兵器">
+			<exam article="《庄子·达生》" ref="梓庆削木为鐻。" />
+		</sense>
+	</pron>
+	<pron value="qú">
+		<sense tag="名" vernacular="古代少数民族用的金或银耳环">
+			<exam article="《后汉书·张奂传》" ref="先零酋长又遗金鐻八枚，奂并受之。" />
+		</sense>
+	</pron>
+</character>

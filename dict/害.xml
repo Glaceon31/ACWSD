@@ -1,0 +1,38 @@
+<character value="害">
+	<introduce>
+		<pinyin value="hai4" writing="hài" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺折横横横竖竖折横" />
+	</introduce>
+	<pron value="hài">
+		<sense tag="动" vernacular="伤害；危害">
+			<exam article="《屈原列传》" ref="谗谄之蔽明也，邪曲之害公也。" />
+		</sense>
+		<sense tag="动" vernacular="杀害">
+			<exam article="《中山狼传》" ref="先生曰∶‘不害狼乎?’" />
+		</sense>
+		<sense tag="名" vernacular="祸害；害处">
+			<exam article="《毛遂自荐》" ref="平原君与楚合从,言其利害。" />
+			<exam article="《原君》" ref="不以一己之害为害,而使天下释其害。" />
+		</sense>
+		<sense tag="名" vernacular="妨害;妨碍">
+			<exam article="《柳毅传》" ref="无惧,固无害。" />
+		</sense>
+		<sense tag="动" vernacular="妒忌">
+			<exam article="《屈原列传》" ref="上官大夫与之同列,争宠而心害其能。" />
+		</sense>
+	</pron>
+	<pron value="hé">
+		<sense tag="名" vernacular="什么；哪些">
+			<exam article="《诗经·周南·葛覃》" ref="害浣害否?归宁父母。" />
+		</sense>
+		<sense tag="动" vernacular="通“遏”，阻止">
+			<exam article="《淮南子·览冥训》" ref="谁敢害吾意者。" />
+		</sense>
+		<sense tag="代" vernacular="何不">
+			<exam article="《孟子·梁惠王上》" ref="时日害丧?予与汝偕亡。" />
+		</sense>
+	</pron>
+</character>

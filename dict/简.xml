@@ -1,0 +1,30 @@
+<character value="简">
+	<introduce>
+		<pinyin value="jian3" writing="jiăn" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="撇横捺撇横捺捺竖折竖折横横" />
+	</introduce>
+	<pron value="jiǎn">
+		<sense tag="名" vernacular="写字用的竹简、竹片">
+			<exam article="《独断》" ref="策者，简也。" />
+		</sense>
+		<sense tag="名" vernacular="笏；手板">
+			<exam article="《南柯太守传》" ref="有一人紫衣象简前趋。" />
+		</sense>
+		<sense tag="名" vernacular="书信；信函">
+			<exam article="《梦溪笔谈》" ref="乃为一简答之。" />
+		</sense>
+		<sense tag="动" vernacular="同“拣”，挑选">
+			<exam article="《核舟记》" ref="盖简桃核修狭者为之。" />
+		</sense>
+		<sense tag="形" vernacular="简单；简略">
+			<exam article="《石钟山记》" ref="盖叹郦元之简，而笑李渤之陋也。" />
+		</sense>
+	</pron>
+	<phrase value="简练">
+		<sense value="用心研习" />
+		<sense value="简明干练" />
+	</phrase>
+</character>

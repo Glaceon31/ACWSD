@@ -1,0 +1,28 @@
+<character value="偃">
+	<introduce>
+		<pinyin value="yan3" writing="yăn" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="撇竖横竖折横横折撇横折" />
+	</introduce>
+	<pron value="yǎn">
+		<sense tag="动" vernacular="仰卧；又为仰面向后倒，与“仆”相对">
+			<exam article="《窦娥冤》" ref="人拥的我前合后偃。" />
+		</sense>
+		<sense tag="动" vernacular="信息；停止">
+			<exam article="《庄子·徐无鬼》" ref="为义偃兵，造兵之本也。" />
+		</sense>
+	</pron>
+	<phrase value="偃蹇">
+		<sense value="高耸的样子" />
+		<sense value="高傲的样子" />
+	</phrase>
+	<phrase value="偃息">
+		<sense value="安卧" />
+	</phrase>
+	<phrase value="偃仰">
+		<sense value="悠闲安逸的样子" />
+		<sense value="仰面倒下" />
+	</phrase>
+</character>

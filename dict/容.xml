@@ -1,0 +1,52 @@
+<character value="容">
+	<introduce>
+		<pinyin value="rong2" writing="róng" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺折撇捺撇捺竖折横" />
+	</introduce>
+	<pron value="róng">
+		<sense tag="名" vernacular="容量；容积">
+			<exam article="《论衡·骨相》" ref="察表候以知命，犹察斗斛以知容矣。" />
+		</sense>
+		<sense tag="动" vernacular="容纳">
+			<exam article="《屈原列传》" ref="方正之不容也。" />
+		</sense>
+		<sense tag="动" vernacular="宽容">
+			<exam article="《庄子·庚桑楚》" ref="不能容人者无亲。" />
+		</sense>
+		<sense tag="动" vernacular="容许；许可">
+			<exam article="《报刘一丈书》" ref="亡奈何矣，姑容我入。" />
+		</sense>
+		<sense tag="动" vernacular="收容">
+			<exam article="《五人墓碑记》" ref="或脱身以逃，不能容于远近。" />
+		</sense>
+		<sense tag="名" vernacular="面容；面貌">
+			<exam article="《屈原列传》" ref="颜色憔悴，形容枯槁。" />
+		</sense>
+		<sense tag="名" vernacular="脸色；神色">
+			<exam article="《琵琶行》" ref="整顿衣裳起敛容。" />
+		</sense>
+		<sense tag="动" vernacular="修饰面容；打扮">
+			<exam article="《史记·刺客列传》" ref="士为知己者死，女为悦己者容。" />
+		</sense>
+	</pron>
+	<phrase value="容膝">
+		<sense value="立足之地" />
+	</phrase>
+	<phrase value="容臭">
+		<sense value="古人随身佩带的装有香料的小口袋；香囊" />
+		<sense value="臭，指香料" />
+	</phrase>
+	<phrase value="容与">
+		<sense value="放任；放纵" />
+		<sense value="从容逍遥的样子" />
+		<sense value="迟缓不前的样子" />
+		<sense value="小船" />
+	</phrase>
+	<phrase value="容止">
+		<sense value="人的仪容举止" />
+		<sense value="收留" />
+	</phrase>
+</character>

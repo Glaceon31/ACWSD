@@ -1,0 +1,26 @@
+<character value="拊">
+	<introduce>
+		<pinyin value="fu3" writing="fŭ" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横撇竖横竖捺" />
+	</introduce>
+	<pron value="fǔ">
+		<sense tag="动" vernacular="抚摸">
+			<exam article="《新唐书·魏征传》" ref="帝悲懑，拊之流涕，问所欲。" />
+		</sense>
+		<sense tag="动" vernacular="抚慰；安慰">
+			<exam article="《冯谖客孟尝君》" ref="不拊爱子其民，而贾利之。" />
+		</sense>
+		<sense tag="动" vernacular="拍；轻击">
+			<exam article="《孔雀东南飞》" ref="阿母大拊掌。" />
+		</sense>
+		<sense tag="动" vernacular="抚养；保护">
+			<exam article="《诗经·蓼莪》" ref="拊我畜我，长我育我。" />
+		</sense>
+		<sense tag="名" vernacular="搏拊，古代一种打击乐器，形如小鼓">
+			<exam article="《周礼·天官》" ref="师瞽登歌，令奏击拊。" />
+		</sense>
+	</pron>
+</character>

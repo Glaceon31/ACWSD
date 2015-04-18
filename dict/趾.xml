@@ -1,0 +1,23 @@
+<character value="趾">
+	<introduce>
+		<pinyin value="zhi3" writing="zhĭ" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="11" />
+		<order value="竖折横竖横竖横竖横竖横" />
+	</introduce>
+	<pron value="zhǐ">
+		<sense tag="名" vernacular="脚">
+			<exam article="《左传·桓公十三年》" ref="举趾高，心中固矣。" />
+		</sense>
+		<sense tag="名" vernacular="踪迹；行动所留下的痕迹">
+			<exam article="《观佛迹寺》" ref="松崖圣趾余。" />
+		</sense>
+		<sense tag="名" vernacular="通“址”，地基">
+			<exam article="《魏都赋》" ref="亭亭峻趾。" />
+		</sense>
+		<sense tag="名" vernacular="山脚">
+			<exam article="《咏怀》" ref="去上西山趾。" />
+		</sense>
+	</pron>
+</character>

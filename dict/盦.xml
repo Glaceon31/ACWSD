@@ -1,0 +1,18 @@
+<character value="盦">
+	<introduce>
+		<pinyin value="an1" writing="ān" />
+		<bushou value="皿" />
+		<bushoustroke value="5" />
+		<stroke value="16" />
+		<order value="撇捺捺折横竖折撇折横横竖折竖竖横" />
+	</introduce>
+	<pron value="ān">
+		<sense tag="名" vernacular="古器皿的盖子">
+			<exam article="《说文·皿部》" ref="盦，覆盖也。" />
+		</sense>
+		<sense tag="名" vernacular="古时盛食物的器具">
+			<exam article="《辍耕录》" ref="古器这名，则有……壶，盦，瓿。" />
+		</sense>
+		<sense vernacular="通“庵”" />
+	</pron>
+</character>

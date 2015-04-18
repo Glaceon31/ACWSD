@@ -1,0 +1,23 @@
+<character value="夺">
+	<introduce>
+		<pinyin value="duo2" writing="duó" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="横撇捺横竖捺" />
+	</introduce>
+	<pron value="duó">
+		<sense tag="动" vernacular="强取">
+			<exam article="《陈涉世家》" ref="广起，夺而杀尉。" />
+		</sense>
+		<sense tag="动" vernacular="剥夺；削去权力">
+			<exam article="《左传·桓公五年》" ref="王夺郑伯政，郑伯不朝。" />
+		</sense>
+		<sense tag="动" vernacular="失去；丧失">
+			<exam article="《齐桓晋文之事》" ref="百亩之田，无夺其时。" />
+		</sense>
+		<sense tag="动" vernacular="乱">
+			<exam article="《书·舜典》" ref="八音克谐，无相夺伦。" />
+		</sense>
+	</pron>
+</character>

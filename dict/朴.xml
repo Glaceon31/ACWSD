@@ -1,0 +1,32 @@
+<character value="朴">
+	<introduce>
+		<pinyin value="po4" writing="pò" />
+		<pinyin value="piao2" writing="piáo" />
+		<pinyin value="pu3" writing="pŭ" />
+		<pinyin value="po1" writing="pō" />
+		<pinyin value="pu2" writing="pú" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="横竖撇捺竖捺" />
+	</introduce>
+	<pron value="pǔ">
+		<sense tag="名" vernacular="未加工的木材">
+			<exam article="《老子》" ref="朴散则为器。" />
+		</sense>
+		<sense tag="名" vernacular="本真，本性">
+			<exam article="《老子》" ref="见素抱朴，少私寡欲。" />
+		</sense>
+		<sense tag="形" vernacular="质朴；淳朴">
+			<exam article="《汉书·黄霸传》" ref="浇淳散朴。" />
+		</sense>
+	</pron>
+	<pron value="bú">
+		<sense tag="名" vernacular="丛生之木">
+			<exam article="《诗经·大雅·棫朴》" ref="芃芃棫朴。" />
+		</sense>
+		<sense tag="动" vernacular="附着">
+			<exam article="《高君书·垦令》" ref="农民不伤，奸民无朴。" />
+		</sense>
+	</pron>
+</character>

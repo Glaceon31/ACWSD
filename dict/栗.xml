@@ -1,0 +1,24 @@
+<character value="栗">
+	<introduce>
+		<pinyin value="li4" writing="lì" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横竖折竖竖横横竖撇捺" />
+	</introduce>
+	<pron value="lì">
+		<sense tag="名" vernacular="栗树；栗子">
+			<exam article="《促织》" ref="蟹白栗黄，备极护爱。" />
+		</sense>
+		<sense tag="动" vernacular="通“慄”">
+			<exam article="《教战守策》" ref="论战斗之事，则缩颈而股栗。" />
+		</sense>
+	</pron>
+	<phrase value="栗栗">
+		<sense value="众多" />
+		<sense value="恐惧的样子" />
+	</phrase>
+	<phrase value="栗烈">
+		<sense value="严寒的样子" />
+	</phrase>
+</character>

@@ -1,0 +1,19 @@
+<character value="衿">
+	<introduce>
+		<pinyin value="jin1" writing="jīn" />
+		<bushou value="衤" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="捺折竖撇捺撇捺捺折" />
+	</introduce>
+	<pron value="jīn">
+		<sense tag="名" vernacular="衣襟">
+			<exam article="《七哀》" ref="白露霑衣衿。" />
+		</sense>
+	</pron>
+	<pron value="jìn">
+		<sense tag="动" vernacular="系；结">
+			<exam article="《反离骚》" ref="衿芰茄之绿衣兮，被夫容之朱裳。" />
+		</sense>
+	</pron>
+</character>

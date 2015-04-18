@@ -1,0 +1,14 @@
+<character value="畹">
+	<introduce>
+		<pinyin value="wan3" writing="wăn" />
+		<bushou value="田" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="竖折横竖横捺捺折撇折捺折折" />
+	</introduce>
+	<pron value="wǎn">
+		<sense tag="名" vernacular="古代土地面积单位，三十亩为一畹">
+			<exam article="《离骚》" ref="余既滋兰之九畹兮。" />
+		</sense>
+	</pron>
+</character>

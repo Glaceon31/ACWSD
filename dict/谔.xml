@@ -1,0 +1,14 @@
+<character value="谔">
+	<introduce>
+		<pinyin value="e4" writing="è" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="捺折竖折横竖折横横横折" />
+	</introduce>
+	<pron value="è">
+		<sense vernacular="言语正直">
+			<exam article="《列子·力命》" ref="在朝谔然，有敖联之色。" />
+		</sense>
+	</pron>
+</character>

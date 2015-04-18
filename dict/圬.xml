@@ -1,0 +1,20 @@
+<character value="圬">
+	<introduce>
+		<pinyin value="wu1" writing="wū" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="横竖横横横折" />
+	</introduce>
+	<pron value="wū">
+		<sense tag="名" vernacular="泥瓦工人用的抹子">
+			<exam article="《尔雅·释宫》" ref="镘谓之圬。" />
+		</sense>
+		<sense tag="动" vernacular="抹灰等泥瓦工作">
+			<exam article="《史记·仲尼弟子列传》" ref="粪土之墙，不可圬也。" />
+		</sense>
+	</pron>
+	<phrase value="圬人">
+		<sense value="泥瓦匠" />
+	</phrase>
+</character>

@@ -1,0 +1,24 @@
+<character value="孟">
+	<introduce>
+		<pinyin value="meng4" writing="mèng" />
+		<bushou value="子" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折竖横竖折竖竖横" />
+	</introduce>
+	<pron value="mèng">
+		<sense tag="形" vernacular="排行第一的">
+			<exam article="《史记·鲁周公世家》" ref="庄公筑台临党氏，见孟女，说而爱之。" />
+		</sense>
+		<sense tag="形" vernacular="农历四季开头的月份" />
+	</pron>
+	<phrase value="孟侯">
+		<sense value="指周武王弟康叔" />
+		<sense value="诸侯之长" />
+	</phrase>
+	<phrase value="孟浪">
+		<sense value="粗略；漫无边际" />
+		<sense value="狂妄；鲁莽" />
+		<sense value="放浪；浪迹" />
+	</phrase>
+</character>

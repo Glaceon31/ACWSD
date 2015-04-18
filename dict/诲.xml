@@ -1,0 +1,15 @@
+<character value="诲">
+	<introduce>
+		<pinyin value="hui4" writing="huì" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="捺折撇横折折捺横捺" />
+	</introduce>
+	<pron value="huì">
+		<sense tag="动" vernacular="教导；指教">
+			<exam article="《论语》" ref="学而不厌，诲而不倦。" />
+			<exam article="《史记·货殖列传序》" ref="其次利导之，其次教诲之。" />
+		</sense>
+	</pron>
+</character>

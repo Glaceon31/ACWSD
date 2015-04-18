@@ -1,0 +1,14 @@
+<character value="翌">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="羽" />
+		<bushoustroke value="6" />
+		<stroke value="11" />
+		<order value="折捺横折捺横捺横捺撇横" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="名" vernacular="明（天、年）">
+			<exam article="《汉书·律历志》" ref="若翌日癸已。" />
+		</sense>
+	</pron>
+</character>

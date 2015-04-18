@@ -1,0 +1,17 @@
+<character value="惆">
+	<introduce>
+		<pinyin value="chou2" writing="chóu" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺竖撇折横竖横竖折横" />
+	</introduce>
+	<pron value="chóu">
+		<sense vernacular="失意，怅惆">
+			<exam article="《荀子·礼论》" ref="案屈然已，则其于志意之情者惆然不嗛。" />
+		</sense>
+	</pron>
+	<phrase value="惆怅">
+		<sense value="因失意而伤感" />
+	</phrase>
+</character>

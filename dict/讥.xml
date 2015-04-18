@@ -1,0 +1,20 @@
+<character value="讥">
+	<introduce>
+		<pinyin value="ji1" writing="jī" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="捺折撇折" />
+	</introduce>
+	<pron value="jī">
+		<sense tag="动" vernacular="指责；非难">
+			<exam article="《岳阳楼记》" ref="登斯楼也，则有去国怀乡，忧谗畏讥，满目箫然，感极而悲者矣。" />
+		</sense>
+		<sense tag="动" vernacular="规劝；讥笑">
+			<exam article="《邹忌讽齐王纳谏》" ref="能谤讥于市朝。" />
+		</sense>
+		<sense tag="动" vernacular="讥讽；讥笑">
+			<exam article="《游褒禅山记》" ref="然力足以至焉，于人为可讥，而在己为有悔。" />
+		</sense>
+	</pron>
+</character>

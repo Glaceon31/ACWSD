@@ -1,0 +1,14 @@
+<character value="凛">
+	<introduce>
+		<pinyin value="lin3" writing="lĭn" />
+		<bushou value="冫" />
+		<bushoustroke value="2" />
+		<stroke value="15" />
+		<order value="捺横捺横竖折竖折横横横横竖撇捺" />
+	</introduce>
+	<pron value="lǐn">
+		<sense tag="形" vernacular="寒冷">
+			<exam article="《闲居赋》" ref="凛秋暑退。" />
+		</sense>
+	</pron>
+</character>

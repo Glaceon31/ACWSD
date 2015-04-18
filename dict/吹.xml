@@ -1,0 +1,34 @@
+<character value="吹">
+	<introduce>
+		<pinyin value="chui1" writing="chuī" />
+		<pinyin value="chui4" writing="chuì" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="竖折横撇折撇捺" />
+	</introduce>
+	<pron value="chuī">
+		<sense tag="动" vernacular="合拢嘴唇用力出气">
+			<exam article="《韩非子·大体》" ref="不吹毛而求小疵。" />
+		</sense>
+		<sense tag="动" vernacular="风吹">
+			<exam article="《归去来兮辞》" ref="风飘飘而吹衣。" />
+		</sense>
+		<sense tag="动" vernacular="吹奏">
+			<exam article="《赤壁赋》" ref="客有吹洞箫者，倚歌而和之。" />
+		</sense>
+		<sense tag="名" vernacular="管乐" />
+	</pron>
+	<phrase value="吹拂">
+		<sense value="1" />
+		<sense value="微风拂动物体" />
+		<sense value="2" />
+		<sense value="比喻揄扬或汲引" />
+	</phrase>
+	<phrase value="吹嘘">
+		<sense value="1" />
+		<sense value="夸大地宣扬" />
+		<sense value="2" />
+		<sense value="嘴里嘘气" />
+	</phrase>
+</character>

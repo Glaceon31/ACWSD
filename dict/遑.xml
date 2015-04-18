@@ -1,0 +1,18 @@
+<character value="遑">
+	<introduce>
+		<pinyin value="huang2" writing="huáng" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="撇竖折横横横横竖横捺折捺" />
+	</introduce>
+	<pron value="huáng">
+		<sense tag="形" vernacular="闲暇；空闲">
+			<exam article="《三国志·吴书·吴主传》" ref="夙夜兢兢，不遑假寝。" />
+		</sense>
+		<sense tag="动" vernacular="通“惶”，恐惧" />
+		<sense tag="动" vernacular="通“徨”，徘徊">
+			<exam article="《月赋》" ref="满堂变容，回遑如失。" />
+		</sense>
+	</pron>
+</character>

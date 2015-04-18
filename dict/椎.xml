@@ -1,0 +1,42 @@
+<character value="椎">
+	<introduce>
+		<pinyin value="zhui1" writing="zhuī" />
+		<pinyin value="chui2" writing="chuí" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖撇捺撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="chuí">
+		<sense tag="名" vernacular="槌子，敲击的器具">
+			<exam article="《订鬼》" ref="若见鬼把椎锁绳纆，立守其旁。" />
+		</sense>
+		<sense tag="动" vernacular="用槌打">
+			<exam article="《信陵君窃符救赵》" ref="朱亥袖四十斤铁椎，椎杀晋鄙。" />
+		</sense>
+		<sense tag="名" vernacular="“椎形”的">
+			<exam article="《核舟记》" ref="居右者椎髻仰面。" />
+		</sense>
+		<sense tag="形" vernacular="朴实">
+			<exam article="《史记·绛侯周勃世家》" ref="其椎少文如此。" />
+		</sense>
+	</pron>
+	<phrase value="椎髻">
+		<sense value="如椎形的发髻" />
+	</phrase>
+	<phrase value="椎鲁">
+		<sense value="鲁钝" />
+	</phrase>
+	<phrase value="椎埋">
+		<sense value="1" />
+		<sense value="杀人埋尸" />
+		<sense value="2" />
+		<sense value="盗墓" />
+	</phrase>
+	<phrase value="椎剽">
+		<sense value="杀人劫财" />
+	</phrase>
+	<phrase value="椎心泣血">
+		<sense value="形容极度悲痛" />
+	</phrase>
+</character>

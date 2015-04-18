@@ -1,0 +1,35 @@
+<character value="种">
+	<introduce>
+		<pinyin value="zhong3" writing="zhŏng" />
+		<pinyin value="chong2" writing="chóng" />
+		<pinyin value="zhong4" writing="zhòng" />
+		<bushou value="禾" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="撇横竖撇捺竖折横竖" />
+	</introduce>
+	<pron value="zhǒng">
+		<sense tag="名" vernacular="植物的种子">
+			<exam article="《甘藷疏序》" ref="客莆田徐生为予三致其种。" />
+		</sense>
+		<sense tag="名" vernacular="种族；族类">
+			<exam article="《陈涉世家》" ref="王侯将相宁有种乎？" />
+		</sense>
+		<sense tag="名" vernacular="种类；类别">
+			<exam article="《孔雀东南飞》" ref="物物各自异，种种在其中。" />
+		</sense>
+		<sense tag="名" vernacular="人的后嗣">
+			<exam article="《晋书·刘颂传》" ref="卿尚有种也。" />
+		</sense>
+	</pron>
+	<pron value="zhòng">
+		<sense tag="动" vernacular="种植">
+			<exam article="《采草药》" ref="一丘之禾，则后种者晚实。" />
+		</sense>
+	</pron>
+	<phrase value="种种">
+		<sense value="诚恳的样子" />
+		<sense value="头发短" />
+		<sense value="各种各样" />
+	</phrase>
+</character>

@@ -1,0 +1,34 @@
+<character value="败">
+	<introduce>
+		<pinyin value="bai4" writing="bài" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="竖折撇捺撇横撇捺" />
+	</introduce>
+	<pron value="bài">
+		<sense tag="动" vernacular="毁坏;颓坏">
+			<exam article="《左传·僖公十五年》" ref="涉河,侯车败。" />
+		</sense>
+		<sense tag="形" vernacular="毁坏的">
+			<exam article="《促织》" ref="于败丛草处,探石发穴。" />
+		</sense>
+		<sense tag="形" vernacular="腐败,凋残">
+			<exam article="《卖柑者言》" ref="又何往而不金玉其外，败絮其中也哉？" />
+			<exam article="《芙蕖》" ref="只有霜中败叶，零落难堪。" />
+		</sense>
+		<sense tag="动" vernacular="毁弃；背弃">
+			<exam article="《过秦论》" ref="于是从散约败，争割地而赂秦。" />
+		</sense>
+		<sense tag="动" vernacular="失败，指打败仗，亦指事情不成功">
+			<exam article="《殽之战》" ref="秦师轻而无礼，必败。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……失败">
+			<exam article="《殽之战》" ref="败秦师于殽。" />
+		</sense>
+	</pron>
+	<phrase value="败北">
+		<sense value="溃败" />
+		<sense value="北，回头跑，溃散" />
+	</phrase>
+</character>

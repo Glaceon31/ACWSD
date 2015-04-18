@@ -1,0 +1,46 @@
+<character value="造">
+	<introduce>
+		<pinyin value="zao4" writing="zào" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="撇横竖横竖折横捺折捺" />
+	</introduce>
+	<pron value="zào">
+		<sense tag="动" vernacular="到……去">
+			<exam article="《谭嗣同》" ref="君径造袁所寓之法华寺。" />
+		</sense>
+		<sense tag="动" vernacular="制造；建造">
+			<exam article="《张衡传》" ref="复造侯风地动仪。" />
+			<exam article="《赤壁赋》" ref="是造物者之无尽藏也。" />
+		</sense>
+		<sense tag="动" vernacular="形成">
+			<exam article="《察变》" ref="计惟有天造草昧，人功未施。" />
+		</sense>
+		<sense tag="动" vernacular="制定">
+			<exam article="《屈原列传》" ref="怀王使屈原造为宪令。" />
+		</sense>
+		<sense tag="动" vernacular="做；行">
+			<exam article="《窦娥冤》" ref="造恶的享富贵又寿延。" />
+		</sense>
+		<sense tag="名" vernacular="世；代">
+			<exam article="《〈黄花冈七十二烈士事略〉序》" ref="满清末造……" />
+		</sense>
+	</pron>
+	<phrase value="造次">
+		<sense value="仓卒" />
+		<sense value="轻易" />
+		<sense value="鲁莽" />
+	</phrase>
+	<phrase value="造化">
+		<sense value="大自然的创造化育" />
+		<sense value="运气；幸运" />
+	</phrase>
+	<phrase value="造物">
+		<sense value="创造自然万物的神力" />
+	</phrase>
+	<phrase value="造诣">
+		<sense value="拜访" />
+		<sense value="学问、技艺所达到的程度" />
+	</phrase>
+</character>

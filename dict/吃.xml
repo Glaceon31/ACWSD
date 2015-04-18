@@ -1,0 +1,33 @@
+<character value="吃">
+	<introduce>
+		<pinyin value="chi1" writing="chī" />
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="竖折横撇横折" />
+	</introduce>
+	<pron value="chī">
+		<sense tag="动" vernacular="口吃">
+			<exam article="《史记·张丞相传》" ref="（周）昌为人吃，又盛怒，曰：‘臣口不能言，然臣期期知其不可。’" />
+		</sense>
+		<sense tag="象" vernacular="笑声">
+			<exam article="《聊斋志异·婴宁》" ref="但闻室中吃，皆婴宁笑声。" />
+		</sense>
+		<sense tag="动" vernacular="进食">
+			<exam article="《新书·耳痹》" ref="越王之穷，至乎吃山草。" />
+		</sense>
+		<sense tag="动" vernacular="感受；蒙受">
+			<exam article="《京本通俗小说·错斩崔宁》" ref="半夜敲门不吃惊。" />
+		</sense>
+		<sense tag="介" vernacular="表示被动">
+			<exam article="《智取生辰纲》" ref="连累我们也吃你说了几声。" />
+		</sense>
+	</pron>
+	<phrase value="吃官司">
+		<sense value="指被控告受处罚或关在监狱里" />
+	</phrase>
+	<phrase value="吃嘴">
+		<sense value="贪吃" />
+	</phrase>
+</character>

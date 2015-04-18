@@ -1,0 +1,14 @@
+<character value="虬">
+	<introduce>
+		<pinyin value="qiu2" writing="qiú" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="7" />
+		<order value="竖折横竖横捺折" />
+	</introduce>
+	<pron value="qiú">
+		<sense tag="名" vernacular="传说中一种无角的龙">
+			<exam article="《涉江》" ref="驾青虬兮骖白螭。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,38 @@
+<character value="贾">
+	<introduce>
+		<pinyin value="jia3" writing="jiă" />
+		<pinyin value="gu3" writing="gŭ" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横竖折竖竖横竖折撇捺" />
+	</introduce>
+	<pron value="jià">
+		<sense tag="名" vernacular="同“价”，价格；价钱">
+			<exam article="《卖柑者言》" ref="置于市，贾十倍，人争鬻之。" />
+		</sense>
+		<sense tag="名" vernacular="同“价”">
+			<exam article="《记王忠肃公翱事》" ref="如有营，予佐尔贾。" />
+		</sense>
+	</pron>
+	<pron value="gǔ">
+		<sense tag="动" vernacular="卖；出售">
+			<exam article="《汉书·宁成传》" ref="仕不至二千石，贾不至千万，安可比人乎？" />
+		</sense>
+		<sense tag="动" vernacular="买；买进">
+			<exam article="《左传·昭公二十九年》" ref="平子每岁贾马。" />
+		</sense>
+		<sense tag="动" vernacular="泛指做买卖；经商">
+			<exam article="《韩非子·五蠹》" ref="长袖善舞，多财善贾。" />
+		</sense>
+		<sense tag="名" vernacular="商人">
+			<exam article="《齐桓晋文之事》" ref="商贾皆欲藏于王之市。" />
+		</sense>
+		<sense tag="动" vernacular="招引；招致">
+			<exam article="《中山狼传》" ref="今老矣，不能敛华就实，贾老圃怒。" />
+		</sense>
+	</pron>
+	<pron value="jiǎ">
+		<sense tag="名" vernacular="姓" />
+	</pron>
+</character>

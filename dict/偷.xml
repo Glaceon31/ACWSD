@@ -1,0 +1,23 @@
+<character value="偷">
+	<introduce>
+		<pinyin value="tou1" writing="tōu" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="撇竖撇捺横竖折横横竖竖" />
+	</introduce>
+	<pron value="tōu">
+		<sense tag="形" vernacular="苟且；得过且过">
+			<exam article="《石壕吏》" ref="存者且偷生，死者长已矣。" />
+		</sense>
+		<sense tag="形" vernacular="刻薄；不厚道">
+			<exam article="《论语·泰伯》" ref="故旧不遗，则民不偷。" />
+		</sense>
+		<sense tag="动" vernacular="偷窃；偷盗">
+			<exam article="《高祖还乡》" ref="还酒债，偷量了豆几斛。" />
+		</sense>
+		<sense tag="名" vernacular="小偷；窃贼">
+			<exam article="《晋书·王献之传》" ref="群偷惊走。" />
+		</sense>
+	</pron>
+</character>

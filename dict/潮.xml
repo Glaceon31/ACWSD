@@ -1,0 +1,23 @@
+<character value="潮">
+	<introduce>
+		<pinyin value="chao2" writing="cháo" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="捺捺横横竖竖折横横横竖撇折横横" />
+	</introduce>
+	<pron value="cháo">
+		<sense tag="名" vernacular="海水定时涨落叫潮">
+			<exam article="《七发》" ref="江水逆流，海水上潮。" />
+		</sense>
+		<sense tag="形" vernacular="潮湿" />
+	</pron>
+	<phrase value="潮信">
+		<sense value="即潮汐" />
+		<sense value="因其涨落有定时，故称“潮信" />
+	</phrase>
+	<phrase value="潮音">
+		<sense value="潮声" />
+		<sense value="后多指僧众诵经之声" />
+	</phrase>
+</character>

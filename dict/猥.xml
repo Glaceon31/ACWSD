@@ -1,0 +1,23 @@
+<character value="猥">
+	<introduce>
+		<pinyin value="wei3" writing="wĕi" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="撇折撇竖折横竖横横折撇捺" />
+	</introduce>
+	<pron value="wěi">
+		<sense tag="形" vernacular="众多；众">
+			<exam article="《论衡·宣汉篇》" ref="周有三圣，文王武王周公时猥出。" />
+		</sense>
+		<sense tag="形" vernacular="杂；琐碎">
+			<exam article="《晋书·刘弘传》" ref="又酒室中云齐中酒、听事酒、猥酒，同用麴米。" />
+		</sense>
+		<sense tag="形" vernacular="卑贱；下流">
+			<exam article="《抱朴子·百里》" ref="庸猥之徒，器小志近。" />
+		</sense>
+		<sense tag="谦词" vernacular="表示谦卑">
+			<exam article="《后汉书·隗嚣传》" ref="望无耆耈之德，而猥托宾客之上，诚自愧也。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,26 @@
+<character value="诏">
+	<introduce>
+		<pinyin value="zhao4" writing="zhào" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺折折撇竖折横" />
+	</introduce>
+	<pron value="zhào">
+		<sense tag="名" vernacular="皇帝的命令、文告">
+			<exam article="《陈情表》" ref="臣欲奉诏奔驰。" />
+		</sense>
+		<sense tag="动" vernacular="皇帝下命令">
+			<exam article="《促织》" ref="上大喜悦，诏赐抚臣名马衣缎。" />
+		</sense>
+		<sense tag="动" vernacular="告诉">
+			<exam article="《冯婉贞》" ref="于是集谢庄少年之精技击者诏之。" />
+		</sense>
+		<sense tag="动" vernacular="召见">
+			<exam article="《后汉书·冯衍传》" ref="诏伊尹于亳郊兮。" />
+		</sense>
+	</pron>
+	<phrase value="诏狱">
+		<sense value="拘禁由皇帝下诏书逮捕犯人的地方" />
+	</phrase>
+</character>

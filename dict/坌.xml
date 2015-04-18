@@ -1,0 +1,27 @@
+<character value="坌">
+	<introduce>
+		<pinyin value="ben4" writing="bèn" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="撇捺折撇横竖横" />
+	</introduce>
+	<pron value="bèn">
+		<sense tag="名" vernacular="尘土;灰尘">
+			<exam article="《续资治通鉴·宋神宗元丰四年》" ref="尘坌四起,居人骇散。" />
+		</sense>
+		<sense tag="动" vernacular="尘土飞扬">
+			<exam article="《新唐书·郭子仪传》" ref="尘且坌,飞矢射贼。" />
+		</sense>
+		<sense tag="动" vernacular="聚;积聚">
+			<exam article="《监丞周公墓志铭》" ref="当是时,自郡至属县,流民坌集。" />
+		</sense>
+		<sense tag="形" vernacular="涌出">
+			<exam article="《上张侍郎第一书》" ref="日数千言,坌然溢出。" />
+		</sense>
+		<sense tag="形" vernacular="并;一齐">
+			<exam article="《明史·王@传》" ref="山东、河南饥民就食者坌至。" />
+		</sense>
+		<sense vernacular="通“笨”,不灵活" />
+	</pron>
+</character>

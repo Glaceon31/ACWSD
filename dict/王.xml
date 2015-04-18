@@ -1,0 +1,36 @@
+<character value="王">
+	<introduce>
+		<pinyin value="wang2" writing="wáng" />
+		<pinyin value="wang4" writing="wàng" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="横横竖横" />
+	</introduce>
+	<pron value="wáng">
+		<sense tag="名" vernacular="帝王；君主">
+			<exam article="《察今》" ref="先王之所以为法者，何也?" />
+		</sense>
+		<sense tag="名" vernacular="秦汉以后帝王称皇帝，“王”成为封爵最高一级">
+			<exam article="《陈涉世家》" ref="王侯将相，宁有种乎。" />
+		</sense>
+		<sense tag="动" vernacular="朝见王">
+			<exam article="《诗经·殷武》" ref="莫敢不来王。" />
+		</sense>
+	</pron>
+	<pron value="wàng">
+		<sense tag="动" vernacular="称王；统治天下">
+			<exam article="《鸿门宴》" ref="沛公欲王关中。" />
+		</sense>
+		<sense tag="名使动" vernacular="封……为王；拥戴……为王">
+			<exam article="《鸿门宴》" ref="先破秦入咸阳者王之。" />
+		</sense>
+	</pron>
+	<phrase value="王霸">
+		<sense value="王业和霸业" />
+		<sense value="儒家认为用仁义治理天下是王道；用武力征服天下是霸道" />
+	</phrase>
+	<phrase value="王师">
+		<sense value="帝王的军队，也指本朝的军队" />
+	</phrase>
+</character>

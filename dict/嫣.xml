@@ -1,0 +1,18 @@
+<character value="嫣">
+	<introduce>
+		<pinyin value="yan1" writing="yān" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="折撇横横竖横竖横横折捺捺捺捺" />
+	</introduce>
+	<pron value="yān">
+		<sense tag="形" vernacular="美好的样子" />
+	</pron>
+	<phrase value="嫣红">
+		<sense value="浓艳的红色" />
+	</phrase>
+	<phrase value="嫣然">
+		<sense value="笑容美好的样子" />
+	</phrase>
+</character>

@@ -1,0 +1,18 @@
+<character value="彗">
+	<introduce>
+		<pinyin value="hui4" writing="huì" />
+		<bushou value="彐" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横横横竖横横横竖折横横" />
+	</introduce>
+	<pron value="huì">
+		<sense tag="名" vernacular="扫帚，也作“篲”">
+			<exam article="《汉书·高帝纪》" ref="太公拥彗。" />
+		</sense>
+		<sense tag="名" vernacular="彗星，也称扫帚星">
+			<exam article="《左传·昭公十七年》" ref="彗，所以除旧布新也。" />
+			<exam article="《九歌·少司命》" ref="登九天兮抚彗星。" />
+		</sense>
+	</pron>
+</character>

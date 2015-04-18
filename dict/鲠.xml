@@ -1,0 +1,18 @@
+<character value="鲠">
+	<introduce>
+		<pinyin value="geng3" writing="gĕng" />
+		<bushou value="鱼" />
+		<bushoustroke value="8" />
+		<stroke value="15" />
+		<order value="撇折竖折横竖横横横竖折横横撇捺" />
+	</introduce>
+	<pron value="gěng">
+		<sense tag="名" vernacular="鱼骨；鱼刺" />
+		<sense tag="形" vernacular="直爽；正直">
+			<exam article="《后汉书·任隗传》" ref="鲠言直议，无所回隐。" />
+		</sense>
+		<sense tag="名" vernacular="害；祸患">
+			<exam article="《国语·晋语六》" ref="除鲠而避强，不可谓刑。" />
+		</sense>
+	</pron>
+</character>

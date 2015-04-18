@@ -1,0 +1,15 @@
+<character value="柢">
+	<introduce>
+		<pinyin value="di3" writing="dĭ" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横竖撇捺撇折横折捺" />
+	</introduce>
+	<pron value="dǐ">
+		<sense tag="名" vernacular="树根；根底">
+			<exam article="《韩非五·解老》" ref="柢固则生长。" />
+			<exam article="《史记·鲁仲连邹阳列传》" ref="蟠木根柢，轮囷离诡。" />
+		</sense>
+	</pron>
+</character>

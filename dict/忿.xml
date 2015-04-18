@@ -1,0 +1,17 @@
+<character value="忿">
+	<introduce>
+		<pinyin value="fen4" writing="fèn" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="撇捺折撇捺折捺捺" />
+	</introduce>
+	<pron value="fèn">
+		<sense tag="动" vernacular="愤怒；怨恨">
+			<exam article="《谋攻》" ref="将不胜其忿而蚁附之。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……忿怒">
+			<exam article="《陈涉世家》" ref="广故数言欲亡，忿恚尉。" />
+		</sense>
+	</pron>
+</character>

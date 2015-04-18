@@ -1,0 +1,15 @@
+<character value="昶">
+	<introduce>
+		<pinyin value="chang3" writing="chăng" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="捺折折撇捺竖折横横" />
+	</introduce>
+	<pron value="chǎng">
+		<sense vernacular="白天长" />
+		<sense vernacular="chàng通“畅”">
+			<exam article="《琴赋》" ref="固以和昶而足耽矣。" />
+		</sense>
+	</pron>
+</character>

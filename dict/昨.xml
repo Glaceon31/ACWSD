@@ -1,0 +1,17 @@
+<character value="昨">
+	<introduce>
+		<pinyin value="zuo2" writing="zuó" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="竖折横横撇横竖横横" />
+	</introduce>
+	<pron value="zuó">
+		<sense tag="名" vernacular="昨天">
+			<exam article="《木兰诗》" ref="昨夜见军贴，可汗大点兵。" />
+		</sense>
+		<sense tag="名" vernacular="过去；以往">
+			<exam article="《归去来兮辞》" ref="实迷途其未远，觉今是而昨非。" />
+		</sense>
+	</pron>
+</character>

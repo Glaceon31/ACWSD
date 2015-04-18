@@ -1,0 +1,19 @@
+<character value="垅">
+	<introduce>
+		<pinyin value="long3" writing="lŏng" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横横撇折撇捺" />
+	</introduce>
+	<pron value="lǒng">
+		<sense vernacular="同“垄”" />
+		<sense tag="名" vernacular="田埂">
+			<exam article="《史记·陈涉世家》" ref="辍耕之垅上。" />
+		</sense>
+		<sense tag="名" vernacular="坟">
+			<exam article="《荀子·礼论》" ref="故圹垅，其貌象室屋也。" />
+		</sense>
+		<sense tag="名" vernacular="通“陇”，山名" />
+	</pron>
+</character>

@@ -1,0 +1,26 @@
+<character value="绮">
+	<introduce>
+		<pinyin value="qi3" writing="qĭ" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="折折横横撇捺横竖折横竖" />
+	</introduce>
+	<pron value="qǐ">
+		<sense tag="名" vernacular="有花纹的丝织品">
+			<exam article="《西门豹治邺》" ref="洗沐之，为治新缯绮縠衣，闲居斋戒。" />
+		</sense>
+		<sense tag="名" vernacular="用绮做成的衣服">
+			<exam article="《送东阳马生序》" ref="同舍生皆被绮绣。" />
+		</sense>
+		<sense tag="形" vernacular="有花纹的；华美的">
+			<exam article="《杂诗》" ref="来日绮窗前，寒梅著花未？" />
+		</sense>
+	</pron>
+	<phrase value="绮年">
+		<sense value="青春；少年" />
+	</phrase>
+	<phrase value="绮思">
+		<sense value="华美的文思" />
+	</phrase>
+</character>

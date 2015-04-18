@@ -1,0 +1,21 @@
+<character value="巇">
+	<introduce>
+		<pinyin value="xi1" writing="xī" />
+		<bushou value="山" />
+		<bushoustroke value="3" />
+		<stroke value="20" />
+		<order value="竖折竖竖横折撇横折横竖折横捺撇横横折撇捺" />
+	</introduce>
+	<pron value="xī">
+		<sense tag="形" vernacular="险；险峻">
+			<exam article="《&lt;黄花岗七十二烈士事略&gt;序》" ref="满清末造,革命党人，历艰难险巇。" />
+		</sense>
+		<sense tag="名" vernacular="缝隙">
+			<exam article="《鬼谷子·抵巇》" ref="巇始有朕，可抵而塞。" />
+			<exam article="《乞巧文》" ref="变情徇势，射利抵巇。" />
+		</sense>
+	</pron>
+	<phrase value="巇崄">
+		<sense value="艰险难行，也比喻世途艰难" />
+	</phrase>
+</character>

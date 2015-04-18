@@ -1,0 +1,19 @@
+<character value="谆">
+	<introduce>
+		<pinyin value="zhun1" writing="zhūn" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺折捺横竖折横折竖横" />
+	</introduce>
+	<pron value="zhūn">
+		<sense vernacular="见“谆谆”" />
+		<sense tag="动" vernacular="辅助">
+			<exam article="《国语·晋语九》" ref="以谆赵鞅之故。" />
+		</sense>
+	</pron>
+	<phrase value="谆谆">
+		<sense value="教诲不倦的样子" />
+		<sense value="迟钝" />
+	</phrase>
+</character>

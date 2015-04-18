@@ -1,0 +1,17 @@
+<character value="唁">
+	<introduce>
+		<pinyin value="yan4" writing="yàn" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="竖折横捺横横横竖折横" />
+	</introduce>
+	<pron value="yàn">
+		<sense tag="动" vernacular="古时慰问亡国者">
+			<exam article="《左传·昭公二十五年》" ref="公孙于齐，齐侯唁公于野井。" />
+		</sense>
+		<sense tag="动" vernacular="慰问遭遇其他祸事的人">
+			<exam article="《左传·襄公十七年》" ref="齐人获臧坚，齐侯使夙沙卫唁之。" />
+		</sense>
+	</pron>
+</character>

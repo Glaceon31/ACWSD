@@ -1,0 +1,18 @@
+<character value="窘">
+	<introduce>
+		<pinyin value="jiong3" writing="jiŏng" />
+		<pinyin value="jun3" writing="jŭn" />
+		<bushou value="穴" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="捺捺折撇捺折横横撇竖折横" />
+	</introduce>
+	<pron value="jiǒng">
+		<sense tag="形" vernacular="困窘；窘迫；处于为难境">
+			<exam article="《狼》" ref="屠大窘，恐前后受其敌。" />
+		</sense>
+		<sense tag="形" vernacular="穷困；贫困">
+			<exam article="《晋书·吴逵传》" ref="家极贫窘，冬无衣被。" />
+		</sense>
+	</pron>
+</character>

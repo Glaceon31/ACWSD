@@ -1,0 +1,20 @@
+<character value="粮">
+	<introduce>
+		<pinyin value="liang2" writing="liáng" />
+		<bushou value="米" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="捺撇横竖撇捺捺折横横折撇捺" />
+	</introduce>
+	<pron value="liáng">
+		<sense tag="名" vernacular="旅行用的干粮；军粮">
+			<exam article="《过秦论》" ref="赢粮而景从。" />
+		</sense>
+		<sense tag="名" vernacular="粮食；谷物">
+			<exam article="《商君书·勒令》" ref="民有余粮。" />
+		</sense>
+		<sense tag="名" vernacular="田赋；田税">
+			<exam article="《高祖还乡》" ref="欠我的粟，税粮中私准除。" />
+		</sense>
+	</pron>
+</character>

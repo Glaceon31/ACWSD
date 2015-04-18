@@ -1,0 +1,46 @@
+<character value="宿">
+	<introduce>
+		<pinyin value="su4" writing="sù" />
+		<pinyin value="xiu3" writing="xiŭ" />
+		<pinyin value="xiu4" writing="xiù" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺折撇竖横撇竖折横横" />
+	</introduce>
+	<pron value="sù">
+		<sense tag="动" vernacular="住宿；过夜">
+			<exam article="《涉江》" ref="朝发枉陼兮，夕宿辰阳。" />
+		</sense>
+		<sense tag="名" vernacular="住宿的地方">
+			<exam article="《周礼·遗人》" ref="三十里有宿。" />
+		</sense>
+		<sense tag="名" vernacular="夜晚">
+			<exam article="《齐民要术·水稻》" ref="净淘种子，渍浸三宿。" />
+		</sense>
+		<sense tag="形" vernacular="隔夜的；隔年的；旧有的">
+			<exam article="《采草药》" ref="大率用根者，若有宿根，须取无茎叶时采。" />
+		</sense>
+		<sense tag="形" vernacular="富有阅历的；经验丰富的(老人)" />
+	</pron>
+	<pron value="xiù">
+		<sense tag="名" vernacular="星宿">
+			<exam article="《列子·天瑞》" ref="日月星宿不当坠也。" />
+		</sense>
+	</pron>
+	<phrase value="宿将">
+		<sense value="经验丰富的老将" />
+	</phrase>
+	<phrase value="宿儒">
+		<sense value="老成博学的读书人" />
+	</phrase>
+	<phrase value="宿世">
+		<sense value="佛教指人的前生" />
+	</phrase>
+	<phrase value="宿昔">
+		<sense value="早晚，指很短的时间" />
+		<sense value="前一天夜晚；昨夜" />
+		<sense value="往日；从前" />
+		<sense value="平素；一向" />
+	</phrase>
+</character>

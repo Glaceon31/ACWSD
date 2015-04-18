@@ -1,0 +1,25 @@
+<character value="兵">
+	<introduce>
+		<pinyin value="bing1" writing="bīng" />
+		<bushou value="八" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇竖横竖横撇捺" />
+	</introduce>
+	<pron value="bīng">
+		<sense tag="名" vernacular="兵器;武器">
+			<exam article="《殽之战》" ref="束载、厉兵、秣马矣。" />
+			<exam article="《过秦论》" ref="斩木为兵,揭竿为旗。" />
+		</sense>
+		<sense tag="名" vernacular="军队;士兵">
+			<exam article="《谋攻》" ref="不战而屈人之兵。" />
+		</sense>
+		<sense tag="名" vernacular="战争;军事">
+			<exam article="《论积贮疏》" ref="兵旱相乘,天下大屈。" />
+			<exam article="《教战守策》" ref="昔者先王知兵之不可去也。" />
+		</sense>
+		<sense tag="名" vernacular="战略">
+			<exam article="《谋攻》" ref="战上兵伐谋。" />
+		</sense>
+	</pron>
+</character>

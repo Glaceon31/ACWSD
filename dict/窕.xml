@@ -1,0 +1,27 @@
+<character value="窕">
+	<introduce>
+		<pinyin value="tiao3" writing="tiăo" />
+		<bushou value="穴" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="捺捺折撇捺撇捺横折撇捺" />
+	</introduce>
+	<pron value="tiǎo">
+		<sense tag="动" vernacular="有空隙；不充实">
+			<exam article="《荀子·赋篇》" ref="充盈大宇而不窕。" />
+		</sense>
+		<sense tag="动" vernacular="通“挑”">
+			<exam article="《七发》" ref="目窕心与。" />
+		</sense>
+	</pron>
+	<pron value="tiāo">
+		<sense tag="形" vernacular="通“佻”">
+			<exam article="《左传·成公十六年》" ref="楚师轻窕，固垒而待之，三日必退。" />
+		</sense>
+	</pron>
+	<pron value="yáo">
+		<sense tag="形" vernacular="妖艳">
+			<exam article="《荀子·礼论》" ref="故其立文饰也，不致于窕冶。" />
+		</sense>
+	</pron>
+</character>

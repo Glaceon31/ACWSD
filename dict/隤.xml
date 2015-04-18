@@ -1,0 +1,23 @@
+<character value="隤">
+	<introduce>
+		<pinyin value="tui2" writing="tuí" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="14" />
+		<order value="折竖竖折横竖横竖折横横横撇捺" />
+	</introduce>
+	<pron value="tuí">
+		<sense tag="动" vernacular="坠落；落下">
+			<exam article="《西都赋》" ref="巨石隤，松柏仆。" />
+		</sense>
+		<sense tag="动" vernacular="倒塌；使倒塌">
+			<exam article="《上林赋》" ref="隤墙填堑。" />
+		</sense>
+		<sense tag="动" vernacular="跌倒">
+			<exam article="《淮南子·原道训》" ref="先者隤陷，则后者以谋。" />
+		</sense>
+	</pron>
+	<phrase value="隤然">
+		<sense value="柔顺的样子" />
+	</phrase>
+</character>

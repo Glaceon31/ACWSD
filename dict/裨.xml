@@ -1,0 +1,28 @@
+<character value="裨">
+	<introduce>
+		<pinyin value="bi4" writing="bì" />
+		<pinyin value="pi2" writing="pí" />
+		<pinyin value="bei1" writing="bēi" />
+		<bushou value="衤" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="捺折竖撇捺撇竖折横横撇横竖" />
+	</introduce>
+	<pron value="pí">
+		<sense tag="名" vernacular="古代祭祀时穿的一种次等礼服">
+			<exam article="《荀子·富国》" ref="诸侯玄裷衣冕，大夫裨冕。" />
+		</sense>
+		<sense tag="形" vernacular="副的；辅佐的">
+			<exam article="《失街亭》" ref="前锋破敌，乃偏裨之事耳。" />
+		</sense>
+		<sense tag="形" vernacular="通“稗”，细小" />
+	</pron>
+	<pron value="bì">
+		<sense tag="动" vernacular="弥补；补救；补助">
+			<exam article="《出师表》" ref="必能裨补阙漏，有所广益。" />
+		</sense>
+		<sense tag="名" vernacular="益处；好处">
+			<exam article="《进学解》" ref="头童齿豁，竟死何裨？" />
+		</sense>
+	</pron>
+</character>

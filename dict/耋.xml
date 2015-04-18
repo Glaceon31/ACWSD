@@ -1,0 +1,18 @@
+<character value="耋">
+	<introduce>
+		<pinyin value="die2" writing="dié" />
+		<bushou value="耂" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖横撇撇折横折捺横竖横" />
+	</introduce>
+	<pron value="dié">
+		<sense tag="形" vernacular="年老">
+			<exam article="《左传·僖公九年》" ref="以伯舅耋老，加劳，赐一级无下拜。" />
+		</sense>
+	</pron>
+	<phrase value="耋期">
+		<sense value="diéqī年寿高" />
+		<sense value="期，百岁" />
+	</phrase>
+</character>

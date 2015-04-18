@@ -1,0 +1,50 @@
+<character value="质">
+	<introduce>
+		<pinyin value="zhi4" writing="zhì" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="撇撇横竖竖折撇捺" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="名" vernacular="人质；抵押品">
+			<exam article="《触龙说赵太后》" ref="必以长安君为质，兵乃出。" />
+		</sense>
+		<sense tag="动" vernacular="作人质；作抵押品">
+			<exam article="《触龙说赵太后》" ref="为长安君约车百乘，质于齐。" />
+		</sense>
+		<sense tag="名" vernacular="质地；底子">
+			<exam article="《捕蛇者说》" ref="永州之野产异蛇，黑质而白章。" />
+		</sense>
+		<sense tag="形" vernacular="质朴；朴实">
+			<exam article="《论语·雍也》" ref="质胜文则野，文胜质则史。" />
+		</sense>
+		<sense tag="名" vernacular="资质；禀性">
+			<exam article="《送东阳马生序》" ref="非天质之卑，则心不若余之专耳。" />
+		</sense>
+		<sense tag="名" vernacular="刑具；刀斧底下的垫座">
+			<exam article="《廉颇蔺相如列传》" ref="君不如肉袒伏斧质请罪。" />
+		</sense>
+		<sense tag="名" vernacular="通“贽”">
+			<exam article="《屈原列传》" ref="乃令张仪佯去秦，厚币委质事楚。" />
+		</sense>
+		<sense tag="名" vernacular="箭靶">
+			<exam article="《荀子·劝学》" ref="是故质的张而弓矢至焉。" />
+		</sense>
+		<sense tag="动" vernacular="对质">
+			<exam article="《礼记·曲礼》" ref="虽质君之前，臣不讳也。" />
+		</sense>
+		<sense tag="动" vernacular="质询">
+			<exam article="《送东阳马生序》" ref="余侍立左右，援疑质理，俯身倾耳以请。" />
+		</sense>
+		<sense tag="副" vernacular="正">
+			<exam article="《&lt;指南录&gt;后序》" ref="质明避哨竹林中。" />
+		</sense>
+		<sense tag="名" vernacular="盟约">
+			<exam article="《左传·哀公二十年》" ref="黄池之役,先主与吴王有质。" />
+		</sense>
+	</pron>
+	<phrase value="质要">
+		<sense value="古代买卖货物的券契" />
+	</phrase>
+</character>

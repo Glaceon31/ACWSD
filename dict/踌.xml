@@ -1,0 +1,17 @@
+<character value="踌">
+	<introduce>
+		<pinyin value="chou2" writing="chóu" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="14" />
+		<order value="竖折横竖横竖横横横横撇横竖捺" />
+	</introduce>
+	<pron value="chóu">
+		<sense vernacular="见“踌躇”" />
+	</pron>
+	<phrase value="踌躇">
+		<sense value="1" />
+		<sense value="徘徊，犹豫" />
+		<sense value="又写作“踌蹰”" />
+	</phrase>
+</character>

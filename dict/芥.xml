@@ -1,0 +1,24 @@
+<character value="芥">
+	<introduce>
+		<pinyin value="jie4" writing="jiè" />
+		<pinyin value="gai4" writing="gài" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖竖撇捺撇竖" />
+	</introduce>
+	<pron value="jiè">
+		<sense tag="名" vernacular="菜名">
+			<exam article="《智取生辰纲》" ref="比得芥菜子大小的官职，值得恁地逞能。" />
+		</sense>
+		<sense tag="名" vernacular="小草">
+			<exam article="《六国论》" ref="子孙视之不甚惜，举以予人，如弃草芥。" />
+		</sense>
+		<sense tag="名" vernacular="比喻微小的东西">
+			<exam article="《促织》" ref="遂于蒿莱中侧听徐行，似寻针芥。" />
+		</sense>
+		<sense tag="形" vernacular="微小的">
+			<exam article="《原臣》" ref="以纤芥之疾也。" />
+		</sense>
+	</pron>
+</character>

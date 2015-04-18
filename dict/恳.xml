@@ -1,0 +1,14 @@
+<character value="恳">
+	<introduce>
+		<pinyin value="ken3" writing="kĕn" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="折横横折撇捺捺折捺捺" />
+	</introduce>
+	<pron value="kěn">
+		<sense tag="形" vernacular="忠诚；诚恳">
+			<exam article="《上皇帝万言书》" ref="以吾至诚恳恻之心，力行而为之倡。" />
+		</sense>
+	</pron>
+</character>

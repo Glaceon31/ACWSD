@@ -1,0 +1,15 @@
+<character value="疢">
+	<introduce>
+		<pinyin value="chen4" writing="chèn" />
+		<bushou value="疒" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="捺横撇捺横捺撇撇捺" />
+	</introduce>
+	<pron value="chèn">
+		<sense vernacular="热病，病" />
+		<sense vernacular="痛苦">
+			<exam article="《心史总后序》" ref="我罹大变，心疢骨寒。" />
+		</sense>
+	</pron>
+</character>

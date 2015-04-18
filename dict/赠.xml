@@ -1,0 +1,24 @@
+<character value="赠">
+	<introduce>
+		<pinyin value="zeng4" writing="zèng" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="16" />
+		<order value="竖折撇捺捺撇竖折竖捺撇横竖折横横" />
+	</introduce>
+	<pron value="zèng">
+		<sense tag="动" vernacular="送">
+			<exam article="《琵琶行（并序）》" ref="因为长句，歌以赠之。" />
+		</sense>
+		<sense tag="动" vernacular="死后追封爵位">
+			<exam article="《五人墓碑记》" ref="是以蓼州周公，忠义暴于朝廷，赠谥美显，荣于身后。" />
+		</sense>
+		<sense tag="动" vernacular="驱逐；送走">
+			<exam article="《周礼·春官·占梦》" ref="乃舍萌于四方，以赠恶梦。" />
+		</sense>
+	</pron>
+	<phrase value="赠序">
+		<sense value="文体之一" />
+		<sense value="临别时亲友赠言表达惜别之情" />
+	</phrase>
+</character>

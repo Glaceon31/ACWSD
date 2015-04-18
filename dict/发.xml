@@ -1,0 +1,77 @@
+<character value="发">
+	<introduce>
+		<pinyin value="fa1" writing="fā" />
+		<pinyin value="fa4" writing="fà" />
+		<bushou value="又" />
+		<bushoustroke value="2" />
+		<stroke value="5" />
+		<order value="折撇折捺捺" />
+	</introduce>
+	<pron value="fā">
+		<sense tag="动" vernacular="把箭射出去;发射">
+			<exam article="《卖油翁》" ref="见其发矢十中八九。" />
+		</sense>
+		<sense tag="动" vernacular="出发">
+			<exam article="《荆轲刺秦王》" ref="今太子迟之,请辞决矣,遂发。" />
+		</sense>
+		<sense tag="动" vernacular="派遣;派出">
+			<exam article="《赤壁之战》" ref="孤当续发人众,多载资粮。" />
+		</sense>
+		<sense tag="动" vernacular="征发;征调">
+			<exam article="《西门豹治邺》" ref="西门豹即发民凿十二渠。" />
+		</sense>
+		<sense tag="动" vernacular="兴起;发生">
+			<exam article="《生于忧患,死于安乐》" ref="舜发于畎亩之中。" />
+		</sense>
+		<sense tag="动" vernacular="生长;长出">
+			<exam article="《相思》" ref="春来发几。" />
+		</sense>
+		<sense tag="动" vernacular="发布;颁布">
+			<exam article="《殽之战》" ref="遂发命,遽兴姜戎。" />
+		</sense>
+		<sense tag="动" vernacular="发送">
+			<exam article="《廉颇蔺相如列传》" ref="使人发书至赵王。" />
+		</sense>
+		<sense tag="动" vernacular="发作;抒发">
+			<exam article="《五人墓碑记》" ref="扼腕墓道,发其志士之悲哉。" />
+		</sense>
+		<sense tag="动" vernacular="拨动;发起;起事">
+			<exam article="《张衡传》" ref="虽一龙发机,而七首不动。" />
+			<exam article="《苏武》" ref="虞常等七十余人欲发。" />
+		</sense>
+		<sense tag="动" vernacular="开启;打开">
+			<exam article="《寡人之于国也》" ref="涂有饿殍而不知发。" />
+			<exam article="《荆轲刺秦王》" ref="发图,图穷匕首见。" />
+		</sense>
+		<sense tag="动" vernacular="启发;阐明">
+			<exam article="《论语·述而》" ref="不愤不启,不悱不发。" />
+		</sense>
+		<sense tag="动" vernacular="表现;显露;泄露">
+			<exam article="《生于忧患,死于安乐》" ref="征于色,发于声。" />
+		</sense>
+		<sense tag="动" vernacular="开发;发掘">
+			<exam article="《促织》" ref="于败丛草处,探石发穴,靡记不施。" />
+		</sense>
+		<sense tag="动" vernacular="分发">
+			<exam article="《严监生和严贡生》" ref="知县准了状子,发房出了差来到严家。" />
+		</sense>
+		<sense tag="动" vernacular="开放">
+			<exam article="《醉翁亭记》" ref="野芳发而幽香。" />
+		</sense>
+		<sense tag="动" vernacular="点燃,燃放">
+			<exam article="《柳毅传》" ref="人以火为神圣,发一灯可燎阿房。" />
+		</sense>
+		<sense tag="量" vernacular="支,颗">
+			<exam article="《汉书·匈奴传》" ref="弓一张,矢四发。" />
+			<exam article="《柳毅传》" ref="然后叩树三发,当有应者。" />
+		</sense>
+	</pron>
+	<pron value="fà">
+		<sense tag="名" vernacular="头发">
+			<exam article="《荆轲刺秦王》" ref="发尽上指冠。" />
+		</sense>
+		<sense tag="量" vernacular="长度单位,十毫为一发">
+			<exam article="《促织》" ref="帘内掷一纸出,即道人意中事,无毫发爽。" />
+		</sense>
+	</pron>
+</character>

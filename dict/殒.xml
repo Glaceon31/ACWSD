@@ -1,0 +1,17 @@
+<character value="殒">
+	<introduce>
+		<pinyin value="yun3" writing="yŭn" />
+		<bushou value="歹" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横撇折捺竖折横竖折撇捺" />
+	</introduce>
+	<pron value="yǔn">
+		<sense tag="动" vernacular="死亡">
+			<exam article="《史记·汉兴以来诸侯年表》" ref="殒身亡国。" />
+		</sense>
+		<sense tag="动" vernacular="通“陨”，落下">
+			<exam article="《荀子·赋篇》" ref="列星殒坠。" />
+		</sense>
+	</pron>
+</character>

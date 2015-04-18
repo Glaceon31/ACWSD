@@ -1,0 +1,28 @@
+<character value="沾">
+	<introduce>
+		<pinyin value="zhan1" writing="zhān" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺横竖横竖折横" />
+	</introduce>
+	<pron value="zhān">
+		<sense tag="动" vernacular="浸湿">
+			<exam article="《送杜少府之任蜀州》" ref="无为在岐路，儿女共沾巾。" />
+		</sense>
+		<sense tag="动" vernacular="布施；施与">
+			<exam article="《宋书·文帝纪》" ref="二千石长官，并勤劳王务，宜有沾锡。" />
+		</sense>
+		<sense tag="动" vernacular="沾染">
+			<exam article="《活板》" ref="其印自落，殊不沾污。" />
+		</sense>
+	</pron>
+	<phrase value="沾洽">
+		<sense value="雨露遍及" />
+		<sense value="恩德遍及" />
+		<sense value="学识广博" />
+	</phrase>
+	<phrase value="沾濡">
+		<sense value="浸湿" />
+	</phrase>
+</character>

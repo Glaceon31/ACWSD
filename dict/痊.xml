@@ -1,0 +1,14 @@
+<character value="痊">
+	<introduce>
+		<pinyin value="quan2" writing="quán" />
+		<bushou value="疒" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="捺横撇捺横撇捺横横竖横" />
+	</introduce>
+	<pron value="quán">
+		<sense tag="动" vernacular="病愈，恢复健康">
+			<exam article="《七命》" ref="齐王之疾痊。" />
+		</sense>
+	</pron>
+</character>

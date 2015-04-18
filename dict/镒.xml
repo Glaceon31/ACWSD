@@ -1,0 +1,14 @@
+<character value="镒">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="15" />
+		<order value="撇横横横折捺撇横撇捺竖折竖竖横" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="名" vernacular="古代的重量单位，二十两为一镒，一说二十四两为一镒">
+			<exam article="《国语·晋语二》" ref="黄金四十镒。" />
+		</sense>
+	</pron>
+</character>

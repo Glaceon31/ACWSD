@@ -1,0 +1,15 @@
+<character value="鸢">
+	<introduce>
+		<pinyin value="yuan1" writing="yuān" />
+		<bushou value="鸟" />
+		<bushoustroke value="5" />
+		<stroke value="8" />
+		<order value="横折捺撇折捺折横" />
+	</introduce>
+	<pron value="yuān">
+		<sense tag="名" vernacular="一种鹰">
+			<exam article="《诗经·大雅·旱麓》" ref="鸢飞戾天，鱼跃于渊。" />
+			<exam article="《与朱元思书》" ref="鸢飞戾天者，望峰息心。" />
+		</sense>
+	</pron>
+</character>

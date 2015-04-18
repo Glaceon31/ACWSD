@@ -1,0 +1,18 @@
+<character value="吏">
+	<introduce>
+		<pinyin value="li4" writing="lì" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="横竖折横撇捺" />
+	</introduce>
+	<pron value="lì">
+		<sense tag="名" vernacular="官吏">
+			<exam article="《邹忌讽齐王纳谏》" ref="群臣吏民能面刺寡之过者。" />
+			<exam article="《石壕吏》" ref="暮投石壕村，有吏夜捉人。" />
+		</sense>
+	</pron>
+	<phrase value="吏隐">
+		<sense value="做官而又图清高之名" />
+	</phrase>
+</character>

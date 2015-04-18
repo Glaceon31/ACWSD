@@ -1,0 +1,20 @@
+<character value="诈">
+	<introduce>
+		<pinyin value="zha4" writing="zhà" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺折撇横竖横横" />
+	</introduce>
+	<pron value="zhà">
+		<sense tag="动" vernacular="欺骗">
+			<exam article="《左传·宣公十五年》" ref="我无尔诈，尔无我虞。" />
+		</sense>
+		<sense tag="名" vernacular="欺骗">
+			<exam article="《狼》" ref="禽兽之变诈几何哉？" />
+		</sense>
+		<sense tag="动" vernacular="假装">
+			<exam article="《陈涉世家》" ref="今诚以吾众诈自称公子扶苏、项燕为天下倡，宜多应者。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="途">
+	<introduce>
+		<pinyin value="tu2" writing="tú" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="撇捺横横竖撇捺捺折捺" />
+	</introduce>
+	<pron value="tú">
+		<sense tag="名" vernacular="道路">
+			<exam article="《子孙兵法·军争》" ref="故迂其途而诱之以利。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,15 @@
+<character value="扉">
+	<introduce>
+		<pinyin value="fei1" writing="fēi" />
+		<bushou value="户" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="捺折横撇竖横横横竖横横横" />
+	</introduce>
+	<pron value="fēi">
+		<sense tag="名" vernacular="扇；门">
+			<exam article="《梦游天姥吟留别》" ref="洞天石扉，訇然中开。" />
+			<exam article="《游园不值》" ref="小扣柴扉久不开。" />
+		</sense>
+	</pron>
+</character>

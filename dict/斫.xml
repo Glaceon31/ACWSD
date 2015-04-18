@@ -1,0 +1,17 @@
+<character value="斫">
+	<introduce>
+		<pinyin value="zhuo2" writing="zhuó" />
+		<bushou value="斤" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横撇竖折横撇撇横竖" />
+	</introduce>
+	<pron value="zhuó">
+		<sense tag="动" vernacular="砍；削">
+			<exam article="《冯婉贞》" ref="冯婉贞挥刀奋斫，所当无不披靡。" />
+		</sense>
+		<sense tag="动" vernacular="偷袭">
+			<exam article="《三国志·魏书·傅永传》" ref="永量吴楚之兵，好以斫营为事。" />
+		</sense>
+	</pron>
+</character>

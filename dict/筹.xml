@@ -1,0 +1,37 @@
+<character value="筹">
+	<introduce>
+		<pinyin value="chou2" writing="chóu" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="撇横捺撇横捺横横横撇横竖捺" />
+	</introduce>
+	<pron value="chóu">
+		<sense tag="名" vernacular="计数用的竹签、筹码">
+			<exam article="《醉翁亭记》" ref="射者中，弈者胜，觥筹交错，起坐而喧哗者，众宾欢也。" />
+		</sense>
+		<sense tag="动" vernacular="谋划，计划">
+			<exam article="《赤壁之战》" ref="请为将军筹之。" />
+		</sense>
+		<sense tag="名" vernacular="计策，计谋">
+			<exam article="《晋书·宣帝纪》" ref="非经国远筹。" />
+		</sense>
+		<sense tag="名" vernacular="古代投壶用的矢">
+			<exam article="《礼记·投壶》" ref="筹，室中五扶。" />
+		</sense>
+	</pron>
+	<phrase value="筹策">
+		<sense value="1" />
+		<sense value="计算用的工具" />
+	</phrase>
+	<phrase value="筹画">
+		<sense value="谋画" />
+	</phrase>
+	<phrase value="筹略">
+		<sense value="谋略" />
+	</phrase>
+	<phrase value="筹算">
+		<sense value="1" />
+		<sense value="古代用写有数字的竹签计算运用，称为筹算" />
+	</phrase>
+</character>

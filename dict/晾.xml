@@ -1,0 +1,14 @@
+<character value="晾">
+	<introduce>
+		<pinyin value="liang4" writing="liàng" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="竖折横横捺横竖折横竖撇捺" />
+	</introduce>
+	<pron value="liàng">
+		<sense tag="动" vernacular="晒干或风干">
+			<exam article="《秋胡戏妻》" ref="我这一会儿热了，也脱下我这衣服来，我试晾一晾咱。" />
+		</sense>
+	</pron>
+</character>

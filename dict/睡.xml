@@ -1,0 +1,20 @@
+<character value="睡">
+	<introduce>
+		<pinyin value="shui4" writing="shuì" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="竖折横横横撇横竖横竖竖横横" />
+	</introduce>
+	<pron value="shuì">
+		<sense tag="动" vernacular="坐着打瞌睡">
+			<exam article="《史记·商君列传》" ref="卫鞅语事良久，孝公时时睡，弗听。" />
+		</sense>
+		<sense tag="动" vernacular="睡眠；睡觉">
+			<exam article="《茅屋为秋风所破歌》" ref="自经丧乱少睡眠。" />
+		</sense>
+	</pron>
+	<phrase value="睡觉">
+		<sense value="睡醒" />
+	</phrase>
+</character>

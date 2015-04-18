@@ -1,0 +1,14 @@
+<character value="摹">
+	<introduce>
+		<pinyin value="mo2" writing="mó" />
+		<bushou value="手" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="横竖竖竖折横横横撇捺撇横横竖" />
+	</introduce>
+	<pron value="mó">
+		<sense tag="动" vernacular="临摹；照着样子描画、写字">
+			<exam article="《西征赋》" ref="乃摹写旧丰，制造新邑。" />
+		</sense>
+	</pron>
+</character>

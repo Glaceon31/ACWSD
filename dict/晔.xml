@@ -1,0 +1,15 @@
+<character value="晔">
+	<introduce>
+		<pinyin value="ye4" writing="yè" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="竖折横横撇竖撇折横竖" />
+	</introduce>
+	<pron value="yè">
+		<sense tag="形" vernacular="光亮、光彩的样子">
+			<exam article="《思玄赋》" ref="列缺晔其照夜。" />
+			<exam article="《酬殷明佐见赠五云裘歌》" ref="晔如晴天散彩虹。" />
+		</sense>
+	</pron>
+</character>

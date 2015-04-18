@@ -1,0 +1,40 @@
+<character value="迟">
+	<introduce>
+		<pinyin value="chi2" writing="chí" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折横撇捺捺折捺" />
+	</introduce>
+	<pron value="chí">
+		<sense tag="形" vernacular="慢，缓慢">
+			<exam article="《庖丁解牛》" ref="吾见其难为，怵然为戒，视为止，行为迟。" />
+			<exam article="《孔雀东南飞》" ref="非为织作迟，君家妇难为。" />
+		</sense>
+		<sense tag="动" vernacular="迟疑，犹豫">
+			<exam article="《琵琶行》" ref="琵琶声停欲语迟。" />
+		</sense>
+		<sense tag="形" vernacular="晚">
+			<exam article="《战国策·亡羊补牢》" ref="亡羊而补牢，未为迟也。" />
+		</sense>
+		<sense tag="形" vernacular="迟钝">
+			<exam article="《汉书·杜周传》" ref="周少言重迟，而内深次骨。" />
+		</sense>
+	</pron>
+	<phrase value="迟迟">
+		<sense value="1" />
+		<sense value="缓慢的样子" />
+	</phrase>
+	<phrase value="迟回">
+		<sense value="徘徊；迟疑" />
+		<sense value="也作“迟徊”" />
+		<sense value="杜甫《垂老别》诗：“忆昔少壮日，迟徊竟长叹" />
+	</phrase>
+	<phrase value="迟暮">
+		<sense value="比喻苍老、晚年" />
+	</phrase>
+	<phrase value="迟日">
+		<sense value="1" />
+		<sense value="日子久" />
+	</phrase>
+</character>

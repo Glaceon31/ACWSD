@@ -1,0 +1,23 @@
+<character value="閟">
+	<introduce>
+		<pinyin value="bi4" writing="bì" />
+		<bushou value="門" />
+		<bushoustroke value="8" />
+		<stroke value="13" />
+		<order value="竖折横横竖折横横捺折捺撇捺" />
+	</introduce>
+	<pron value="bì">
+		<sense tag="动" vernacular="闭门">
+			<exam article="《左传·庄公三十二年》" ref="公筑台临党氏，见孟任，从之，閟，而以夫人言，许之。" />
+		</sense>
+		<sense tag="动" vernacular="停止；终尽">
+			<exam article="《诗经·鄘风·载驰》" ref="视尔不臧，我思不閟。" />
+		</sense>
+		<sense tag="形" vernacular="谨慎，慎重">
+			<exam article="《尚书·大诰》" ref="天閟毖我成功所，予不敢不极卒宁王图事。" />
+		</sense>
+	</pron>
+	<phrase value="閟宫">
+		<sense value="神宫；庙宇" />
+	</phrase>
+</character>

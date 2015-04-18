@@ -1,0 +1,14 @@
+<character value="佥">
+	<introduce>
+		<pinyin value="qian1" writing="qiān" />
+		<bushou value="人" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇捺横捺捺撇横" />
+	</introduce>
+	<pron value="qiān">
+		<sense tag="副" vernacular="都，皆">
+			<exam article="《尚书·舜典》" ref="佥曰：伯禹作司空。" />
+		</sense>
+	</pron>
+</character>

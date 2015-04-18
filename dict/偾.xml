@@ -1,0 +1,26 @@
+<character value="偾">
+	<introduce>
+		<pinyin value="fen4" writing="fèn" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="撇竖横竖横竖竖竖折撇捺" />
+	</introduce>
+	<pron value="fèn">
+		<sense tag="动" vernacular="仆倒；跌倒">
+			<exam article="《庄子·天运》" ref="一死一生；一偾一起。" />
+		</sense>
+		<sense tag="动" vernacular="奋起">
+			<exam article="《左传·僖公十五年》" ref="张脉偾兴,外强中干。" />
+		</sense>
+		<sense tag="动" vernacular="毁坏">
+			<exam article="《傅子·镜总叙附录》" ref="蚁孔偾河,溜沈濑山。" />
+		</sense>
+	</pron>
+	<phrase value="偾仆">
+		<sense value="倒下,比喻失败" />
+	</phrase>
+	<phrase value="偾事">
+		<sense value="败事" />
+	</phrase>
+</character>

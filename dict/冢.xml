@@ -1,0 +1,20 @@
+<character value="冢">
+	<introduce>
+		<pinyin value="zhong3" writing="zhŏng" />
+		<bushou value="冖" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺折横撇折撇撇捺撇捺" />
+	</introduce>
+	<pron value="zhǒng">
+		<sense tag="名" vernacular="高大的坟墓">
+			<exam article="《史记·高祖本纪》" ref="项羽烧秦宫室，掘始皇帝冢。" />
+		</sense>
+		<sense tag="名" vernacular="山顶">
+			<exam article="《诗经·小雅·十月之交》" ref="百川沸腾，山冢崒崩。" />
+		</sense>
+		<sense tag="形" vernacular="大，嫡长">
+			<exam article="《尚书·泰誓上》" ref="类于上帝，宜于冢土。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,21 @@
+<character value="谦">
+	<introduce>
+		<pinyin value="qian1" writing="qiān" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="12" />
+		<order value="捺折捺撇横折横横竖竖撇捺" />
+	</introduce>
+	<pron value="qiān">
+		<sense tag="形" vernacular="谦逊；谦虚">
+			<exam article="《信陵君窃符救赵》" ref="士无贤不肖，皆谦而礼交之。" />
+			<exam article="《伶官传序》" ref="满招损，谦得益。" />
+		</sense>
+	</pron>
+	<phrase value="谦冲">
+		<sense value="谦虚" />
+	</phrase>
+	<phrase value="谦挹">
+		<sense value="谦逊退让" />
+	</phrase>
+</character>

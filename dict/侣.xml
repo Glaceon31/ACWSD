@@ -1,0 +1,17 @@
+<character value="侣">
+	<introduce>
+		<pinyin value="lu3" writing="lǚ" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇竖竖折横竖折横" />
+	</introduce>
+	<pron value="lǚ">
+		<sense tag="名" vernacular="同伴；伴侣">
+			<exam article="《马伶传》" ref="遍告其故侣。" />
+		</sense>
+		<sense tag="动" vernacular="结为伴侣；与……为侣">
+			<exam article="《赤壁赋》" ref="侣鱼虾而友麋鹿。" />
+		</sense>
+	</pron>
+</character>

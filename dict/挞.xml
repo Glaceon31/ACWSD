@@ -1,0 +1,14 @@
+<character value="挞">
+	<introduce>
+		<pinyin value="ta4" writing="tà" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横横撇捺捺折捺" />
+	</introduce>
+	<pron value="tà">
+		<sense tag="动" vernacular="用鞭子或棍子打">
+			<exam article="《晋书·潘岳传》" ref="岳恶其为人，数挞辱之。" />
+		</sense>
+	</pron>
+</character>

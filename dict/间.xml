@@ -1,0 +1,101 @@
+<character value="间">
+	<introduce>
+		<pinyin value="jian1" writing="jiān" />
+		<pinyin value="jian4" writing="jiàn" />
+		<bushou value="门" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺竖折竖折横横" />
+	</introduce>
+	<pron value="jiān">
+		<sense tag="名" vernacular="中间；当中">
+			<exam article="《子路曾皙冉有公西华侍坐》" ref="千乘之国，摄乎大国之间。" />
+		</sense>
+		<sense tag="名" vernacular="期间；年间">
+			<exam article="《兰亭集序》" ref="向之所欣，俯仰之间，已为陈迹。" />
+		</sense>
+		<sense tag="副" vernacular="近来，不久之前">
+			<exam article="《左传·成公十六年》" ref="以君之灵，间蒙甲胄，不敢拜命。" />
+		</sense>
+		<sense tag="量" vernacular="，用于房屋">
+			<exam article="《归田园居》" ref="方宅十余亩，草屋八九间。" />
+		</sense>
+	</pron>
+	<pron value="jiàn">
+		<sense tag="名" vernacular="间隙；空隙">
+			<exam article="《庖丁解牛》" ref="彼节者有间，而刀刃者无厚。" />
+		</sense>
+		<sense tag="名" vernacular="嫌隙；隔阂">
+			<exam article="《左传·昭公十三年》" ref="诸侯有间矣。" />
+		</sense>
+		<sense tag="名" vernacular="机会；空子">
+			<exam article="《&lt;指南录&gt;后序》" ref="至京口，得间奔真州。" />
+		</sense>
+		<sense tag="名" vernacular="距离；差别">
+			<exam article="《淮南子·俶真》" ref="则美丑有间矣。" />
+		</sense>
+		<sense tag="动" vernacular="间隔；隔离">
+			<exam article="《桃花源记》" ref="遂与外人间隔。" />
+		</sense>
+		<sense tag="动" vernacular="经历；持续">
+			<exam article="《狱中杂记》" ref="一人予二十金，骨微伤，病间月。" />
+		</sense>
+		<sense tag="动" vernacular="离间">
+			<exam article="《屈原列传》" ref="谗人间之，可谓穷矣。" />
+		</sense>
+		<sense tag="动" vernacular="伺候；侦察">
+			<exam article="《韩非子·外储说右上》" ref="内间主之情以告外。" />
+		</sense>
+		<sense tag="名" vernacular="间谍">
+			<exam article="《史记·河渠书》" ref="始臣为间，然渠成亦秦之利也。" />
+		</sense>
+		<sense tag="动" vernacular="参与；介入">
+			<exam article="《曹刿论战》" ref="肉食者谋之，又何间焉。" />
+		</sense>
+		<sense tag="动" vernacular="交杂；夹杂">
+			<exam article="《口技》" ref="中间力拉崩倒之声。" />
+		</sense>
+		<sense tag="名" vernacular="一会儿；片刻">
+			<exam article="《促织》" ref="少间，帘内掷一纸出。" />
+		</sense>
+		<sense tag="副" vernacular="间断的；间或">
+			<exam article="《邹忌讽齐王纳谏》" ref="数月之后，时时而间进。" />
+		</sense>
+		<sense tag="副" vernacular="私下；暗地里">
+			<exam article="《信陵君窃符救赵》" ref="侯生乃屏人间语。" />
+		</sense>
+		<sense tag="名" vernacular="间道；偏僻的小路">
+			<exam article="《廉颇蔺相如列传》" ref="故令人持璧归，间至赵矣。" />
+		</sense>
+	</pron>
+	<pron value="xián">
+		<sense tag="形" vernacular="通“闲”">
+			<exam article="《楚辞·招魂》" ref="像设君室，静间安些。" />
+		</sense>
+	</pron>
+	<phrase value="间编">
+		<sense value="脱编" />
+	</phrase>
+	<phrase value="间步">
+		<sense value="私下步行" />
+	</phrase>
+	<phrase value="间道">
+		<sense value="偏僻的小路" />
+		<sense value="从小路走" />
+	</phrase>
+	<phrase value="间关">
+		<sense value="辗转" />
+		<sense value="鸟叫声" />
+		<sense value="形容语言艰涩" />
+	</phrase>
+	<phrase value="间阔">
+		<sense value="远隔" />
+		<sense value="久别" />
+	</phrase>
+	<phrase value="间行">
+		<sense value="走小路；从小路走" />
+	</phrase>
+	<phrase value="间色">
+		<sense value="杂色，多色相配而成的颜色" />
+	</phrase>
+</character>

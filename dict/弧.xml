@@ -1,0 +1,21 @@
+<character value="弧">
+	<introduce>
+		<pinyin value="hu2" writing="hú" />
+		<bushou value="弓" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折横折撇撇折捺捺" />
+	</introduce>
+	<pron value="hú">
+		<sense tag="名" vernacular="木弓">
+			<exam article="《左传·僖公十五年》" ref="寇张之弧。" />
+			<exam article="《周易·系辞下》" ref="弦木为弧。" />
+		</sense>
+		<sense tag="形" vernacular="弯曲">
+			<exam article="《周礼·考工记·辀人》" ref="凡揉辀欲其孙而无弧深。" />
+		</sense>
+		<sense tag="动" vernacular="歪曲">
+			<exam article="《楚辞·七谏·谬谏》" ref="正法弧而不公。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,16 @@
+<character value="吴">
+	<introduce>
+		<pinyin value="wu2" writing="wú" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="竖折横横横撇捺" />
+	</introduce>
+	<pron value="wú">
+		<sense tag="动" vernacular="大声说话">
+			<exam article="《诗经·周颂·丝衣》" ref="不吴不敖。" />
+		</sense>
+		<sense tag="名" vernacular="周代诸侯国，在今长江下游一带" />
+		<sense tag="名" vernacular="朝代名（公元222-280年）" />
+	</pron>
+</character>

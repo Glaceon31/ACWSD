@@ -1,0 +1,26 @@
+<character value="汰">
+	<introduce>
+		<pinyin value="tai4" writing="tài" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺横横撇捺捺" />
+	</introduce>
+	<pron value="tài">
+		<sense tag="动" vernacular="淘洗">
+			<exam article="《晋书·孙绰传》" ref="沙之汰之，瓦砾在后。" />
+		</sense>
+		<sense tag="动" vernacular="淘太；从群体中去除坏的、差的">
+			<exam article="《象戏》" ref="冗卒要精汰。" />
+		</sense>
+		<sense tag="名" vernacular="水波；波浪">
+			<exam article="《涉江》" ref="乘舲船余上沅兮，齐吴榜以击汰。" />
+		</sense>
+		<sense tag="动" vernacular="滑；掠过">
+			<exam article="《左传·宣公四年》" ref="伯棼射王，汰辀及鼓跗。" />
+		</sense>
+		<sense tag="形" vernacular="骄纵；奢侈">
+			<exam article="《荀子·仲尼》" ref="闺门之内，般乐奢汰。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,15 @@
+<character value="胼">
+	<introduce>
+		<pinyin value="pian2" writing="pián" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="撇折横横捺撇横横撇竖" />
+	</introduce>
+	<pron value="pián">
+		<sense vernacular="见“胼胝”" />
+	</pron>
+	<phrase value="胼胝">
+		<sense value="手脚上的老茧" />
+	</phrase>
+</character>

@@ -1,0 +1,18 @@
+<character value="遵">
+	<introduce>
+		<pinyin value="zun1" writing="zūn" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="捺撇横竖折撇折横横横竖捺捺折捺" />
+	</introduce>
+	<pron value="zūn">
+		<sense tag="动" vernacular="循；沿着">
+			<exam article="《九章·哀郢》" ref="遵江夏以流亡。" />
+		</sense>
+		<sense tag="动" vernacular="遵循；遵守">
+			<exam article="《史记·殷本纪》" ref="不遵汤法。" />
+			<exam article="《史记·曹相国世家》" ref="高帝与萧何定天下，法令既明……遵而勿失，不亦可乎？" />
+		</sense>
+	</pron>
+</character>

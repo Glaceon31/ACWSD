@@ -1,0 +1,29 @@
+<character value="熙">
+	<introduce>
+		<pinyin value="xi1" writing="xī" />
+		<bushou value="灬" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="横竖竖折横竖折折横折捺捺捺捺" />
+	</introduce>
+	<pron value="xī">
+		<sense tag="动" vernacular="暴晒，使东西干燥">
+			<exam article="《赠刘琨》" ref="仰熙丹崖，俯澡绿水。" />
+		</sense>
+		<sense tag="形" vernacular="光明">
+			<exam article="《七启》" ref="熙天曜日。" />
+		</sense>
+		<sense tag="动" vernacular="兴起；兴盛">
+			<exam article="《景福殿赋》" ref="重熙而累盛。" />
+		</sense>
+		<sense tag="动" vernacular="通“嬉”">
+			<exam article="《淮南子·俶真》" ref="鼓腹而熙。" />
+		</sense>
+		<sense tag="形" vernacular="福；吉祥">
+			<exam article="《汉书·礼乐志》" ref="忽乘青玄，熙事备成。" />
+		</sense>
+	</pron>
+	<phrase value="熙熙">
+		<sense value="安乐的样子" />
+	</phrase>
+</character>

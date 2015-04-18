@@ -1,0 +1,14 @@
+<character value="曦">
+	<introduce>
+		<pinyin value="xi1" writing="xī" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="20" />
+		<order value="竖折横横捺撇横横竖横撇横竖撇捺横折折撇捺" />
+	</introduce>
+	<pron value="xī">
+		<sense tag="名" vernacular="阳光">
+			<exam article="《促织》" ref="东曦既驾，僵卧长愁。" />
+		</sense>
+	</pron>
+</character>

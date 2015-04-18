@@ -1,0 +1,26 @@
+<character value="母">
+	<introduce>
+		<pinyin value="mu3" writing="mŭ" />
+		<bushou value="母" />
+		<bushoustroke value="5" />
+		<stroke value="5" />
+		<order value="折折捺横捺" />
+	</introduce>
+	<pron value="mǔ">
+		<sense tag="名" vernacular="母亲">
+			<exam article="《陈情表》" ref="行年四岁，舅夺母志。" />
+		</sense>
+		<sense tag="名" vernacular="女性年长者的泛称">
+			<exam article="《史记·淮阴侯列传》" ref="信钓于城下，诸母漂。" />
+		</sense>
+		<sense tag="形" vernacular="雌性的">
+			<exam article="《汉书·龚遂传》" ref="家二母彘，五鸡。" />
+		</sense>
+	</pron>
+	<phrase value="母昆">
+		<sense value="同胞兄弟" />
+	</phrase>
+	<phrase value="母母">
+		<sense value="弟媳对兄妻的称呼" />
+	</phrase>
+</character>

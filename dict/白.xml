@@ -1,0 +1,40 @@
+<character value="白">
+	<introduce>
+		<pinyin value="bai2" writing="bái" />
+		<bushou value="白" />
+		<bushoustroke value="5" />
+		<stroke value="5" />
+		<order value="撇竖折横横" />
+	</introduce>
+	<pron value="bái">
+		<sense tag="名" vernacular="白色">
+			<exam article="《捕蛇者说》" ref="永州之野产异蛇,白质而黑章。" />
+		</sense>
+		<sense tag="形" vernacular="纯洁;干净">
+			<exam article="《石灰吟》" ref="粉身碎骨浑不怕,要留清白在人问。" />
+		</sense>
+		<sense tag="形" vernacular="明亮;光明">
+			<exam article="《赤壁则》" ref="相与枕藉手舟中,不知东方之既白。" />
+		</sense>
+		<sense tag="形" vernacular="清楚;明白">
+			<exam article="《荀子·天论》" ref="功名不白。" />
+			<exam article="《书搏鸡者事》" ref="然使君冤未白,犹无益也。" />
+		</sense>
+		<sense tag="形" vernacular="真诚;坦白">
+			<exam article="《庄子·天地》" ref="机心存于胸中,则纯白不各。" />
+		</sense>
+		<sense tag="动" vernacular="禀告;陈述">
+			<exam article="《孔雀东南飞》" ref="便可白公姥,及时相遣归。" />
+		</sense>
+		<sense tag="副" vernacular="单单;只是">
+			<exam article="《红楼梦》" ref="要是白来逛逛呢便罢。" />
+		</sense>
+		<sense tag="名" vernacular="指罚酒用的酒杯,也泛指酒杯">
+			<exam article="《吴都赋》" ref="飞觞举白。" />
+		</sense>
+	</pron>
+	<phrase value="白衣">
+		<sense value="1" />
+		<sense value="白色的衣" />
+	</phrase>
+</character>

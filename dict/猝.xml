@@ -1,0 +1,22 @@
+<character value="猝">
+	<introduce>
+		<pinyin value="cu4" writing="cù" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="撇折撇捺横撇捺撇捺横竖" />
+	</introduce>
+	<pron value="cù">
+		<sense tag="副" vernacular="突然；出乎意外">
+			<exam article="《五人墓碑记》" ref="大阉亦逡巡畏义，非常之谋难于猝发。" />
+			<exam article="《促织》" ref="冥搜未已，一癞头蟆猝然跃去。" />
+		</sense>
+	</pron>
+	<phrase value="猝故">
+		<sense value="突然的变故" />
+	</phrase>
+	<phrase value="猝嗟">
+		<sense value="犹“叱咤”" />
+		<sense value="怒斥声" />
+	</phrase>
+</character>

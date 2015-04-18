@@ -1,0 +1,29 @@
+<character value="义">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="丶" />
+		<bushoustroke value="1" />
+		<stroke value="3" />
+		<order value="捺撇捺" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="名" vernacular="公正、合宜的道德、行为或道理">
+			<exam article="《寡人之于国也》" ref="谨庠序之教，申之以孝悌之义。" />
+		</sense>
+		<sense tag="动" vernacular="坚持正义">
+			<exam article="《公输》" ref="吾义固不杀人。" />
+		</sense>
+		<sense tag="形" vernacular="合道义的；适宜的；公正合理的">
+			<exam article="《鸿门宴》" ref="亡去不义，不可不语。" />
+		</sense>
+		<sense tag="名" vernacular="情义；恩情">
+			<exam article="《孙雀东南飞》" ref="吾已失恩义。" />
+		</sense>
+		<sense tag="名" vernacular="意义；意思">
+			<exam article="《屈原列传》" ref="举类迩而见义远。" />
+		</sense>
+		<sense tag="副" vernacular="本着道义">
+			<exam article="《祭妹文》" ref="汝之义绝高氏而归也，堂上阿奶仗汝扶持。" />
+		</sense>
+	</pron>
+</character>

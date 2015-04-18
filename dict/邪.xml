@@ -1,0 +1,26 @@
+<character value="邪">
+	<introduce>
+		<pinyin value="xie2" writing="xié" />
+		<pinyin value="ye2" writing="yé" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="横折竖撇折竖" />
+	</introduce>
+	<pron value="xié">
+		<sense tag="形" vernacular="邪恶；不正">
+			<exam article="《屈原列传》" ref="谗谄之蔽明也，邪曲之害公也。" />
+		</sense>
+	</pron>
+	<pron value="yé">
+		<sense tag="助" vernacular="表示疑问的语气词">
+			<exam article="《马说》" ref="其真无马邪？其真不知马也。" />
+		</sense>
+	</pron>
+	<phrase value="邪辟">
+		<sense value="乖戾不正" />
+	</phrase>
+	<phrase value="邪赢">
+		<sense value="用不当手段来获利" />
+	</phrase>
+</character>

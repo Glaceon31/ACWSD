@@ -1,0 +1,19 @@
+<character value="蕡">
+	<introduce>
+		<pinyin value="fen2" writing="fén" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="横竖竖横竖横竖竖竖折横横横撇捺" />
+	</introduce>
+	<pron value="fén">
+		<sense tag="形" vernacular="草木果实硕大">
+			<exam article="《诗经·周南·桃夭》" ref="桃之夭夭，有蕡其实。" />
+		</sense>
+		<sense tag="名" vernacular="大麻；大麻的种子">
+			<exam article="《周礼·天官·笾人》" ref="朝事之笾，其实麷蕡。" />
+		</sense>
+		<sense tag="名" vernacular="杂草的香气" />
+		<sense vernacular="通“棼”，乱" />
+	</pron>
+</character>

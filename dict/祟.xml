@@ -1,0 +1,14 @@
+<character value="祟">
+	<introduce>
+		<pinyin value="sui4" writing="suì" />
+		<bushou value="示" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="折竖竖折竖横横竖撇捺" />
+	</introduce>
+	<pron value="suì">
+		<sense tag="名" vernacular="鬼神作怪">
+			<exam article="《左传·昭公元年》" ref="实沈、台骀为祟。" />
+		</sense>
+	</pron>
+</character>

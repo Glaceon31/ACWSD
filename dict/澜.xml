@@ -1,0 +1,28 @@
+<character value="澜">
+	<introduce>
+		<pinyin value="lan2" writing="lán" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="捺捺横捺竖折横竖折捺撇横竖撇捺" />
+	</introduce>
+	<pron value="lán">
+		<sense tag="名" vernacular="大波浪">
+			<exam article="《岳阳楼记》" ref="至若春和景明，波澜不惊。" />
+		</sense>
+	</pron>
+	<pron value="làn">
+		<sense vernacular="见“澜漫”" />
+	</pron>
+	<phrase value="澜翻">
+		<sense value="波涛翻腾" />
+		<sense value="言辞滔滔不绝" />
+		<sense value="笔力雄劲奔放" />
+	</phrase>
+	<phrase value="澜漫">
+		<sense value="分散杂乱的样子" />
+		<sense value="痛快淋漓的样子" />
+		<sense value="色彩鲜艳" />
+		<sense value="广远的样子" />
+	</phrase>
+</character>

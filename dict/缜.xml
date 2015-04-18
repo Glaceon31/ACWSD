@@ -1,0 +1,17 @@
+<character value="缜">
+	<introduce>
+		<pinyin value="zhen3" writing="zhĕn" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="折折横横竖竖折横横横横撇捺" />
+	</introduce>
+	<pron value="zhěn">
+		<sense tag="形" vernacular="周密；细致">
+			<exam article="《南史·孙休源传》" ref="累居显职，性缜密，未尝言禁中事。" />
+		</sense>
+		<sense tag="形" vernacular="通“鬒”，头发稠而黑">
+			<exam article="《晚登三山还望京邑》" ref="谁能缜不变。" />
+		</sense>
+	</pron>
+</character>

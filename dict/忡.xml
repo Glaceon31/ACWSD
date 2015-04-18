@@ -1,0 +1,23 @@
+<character value="忡">
+	<introduce>
+		<pinyin value="chong1" writing="chōng" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺竖竖折横竖" />
+	</introduce>
+	<pron value="chōng">
+		<sense vernacular="忧虑不安">
+			<exam article="《悼亡诗》" ref="怅怳如或存，周遑忡惊惕。" />
+		</sense>
+	</pron>
+	<phrase value="忡怅">
+		<sense value="忧虑惆怅" />
+	</phrase>
+	<phrase value="忡忡">
+		<sense value="1" />
+		<sense value="忧虑不安" />
+		<sense value="2" />
+		<sense value="饰物下垂" />
+	</phrase>
+</character>

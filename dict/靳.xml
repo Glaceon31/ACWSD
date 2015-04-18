@@ -1,0 +1,20 @@
+<character value="靳">
+	<introduce>
+		<pinyin value="jin4" writing="jìn" />
+		<bushou value="革" />
+		<bushoustroke value="9" />
+		<stroke value="13" />
+		<order value="横竖竖横竖折横横竖撇撇横竖" />
+	</introduce>
+	<pron value="jìn">
+		<sense tag="名" vernacular="套在辕刀胸部的皮革，也用作辕马的代称">
+			<exam article="《左传·定公九年》" ref="吾从子如骖之靳。" />
+		</sense>
+		<sense tag="形" vernacular="吝惜；吝啬">
+			<exam article="《后汉书·崔寔传》" ref="悔不小靳。" />
+		</sense>
+		<sense tag="动" vernacular="奚落；嘲笑">
+			<exam article="《左传·庄公十一年》" ref="宋公靳之。" />
+		</sense>
+	</pron>
+</character>

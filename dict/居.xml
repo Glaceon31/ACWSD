@@ -1,0 +1,56 @@
+<character value="居">
+	<introduce>
+		<pinyin value="ju1" writing="jū" />
+		<pinyin value="ji1" writing="jī" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折横撇横竖竖折横" />
+	</introduce>
+	<pron value="jū">
+		<sense tag="动" vernacular="坐">
+			<exam article="《核舟记》" ref="佛印居右，鲁直居左。" />
+		</sense>
+		<sense tag="动" vernacular="位居；位于；处在">
+			<exam article="《廉颇蔺相如列传》" ref="而蔺相如徒以口舌之劳而位居我之上。" />
+		</sense>
+		<sense tag="动" vernacular="居住">
+			<exam article="《愚公移山》" ref="面山而居。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……居住">
+			<exam article="《越妇言》" ref="买臣之贵，不忍其去妻，筑室以居之。" />
+		</sense>
+		<sense tag="名" vernacular="住地；住所">
+			<exam article="《治平篇》" ref="一人之居以供十人不足，何况供百乎？" />
+		</sense>
+		<sense tag="动" vernacular="闲居；闲处">
+			<exam article="《子路曾皙冉有公西华侍坐》" ref="居则曰：‘不吾知也！’" />
+		</sense>
+		<sense tag="动" vernacular="占据；据有">
+			<exam article="《谏太宗十思疏》" ref="人君当神器之重，居域中之大。" />
+		</sense>
+		<sense tag="动" vernacular="充当；担任">
+			<exam article="《张衡传》" ref="衡不慕当世，所居之官辄年不徙。" />
+		</sense>
+		<sense tag="动" vernacular="停止；停留">
+			<exam article="《柳毅传》" ref="客当居此以伺焉。" />
+		</sense>
+		<sense tag="形" vernacular="停止不动的；停滞的">
+			<exam article="《登泰山记》" ref="而半山居雾若带然。" />
+		</sense>
+		<sense tag="动" vernacular="积蓄；储存">
+			<exam article="《叔向贺贫》" ref="略则行志，假货居贿。" />
+			<exam article="《促织》" ref="市中游侠儿得佳者笼养之，昂其直，居为奇货。" />
+		</sense>
+		<sense tag="动" vernacular="历；经；过了">
+			<exam article="《塞翁失马》" ref="居数日，其马将胡骏马而归。" />
+		</sense>
+	</pron>
+	<phrase value="居摄">
+		<sense value="暂居帝王之位" />
+	</phrase>
+	<phrase value="居士">
+		<sense value="未出仕的读书人" />
+		<sense value="在家信佛的人" />
+	</phrase>
+</character>

@@ -1,0 +1,23 @@
+<character value="沦">
+	<introduce>
+		<pinyin value="lun2" writing="lún" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺横撇捺撇折" />
+	</introduce>
+	<pron value="lún">
+		<sense tag="名" vernacular="水面的微波">
+			<exam article="《伐檀》" ref="河水清且沦猗。" />
+		</sense>
+		<sense tag="动" vernacular="沉；沉没">
+			<exam article="《远游》" ref="微霜降而下沦兮，悼芳草之先零。" />
+		</sense>
+		<sense tag="动" vernacular="陷入；陷没">
+			<exam article="《庄子·秋水》" ref="沦于不测。" />
+		</sense>
+		<sense tag="动" vernacular="沦落；流落">
+			<exam article="《琵琶行》" ref="今漂沦憔悴，转徙于江湖间。" />
+		</sense>
+	</pron>
+</character>

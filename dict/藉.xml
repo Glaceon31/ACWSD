@@ -1,0 +1,42 @@
+<character value="藉">
+	<introduce>
+		<pinyin value="jie4" writing="jiè" />
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="17" />
+		<order value="横竖竖横横横竖撇捺横竖竖横竖折横横" />
+	</introduce>
+	<pron value="jí">
+		<sense tag="动" vernacular="踩；；践踏">
+			<exam article="《赤壁之战》" ref="羸兵为人马所蹈藉，陷泥中，死者甚众。" />
+		</sense>
+		<sense tag="动" vernacular="欺负；欺凌">
+			<exam article="《史记·魏其武安侯列传》" ref="今我在也，而人皆藉吾弟，令我百岁后，皆鱼肉之矣。" />
+		</sense>
+	</pron>
+	<pron value="jiè">
+		<sense tag="名" vernacular="草垫子">
+			<exam article="《楚辞·九歌·东皇太一》" ref="蕙肴蒸兮兰藉。" />
+		</sense>
+		<sense tag="动" vernacular="垫">
+			<exam article="《赤壁赋》" ref="相与枕藉乎舟中，不知东方之既白。" />
+		</sense>
+		<sense tag="动" vernacular="凭借；依靠">
+			<exam article="《过秦论》" ref="是以陈涉不用汤武之贤，不藉公侯之尊。" />
+		</sense>
+		<sense tag="动" vernacular="借；借给">
+			<exam article="《谏逐客书》" ref="此所谓藉寇兵、赍盗粮者也。" />
+		</sense>
+		<sense tag="连" vernacular="如果；假使">
+			<exam article="《陈涉世家》" ref="藉弟令毋斩，而戍死者固十六七。" />
+		</sense>
+	</pron>
+	<phrase value="藉藉">
+		<sense value="交错杂乱的样子" />
+		<sense value="显赫、喧盛的样子" />
+	</phrase>
+	<phrase value="藉荫">
+		<sense value="指祖先的基业门第" />
+	</phrase>
+</character>

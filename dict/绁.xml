@@ -1,0 +1,17 @@
+<character value="绁">
+	<introduce>
+		<pinyin value="xie4" writing="xiè" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折折横横竖竖横折" />
+	</introduce>
+	<pron value="xiè">
+		<sense tag="名" vernacular="牵牲畜的绳子">
+			<exam article="《左传·僖公二十四年》" ref="臣负羁绁，从君巡于天下。" />
+		</sense>
+		<sense tag="动" vernacular="捆绑">
+			<exam article="《东京赋》" ref="绁子婴于轵涂。" />
+		</sense>
+	</pron>
+</character>

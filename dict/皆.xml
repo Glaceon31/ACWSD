@@ -1,0 +1,17 @@
+<character value="皆">
+	<introduce>
+		<pinyin value="jie1" writing="jiē" />
+		<bushou value="白" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="横折撇折撇竖折横横" />
+	</introduce>
+	<pron value="jiē">
+		<sense tag="副" vernacular="全；都；尽">
+			<exam article="《论语》" ref="过也，人皆见之。" />
+		</sense>
+		<sense tag="副" vernacular="一起；同时">
+			<exam article="《韩非子·外储说右上》" ref="吾欲与子皆行。" />
+		</sense>
+	</pron>
+</character>

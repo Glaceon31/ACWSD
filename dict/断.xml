@@ -1,0 +1,48 @@
+<character value="断">
+	<introduce>
+		<pinyin value="duan4" writing="duàn" />
+		<bushou value="斤" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="捺撇横竖撇捺折撇撇横竖" />
+	</introduce>
+	<pron value="duàn">
+		<sense tag="动" vernacular="截断；断开">
+			<exam article="《荆轲刺秦王》" ref="遂拔以击荆轲，断其左股。" />
+			<exam article="《察今》" ref="故曰良剑期乎断，不期乎镆铘。" />
+			<exam article="《伶官传序》" ref="至于扩、誓天断发，泣下沾襟，何其衰也！" />
+		</sense>
+		<sense tag="动" vernacular="阻隔；隔断">
+			<exam article="《愚公移山》" ref="自此，冀之南，汉之阴，无陇断焉。" />
+			<exam article="《李愬雪夜入蔡州》" ref="留五百人镇之，以断洄曲及诸道桥梁。" />
+		</sense>
+		<sense tag="动" vernacular="断绝；中止">
+			<exam article="《滕王阁序》" ref="雁陈惊寒，声断衡阳之浦。" />
+			<exam article="《茅屋为秋风所破歌》" ref="雨脚如麻未断绝。" />
+			<exam article="《促织》" ref="成顾蟋蟀笼虚，则气断声吞，亦不复以儿为念。" />
+		</sense>
+		<sense tag="动" vernacular="拒绝；回绝">
+			<exam article="《孔雀东南飞》" ref="自可断来信，徐徐更谓之。" />
+		</sense>
+		<sense tag="动" vernacular="判断；决断">
+			<exam article="《赤壁之战》" ref="事急而不断，祸至无日矣！" />
+			<exam article="《石钟山记》" ref="事不目见耳闻，而臆断其有无，可乎？" />
+		</sense>
+		<sense tag="副" vernacular="绝对；一定">
+			<exam article="《无题》" ref="断无消息石榴红。" />
+		</sense>
+	</pron>
+	<phrase value="断肠">
+		<sense value="形容极度思念或悲痛、忧伤到极点" />
+	</phrase>
+	<phrase value="断鸿">
+		<sense value="失群的孤雁" />
+	</phrase>
+	<phrase value="断魂">
+		<sense value="销魂神往" />
+		<sense value="形容情深或哀伤" />
+	</phrase>
+	<phrase value="断狱">
+		<sense value="审理或判决罪案" />
+	</phrase>
+</character>

@@ -1,0 +1,17 @@
+<character value="罹">
+	<introduce>
+		<pinyin value="li2" writing="lí" />
+		<bushou value="罒" />
+		<bushoustroke value="5" />
+		<stroke value="16" />
+		<order value="竖折竖竖横捺捺竖撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="lí">
+		<sense tag="动" vernacular="遭遇；遭受">
+			<exam article="《狱中杂记》" ref="情重者反出在外，而轻者、无罪者反罹其毒。" />
+		</sense>
+		<sense tag="名" vernacular="忧患；苦难">
+			<exam article="《诗经·兔爱》" ref="我生之后，逢此百罹。" />
+		</sense>
+	</pron>
+</character>

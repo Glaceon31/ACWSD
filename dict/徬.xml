@@ -1,0 +1,21 @@
+<character value="徬">
+	<introduce>
+		<pinyin value="pang2" writing="páng" />
+		<bushou value="彳" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="撇撇竖捺横捺撇捺折捺横折撇" />
+	</introduce>
+	<pron value="páng">
+		<sense vernacular="同“彷”" />
+	</pron>
+	<pron value="pàng">
+		<sense tag="动" vernacular="附行">
+			<exam article="《周礼·地官·牛人》" ref="与其牵徬。" />
+		</sense>
+	</pron>
+	<phrase value="徬徨">
+		<sense value="同“徬徨”" />
+		<sense value="来回走动，心神不定" />
+	</phrase>
+</character>

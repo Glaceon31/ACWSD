@@ -1,0 +1,17 @@
+<character value="莺">
+	<introduce>
+		<pinyin value="ying1" writing="yīng" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖竖捺折撇折捺折横" />
+	</introduce>
+	<pron value="yīng">
+		<sense tag="名" vernacular="鸟名，又叫黄莺、黄鹂">
+			<exam article="《与陈伯之书》" ref="杂花生树，群莺乱飞。" />
+		</sense>
+	</pron>
+	<phrase value="莺迁">
+		<sense value="唐代以来用作祝贺升官或迁入新居时的颂辞" />
+	</phrase>
+</character>

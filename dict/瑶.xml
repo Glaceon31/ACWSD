@@ -1,0 +1,18 @@
+<character value="瑶">
+	<introduce>
+		<pinyin value="yao2" writing="yáo" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="横横竖横撇捺捺撇撇横横竖折竖" />
+	</introduce>
+	<pron value="yáo">
+		<sense tag="名" vernacular="美玉；像玉一样的美石">
+			<exam article="《诗经·卫风·木瓜》" ref="投我以木桃，报之以琼瑶。" />
+			<exam article="《抱朴子·博喻》" ref="琼艘瑶楫无涉川之用。" />
+		</sense>
+		<sense tag="形" vernacular="比喻美好，珍贵">
+			<exam article="《楚辞·招魂》" ref="瑶浆蜜勺。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,19 @@
+<character value="恨">
+	<introduce>
+		<pinyin value="hen4" writing="hèn" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺竖折横横折撇捺" />
+	</introduce>
+	<pron value="hèn">
+		<sense tag="形" vernacular="不满意；遗憾">
+			<exam article="《史记·陈涉世家》" ref="辍耕之垄上，怅恨久之。" />
+			<exam article="《伶官传序》" ref="此三者，吾遗恨也。" />
+		</sense>
+		<sense tag="名" vernacular="怨恨；仇恨">
+			<exam article="《柳毅传》" ref="然而恨贯肌骨，亦何能愧避？" />
+			<exam article="《秋声赋》" ref="念谁为这戕贼，亦何恨乎秋声。" />
+		</sense>
+	</pron>
+</character>

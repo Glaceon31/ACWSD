@@ -1,0 +1,17 @@
+<character value="忾">
+	<introduce>
+		<pinyin value="kai4" writing="kài" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺竖撇横横折" />
+	</introduce>
+	<pron value="kài">
+		<sense tag="形" vernacular="愤恨；愤怒">
+			<exam article="《左传·文公四年》" ref="诸侯敌王所忾。" />
+		</sense>
+		<sense vernacular="xì叹息的样子">
+			<exam article="《诗经·曹风·下泉》" ref="忾我寤叹。" />
+		</sense>
+	</pron>
+</character>

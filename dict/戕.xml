@@ -1,0 +1,14 @@
+<character value="戕">
+	<introduce>
+		<pinyin value="qiang1" writing="qiāng" />
+		<bushou value="戈" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="折竖横撇横折撇捺" />
+	</introduce>
+	<pron value="qiāng">
+		<sense tag="动" vernacular="杀害；残害">
+			<exam article="《书博鸡者事》" ref="吾当焚汝庐，戕汝家矣。" />
+		</sense>
+	</pron>
+</character>

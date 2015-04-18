@@ -1,0 +1,14 @@
+<character value="枲">
+	<introduce>
+		<pinyin value="xi3" writing="xĭ" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="折捺竖折横横竖撇捺" />
+	</introduce>
+	<pron value="xǐ">
+		<sense tag="名" vernacular="大麻">
+			<exam article="《盐铁论·利义》" ref="文表而枲里，乱实者也。" />
+		</sense>
+	</pron>
+</character>

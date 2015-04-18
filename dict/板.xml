@@ -1,0 +1,35 @@
+<character value="板">
+	<introduce>
+		<pinyin value="ban3" writing="băn" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横竖撇捺撇撇折捺" />
+	</introduce>
+	<pron value="bǎn">
+		<sense tag="名" vernacular="木板">
+			<exam article="《狱中杂记》" ref="求脱械居监外板屋,费亦数十金。" />
+		</sense>
+		<sense tag="名" vernacular="通“版”,印刷的字版">
+			<exam article="《活板》" ref="板印书籍,唐人尚未为之。" />
+		</sense>
+		<sense tag="名" vernacular="乐器中打节拍的板">
+			<exam article="《柳敬亭传》" ref="亡国之恨顿生,檀板之声无色。" />
+		</sense>
+		<sense tag="名" vernacular="板子,旧时笞刑刑具">
+			<exam article="《金线池》" ref="既然韩解元在此替你哀告,这四十板便饶。。" />
+		</sense>
+		<sense tag="形" vernacular="呆板;不灵活">
+			<exam article="《图画见闻志》" ref="板者,腕弱笔痴。" />
+		</sense>
+		<sense tag="形" vernacular="板结">
+			<exam article="《天工开物》" ref="凡种绿豆,一日之内,遇大雨板土,则不复生。" />
+		</sense>
+		<sense tag="形" vernacular="不通融">
+			<exam article="《元明事类钞·张板知名》" ref="时人以其执法,号为张板。" />
+		</sense>
+	</pron>
+	<phrase value="板荡">
+		<sense value="社会动荡不安,政局不稳定" />
+	</phrase>
+</character>

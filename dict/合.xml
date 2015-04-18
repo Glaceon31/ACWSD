@@ -1,0 +1,49 @@
+<character value="合">
+	<introduce>
+		<pinyin value="he2" writing="hé" />
+		<pinyin value="ge3" writing="gĕ" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="撇捺横竖折横" />
+	</introduce>
+	<pron value="hé">
+		<sense tag="动" vernacular="闭；合拢">
+			<exam article="《孔雀东南飞》" ref="两家求合葬。" />
+		</sense>
+		<sense tag="动" vernacular="聚集；会合">
+			<exam article="《汉书·晁错传》" ref="合以小攻大。" />
+			<exam article="《赤壁之战》" ref="五万兵难卒合。" />
+		</sense>
+		<sense tag="动" vernacular="配合；匹配">
+			<exam article="《诗经·大明》" ref="文王初载，天作之合。" />
+			<exam article="《孔雀东南飞》" ref="岂合令郎君。" />
+		</sense>
+		<sense tag="动" vernacular="符合；适合">
+			<exam article="《庖丁解牛》" ref="合于《桑林》之舞，乃中《经首》之会。" />
+		</sense>
+		<sense tag="动" vernacular="交配；性交">
+			<exam article="《论衡》" ref="若夫牡马见雌牛，雄雀见牝鸡，不与相合者，异类故也。" />
+		</sense>
+		<sense tag="动" vernacular="接战；交锋">
+			<exam article="《左传·成公二年》" ref="自始合而矢贯余手及时。" />
+		</sense>
+		<sense tag="形" vernacular="全；满">
+			<exam article="《灌园叟晚逢仙女》" ref="合家大小哭哭啼啼。" />
+		</sense>
+		<sense tag="动" vernacular="对；核对">
+			<exam article="《冯谖客孟尝君》" ref="使吏召诸民当偿者，悉来合券。" />
+			<exam article="《信陵君窃符求赵》" ref="公子即合符，而晋鄙不授公子兵。" />
+		</sense>
+		<sense tag="副" vernacular="该；应当">
+			<exam article="《与元九书》" ref="文章合为时而著。" />
+		</sense>
+		<sense tag="介" vernacular="与；同">
+			<exam article="《儿女英雄传》" ref="有话合你说。" />
+		</sense>
+		<sense tag="名" vernacular="通“盒”">
+			<exam article="《宫词》" ref="黄金合里盛红雪。" />
+			<exam article="《杨修之死》" ref="一合酥。" />
+		</sense>
+	</pron>
+</character>

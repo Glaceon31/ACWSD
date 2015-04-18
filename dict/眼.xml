@@ -1,0 +1,19 @@
+<character value="眼">
+	<introduce>
+		<pinyin value="yan3" writing="yăn" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="竖折横横横折横横折撇捺" />
+	</introduce>
+	<pron value="yǎn">
+		<sense tag="名" vernacular="眼珠">
+			<exam article="《庄子·盗跖》" ref="比干剖心，子胥抉眼，忠之祸也。" />
+			<exam article="《晋书·阮籍传》" ref="见礼俗之士以白眼对之。" />
+		</sense>
+		<sense tag="名" vernacular="孔洞；窟窿" />
+		<sense tag="量" vernacular="用于井、泉水">
+			<exam article="《钱塘湖石记》" ref="湖中又有泉数十眼。" />
+		</sense>
+	</pron>
+</character>

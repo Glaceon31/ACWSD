@@ -1,0 +1,15 @@
+<character value="彦">
+	<introduce>
+		<pinyin value="yan4" writing="yàn" />
+		<bushou value="彡" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺横捺撇横撇撇撇撇" />
+	</introduce>
+	<pron value="yàn">
+		<sense tag="名" vernacular="指有才学的人">
+			<exam article="《诗经·郑风·羔裘》" ref="彼其之子，邦之彦兮。" />
+			<exam article="《世说新语·文学》" ref="张凭举孝廉，出都，负其才气，谓必参时彦。" />
+		</sense>
+	</pron>
+</character>

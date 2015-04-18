@@ -1,0 +1,23 @@
+<character value="堙">
+	<introduce>
+		<pinyin value="yin1" writing="yīn" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖横横竖折竖竖横横竖横" />
+	</introduce>
+	<pron value="yīn">
+		<sense tag="名" vernacular="小土山">
+			<exam article="《公羊传·宣公十五年》" ref="乘堙而闚宋城。" />
+		</sense>
+		<sense tag="动" vernacular="填塞">
+			<exam article="《史记·蒙恬列传》" ref="堑山堙谷，通直道。" />
+		</sense>
+	</pron>
+	<phrase value="堙灭">
+		<sense value="埋没；消灭" />
+	</phrase>
+	<phrase value="堙替">
+		<sense value="埋没" />
+	</phrase>
+</character>

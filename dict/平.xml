@@ -1,0 +1,48 @@
+<character value="平">
+	<introduce>
+		<pinyin value="ping2" writing="píng" />
+		<bushou value="干" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="横捺撇横竖" />
+	</introduce>
+	<pron value="píng">
+		<sense tag="形" vernacular="平坦">
+			<exam article="《桃花源记》" ref="土地平旷，屋舍俨然。" />
+		</sense>
+		<sense tag="形" vernacular="公平；公正">
+			<exam article="《出师表》" ref="宜付有司论其刑赏，以昭陛下平明之理。" />
+		</sense>
+		<sense tag="形" vernacular="太平；安定">
+			<exam article="《张衡传》" ref="时天下承平日久，自王侯以下莫不逾侈。" />
+		</sense>
+		<sense tag="形" vernacular="平常；普通；一般">
+			<exam article="《教战守策》" ref="如使平民皆习於兵，彼知有所敌，则固已破其奸谋而折其骄气。" />
+		</sense>
+		<sense tag="动" vernacular="削平；铲平">
+			<exam article="《愚公移山》" ref="而山不加增，何苦而不平？" />
+		</sense>
+		<sense tag="动" vernacular="平定；平息">
+			<exam article="《赤壁之战》" ref="今操芟夷大难，略已平矣。" />
+		</sense>
+		<sense tag="动" vernacular="和解；讲和">
+			<exam article="《左传·僖公二十四年》" ref="宋及楚平。" />
+		</sense>
+		<sense tag="动" vernacular="跟别的事物的高度或水平相等">
+			<exam article="《雁荡山》" ref="从上观之适与地平。" />
+		</sense>
+		<sense tag="形" vernacular="平静；宁静">
+			<exam article="《陈州粜米》" ref="取下招承，偿俺残生，苦恨才平。" />
+		</sense>
+	</pron>
+	<phrase value="平旦">
+		<sense value="清早" />
+	</phrase>
+	<phrase value="平明">
+		<sense value="天亮的时候" />
+		<sense value="公正严明" />
+	</phrase>
+	<phrase value="平文">
+		<sense value="散文" />
+	</phrase>
+</character>

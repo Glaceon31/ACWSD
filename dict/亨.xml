@@ -1,0 +1,25 @@
+<character value="亨">
+	<introduce>
+		<pinyin value="heng1" writing="hēng" />
+		<bushou value="亠" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺横竖折横折竖" />
+	</introduce>
+	<pron value="hēng">
+		<sense tag="形" vernacular="通，顺利">
+			<exam article="《周易·坤卦》" ref="品物咸亨。" />
+			<exam article="《送人之任邛州》" ref="亨衢自有横飞势。" />
+		</sense>
+	</pron>
+	<pron value="xiǎng">
+		<sense tag="名" vernacular="通“享”，飨宴">
+			<exam article="《周易·大有》" ref="公用亨于天子。" />
+		</sense>
+	</pron>
+	<pron value="pēng">
+		<sense tag="动" vernacular="通“烹”，煮">
+			<exam article="《诗经·豳风·七月》" ref="亨葵及菽。" />
+		</sense>
+	</pron>
+</character>

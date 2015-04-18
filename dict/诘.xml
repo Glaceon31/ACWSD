@@ -1,0 +1,27 @@
+<character value="诘">
+	<introduce>
+		<pinyin value="jie2" writing="jié" />
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺折横竖横竖折横" />
+	</introduce>
+	<pron value="jié">
+		<sense tag="动" vernacular="责问；追问">
+			<exam article="《狱中杂记》" ref="主者口呿舌挢，终不敢诘。" />
+		</sense>
+		<sense tag="动" vernacular="追究；穷究">
+			<exam article="《察变》" ref="实则今兹所见，乃自不可穷诘之变动而来。" />
+		</sense>
+		<sense tag="动" vernacular="查办；处罚">
+			<exam article="《管子·五辅》" ref="诘诈伪，屏谗慝。" />
+		</sense>
+		<sense tag="动" vernacular="询问；探问">
+			<exam article="《柳毅传》" ref="毅诘之曰：‘子何苦而自辱如上？’" />
+		</sense>
+	</pron>
+	<phrase value="诘旦">
+		<sense value="明旦；明早" />
+	</phrase>
+</character>

@@ -1,0 +1,32 @@
+<character value="骖">
+	<introduce>
+		<pinyin value="can1" writing="cān" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="折折横折捺横撇捺撇撇撇" />
+	</introduce>
+	<pron value="cān">
+		<sense tag="名" vernacular="三匹马驾一辆车">
+			<exam article="《诗经·采菽》" ref="载骖载驷，君子所届。" />
+		</sense>
+		<sense tag="名" vernacular="驾车时在两旁的马；骖马">
+			<exam article="《殽之战》" ref="释左骖，以公命赠孟明。" />
+		</sense>
+		<sense tag="名意动" vernacular="以……为骖马">
+			<exam article="《涉江》" ref="驾青虬兮骖白螭。" />
+		</sense>
+	</pron>
+	<phrase value="骖騑">
+		<sense value="架车时位于两旁的马" />
+	</phrase>
+	<phrase value="骖服">
+		<sense value="驾车的马" />
+		<sense value="在两边拉车的称骖，居中的驾辕者称服" />
+	</phrase>
+	<phrase value="骖乘">
+		<sense value="即陪乘" />
+		<sense value="古代乘车之法，尊者居左，驭者居中，陪乘者居右，负责行车安全" />
+		<sense value="战时称“车右”，平时称“骖乘”" />
+	</phrase>
+</character>

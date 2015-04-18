@@ -1,0 +1,17 @@
+<character value="垒">
+	<introduce>
+		<pinyin value="lei3" writing="lĕi" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折捺折捺折捺横竖横" />
+	</introduce>
+	<pron value="lěi">
+		<sense tag="名" vernacular="防护军营的墙壁或建筑物">
+			<exam article="《韩非子·说林下》" ref="深沟高垒。" />
+		</sense>
+		<sense tag="动" vernacular="堆砌">
+			<exam article="《襄阳歌》" ref="垒曲便筑槽丘台。" />
+		</sense>
+	</pron>
+</character>

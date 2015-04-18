@@ -1,0 +1,63 @@
+<character value="家">
+	<introduce>
+		<pinyin value="jia1" writing="jiā" />
+		<pinyin value="gu1" writing="gū" />
+		<pinyin value="jie5" writing="jie" />
+		<pinyin value="jia5" writing="jia" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺折横撇折撇撇撇捺" />
+	</introduce>
+	<pron value="jiā">
+		<sense tag="名" vernacular="住房；住所">
+			<exam article="《汉书·司马相如传》" ref="家徒四壁立。" />
+		</sense>
+		<sense tag="名" vernacular="家庭；家族">
+			<exam article="《促织》" ref="每责一头，辄顷数家之产。" />
+		</sense>
+		<sense tag="形" vernacular="自家的；本家的">
+			<exam article="《滕王阁序》" ref="家君作宰，路出名区。" />
+		</sense>
+		<sense tag="名" vernacular="人家；人户">
+			<exam article="《荆轲刺秦王》" ref="秦王购之金千斤，邑万家。" />
+		</sense>
+		<sense tag="形" vernacular="家中的">
+			<exam article="《孔雀东南飞》" ref="非为织作迟，君家妇难为。" />
+		</sense>
+		<sense tag="动" vernacular="定居；安家">
+			<exam article="《还旧居》" ref="畴昔家上京，六载去还归。" />
+		</sense>
+		<sense tag="名" vernacular="家产；家业">
+			<exam article="《史记·吕不韦列传》" ref="皆没其家而迁之蜀。" />
+		</sense>
+		<sense tag="名" vernacular="奴隶社会中卿大夫的封邑">
+			<exam article="《季氏将伐颛臾》" ref="丘也闻有国有家者，不患贫而患不均。" />
+		</sense>
+		<sense tag="名" vernacular="朝廷；官府">
+			<exam article="《赤壁之战》" ref="当横行天下，为汉家除残去秽。" />
+		</sense>
+		<sense tag="动" vernacular="把……居为一家所有">
+			<exam article="《汉书·盖宽饶传》" ref="三王家天下。" />
+		</sense>
+		<sense tag="形" vernacular="家养的；驯化的">
+			<exam article="《野鸭》" ref="野鸭殊家鸭，离群忽远飞。" />
+		</sense>
+		<sense tag="名" vernacular="学术或政治派别">
+			<exam article="《过秦论》" ref="于是废先王之道，焚百家之言。" />
+		</sense>
+		<sense tag="名" vernacular="有专长或从事某种职业的人">
+			<exam article="《望洋兴叹》" ref="吾常见笑于大方之家。" />
+			<exam article="《观刈麦》" ref="农家少闲月。" />
+		</sense>
+		<sense tag="量" vernacular="家；户">
+			<exam article="《水浒传》" ref="且说登州山下有一家猎户。" />
+		</sense>
+		<sense tag="量" vernacular="种；样">
+			<exam article="《秋雨叹》" ref="蕉叶半黄荷叶碧，两家秋雨一声。" />
+		</sense>
+		<sense tag="助" vernacular="自称、人称的语尾">
+			<exam article="《要做则做》" ref="后生家每临事，辄曰‘吾不会做’，此大谬也。" />
+		</sense>
+	</pron>
+</character>

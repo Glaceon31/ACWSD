@@ -1,0 +1,22 @@
+<character value="鬻">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="鬲" />
+		<bushoustroke value="10" />
+		<stroke value="22" />
+		<order value="折横折捺撇横竖撇捺折横折横竖折横竖折捺撇横竖" />
+	</introduce>
+	<pron value="yù">
+		<sense tag="动" vernacular="卖">
+			<exam article="《病梅馆记》" ref="有以文人画士孤僻之隐明告鬻梅者。" />
+		</sense>
+		<sense tag="动" vernacular="买">
+			<exam article="《卖柑者言》" ref="置于市，贾十倍，人争鬻之。" />
+		</sense>
+	</pron>
+	<pron value="zhōu">
+		<sense tag="名" vernacular="粥；稀饭">
+			<exam article="《三国志·魏书·管宁传》" ref="饭鬻餬口，并日而食。" />
+		</sense>
+	</pron>
+</character>

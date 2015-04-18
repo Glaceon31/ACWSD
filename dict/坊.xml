@@ -1,0 +1,26 @@
+<character value="坊">
+	<introduce>
+		<pinyin value="fang1" writing="fāng" />
+		<pinyin value="fang2" writing="fáng" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横捺横折撇" />
+	</introduce>
+	<pron value="fāng">
+		<sense tag="名" vernacular="城市中街巷的通称">
+			<exam article="《失婢》" ref="坊门贴牓迟。" />
+		</sense>
+		<sense tag="名" vernacular="店铺">
+			<exam article="《东京梦华录》" ref="各有茶坊酒店。" />
+		</sense>
+		<sense tag="名" vernacular="工场;作坊">
+			<exam article="《旧五代史·史弘肇传》" ref="闻作坊锻甲之声。" />
+		</sense>
+	</pron>
+	<pron value="fáng">
+		<sense vernacular="通“防”,堤防">
+			<exam article="《礼记·效特牲》" ref="祭坊与水庸。" />
+		</sense>
+	</pron>
+</character>

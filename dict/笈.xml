@@ -1,0 +1,14 @@
+<character value="笈">
+	<introduce>
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="9" />
+		<order value="撇横捺撇横捺撇折捺" />
+	</introduce>
+	<pron value="jí">
+		<sense tag="名" vernacular="书籍">
+			<exam article="《晋书·王裒传》" ref="负笈游学。" />
+		</sense>
+	</pron>
+</character>

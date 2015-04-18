@@ -1,0 +1,28 @@
+<character value="君">
+	<introduce>
+		<pinyin value="jun1" writing="jūn" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折横横撇竖折横" />
+	</introduce>
+	<pron value="jūn">
+		<sense tag="名" vernacular="君王；君主">
+			<exam article="《赵威后问齐使》" ref="苟无民，何以有君？" />
+		</sense>
+		<sense tag="动" vernacular="君临；统治">
+			<exam article="《五蠹》" ref="鲁哀公，下主也，南面君国。" />
+		</sense>
+		<sense tag="名" vernacular="古代的一种封号" />
+		<sense tag="名" vernacular="对对方尊称">
+			<exam article="《江南逢李龟年》" ref="落花时节又逢君。" />
+			<exam article="《鸿门宴》" ref="君安与项伯有故？" />
+		</sense>
+		<sense tag="名" vernacular="妻子对丈夫的尊称">
+			<exam article="《孔雀东南飞》" ref="君既若见录。" />
+		</sense>
+		<sense tag="名" vernacular="用于姓氏后，构成对某人的尊称">
+			<exam article="《狱中杂记》" ref="余感焉，以杜君言泛讯之。" />
+		</sense>
+	</pron>
+</character>

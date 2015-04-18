@@ -1,0 +1,22 @@
+<character value="摛">
+	<introduce>
+		<pinyin value="chi1" writing="chī" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="横竖横捺横撇捺折竖竖折折捺" />
+	</introduce>
+	<pron value="chī">
+		<sense vernacular="播扬">
+			<exam article="《神山寺碑》" ref="此亦仙岫，英名远摛。" />
+		</sense>
+		<sense vernacular="铺陈" />
+	</pron>
+	<phrase value="摛辞">
+		<sense value="遣辞作文" />
+	</phrase>
+	<phrase value="摛翰">
+		<sense value="舒笔" />
+		<sense value="指作文" />
+	</phrase>
+</character>

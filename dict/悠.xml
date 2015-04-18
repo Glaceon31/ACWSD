@@ -1,0 +1,23 @@
+<character value="悠">
+	<introduce>
+		<pinyin value="you1" writing="yōu" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="撇竖竖撇横撇捺捺折捺捺" />
+	</introduce>
+	<pron value="yōu">
+		<sense tag="动" vernacular="思念">
+			<exam article="《诗经·周南·关雎》" ref="悠哉悠哉，辗转反侧。" />
+		</sense>
+		<sense tag="形" vernacular="长；远">
+			<exam article="《晋书·凉武昭王传》" ref="江山悠隔。" />
+		</sense>
+	</pron>
+	<phrase value="悠尔">
+		<sense value="满不在乎的样子" />
+	</phrase>
+	<phrase value="悠忽">
+		<sense value="指虚度时光" />
+	</phrase>
+</character>

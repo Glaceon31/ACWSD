@@ -1,0 +1,28 @@
+<character value="级">
+	<introduce>
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折折横撇折捺" />
+	</introduce>
+	<pron value="jí">
+		<sense tag="名" vernacular="台阶、佛塔、磴道等的层次">
+			<exam article="《礼记·曲礼》" ref="拾级聚足，连步以上。" />
+			<exam article="《洛阳伽蓝记》" ref="浮屠有九级。" />
+			<exam article="《登泰山记》" ref="道皆砌石为磴，其级七千有余。" />
+		</sense>
+		<sense tag="名" vernacular="台阶">
+			<exam article="《游黄山记》" ref="澄源寻视其侧，得级，挟予以登。" />
+		</sense>
+		<sense tag="动" vernacular="凿成台阶">
+			<exam article="《游黄山记》" ref="塞者凿之，陡者级之。" />
+		</sense>
+		<sense tag="名" vernacular="官阶、爵位的品级等次">
+			<exam article="《韩非子·定法》" ref="斩一首者爵一级。" />
+		</sense>
+		<sense tag="量" vernacular="首级，用于计量砍下的人头数">
+			<exam article="《汉书·赵充国传》" ref="凡斩首七千六百级。" />
+		</sense>
+	</pron>
+</character>

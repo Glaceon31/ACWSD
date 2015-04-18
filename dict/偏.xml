@@ -1,0 +1,69 @@
+<character value="偏">
+	<introduce>
+		<pinyin value="pian1" writing="piān" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="撇竖捺折横撇竖折横竖竖" />
+	</introduce>
+	<pron value="piān">
+		<sense tag="形" vernacular="歪；不正">
+			<exam article="《孔雀东南飞》" ref="女行无偏斜，何意致不厚。" />
+		</sense>
+		<sense tag="形" vernacular="偏僻；偏远">
+			<exam article="《赤壁之战》" ref="巨是凡人，偏在远郡。" />
+		</sense>
+		<sense tag="动" vernacular="偏于；偏向">
+			<exam article="《后汉书·中山简王焉传》" ref="帝以焉郭太后偏爱，特加恩宠。" />
+		</sense>
+		<sense tag="形" vernacular="不公正">
+			<exam article="《出师表》" ref="不宜偏私，使内外异法也。" />
+		</sense>
+		<sense tag="形" vernacular="片面">
+			<exam article="《潜夫论·明闇》" ref="君之所以明者，兼听也；其所以闇者，偏信也。" />
+		</sense>
+		<sense tag="副" vernacular="特别；最">
+			<exam article="《水经注·沔水》" ref="沔水以东偏浅。" />
+		</sense>
+		<sense tag="副" vernacular="偏偏；表示出乎意料">
+			<exam article="《葫芦僧判断葫芦案》" ref="不然冯渊如何偏只看上了这英雄。" />
+		</sense>
+	</pron>
+	<phrase value="偏安">
+		<sense value="王朝据地一方不能统治全国" />
+	</phrase>
+	<phrase value="偏驳">
+		<sense value="不周遍" />
+		<sense value="不纯正" />
+	</phrase>
+	<phrase value="偏宕">
+		<sense value="偏激放纵，有违常规" />
+	</phrase>
+	<phrase value="偏方">
+		<sense value="一个方面" />
+		<sense value="偏远的地方" />
+		<sense value="指不载于经典医著的中药方" />
+	</phrase>
+	<phrase value="偏孤">
+		<sense value="早年丧父或者丧母" />
+	</phrase>
+	<phrase value="偏讳">
+		<sense value="尊长之名为两个字时，只提到其中一个字，也避讳，称“偏讳”" />
+	</phrase>
+	<phrase value="偏咎">
+		<sense value="指母亲去世" />
+	</phrase>
+	<phrase value="偏露">
+		<sense value="父死叫孤露或偏露" />
+	</phrase>
+	<phrase value="偏栖">
+		<sense value="独居" />
+	</phrase>
+	<phrase value="偏人">
+		<sense value="才行特出的人" />
+		<sense value="见闻孤陋的人" />
+	</phrase>
+	<phrase value="偏生">
+		<sense value="偏偏；恰巧" />
+	</phrase>
+</character>

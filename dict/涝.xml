@@ -1,0 +1,20 @@
+<character value="涝">
+	<introduce>
+		<pinyin value="lao4" writing="lào" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横横竖竖捺折折撇" />
+	</introduce>
+	<pron value="lǎo">
+		<sense tag="动" vernacular="雨水过多，淹了庄稼">
+			<exam article="《三国志·魏书·郑浑传》" ref="患水涝，百姓饥乏。" />
+		</sense>
+	</pron>
+	<pron value="láo">
+		<sense tag="名" vernacular="大波浪">
+			<exam article="《登大雷岸与妹书》" ref="浴雨排风，吹涝弄翮。" />
+		</sense>
+		<sense vernacular="﹤名﹥河流名，在今陕西省" />
+	</pron>
+</character>

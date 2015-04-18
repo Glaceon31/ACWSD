@@ -1,0 +1,31 @@
+<character value="土">
+	<introduce>
+		<pinyin value="tu3" writing="tŭ" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="横竖横" />
+	</introduce>
+	<pron value="tǔ">
+		<sense tag="名" vernacular="泥土">
+			<exam article="《劝学》" ref="积土成山，风雨兴焉。" />
+		</sense>
+		<sense tag="名" vernacular="土地">
+			<exam article="《捕蛇者说》" ref="退而甘食其土之有，以尽吾齿。" />
+		</sense>
+		<sense tag="名" vernacular="国土；领土；乡土">
+			<exam article="《六国论》" ref="燕赵之君，始有远略，能守其土。" />
+		</sense>
+		<sense tag="形" vernacular="本地的；当地的">
+			<exam article="《柳敬亭传》" ref="且五方土音，乡俗好尚习见习闻。" />
+		</sense>
+		<sense tag="名" vernacular="地方">
+			<exam article="《隆中对》" ref="益州险塞，沃野千里，天府之土。" />
+		</sense>
+	</pron>
+	<phrase value="土地">
+		<sense value="田地" />
+		<sense value="领土" />
+		<sense value="土地神" />
+	</phrase>
+</character>

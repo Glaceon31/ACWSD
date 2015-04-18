@@ -1,0 +1,35 @@
+<character value="在">
+	<introduce>
+		<pinyin value="zai4" writing="zài" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="横撇竖横竖横" />
+	</introduce>
+	<pron value="zài">
+		<sense tag="动" vernacular="存在">
+			<exam article="《廉颇蔺相如列传》" ref="强秦之所以不敢加兵于赵者，徒以吾两人在也。" />
+		</sense>
+		<sense tag="动" vernacular="居于；处于">
+			<exam article="《扁鹊见蔡桓公》" ref="君之病在肠胃。" />
+			<exam article="《廉颇蔺相如列传》" ref="以相如功大，拜为上卿，位在廉颇之右。" />
+		</sense>
+		<sense tag="动" vernacular="在于；取决于">
+			<exam article="《劝学》" ref="驽马十驾，功在不会舍。" />
+		</sense>
+		<sense tag="介" vernacular="在">
+			<exam article="《与朱元思书》" ref="横柯上蔽，在昼犹昏。" />
+			<exam article="《石灰吟》" ref="要留青白在人间。" />
+		</sense>
+	</pron>
+	<phrase value="在事">
+		<sense value="居官任职" />
+	</phrase>
+	<phrase value="在野">
+		<sense value="平民处于山野无闻之地" />
+		<sense value="不居官；不当政" />
+	</phrase>
+	<phrase value="在意">
+		<sense value="放在心上" />
+	</phrase>
+</character>

@@ -1,0 +1,17 @@
+<character value="阍">
+	<introduce>
+		<pinyin value="hun1" writing="hūn" />
+		<bushou value="门" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺竖折撇折横折竖折横横" />
+	</introduce>
+	<pron value="hūn">
+		<sense tag="名" vernacular="看门人">
+			<exam article="《离骚》" ref="吾令帝阍开头兮，倚阊阖而望予。" />
+		</sense>
+		<sense tag="名" vernacular="门">
+			<exam article="《滕王阁序》" ref="怀帝阍而不见，奉宣室以何年？" />
+		</sense>
+	</pron>
+</character>

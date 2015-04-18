@@ -1,0 +1,15 @@
+<character value="痼">
+	<introduce>
+		<pinyin value="gu4" writing="gù" />
+		<pinyin value="gu1" writing="gū" />
+		<bushou value="疒" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="捺横撇捺横竖折横竖竖折横横" />
+	</introduce>
+	<pron value="gù">
+		<sense tag="名" vernacular="经久难愈的疾病">
+			<exam article="《赠五官中郎将》" ref="余婴沉痼疾。" />
+		</sense>
+	</pron>
+</character>

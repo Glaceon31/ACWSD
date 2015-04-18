@@ -1,0 +1,14 @@
+<character value="秾">
+	<introduce>
+		<pinyin value="nong2" writing="nóng" />
+		<bushou value="禾" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="撇横竖撇捺捺折撇折撇捺" />
+	</introduce>
+	<pron value="nóng">
+		<sense tag="形" vernacular="花木繁盛的样子">
+			<exam article="《清平调》" ref="一枝秾艳露凝香，云雨巫山枉断肠。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="骜">
+	<introduce>
+		<pinyin value="ao4" writing="ào" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="横横竖横折撇撇横撇捺折折横" />
+	</introduce>
+	<pron value="ào">
+		<sense tag="名" vernacular="骏马">
+			<exam article="《察今》" ref="良马期乎千里,不期乎骥骜。" />
+		</sense>
+		<sense tag="形" vernacular="通““傲”,傲慢;轻视">
+			<exam article="《韩非子·十过》" ref="夫智伯之为人也,好刊而骜愎。" />
+		</sense>
+	</pron>
+</character>

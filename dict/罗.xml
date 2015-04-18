@@ -1,0 +1,41 @@
+<character value="罗">
+	<introduce>
+		<pinyin value="luo2" writing="luó" />
+		<pinyin value="luo1" writing="luō" />
+		<pinyin value="luo5" writing="luo" />
+		<bushou value="罒" />
+		<bushoustroke value="5" />
+		<stroke value="8" />
+		<order value="竖折竖竖横撇折捺" />
+	</introduce>
+	<pron value="luó">
+		<sense tag="名" vernacular="捕鸟的网，泛指网">
+			<exam article="《韩非子·难三》" ref="以天下为之罗，则雀不失矣。" />
+		</sense>
+		<sense tag="动" vernacular="张网捕捉">
+			<exam article="《诗经·鸳鸯》" ref="鸳鸯于飞，毕之罗之。" />
+		</sense>
+		<sense tag="动" vernacular="招纳；网罗">
+			<exam article="《上皇帝万言书》" ref="所以罗天下之士。" />
+		</sense>
+		<sense tag="动" vernacular="罗列；排列；分布">
+			<exam article="《归田园居》" ref="榆柳荫后檐，桃李罗堂前。" />
+		</sense>
+		<sense tag="名" vernacular="织得稀疏而轻软的丝织品，也指穿这种丝织品的人">
+			<exam article="《孔雀东南飞》" ref="朝成绣夹裙，晚成单罗衫。" />
+		</sense>
+		<sense tag="名" vernacular="细密的筛子，也指用“罗”筛">
+			<exam article="《病中书事上集贤钱侍郎》" ref="罗药幽香散。" />
+		</sense>
+	</pron>
+	<phrase value="罗缕">
+		<sense value="详细；详尽；详尽叙述" />
+	</phrase>
+	<phrase value="罗织">
+		<sense value="捏造罪名，陷害无辜" />
+	</phrase>
+	<phrase value="罗掘">
+		<sense value="原指被围困后粮食断绝，只好靠张网捉鸟，掘地捕鼠来充饥" />
+		<sense value="后泛指竭力筹措钱财" />
+	</phrase>
+</character>

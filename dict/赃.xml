@@ -1,0 +1,17 @@
+<character value="赃">
+	<introduce>
+		<pinyin value="zang1" writing="zāng" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="竖折撇捺捺横撇横竖横" />
+	</introduce>
+	<pron value="zāng">
+		<sense tag="名" vernacular="通过不下当的途径获得的财物">
+			<exam article="《列子·天瑞》" ref="以赃获罪，没其先居之财。" />
+		</sense>
+		<sense tag="名" vernacular="贪污受贿的行为">
+			<exam article="《三国志·吴书·潘濬传》" ref="时沙羡赃秽不脩，濬按杀之。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,33 @@
+<character value="庶">
+	<introduce>
+		<pinyin value="shu4" writing="shù" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺横撇横竖竖横捺捺捺捺" />
+	</introduce>
+	<pron value="shù">
+		<sense tag="形" vernacular="众；多">
+			<exam article="《察变》" ref="知动植庶品，率皆递有变迁。" />
+		</sense>
+		<sense tag="名" vernacular="平民；百姓">
+			<exam article="《左传·昭公三十二年》" ref="三后之姓，于今为庶。" />
+		</sense>
+		<sense tag="名" vernacular="宗法制度与“嫡”相对的旁支">
+			<exam article="《左传·文公十八年》" ref="仲为不道，杀适立庶。" />
+		</sense>
+		<sense tag="副" vernacular="差不多">
+			<exam article="《左传·桓公六年》" ref="君姑修政而亲兄弟之国，庶免于难。" />
+		</sense>
+		<sense tag="副" vernacular="表示可能或希望">
+			<exam article="《出师表》" ref="庶竭驽钝，攘除奸凶。" />
+		</sense>
+	</pron>
+	<phrase value="庶几">
+		<sense value="不多" />
+		<sense value="也许；大概" />
+	</phrase>
+	<phrase value="庶人">
+		<sense value="平民；百姓" />
+	</phrase>
+</character>

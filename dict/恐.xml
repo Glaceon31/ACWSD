@@ -1,0 +1,24 @@
+<character value="恐">
+	<introduce>
+		<pinyin value="kong3" writing="kŏng" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横竖横撇折捺捺折捺捺" />
+	</introduce>
+	<pron value="kǒng">
+		<sense tag="动" vernacular="恐惧；害怕">
+			<exam article="《廉颇蔺相如列传》" ref="赵王恐，不敢不献。" />
+		</sense>
+		<sense tag="动" vernacular="恐吓；吓唬">
+			<exam article="《史记·秦始皇本纪》" ref="李斯因说秦王，请先取韩以恐他国。" />
+		</sense>
+		<sense tag="动" vernacular="恐怕；担忧">
+			<exam article="《廉颇蔺相如列传》" ref="欲予秦，秦城恐不可得。" />
+			<exam article="《左忠毅公逸事》" ref="吾上恐负朝廷，下恐恐愧吾师。" />
+		</sense>
+		<sense tag="副" vernacular="恐怕；大概会">
+			<exam article="《扁鹊见蔡桓公》" ref="君有疾在腠理，不治将恐深。" />
+		</sense>
+	</pron>
+</character>

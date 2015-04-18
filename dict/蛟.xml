@@ -1,0 +1,20 @@
+<character value="蛟">
+	<introduce>
+		<pinyin value="jiao1" writing="jiāo" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="竖折横竖横捺捺横撇捺撇捺" />
+	</introduce>
+	<pron value="jiāo">
+		<sense tag="名" vernacular="传说中一种像龙的能兴云雨发洪水的动物">
+			<exam article="《湘夫人》" ref="蛟何为兮水裔。" />
+		</sense>
+		<sense tag="名" vernacular="鼍、鳄一类的凶猛水生动物">
+			<exam article="《周处》" ref="又义兴水中有蛟，山中有白额虎，并皆暴犯百姓。" />
+		</sense>
+	</pron>
+	<phrase value="蛟妾">
+		<sense value="比喻凶佞的人" />
+	</phrase>
+</character>

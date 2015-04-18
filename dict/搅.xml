@@ -1,0 +1,18 @@
+<character value="搅">
+	<introduce>
+		<pinyin value="jiao3" writing="jiăo" />
+		<pinyin value="jia3" writing="jiă" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖横捺捺撇捺折竖折撇折" />
+	</introduce>
+	<pron value="jiǎo">
+		<sense tag="动" vernacular="搅扰；打搅干扰">
+			<exam article="《鲁提辖拳打镇关西》" ref="搅俺弟们吃酒。" />
+		</sense>
+		<sense tag="动" vernacular="搅拌；拌和">
+			<exam article="《智取生辰纲》" ref="把瓢去兜时，药已搅在酒里。" />
+		</sense>
+	</pron>
+</character>

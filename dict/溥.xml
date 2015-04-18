@@ -1,0 +1,22 @@
+<character value="溥">
+	<introduce>
+		<pinyin value="pu3" writing="pŭ" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="捺捺横横竖折横横竖捺横竖捺" />
+	</introduce>
+	<pron value="pǔ">
+		<sense tag="形" vernacular="广大">
+			<exam article="《诗经·大雅·公刘》" ref="逝彼百泉，瞻彼溥原。" />
+		</sense>
+		<sense tag="副" vernacular="普遍">
+			<exam article="《诗经·小雅·北山》" ref="溥天之下，莫非王土。" />
+		</sense>
+	</pron>
+	<pron value="fū">
+		<sense tag="动" vernacular="通“敷”，分布">
+			<exam article="《礼记·祭义》" ref="夫孝，置之而塞乎天地，溥之而横乎四海。" />
+		</sense>
+	</pron>
+</character>

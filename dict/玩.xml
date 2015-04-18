@@ -1,0 +1,32 @@
+<character value="玩">
+	<introduce>
+		<pinyin value="wan2" writing="wán" />
+		<pinyin value="wan4" writing="wàn" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横横竖横横横撇折" />
+	</introduce>
+	<pron value="wán">
+		<sense tag="动" vernacular="玩弄；戏弄">
+			<exam article="《爱莲说》" ref="可远观而不可亵玩焉。" />
+		</sense>
+		<sense tag="动" vernacular="欣赏；玩赏">
+			<exam article="《促织》" ref="方共瞻玩，一鸡瞥来，径进以啄。" />
+		</sense>
+		<sense tag="名" vernacular="供观赏或玩赏的物品">
+			<exam article="《国语·楚语》" ref="若夫白珩，先王之玩也，何宝焉？" />
+		</sense>
+		<sense tag="动" vernacular="研究；玩耍">
+			<exam article="《订鬼》" ref="伯乐学相马，顾玩所见，无非马者。" />
+		</sense>
+		<sense tag="动" vernacular="轻视；忽视">
+			<exam article="《左传·僖公五年》" ref="寇不可玩。" />
+		</sense>
+	</pron>
+	<phrase value="玩弄">
+		<sense value="供玩赏的器物" />
+		<sense value="研习；玩味" />
+		<sense value="戏弄；弄耍" />
+	</phrase>
+</character>

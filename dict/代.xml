@@ -1,0 +1,29 @@
+<character value="代">
+	<introduce>
+		<pinyin value="dai4" writing="dài" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="5" />
+		<order value="撇竖横折捺" />
+	</introduce>
+	<pron value="dài">
+		<sense tag="动" vernacular="代替；取代">
+			<exam article="《谏太宗十思疏》" ref="何必劳神苦思，代百司之职役哉。" />
+		</sense>
+		<sense tag="动" vernacular="交替；轮流">
+			<exam article="《左忠毅公逸事》" ref="择健卒十人，令二人蹲踞而背倚之，漏鼓移则番代。" />
+		</sense>
+		<sense tag="名" vernacular="朝代">
+			<exam article="《活板》" ref="五代时始印五经。" />
+		</sense>
+		<sense tag="名" vernacular="世代；父子相传">
+			<exam article="《王右丞集·李陵咏》" ref="汉家李将军，三代将门子。" />
+		</sense>
+	</pron>
+	<phrase value="代耕">
+		<sense value="官吏以俸禄代替耕作，所以称为官受禄为“代耕”" />
+	</phrase>
+	<phrase value="代庖">
+		<sense value="代替厨人做饭，比喻代做他人分内的事" />
+	</phrase>
+</character>

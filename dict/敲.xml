@@ -1,0 +1,17 @@
+<character value="敲">
+	<introduce>
+		<pinyin value="qiao1" writing="qiāo" />
+		<bushou value="攴" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="捺横竖折横竖折竖折横竖横折捺" />
+	</introduce>
+	<pron value="qiāo">
+		<sense tag="动" vernacular="敲打；叩击">
+			<exam article="《原君》" ref="敲剥天下之骨髓，离散天下之子女。" />
+		</sense>
+		<sense tag="名" vernacular="一种刑具，打人的短棍">
+			<exam article="《过秦论》" ref="执敲扑而鞭笞天下。" />
+		</sense>
+	</pron>
+</character>

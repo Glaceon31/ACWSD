@@ -1,0 +1,20 @@
+<character value="懿">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="22" />
+		<order value="横竖横捺折横竖折横捺撇横捺横撇折撇捺捺折捺捺" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="形" vernacular="美；美好">
+			<exam article="《滕王阁序》" ref="宇文新州之懿范，襜帷暂驻。" />
+		</sense>
+		<sense tag="形" vernacular="深">
+			<exam article="《诗经·豳风·七月》" ref="女执懿筐，遵彼微行。" />
+		</sense>
+	</pron>
+	<phrase value="懿旨">
+		<sense value="皇太后或皇后命令" />
+	</phrase>
+</character>

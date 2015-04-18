@@ -1,0 +1,20 @@
+<character value="绽">
+	<introduce>
+		<pinyin value="zhan4" writing="zhàn" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="折折横捺捺折横竖横撇捺" />
+	</introduce>
+	<pron value="zhàn">
+		<sense tag="动" vernacular="衣缝裂开">
+			<exam article="《礼记·内则》" ref="衣裳绽裂。" />
+		</sense>
+		<sense tag="动" vernacular="泛指开裂，裂开">
+			<exam article="《寄刘峡州伯华使君四十韵》" ref="凭久乌皮绽，簪稀白帽棱。" />
+		</sense>
+		<sense tag="动" vernacular="缝">
+			<exam article="《艳歌行》" ref="故衣谁为补，新衣谁当绽。" />
+		</sense>
+	</pron>
+</character>

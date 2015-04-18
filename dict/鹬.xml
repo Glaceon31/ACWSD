@@ -1,0 +1,17 @@
+<character value="鹬">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="鸟" />
+		<bushoustroke value="5" />
+		<stroke value="17" />
+		<order value="折捺折竖撇竖折撇捺竖折横撇折捺折横" />
+	</introduce>
+	<pron value="yù">
+		<sense tag="名" vernacular="一种水鸟">
+			<exam article="《战国策·燕策二》" ref="蚌方出曝，而鹬啄其肉。" />
+		</sense>
+		<sense tag="形" vernacular="飞得很快的样子">
+			<exam article="《海赋》" ref="鹬如惊凫之失侣。" />
+		</sense>
+	</pron>
+</character>

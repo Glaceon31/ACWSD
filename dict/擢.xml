@@ -1,0 +1,26 @@
+<character value="擢">
+	<introduce>
+		<pinyin value="zhuo2" writing="zhuó" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="17" />
+		<order value="横竖横折捺横折捺横撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="zhuó">
+		<sense tag="动" vernacular="拔；抽">
+			<exam article="《史记·范雎传》" ref="擢贾之发以续贾之罪，尚未足。" />
+		</sense>
+		<sense tag="动" vernacular="提拔；选拔">
+			<exam article="《谭嗣同》" ref="皇上超擢四品卿衔军机章京。" />
+		</sense>
+	</pron>
+	<phrase value="擢第">
+		<sense value="科举考试得中" />
+	</phrase>
+	<phrase value="擢世">
+		<sense value="超群出众" />
+	</phrase>
+	<phrase value="擢秀">
+		<sense value="草木茂盛地生长，比喻人才出众" />
+	</phrase>
+</character>

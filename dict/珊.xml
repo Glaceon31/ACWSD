@@ -1,0 +1,19 @@
+<character value="珊">
+	<introduce>
+		<pinyin value="shan1" writing="shān" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横横竖横撇折撇折横" />
+	</introduce>
+	<pron value="shān">
+		<sense vernacular="见“珊瑚”" />
+	</pron>
+	<phrase value="珊瑚">
+		<sense value="热带海洋中腔肠动物珊瑚虫分泌的石灰质骨骼，形状像树枝，可供观赏或作装饰" />
+	</phrase>
+	<phrase value="珊珊">
+		<sense value="玉佩的撞击声" />
+		<sense value="舒缓美好的样子" />
+	</phrase>
+</character>

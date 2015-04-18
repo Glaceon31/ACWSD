@@ -1,0 +1,19 @@
+<character value="惶">
+	<introduce>
+		<pinyin value="huang2" writing="huáng" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺竖撇竖折横横横横竖横" />
+	</introduce>
+	<pron value="huáng">
+		<sense tag="形" vernacular="恐惧；惊慌">
+			<exam article="《荆轲刺秦王》" ref="卒惶急不知所为。" />
+			<exam article="《过零丁洋》" ref="惶恐滩头说惶恐，零丁洋里叹零丁。" />
+		</sense>
+	</pron>
+	<phrase value="惶惶">
+		<sense value="恐惧不安的样子" />
+		<sense value="匆遽的样子" />
+	</phrase>
+</character>

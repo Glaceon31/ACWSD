@@ -1,0 +1,31 @@
+<character value="洞">
+	<introduce>
+		<pinyin value="dong4" writing="dòng" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺横竖折横竖折横" />
+	</introduce>
+	<pron value="dòng">
+		<sense tag="名" vernacular="洞穴；窟窿">
+			<exam article="《游褒禅山记》" ref="距洞百余步，有碑仆道。" />
+		</sense>
+		<sense tag="动" vernacular="穿通；贯穿">
+			<exam article="《狼》" ref="一狼洞其中，意将隧入以攻其后也。" />
+		</sense>
+		<sense tag="形" vernacular="透彻；深入">
+			<exam article="《阮步兵》" ref="阮公虽沦迹，识密监亦洞。" />
+		</sense>
+		<sense tag="形" vernacular="明亮">
+			<exam article="《项脊轩志》" ref="日影反照，室始洞然。" />
+		</sense>
+		<sense tag="动" vernacular="敞开" />
+	</pron>
+	<phrase value="洞彻">
+		<sense value="清澈" />
+		<sense value="通达事理" />
+	</phrase>
+	<phrase value="洞溢">
+		<sense value="透彻；丰富" />
+	</phrase>
+</character>

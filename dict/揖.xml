@@ -1,0 +1,14 @@
+<character value="揖">
+	<introduce>
+		<pinyin value="yi1" writing="yī" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖横竖折横横竖竖横横横" />
+	</introduce>
+	<pron value="yī">
+		<sense tag="动" vernacular="拱手行礼">
+			<exam article="《战国策·秦策三》" ref="蔡泽入，则揖应侯。" />
+		</sense>
+	</pron>
+</character>

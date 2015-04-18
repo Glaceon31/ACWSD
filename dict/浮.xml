@@ -1,0 +1,45 @@
+<character value="浮">
+	<introduce>
+		<pinyin value="fu2" writing="fú" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横撇捺捺撇折竖横" />
+	</introduce>
+	<pron value="fú">
+		<sense tag="动" vernacular="飘浮在水面上，与“沉”相对">
+			<exam article="《西门豹治邺》" ref="令女居其上，浮之河中。" />
+		</sense>
+		<sense tag="动" vernacular="飘浮在空中">
+			<exam article="《孔雀东南飞》" ref="交语速装束，络绎如浮云。" />
+		</sense>
+		<sense tag="动" vernacular="在水上行驶；航行">
+			<exam article="《哀都》" ref="过夏首而西浮兮，顾龙门而不见。" />
+		</sense>
+		<sense tag="动" vernacular="超过">
+			<exam article="《海瑞传》" ref="搏噬善类，其罪又浮于高拱。" />
+		</sense>
+		<sense tag="形" vernacular="轻">
+			<exam article="《采草药》" ref="有苗时采，则虚而浮。" />
+		</sense>
+		<sense tag="形" vernacular="虚浮；浮华">
+			<exam article="《治平篇》" ref="禁其浮靡，抑其兼并。" />
+		</sense>
+		<sense tag="形" vernacular="轻薄；轻佻">
+			<exam article="《国语·楚语》" ref="教之乐，以疏其秽而镇其浮。" />
+		</sense>
+	</pron>
+	<phrase value="浮白">
+		<sense value="罚酒" />
+	</phrase>
+	<phrase value="浮屠">
+		<sense value="也作“浮图”" />
+		<sense value="佛，佛陀" />
+		<sense value="佛教" />
+		<sense value="和尚" />
+		<sense value="佛塔" />
+	</phrase>
+	<phrase value="浮生">
+		<sense value="古代老庄学派认为人生在世，虚浮无定，所以称人生为浮生" />
+	</phrase>
+</character>

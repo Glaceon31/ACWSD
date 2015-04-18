@@ -1,0 +1,34 @@
+<character value="促">
+	<introduce>
+		<pinyin value="cu4" writing="cù" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="撇竖竖折横竖横撇捺" />
+	</introduce>
+	<pron value="cù">
+		<sense tag="动" vernacular="紧迫">
+			<exam article="《琵琶行》" ref="感我此言良久立，却坐促弦弦转急。" />
+		</sense>
+		<sense tag="动" vernacular="催促">
+			<exam article="《记王忠肃公翱事》" ref="公屡促之，必如约。" />
+		</sense>
+		<sense tag="形" vernacular="短；距离近">
+			<exam article="《后汉书·郦炎传》" ref="大道夷且长，窘路狭且促。" />
+		</sense>
+	</pron>
+	<phrase value="促刺">
+		<sense value="忙迫；劳苦不安" />
+	</phrase>
+	<phrase value="促席">
+		<sense value="坐席互相靠近" />
+		<sense value="形容亲密" />
+	</phrase>
+	<phrase value="促狭">
+		<sense value="1" />
+		<sense value="狭窄；窄小" />
+	</phrase>
+	<phrase value="促装">
+		<sense value="匆忙整理行装" />
+	</phrase>
+</character>

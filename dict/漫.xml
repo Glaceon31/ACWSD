@@ -1,0 +1,37 @@
+<character value="漫">
+	<introduce>
+		<pinyin value="man4" writing="màn" />
+		<pinyin value="man2" writing="mán" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="捺捺横竖折横横竖折竖竖横折捺" />
+	</introduce>
+	<pron value="màn">
+		<sense tag="动" vernacular="水涨溢">
+			<exam article="《自湘源至潭州衡山县》" ref="渐见江势阔，行嗟水流漫。" />
+		</sense>
+		<sense tag="形" vernacular="模糊不清">
+			<exam article="《游褒禅山记》" ref="有碑仆道，其文漫灭。" />
+		</sense>
+		<sense tag="副" vernacular="随意；不受拘束">
+			<exam article="《闻官军收河南河北》" ref="却看妻子愁何在，漫卷诗书喜欲狂。" />
+		</sense>
+		<sense tag="副" vernacular="枉自；徒然">
+			<exam article="《宾至》" ref="岂有文章惊海内，漫劳车马驻江干。" />
+		</sense>
+		<sense tag="动" vernacular="玷污">
+			<exam article="《庄子·让王》" ref="又欲以其辱行漫我。" />
+		</sense>
+	</pron>
+	<phrase value="漫澜">
+		<sense value="无边无际的样子" />
+		<sense value="支离破碎的样子" />
+	</phrase>
+	<phrase value="漫漫">
+		<sense value="无边无际；长远" />
+		<sense value="放纵；随意" />
+		<sense value="昏聩；糊涂" />
+		<sense value="缓慢" />
+	</phrase>
+</character>

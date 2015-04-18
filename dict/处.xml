@@ -1,0 +1,53 @@
+<character value="处">
+	<introduce>
+		<pinyin value="chu3" writing="chŭ" />
+		<pinyin value="chu4" writing="chù" />
+		<bushou value="夂" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="撇折捺竖捺" />
+	</introduce>
+	<pron value="chǔ">
+		<sense tag="动" vernacular="停留，止息">
+			<exam article="《孙子·军事》" ref="是故卷甲而遁，日夜不处。" />
+		</sense>
+		<sense tag="动" vernacular="住，居住">
+			<exam article="《岳阳楼记》" ref="处江湖之远，则忧其君。" />
+		</sense>
+		<sense tag="动" vernacular="闲居，隐居">
+			<exam article="《孟子·齐人有一妻一妾》" ref="齐人有一妻一妾而处室者。" />
+		</sense>
+		<sense tag="动" vernacular="相处">
+			<exam article="《&lt;指南录&gt;后序》" ref="与贵酋处二十日，争曲直，屡当死。" />
+		</sense>
+		<sense tag="动" vernacular="处置，处理">
+			<exam article="《孔雀东南飞》" ref="处分适兄意，那得自任专！" />
+			<exam article="《赤壁之战》" ref="愿将军量力而处之。" />
+		</sense>
+	</pron>
+	<pron value="chù">
+		<sense tag="名" vernacular="处所，地方">
+			<exam article="《垓下之战》" ref="令四面骑驰下，期山东为三处。" />
+			<exam article="《过秦论》" ref="良将劲驽守要害之处。" />
+			<exam article="《三峡》" ref="自三峡七百里中，两岸连山，略无阙处。" />
+		</sense>
+	</pron>
+	<phrase value="处妇">
+		<sense value="居家之妇" />
+	</phrase>
+	<phrase value="处妾">
+		<sense value="宫中的童女" />
+	</phrase>
+	<phrase value="处士">
+		<sense value="1" />
+		<sense value="有德才而隐居不愿作官的人" />
+	</phrase>
+	<phrase value="处治">
+		<sense value="处方治病" />
+	</phrase>
+	<phrase value="处子">
+		<sense value="1" />
+		<sense value="处女" />
+		<sense value="范晔《后汉书·张衡传》：“鸣鹤交颈，雎鸠相和" />
+	</phrase>
+</character>

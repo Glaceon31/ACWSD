@@ -1,0 +1,31 @@
+<character value="厕">
+	<introduce>
+		<pinyin value="ce4" writing="cè" />
+		<pinyin value="si5" writing="si" />
+		<bushou value="厂" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="横撇竖折撇捺竖竖" />
+	</introduce>
+	<pron value="cè">
+		<sense tag="名" vernacular="厕所">
+			<exam article="《鸿门宴》" ref="沛公起如厕。" />
+		</sense>
+		<sense tag="名" vernacular="猪圈">
+			<exam article="《汉书·燕剌王旦传》" ref="厕中豕群出。" />
+		</sense>
+		<sense tag="动" vernacular="置身于；参加">
+			<exam article="《报任安书》" ref="向者仆常厕下大夫之列。" />
+		</sense>
+		<sense tag="名" vernacular="通“侧”">
+			<exam article="《史记·张释之传》" ref="从行至霸陵，居北临厕。" />
+		</sense>
+	</pron>
+	<phrase value="厕足">
+		<sense value="1" />
+		<sense value="侧足；置足" />
+	</phrase>
+	<phrase value="厕迹">
+		<sense value="插足；置身" />
+	</phrase>
+</character>

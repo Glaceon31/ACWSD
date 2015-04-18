@@ -1,0 +1,29 @@
+<character value="茀">
+	<introduce>
+		<pinyin value="fu2" writing="fú" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖竖折横折撇竖" />
+	</introduce>
+	<pron value="fú">
+		<sense tag="形" vernacular="草多塞路">
+			<exam article="《国语·周语中》" ref="道茀不可行也。" />
+		</sense>
+		<sense tag="动" vernacular="除草">
+			<exam article="《诗经·大雅·生民》" ref="茀厥丰草，种之黄茂。" />
+		</sense>
+		<sense tag="名" vernacular="古代车上的遮蔽物">
+			<exam article="《诗经·卫风·硕人》" ref="翟茀以朝。" />
+		</sense>
+		<sense tag="名" vernacular="通“髴”，妇女的首饰">
+			<exam article="《周易·既济》" ref="妇丧其茀。" />
+		</sense>
+		<sense tag="名" vernacular="通“福”">
+			<exam article="《诗经·大雅·卷阿》" ref="茀禄尔康矣。" />
+		</sense>
+		<sense tag="名" vernacular="通“绋”，牵引棺的绳索">
+			<exam article="《左传·宣公八年》" ref="葬敬嬴，旱，无麻，始用葛茀。" />
+		</sense>
+	</pron>
+</character>

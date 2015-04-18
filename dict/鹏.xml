@@ -1,0 +1,17 @@
+<character value="鹏">
+	<introduce>
+		<pinyin value="peng2" writing="péng" />
+		<bushou value="鸟" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="撇折横横撇折横横撇折捺折横" />
+	</introduce>
+	<pron value="péng">
+		<sense tag="名" vernacular="古代传说中的一种大鸟">
+			<exam article="《庄子·消遥遊》" ref="鲲之大，不知其几千里也，化而为鸟，其名为鹏。" />
+		</sense>
+	</pron>
+	<phrase value="鹏程">
+		<sense value="鹏飞的路，比喻仕宦之途" />
+	</phrase>
+</character>

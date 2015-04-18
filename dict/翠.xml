@@ -1,0 +1,37 @@
+<character value="翠">
+	<introduce>
+		<pinyin value="cui4" writing="cuì" />
+		<bushou value="羽" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="折捺横折捺横捺横撇捺撇捺横竖" />
+	</introduce>
+	<pron value="cuì">
+		<sense tag="名" vernacular="翠鸟">
+			<exam article="《洛神赋》" ref="或拾翠羽。" />
+		</sense>
+		<sense tag="名" vernacular="翡翠，一种绿色的宝石" />
+		<sense tag="形" vernacular="青绿色">
+			<exam article="《柳毅传》" ref="雕琉璃于翠楣，饰琥珀于虹栋。" />
+			<exam article="《鞭蕖》" ref="犹似未开之花，与翠叶并擎。" />
+		</sense>
+		<sense tag="名" vernacular="鸟尾上的肉">
+			<exam article="《礼记·内则》" ref="舒雁翠。" />
+		</sense>
+	</pron>
+	<phrase value="翠盖">
+		<sense value="1" />
+		<sense value="翠羽装饰的华盖" />
+	</phrase>
+	<phrase value="翠华">
+		<sense value="1" />
+		<sense value="皇帝仪仗中一种旗竿顶上饰有翠鸟羽毛的旗" />
+	</phrase>
+	<phrase value="翠辇">
+		<sense value="帝王的车驾" />
+	</phrase>
+	<phrase value="翠微">
+		<sense value="1" />
+		<sense value="青绿色的山气" />
+	</phrase>
+</character>

@@ -1,0 +1,24 @@
+<character value="徂">
+	<introduce>
+		<pinyin value="cu2" writing="cú" />
+		<bushou value="彳" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇撇竖竖折横横横" />
+	</introduce>
+	<pron value="cú">
+		<sense tag="动" vernacular="往">
+			<exam article="《诗经·大雅·桑柔》" ref="自西徂来，靡所定所。" />
+		</sense>
+		<sense tag="动" vernacular="通“殂”，死亡" />
+	</pron>
+	<phrase value="徂迁">
+		<sense value="1" />
+		<sense value="迁移，变化" />
+	</phrase>
+	<phrase value="徂谢">
+		<sense value="1" />
+		<sense value="死亡" />
+		<sense value="徂，通“殂”" />
+	</phrase>
+</character>

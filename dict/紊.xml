@@ -1,0 +1,15 @@
+<character value="紊">
+	<introduce>
+		<pinyin value="wen3" writing="wĕn" />
+		<pinyin value="wen4" writing="wèn" />
+		<bushou value="糸" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="捺横撇捺折折捺竖撇捺" />
+	</introduce>
+	<pron value="wěn">
+		<sense tag="形" vernacular="乱">
+			<exam article="《南史·梁武帝纪》" ref="政刑弛紊。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,21 @@
+<character value="墟">
+	<introduce>
+		<pinyin value="xu1" writing="xū" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="横竖横竖横折撇横折竖竖捺撇横" />
+	</introduce>
+	<pron value="xū">
+		<sense tag="名" vernacular="大土山">
+			<exam article="《观八骏图说》" ref="古之书记周穆王驰八骏升昆仑之墟者。" />
+		</sense>
+		<sense tag="名" vernacular="废墟">
+			<exam article="《齐民要术·种麻》" ref="麻欲得良田，不用故墟。" />
+		</sense>
+		<sense tag="名" vernacular="集市（后起意义）" />
+	</pron>
+	<phrase value="墟落">
+		<sense value="村落" />
+	</phrase>
+</character>

@@ -1,0 +1,26 @@
+<character value="冶">
+	<introduce>
+		<pinyin value="ye3" writing="yĕ" />
+		<bushou value="冫" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺横折捺竖折横" />
+	</introduce>
+	<pron value="yě">
+		<sense tag="动" vernacular="冶炼金属">
+			<exam article="《史记·平准书》" ref="冶铸煮盐。" />
+		</sense>
+		<sense tag="名" vernacular="冶炼工匠">
+			<exam article="《礼记·学记》" ref="良冶之子，必学为裘。" />
+		</sense>
+		<sense tag="形" vernacular="艳丽">
+			<exam article="《谏逐客书》" ref="佳冶窈窕赵女不立于侧也。" />
+		</sense>
+	</pron>
+	<phrase value="冶容">
+		<sense value="妖艳的打扮" />
+	</phrase>
+	<phrase value="冶艳">
+		<sense value="妖艳，衣饰和首饰都很华丽" />
+	</phrase>
+</character>

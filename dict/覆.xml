@@ -1,0 +1,34 @@
+<character value="覆">
+	<introduce>
+		<pinyin value="fu4" writing="fù" />
+		<bushou value="覀" />
+		<bushoustroke value="6" />
+		<stroke value="18" />
+		<order value="横竖折竖竖横撇撇竖撇横竖折横横撇折捺" />
+	</introduce>
+	<pron value="fù">
+		<sense tag="动" vernacular="翻；翻转过来">
+			<exam article="《论语》" ref="譬如平地，虽覆一篑，进，吾往也。" />
+			<exam article="《鸿门宴》" ref="樊哙覆其盾于地。" />
+		</sense>
+		<sense tag="动" vernacular="覆没">
+			<exam article="《六国论》" ref="至于颠覆，理固宜然。" />
+		</sense>
+		<sense tag="动" vernacular="遮盖；掩蔽">
+			<exam article="《左忠毅公逸事》" ref="公阅毕，即解貂覆生，为掩户。" />
+			<exam article="《孔雀东南飞》" ref="枝枝相覆盖，叶叶相交通。" />
+		</sense>
+		<sense tag="动" vernacular="伏兵">
+			<exam article="《左传·桓公十二年》" ref="楚人坐其北门而覆山下，大败之。" />
+		</sense>
+		<sense tag="动" vernacular="审察">
+			<exam article="《汉书·李寻传》" ref="反覆覆愚臣之言。" />
+		</sense>
+		<sense tag="副" vernacular="反；反而">
+			<exam article="《诗经·节南山》" ref="不惩其心，覆怨其正。" />
+		</sense>
+		<sense tag="动" vernacular="通“复”，回复，回">
+			<exam article="《汉书·冯唐传》" ref="赏赐决于外，不从中覆也。" />
+		</sense>
+	</pron>
+</character>

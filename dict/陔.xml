@@ -1,0 +1,17 @@
+<character value="陔">
+	<introduce>
+		<pinyin value="gai1" writing="gāi" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="折竖捺横折撇撇捺" />
+	</introduce>
+	<pron value="gāi">
+		<sense tag="量" vernacular="台阶的层次">
+			<exam article="《汉书·郊祀志上》" ref="具泰一祠坛……三陔。" />
+		</sense>
+		<sense tag="名" vernacular="田埂">
+			<exam article="《补亡诗》" ref="循彼南陔，言采其兰。" />
+		</sense>
+	</pron>
+</character>

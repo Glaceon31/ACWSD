@@ -1,0 +1,24 @@
+<character value="氐">
+	<introduce>
+		<pinyin value="di3" writing="dĭ" />
+		<pinyin value="di1" writing="dī" />
+		<bushou value="氏" />
+		<bushoustroke value="4" />
+		<stroke value="5" />
+		<order value="撇折横折捺" />
+	</introduce>
+	<pron value="dǐ">
+		<sense tag="名" vernacular="根本">
+			<exam article="《诗经·小雅·节南山》" ref="尹氏大师，维周之氐。" />
+		</sense>
+		<sense vernacular="通“抵”">
+			<exam article="《汉书·礼乐志》" ref="大氐皆因秦旧事焉。" />
+		</sense>
+	</pron>
+	<pron value="dī">
+		<sense tag="形" vernacular="通“抵”">
+			<exam article="《汉书·食货志下》" ref="其贾氐贱减平者，听民自与市。" />
+		</sense>
+		<sense vernacular="古民族名，又称西戎，分布在今青海，甘肃、四川等地" />
+	</pron>
+</character>

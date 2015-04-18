@@ -1,0 +1,21 @@
+<character value="囱">
+	<introduce>
+		<pinyin value="cong1" writing="cōng" />
+		<bushou value="囗" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="撇竖折撇折捺横" />
+	</introduce>
+	<pron value="chuāng">
+		<sense tag="名" vernacular="“窗”的古字" />
+	</pron>
+	<pron value="cōng">
+		<sense tag="名" vernacular="烟囱">
+			<exam article="《玉篇·囱部》" ref="囱，通孔也，灶突也。" />
+		</sense>
+		<sense vernacular="同“匆”" />
+	</pron>
+	<phrase value="囱囱">
+		<sense value="形容急急忙忙的样子" />
+	</phrase>
+</character>

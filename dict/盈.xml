@@ -1,0 +1,28 @@
+<character value="盈">
+	<introduce>
+		<pinyin value="ying2" writing="yíng" />
+		<bushou value="皿" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="折撇折捺竖折竖竖横" />
+	</introduce>
+	<pron value="yíng">
+		<sense tag="形" vernacular="满">
+			<exam article="《归去来兮辞》" ref="携幼入室，有酒盈樽。" />
+		</sense>
+		<sense tag="形" vernacular="圆满">
+			<exam article="《赤壁赋》" ref="盈虚者如彼，而卒莫长也。" />
+		</sense>
+		<sense tag="形" vernacular="旺盛">
+			<exam article="《曹刿论战》" ref="彼竭我盈，故克之。" />
+		</sense>
+		<sense tag="形" vernacular="富裕">
+			<exam article="《汉书·马援传》" ref="致求盈余。" />
+		</sense>
+	</pron>
+	<phrase value="盈盈">
+		<sense value="仪态美观" />
+		<sense value="清澈透明" />
+		<sense value="含情的样子" />
+	</phrase>
+</character>

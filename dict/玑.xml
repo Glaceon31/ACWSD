@@ -1,0 +1,22 @@
+<character value="玑">
+	<introduce>
+		<pinyin value="ji1" writing="jī" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="横横竖横撇折" />
+	</introduce>
+	<pron value="jī">
+		<sense tag="名" vernacular="不圆的珠子">
+			<exam article="《谏逐客书》" ref="傅玑之珥。" />
+		</sense>
+	</pron>
+	<phrase value="玑衡">
+		<sense value="即璿玑玉衡，古代用玉装饰的观测天体的仪器" />
+		<sense value="北斗的第三、第五颗星" />
+	</phrase>
+	<phrase value="玑镜">
+		<sense value="用有光之珠作镜" />
+		<sense value="赞美别人的鉴别能力，犹言明镜" />
+	</phrase>
+</character>

@@ -1,0 +1,21 @@
+<character value="铢">
+	<introduce>
+		<pinyin value="zhu1" writing="zhū" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="撇横横横折撇横横竖撇捺" />
+	</introduce>
+	<pron value="zhū">
+		<sense tag="量" vernacular="古代重量单位，二十四铢为一两">
+			<exam article="《商君书·定分》" ref="虽有千金，不能以用一铢。" />
+		</sense>
+		<sense tag="形" vernacular="钝">
+			<exam article="《淮南子·齐谷》" ref="其兵戈铢而无刃。" />
+		</sense>
+	</pron>
+	<phrase value="铢两">
+		<sense value="极轻的重量" />
+		<sense value="比喻很少，一点儿" />
+	</phrase>
+</character>

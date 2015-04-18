@@ -1,0 +1,30 @@
+<character value="群">
+	<introduce>
+		<pinyin value="qun2" writing="qún" />
+		<bushou value="羊" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="折横横撇竖折横捺撇横横横竖" />
+	</introduce>
+	<pron value="qún">
+		<sense tag="名" vernacular="兽群；聚集在一起的鸟兽">
+			<exam article="《弹廖化表》" ref="羊之乱群，犹能为害。" />
+		</sense>
+		<sense tag="名" vernacular="群；聚集在一起的人">
+			<exam article="《礼记·檀弓上》" ref="吾离群而索居，亦已久矣。" />
+		</sense>
+		<sense tag="动" vernacular="聚集成群">
+			<exam article="《师说》" ref="士大夫之族，曰师曰弟子云者，则群聚而笑之。" />
+		</sense>
+		<sense tag="形" vernacular="成群的">
+			<exam article="《与陈伯之书》" ref="杂花生树，群莺乱飞。" />
+		</sense>
+		<sense tag="形" vernacular="诸；众">
+			<exam article="《滕王阁序》" ref="登高作赋，是所望于群公。" />
+		</sense>
+	</pron>
+	<phrase value="群生">
+		<sense value="一切生物" />
+		<sense value="众儒生" />
+	</phrase>
+</character>

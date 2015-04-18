@@ -1,0 +1,21 @@
+<character value="陵">
+	<introduce>
+		<pinyin value="ling2" writing="líng" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="折竖横竖横撇捺撇折捺" />
+	</introduce>
+	<pron value="líng">
+		<sense tag="名" vernacular="大土山">
+			<exam article="《柳毅传》" ref="龙以水为神，举一滴可包陵谷。" />
+		</sense>
+		<sense tag="名" vernacular="帝王的陵墓，泛指一般的坟墓">
+			<exam article="《促织》" ref="执图诣寺后，有古陵蔚起。" />
+		</sense>
+		<sense tag="动" vernacular="通“凌”">
+			<exam article="《荆轲刺秦王》" ref="而燕国见陵之耻除矣。" />
+			<exam article="《&lt;指南录&gt;后序》" ref="贾家庄几为巡缴所陵迫死。" />
+		</sense>
+	</pron>
+</character>

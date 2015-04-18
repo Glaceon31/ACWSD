@@ -1,0 +1,15 @@
+<character value="忤">
+	<introduce>
+		<pinyin value="wu3" writing="wŭ" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺竖撇横横竖" />
+	</introduce>
+	<pron value="wǔ">
+		<sense tag="动" vernacular="违反；抵触；不顺从">
+			<exam article="《荆轲刺秦王》" ref="燕国有勇士秦武阳，年十二杀人，人不敢与忤视。" />
+			<exam article="《中山狼传》" ref="私汝狼犯世卿、忤权贵，祸且不测，敢望报乎？" />
+		</sense>
+	</pron>
+</character>

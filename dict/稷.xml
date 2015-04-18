@@ -1,0 +1,34 @@
+<character value="稷">
+	<introduce>
+		<pinyin value="ji4" writing="jì" />
+		<bushou value="禾" />
+		<bushoustroke value="5" />
+		<stroke value="15" />
+		<order value="撇横竖撇捺竖折横竖横撇捺撇折捺" />
+	</introduce>
+	<pron value="jì">
+		<sense tag="名" vernacular="粟">
+			<exam article="《诗经·王风·黍离》" ref="彼黍离离，彼稷之苗。" />
+		</sense>
+		<sense tag="名" vernacular="泛指谷类庄稼">
+			<exam article="《桃花园诗》" ref="桑竹垂余荫，菽稷随时艺。" />
+		</sense>
+		<sense tag="名" vernacular="五谷之神">
+			<exam article="《左传·昭公二十九年》" ref="周弃亦为稷，自商以来祀之。" />
+		</sense>
+		<sense tag="名" vernacular="祭祀谷神的祭坛、处所">
+			<exam article="《白虎通·社稷》" ref="王者所以有社稷何?为天下求福报功。" />
+		</sense>
+		<sense tag="名" vernacular="政权；国家">
+			<exam article="《五人墓碑记》" ref="亦以明死生之大，匹夫之有重于社稷也。" />
+		</sense>
+	</pron>
+	<phrase value="稷蜂社鼠">
+		<sense value="栖身在稷庙、社庙中的蜂鼠" />
+		<sense value="比喻仗势作恶的人" />
+	</phrase>
+	<phrase value="稷狐">
+		<sense value="栖于稷庙中的狐狸" />
+		<sense value="比喻仗势作恶的人" />
+	</phrase>
+</character>

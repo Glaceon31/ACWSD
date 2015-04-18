@@ -1,0 +1,20 @@
+<character value="浼">
+	<introduce>
+		<pinyin value="mei3" writing="mĕi" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横撇折竖折横撇折" />
+	</introduce>
+	<pron value="měi">
+		<sense tag="动" vernacular="污染">
+			<exam article="《孟子·公孙丑上》" ref="尔焉能浼我哉。" />
+		</sense>
+		<sense tag="动" vernacular="托请；央求（后起意义）">
+			<exam article="《辍耕录》" ref="整复浼入言之。" />
+		</sense>
+	</pron>
+	<phrase value="浼浼">
+		<sense value="水大的样子" />
+	</phrase>
+</character>

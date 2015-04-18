@@ -1,0 +1,64 @@
+<character value="若">
+	<introduce>
+		<pinyin value="ruo4" writing="ruò" />
+		<pinyin value="re3" writing="rĕ" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖竖横撇竖折横" />
+	</introduce>
+	<pron value="ruò">
+		<sense tag="动" vernacular="像">
+			<exam article="《赤壁之战》" ref="众士慕仰，若水之归海。" />
+		</sense>
+		<sense tag="动" vernacular="及；比得上">
+			<exam article="《邹忌讽齐王纳谏》" ref="徐公不若君之美也。" />
+		</sense>
+		<sense tag="代" vernacular="你；你们；你(们)的">
+			<exam article="《鸿门宴》" ref="若入前为寿。" />
+			<exam article="《捕蛇者说》" ref="更若役，复若赋。" />
+		</sense>
+		<sense tag="代" vernacular="这样的；这">
+			<exam article="《齐桓晋文之事》" ref="以若所为，求若所欲，犹缘木而求鱼也。" />
+		</sense>
+		<sense tag="连" vernacular="至于">
+			<exam article="《齐桓晋文之事》" ref="若民，则无恒产，因无恒心。" />
+		</sense>
+		<sense tag="连" vernacular="假如；如果">
+			<exam article="《殽之战》" ref="若潜师以来，国可得也。" />
+		</sense>
+		<sense tag="连" vernacular="或；或者">
+			<exam article="《汉书·食货志》" ref="时有军役若水旱，民不困乏。" />
+		</sense>
+		<sense tag="副" vernacular="好像；似乎">
+			<exam article="《桃花源记》" ref="山有小口，仿佛若有光。" />
+		</sense>
+		<sense tag="词缀" vernacular="用于形容词后，表示“……的样子”，也可不译出">
+			<exam article="《诗经·氓》" ref="桑之未落，其叶沃若。" />
+		</sense>
+	</pron>
+	<phrase value="若华">
+		<sense value="若木之花" />
+	</phrase>
+	<phrase value="若木">
+		<sense value="古代神话中的树名" />
+		<sense value="生于日落之处，青叶赤花" />
+	</phrase>
+	<phrase value="若时">
+		<sense value="顺应天道" />
+		<sense value="时，四时；天运" />
+		<sense value="此时" />
+		<sense value="彼时" />
+	</phrase>
+	<phrase value="若属">
+		<sense value="你们这些人" />
+	</phrase>
+	<phrase value="若许">
+		<sense value="犹“如许”" />
+		<sense value="如此" />
+	</phrase>
+	<phrase value="若英">
+		<sense value="杜若之花" />
+		<sense value="若木之花" />
+	</phrase>
+</character>

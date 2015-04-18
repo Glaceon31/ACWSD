@@ -1,0 +1,44 @@
+<character value="如">
+	<introduce>
+		<pinyin value="ru2" writing="rú" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折撇横竖折横" />
+	</introduce>
+	<pron value="rú">
+		<sense tag="动" vernacular="往；到……去">
+			<exam article="《涉江》" ref="入溆浦余儃佪兮，迷不知吾所如。" />
+		</sense>
+		<sense tag="动" vernacular="依照；遵从">
+			<exam article="《中山狼传》" ref="先生如其指，内狼于囊。" />
+		</sense>
+		<sense tag="动" vernacular="顺；符合">
+			<exam article="《赤壁之战》" ref="邂逅不如意，便还就孤。" />
+		</sense>
+		<sense tag="动" vernacular="像；如同">
+			<exam article="《两小儿辩日》" ref="日初出大如车盖。" />
+		</sense>
+		<sense tag="动" vernacular="及；比得上">
+			<exam article="《得道多助，失道寡助》" ref="天时不如地利。" />
+		</sense>
+		<sense tag="动" vernacular="用于短语“如……何”中，表示“对待……怎么办”、“把……怎么办”">
+			<exam article="《愚公移山》" ref="如太行、王屋何？" />
+		</sense>
+		<sense tag="副" vernacular="不如；应该">
+			<exam article="《子鱼论战》" ref="若爱重伤，则如勿伤。" />
+		</sense>
+		<sense tag="连" vernacular="如果；假如">
+			<exam article="《芙蓉楼送辛渐》" ref="洛阳亲友如相问。" />
+		</sense>
+		<sense tag="连" vernacular="或者">
+			<exam article="《子路曾皙冉有公西华侍坐》" ref="安见方六七十，如五六十，而非邦也者？" />
+		</sense>
+		<sense tag="连" vernacular="至于">
+			<exam article="《子路曾皙冉有公西华侍坐》" ref="如其礼乐，以俟君子。" />
+		</sense>
+		<sense vernacular="⑾词缀">
+			<exam article="《答李翊书》" ref="仁义之人，其言蔼如也。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,50 @@
+<character value="初">
+	<introduce>
+		<pinyin value="chu1" writing="chū" />
+		<bushou value="刀" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺折竖撇捺折撇" />
+	</introduce>
+	<pron value="chū">
+		<sense tag="名" vernacular="开始，开头">
+			<exam article="《孔雀东南飞》" ref="奄奄黄昏后，寂寂人定初。" />
+			<exam article="《桃花源记》" ref="初极狭，才通人。" />
+			<exam article="《原君》" ref="有生之初，人各自私也，人各自利也。" />
+		</sense>
+		<sense tag="副" vernacular="当初，先前">
+			<exam article="《赤壁之战》" ref="初，鲁肃闻刘表卒。" />
+		</sense>
+		<sense tag="副" vernacular="刚，才">
+			<exam article="《两小儿辩日》" ref="日初出大如车盖。" />
+			<exam article="《闻官军收河南河北》" ref="初闻涕泪满衣裳。" />
+			<exam article="《赤壁之战》" ref="初一交战，操军不利，引次江北。" />
+		</sense>
+		<sense tag="副" vernacular="原来，本来">
+			<exam article="《原君》" ref="初不欲入而不得去者，禹是也。" />
+		</sense>
+	</pron>
+	<phrase value="初度">
+		<sense value="初生的年月时日" />
+		<sense value="亦即生日" />
+	</phrase>
+	<phrase value="初服">
+		<sense value="1" />
+		<sense value="新即位的帝王开始执政" />
+	</phrase>
+	<phrase value="初阶">
+		<sense value="初次当官所得之位" />
+	</phrase>
+	<phrase value="初唐四杰">
+		<sense value="指初唐诗人王勃、杨炯、卢照邻、骆宾王四人" />
+	</phrase>
+	<phrase value="初夜">
+		<sense value="1" />
+		<sense value="一夜分五更，初更称甲夜，也作初夜" />
+		<sense value="2" />
+		<sense value="结婚的第一夜" />
+	</phrase>
+	<phrase value="初政">
+		<sense value="帝王初登位执政" />
+	</phrase>
+</character>

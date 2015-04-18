@@ -1,0 +1,24 @@
+<character value="划">
+	<introduce>
+		<pinyin value="hua4" writing="huà" />
+		<pinyin value="hua2" writing="huá" />
+		<pinyin value="huai5" writing="huai" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="横折撇捺竖竖" />
+	</introduce>
+	<pron value="huá">
+		<sense tag="动" vernacular="拨水前进">
+			<exam article="《吕氏春秋·异宝》" ref="见一丈人划小船，方将渔。" />
+		</sense>
+	</pron>
+	<pron value="huà">
+		<sense tag="动" vernacular="割开；分开">
+			<exam article="《惩咎赋》" ref="进路呀以划绝兮。" />
+		</sense>
+		<sense tag="动" vernacular="谋划；筹划">
+			<exam article="《送从弟亚赴安西判官》" ref="须存武威郡，为划长久利。" />
+		</sense>
+	</pron>
+</character>

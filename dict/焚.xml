@@ -1,0 +1,23 @@
+<character value="焚">
+	<introduce>
+		<pinyin value="fen2" writing="fén" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖撇捺横竖撇捺捺撇撇捺" />
+	</introduce>
+	<pron value="fén">
+		<sense tag="动" vernacular="烧">
+			<exam article="《过秦论》" ref="废先王之道，焚百家之言。" />
+		</sense>
+		<sense tag="动" vernacular="指祭祀活动中烧香烧纸">
+			<exam article="《促织》" ref="成妻纳钱案上，焚拜如前人。" />
+		</sense>
+	</pron>
+	<phrase value="焚和">
+		<sense value="毁灭中和之性" />
+	</phrase>
+	<phrase value="焚芝">
+		<sense value="比喻好人遭受灾祸" />
+	</phrase>
+</character>

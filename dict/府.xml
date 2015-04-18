@@ -1,0 +1,23 @@
+<character value="府">
+	<introduce>
+		<pinyin value="fu3" writing="fŭ" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺横撇撇竖横竖捺" />
+	</introduce>
+	<pron value="fǔ">
+		<sense tag="名" vernacular="国家收藏文书">
+			<exam article="《鸿门宴》" ref="籍吏民,封府库。" />
+		</sense>
+		<sense tag="名" vernacular="官府；衙署">
+			<exam article="《出师表》" ref="官中府中，俱为一体。" />
+		</sense>
+		<sense tag="名" vernacular="官僚贵族的住宅或尊称别人的住宅">
+			<exam article="《林黛玉进贾府》" ref="三间大门，方是荣国府。" />
+		</sense>
+		<sense tag="名" vernacular="行政区划名，唐宋大州称府，元明清大抵府领州，州领县">
+			<exam article="《滕王阁序》" ref="豫章故郡，洪都新府。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,38 @@
+<character value="曲">
+	<introduce>
+		<pinyin value="qu3" writing="qŭ" />
+		<pinyin value="qu1" writing="qū" />
+		<bushou value="曰" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="竖折横竖竖横" />
+	</introduce>
+	<pron value="qū">
+		<sense tag="形" vernacular="弯曲；不直">
+			<exam article="《兰亭集序》" ref="引以为流觞曲水，列坐其次。" />
+			<exam article="《病梅馆记》" ref="梅以曲为美，直则无姿。" />
+		</sense>
+		<sense tag="名" vernacular="偏僻之地">
+			<exam article="《报任安书》" ref="仆少负不羁之才，长无乡曲之誉。" />
+		</sense>
+		<sense tag="形" vernacular="不正派；不公正">
+			<exam article="《屈原列传》" ref="谗谄之蔽明也，邪曲之害公也。" />
+		</sense>
+		<sense tag="名" vernacular="理屈；理亏">
+			<exam article="《廉颇蔺相如列传》" ref="赵予壁而秦不予赵城，曲在秦。" />
+		</sense>
+	</pron>
+	<pron value="qǔ">
+		<sense tag="名" vernacular="乐曲">
+			<exam article="《琵琶行》" ref="莫辞更坐弹一曲，为君翻作《琵琶行》。" />
+		</sense>
+		<sense tag="名" vernacular="韵文的一种文体" />
+	</pron>
+	<phrase value="曲室">
+		<sense value="深邃的密室" />
+	</phrase>
+	<phrase value="曲笔">
+		<sense value="史官和史家编史、记事有所顾忌或徇情避讳，而不直书其事，称作曲笔" />
+		<sense value="徇情枉法定案" />
+	</phrase>
+</character>

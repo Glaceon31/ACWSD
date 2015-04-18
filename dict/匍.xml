@@ -1,0 +1,16 @@
+<character value="匍">
+	<introduce>
+		<pinyin value="pu2" writing="pú" />
+		<bushou value="勹" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="撇折横竖折横横竖捺" />
+	</introduce>
+	<pron value="pú">
+		<sense vernacular="见“匍匐”" />
+	</pron>
+	<phrase value="匍匐">
+		<sense value="在地上爬行" />
+		<sense value="尽力" />
+	</phrase>
+</character>

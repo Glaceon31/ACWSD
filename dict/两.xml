@@ -1,0 +1,44 @@
+<character value="两">
+	<introduce>
+		<pinyin value="liang3" writing="liăng" />
+		<bushou value="一" />
+		<bushoustroke value="1" />
+		<stroke value="7" />
+		<order value="横竖折撇捺撇捺" />
+	</introduce>
+	<pron value="liǎng">
+		<sense tag="形" vernacular="成双的；成对的">
+			<exam article="《卖炭翁》" ref="两鬓苍苍十指黑。" />
+		</sense>
+		<sense tag="数" vernacular="二">
+			<exam article="《陈涉世家》" ref="陈胜佐之，并杀两尉。" />
+		</sense>
+		<sense tag="副" vernacular="双方共同施行或承受同一行为">
+			<exam article="《赤壁之战》" ref="孤与老贼势不两立。" />
+		</sense>
+		<sense tag="量" vernacular="重量单位">
+			<exam article="《鲁提辖拳打镇关西》" ref="去包裹里取出一锭十两银子放在桌上。" />
+		</sense>
+		<sense tag="量" vernacular="双，用于鞋袜等">
+			<exam article="《诗经·南山》" ref="葛屦五两。" />
+		</sense>
+	</pron>
+	<pron value="liàng">
+		<sense tag="量" vernacular="通“辆”用于车辆，车一乘为一辆">
+			<exam article="《汉书·赵充国传》" ref="卤马牛羊十余万头，车四千余两。" />
+		</sense>
+	</pron>
+	<phrase value="两端">
+		<sense value="事物的两头；两方面" />
+		<sense value="模棱两可；观望不定" />
+	</phrase>
+	<phrase value="两舌">
+		<sense value="言语反覆；搬弄是非" />
+	</phrase>
+	<phrase value="两曜">
+		<sense value="日和月" />
+	</phrase>
+	<phrase value="两造">
+		<sense value="指诉讼双方，即原、被告" />
+	</phrase>
+</character>

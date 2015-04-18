@@ -1,0 +1,26 @@
+<character value="失">
+	<introduce>
+		<pinyin value="shi1" writing="shī" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="撇横横撇捺" />
+	</introduce>
+	<pron value="shī">
+		<sense tag="动" vernacular="丧失；失去">
+			<exam article="《班超告老归国》" ref="尚后竟失边和。" />
+		</sense>
+		<sense tag="动" vernacular="迷失">
+			<exam article="《垓下之战》" ref="项王至阴陵，迷失道。" />
+		</sense>
+		<sense tag="动" vernacular="错过；耽误">
+			<exam article="《寡人之于国也》" ref="鸡豚狗彘之畜，无失其时，七十者可以食肉矣。" />
+		</sense>
+		<sense tag="名" vernacular="过错；过失">
+			<exam article="《柳毅传》" ref="帝知其冤而宥其失。" />
+		</sense>
+		<sense tag="动" vernacular="忍不住；禁不住">
+			<exam article="《远游》" ref="似闻胡骑走，失喜问京华。" />
+		</sense>
+	</pron>
+</character>

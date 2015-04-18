@@ -1,0 +1,32 @@
+<character value="算">
+	<introduce>
+		<pinyin value="suan4" writing="suàn" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="撇横捺撇横捺竖折横横横横撇竖" />
+	</introduce>
+	<pron value="suàn">
+		<sense tag="动" vernacular="计算">
+			<exam article="《鲁提辖拳打镇关西》" ref="还了房宿钱，算清了柴米钱。" />
+		</sense>
+		<sense tag="动" vernacular="推算；演算">
+			<exam article="《张衡传》" ref="衡善于机巧，尤致思于天文阴阳历算。" />
+		</sense>
+		<sense tag="名" vernacular="计划；谋画">
+			<exam article="《绝盟好议》" ref="使北贼得计，非算之上者也。" />
+		</sense>
+		<sense tag="动" vernacular="推测；料想">
+			<exam article="《扬州慢》" ref="杜郎俊赏，算而今重到须惊。" />
+		</sense>
+		<sense tag="动" vernacular="追究(责任)">
+			<exam article="《促织》" ref="而翁归，自与汝复算耳。" />
+		</sense>
+		<sense tag="动" vernacular="当作；算作">
+			<exam article="《葫芦僧判断葫芦案》" ref="你也算贫贱之交了。" />
+		</sense>
+	</pron>
+	<phrase value="算发">
+		<sense value="斑白的头发" />
+	</phrase>
+</character>

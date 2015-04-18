@@ -1,0 +1,14 @@
+<character value="伫">
+	<introduce>
+		<pinyin value="zhu4" writing="zhù" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇竖捺捺折横" />
+	</introduce>
+	<pron value="zhù">
+		<sense tag="动" vernacular="久立">
+			<exam article="《离骚》" ref="延伫乎吾将反。" />
+		</sense>
+	</pron>
+</character>

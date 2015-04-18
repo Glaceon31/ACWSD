@@ -1,0 +1,26 @@
+<character value="爰">
+	<introduce>
+		<pinyin value="yuan2" writing="yuán" />
+		<bushou value="爫" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="撇捺捺撇横横撇折捺" />
+	</introduce>
+	<pron value="yuán">
+		<sense tag="副" vernacular="才；于是">
+			<exam article="《硕鼠》" ref="乐土乐土，爰得我所。" />
+		</sense>
+		<sense tag="助" vernacular="语气助词，无实际含义">
+			<exam article="《诗经·击鼓》" ref="爰居爰处，爰丧其马。" />
+		</sense>
+		<sense tag="名" vernacular="通“猿”，猿猴">
+			<exam article="《汉书·李广传》" ref="为人长，爰臂，其善射亦天性。" />
+		</sense>
+		<sense tag="代" vernacular="哪里">
+			<exam article="《诗经·正月》" ref="瞻鸟爰止。" />
+		</sense>
+	</pron>
+	<phrase value="爰爰">
+		<sense value="舒缓的样子" />
+	</phrase>
+</character>

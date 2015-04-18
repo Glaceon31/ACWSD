@@ -1,0 +1,31 @@
+<character value="缉">
+	<introduce>
+		<pinyin value="ji1" writing="jī" />
+		<pinyin value="qi1" writing="qī" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折折横竖折横横竖竖横横横" />
+	</introduce>
+	<pron value="jī">
+		<sense tag="动" vernacular="捉拿，搜捕">
+			<exam article="《万历野获编·锦衣卫镇抚司》" ref="至本卫，则东西两司房访缉之。" />
+		</sense>
+	</pron>
+	<pron value="jí">
+		<sense tag="动" vernacular="聚集">
+			<exam article="《阳给事诔》" ref="立乎将卒之间，以缉华裔之众。" />
+		</sense>
+		<sense tag="形" vernacular="和睦">
+			<exam article="《后汉书·蔡茂传》" ref="以厌远近不缉之情。" />
+		</sense>
+	</pron>
+	<pron value="qí">
+		<sense tag="动" vernacular="把麻搓捻成线">
+			<exam article="《管子·事语》" ref="女勤于缉绩徽织。" />
+		</sense>
+		<sense tag="动" vernacular="（今读qī）横缝衣服下面的边">
+			<exam article="《仪礼·丧服》" ref="斩者何？不缉也。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,24 @@
+<character value="洸">
+	<introduce>
+		<pinyin value="guang1" writing="guāng" />
+		<pinyin value="huang3" writing="huăng" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺横竖捺撇横撇折" />
+	</introduce>
+	<pron value="guāng">
+		<sense tag="形" vernacular="水波荡漾闪光">
+			<exam article="《江赋》" ref="澄澹汪洸。" />
+		</sense>
+		<sense tag="形" vernacular="威武的样子">
+			<exam article="《诗经·大雅·江汉》" ref="江汉汤汤，武夫洸。" />
+		</sense>
+	</pron>
+	<pron value="huǎng">
+		<sense tag="形" vernacular="通“滉”，汹涌样子">
+			<exam article="《荀子·宥坐》" ref="其洸洸乎不淈尽，似道。" />
+		</sense>
+		<sense vernacular="wāng洸洋，同“汪洋”，水势浩大的样子，用以比喻言论恣肆" />
+	</pron>
+</character>

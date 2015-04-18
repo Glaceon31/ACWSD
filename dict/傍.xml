@@ -1,0 +1,24 @@
+<character value="傍">
+	<introduce>
+		<pinyin value="bang4" writing="bàng" />
+		<pinyin value="bang1" writing="bāng" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="12" />
+		<order value="撇竖捺横捺撇捺折捺横折撇" />
+	</introduce>
+	<pron value="bàng">
+		<sense tag="动" vernacular="靠近;临近">
+			<exam article="《木兰诗》" ref="双兔傍地走,安能辨我是雄雌?" />
+		</sense>
+	</pron>
+	<pron value="pàng">
+		<sense tag="名" vernacular="旁边;侧面">
+			<exam article="《孔雀东南飞》" ref="两家求合葬,合葬华山傍。" />
+			<exam article="《张衡传》" ref="傍行八道,施关发机。" />
+		</sense>
+	</pron>
+	<phrase value="傍妻">
+		<sense value="妾" />
+	</phrase>
+</character>

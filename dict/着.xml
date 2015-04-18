@@ -1,0 +1,59 @@
+<character value="着">
+	<introduce>
+		<pinyin value="zhe5" writing="zhe" />
+		<pinyin value="zhuo2" writing="zhuó" />
+		<pinyin value="zhao2" writing="zháo" />
+		<pinyin value="zhao1" writing="zhāo" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="捺撇横横横撇竖折横横横" />
+	</introduce>
+	<pron value="zhuó">
+		<sense tag="动" vernacular="附着">
+			<exam article="《游黄山记》" ref="每至手足无可着处，澄源必先登垂接。" />
+		</sense>
+		<sense tag="动" vernacular="穿着">
+			<exam article="《木兰诗》" ref="脱我战时袍，着我旧时裳。" />
+		</sense>
+		<sense tag="名" vernacular="穿戴的东西">
+			<exam article="《桃花源记》" ref="男女衣着，悉如外人。" />
+		</sense>
+		<sense tag="动" vernacular="击中">
+			<exam article="《陈州粜米》" ref="恰便似轰雷着顶。" />
+		</sense>
+		<sense tag="动" vernacular="用">
+			<exam article="《高祖还乡》" ref="众乡老展脚舒腰拜，那大汉挪身着手扶。" />
+		</sense>
+		<sense tag="动" vernacular="使；派">
+			<exam article="《窦娥冤》" ref="从今以后，着这楚州亢旱三年。" />
+		</sense>
+		<sense tag="动" vernacular="叫，表示命令语气">
+			<exam article="《陈州粜米》" ref="我着你休言语。" />
+		</sense>
+	</pron>
+	<pron value="zhóo">
+		<sense tag="动" vernacular="遭到；受到">
+			<exam article="《卜算子·咏梅》" ref="已是黄昏独自愁，更着风和雨。" />
+		</sense>
+		<sense tag="介" vernacular="被">
+			<exam article="《雨中花》" ref="两鬓青青，尽着吴霜偷换。" />
+		</sense>
+		<sense tag="形" vernacular="合适；恰当">
+			<exam article="《道父山歌》" ref="种田不收一年辛，取妇不着一生贫。" />
+		</sense>
+	</pron>
+	<pron value="zhāo">
+		<sense tag="名" vernacular="比喻计策">
+			<exam article="《水浒传》" ref="三十六着，走为上着。" />
+		</sense>
+	</pron>
+	<pron value="zhé">
+		<sense tag="助" vernacular="紧接动词后，表示动作状态的延续">
+			<exam article="《沉醉东风》" ref="手执着饯行杯，眼阁着别离泪。" />
+		</sense>
+	</pron>
+	<phrase value="着处">
+		<sense value="处处" />
+	</phrase>
+</character>

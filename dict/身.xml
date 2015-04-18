@@ -1,0 +1,31 @@
+<character value="身">
+	<introduce>
+		<pinyin value="shen1" writing="shēn" />
+		<pinyin value="juan1" writing="juān" />
+		<bushou value="身" />
+		<bushoustroke value="7" />
+		<stroke value="7" />
+		<order value="撇竖折横横横撇" />
+	</introduce>
+	<pron value="shēn">
+		<sense tag="名" vernacular="人或动物的躯干">
+			<exam article="《国殇》" ref="首身离兮心不惩。" />
+		</sense>
+		<sense tag="名" vernacular="整个身躯">
+			<exam article="《狼》" ref="身已半入，止露尻尾。" />
+		</sense>
+		<sense tag="名" vernacular="自身；本身；自己">
+			<exam article="《师说》" ref="于其身也，则耻师焉。" />
+		</sense>
+		<sense tag="副" vernacular="亲自">
+			<exam article="《隆中对》" ref="将军身率益州之众出于秦川。" />
+		</sense>
+		<sense tag="名" vernacular="一生；生命">
+			<exam article="《陟江》" ref="固将重昏而终身。" />
+			<exam article="《五人墓碑记》" ref="一旦抵罪，或脱身以逃。" />
+		</sense>
+		<sense tag="名" vernacular="同“娠”，身孕">
+			<exam article="《与妻书》" ref="且以汝之有身也，更恐不胜悲。" />
+		</sense>
+	</pron>
+</character>

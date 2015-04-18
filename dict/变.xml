@@ -1,0 +1,22 @@
+<character value="变">
+	<introduce>
+		<pinyin value="bian4" writing="biàn" />
+		<bushou value="又" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺横竖竖撇捺折捺" />
+	</introduce>
+	<pron value="biàn">
+		<sense tag="动" vernacular="变化；改变；发生事变">
+			<exam article="《涉江》" ref="吾不能变心以从俗兮。" />
+			<exam article="《察今》" ref="譬之若良医，病万变，药亦万变。" />
+			<exam article="《赤壁赋》" ref="盖将自变者而观之，则天地曾不能一瞬。" />
+		</sense>
+		<sense tag="动" vernacular="变通；灵活应变">
+			<exam article="《柳敬亭传》" ref="此子机变，可使以其技鸣。" />
+		</sense>
+		<sense tag="名" vernacular="事变，突发事件">
+			<exam article="《隆中对》" ref="天下有变，则命一上将将荆州之军以向宛、洛。" />
+		</sense>
+	</pron>
+</character>

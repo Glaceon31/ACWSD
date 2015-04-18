@@ -1,0 +1,25 @@
+<character value="沓">
+	<introduce>
+		<pinyin value="ta4" writing="tà" />
+		<pinyin value="da2" writing="dá" />
+		<pinyin value="ta5" writing="ta" />
+		<bushou value="水" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="竖折撇捺竖折横横" />
+	</introduce>
+	<pron value="tà">
+		<sense tag="形" vernacular="众多的样子，常“沓杂”、“杂沓”连用">
+			<exam article="《七发》" ref="沓杂似军行。" />
+		</sense>
+		<sense tag="动" vernacular="会合；重叠">
+			<exam article="《天问》" ref="天何所沓？" />
+			<exam article="《天对》" ref="沓阳而九。" />
+		</sense>
+	</pron>
+	<pron value="dá">
+		<sense tag="量" vernacular="用于叠起来的很薄的东西，如纸张等">
+			<exam article="《世说新语·任诞》" ref="定是二百五十沓乌樏。" />
+		</sense>
+	</pron>
+</character>

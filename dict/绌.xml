@@ -1,0 +1,21 @@
+<character value="绌">
+	<introduce>
+		<pinyin value="chu4" writing="chù" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折折横折竖竖折竖" />
+	</introduce>
+	<pron value="chù">
+		<sense tag="名" vernacular="缝">
+			<exam article="《史记·赵世家》" ref="黑齿雕题，冠秫绌，大吴之国也。" />
+		</sense>
+		<sense tag="形" vernacular="不足" />
+		<sense tag="动" vernacular="通“黜”" />
+	</pron>
+	<pron value="qū">
+		<sense tag="动" vernacular="通“诎”">
+			<exam article="《赠司空兼侍中文元贾魏公神道碑》" ref="责以信义，告之利害，客绌服不能发口。" />
+		</sense>
+	</pron>
+</character>

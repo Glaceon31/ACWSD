@@ -1,0 +1,42 @@
+<character value="雄">
+	<introduce>
+		<pinyin value="xiong2" writing="xióng" />
+		<bushou value="隹" />
+		<bushoustroke value="8" />
+		<stroke value="12" />
+		<order value="横撇折捺撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="xióng">
+		<sense tag="名" vernacular="公鸟">
+			<exam article="《蜀道难》" ref="但见悲鸟号古木，雄飞雌从绕林间。" />
+		</sense>
+		<sense tag="名" vernacular="雄性的生物">
+			<exam article="《木兰诗》" ref="双兔傍地走，安能辨我是雄雌。" />
+		</sense>
+		<sense tag="形" vernacular="雄健；勇武">
+			<exam article="《念奴娇·赤壁怀古》" ref="遥想公瑾当，小乔初嫁了，雄姿英发。" />
+		</sense>
+		<sense tag="形" vernacular="杰出的">
+			<exam article="《赤壁之战》" ref="将军以神武雄才，兼仗父兄之烈。" />
+		</sense>
+		<sense tag="名" vernacular="突出的、有巨大影响力的人或事物">
+			<exam article="《赤壁赋》" ref="横槊赋诗固一世之雄也。" />
+			<exam article="《国殇》" ref="魂魄毅兮为鬼雄。" />
+		</sense>
+		<sense tag="名" vernacular="奸雄">
+			<exam article="《谭嗣同》" ref="荣禄固操、莽之才，绝世之雄。" />
+		</sense>
+		<sense tag="名" vernacular="首领">
+			<exam article="《读孟尝君传》" ref="孟尝君特鸡鸣狗盗之雄耳。" />
+		</sense>
+	</pron>
+	<phrase value="雄父">
+		<sense value="公鸡" />
+	</phrase>
+	<phrase value="雄张">
+		<sense value="豪横自大" />
+	</phrase>
+	<phrase value="雄长">
+		<sense value="称霸" />
+	</phrase>
+</character>

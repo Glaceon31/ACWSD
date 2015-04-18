@@ -1,0 +1,32 @@
+<character value="导">
+	<introduce>
+		<pinyin value="dao3" writing="dăo" />
+		<bushou value="寸" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折横折横竖捺" />
+	</introduce>
+	<pron value="dǎo">
+		<sense tag="动" vernacular="引导；指导">
+			<exam article="《柳毅传》" ref="子有何术可导我耶？" />
+		</sense>
+		<sense tag="动" vernacular="开导；劝导；启发">
+			<exam article="《狱中杂记》" ref="然后导以取保，出居于外。" />
+		</sense>
+		<sense tag="名" vernacular="向导">
+			<exam article="《史记·大宛列传》" ref="乌孙发导译送骞还。" />
+		</sense>
+		<sense tag="动" vernacular="发；引发">
+			<exam article="《原君》" ref="非导源于小儒乎？" />
+		</sense>
+		<sense tag="动" vernacular="沿着；顺着">
+			<exam article="《庖丁解牛》" ref="批大郤，导大窾，因其固然。" />
+		</sense>
+		<sense tag="动" vernacular="疏通">
+			<exam article="《书·禹贡》" ref="导岍及岐，至于荆山。" />
+		</sense>
+	</pron>
+	<phrase value="导谀">
+		<sense value="阿谀；曲意逢迎" />
+	</phrase>
+</character>

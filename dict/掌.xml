@@ -1,0 +1,30 @@
+<character value="掌">
+	<introduce>
+		<pinyin value="zhang3" writing="zhăng" />
+		<bushou value="手" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="竖捺撇捺折竖折横撇横横竖" />
+	</introduce>
+	<pron value="zhǎng">
+		<sense tag="名" vernacular="手掌">
+			<exam article="《孔雀东南飞》" ref="阿母大拊掌。" />
+		</sense>
+		<sense tag="名" vernacular="动物的脚掌">
+			<exam article="《鱼我所欲也》" ref="熊掌，亦我所欲也。" />
+		</sense>
+		<sense tag="动" vernacular="主管；掌握">
+			<exam article="《殽之战》" ref="郑人使我掌其北门之管。" />
+		</sense>
+	</pron>
+	<phrase value="掌故">
+		<sense value="旧制；旧例" />
+		<sense value="历史上的人物事迹、制度的沿革及故事传说" />
+	</phrase>
+	<phrase value="掌节">
+		<sense value="掌守符节" />
+	</phrase>
+	<phrase value="掌徒">
+		<sense value="掌管徒役的人" />
+	</phrase>
+</character>

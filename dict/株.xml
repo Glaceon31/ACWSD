@@ -1,0 +1,29 @@
+<character value="株">
+	<introduce>
+		<pinyin value="zhu1" writing="zhū" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横竖撇捺撇横横竖撇捺" />
+	</introduce>
+	<pron value="zhū">
+		<sense tag="名" vernacular="露出地面的树根；树桩子">
+			<exam article="《五蠹》" ref="田中有株，兔走触，折颈而死" />
+		</sense>
+		<sense tag="名" vernacular="草木">
+			<exam article="《易林》" ref="泽枯无鱼，山童无株。" />
+		</sense>
+		<sense tag="量" vernacular="棵">
+			<exam article="《三国志·诸葛亮传》" ref="成都有桑八百株。" />
+		</sense>
+		<sense tag="动" vernacular="株连">
+			<exam article="《五人墓碑记》" ref="卒以吾郡之发愤一击，不敢复有株治。" />
+		</sense>
+	</pron>
+	<phrase value="株戮">
+		<sense value="因牵连而被杀" />
+	</phrase>
+	<phrase value="株守">
+		<sense value="死守不放，比喻拘泥守旧不知变通" />
+	</phrase>
+</character>

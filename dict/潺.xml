@@ -1,0 +1,20 @@
+<character value="潺">
+	<introduce>
+		<pinyin value="chan2" writing="chán" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="捺捺横折横撇折竖横折竖横折竖横" />
+	</introduce>
+	<pron value="chán">
+		<sense vernacular="水名" />
+		<sense vernacular="见“潺潺”、“潺湲”" />
+	</pron>
+	<phrase value="潺潺">
+		<sense value="1" />
+		<sense value="不大的流水声" />
+	</phrase>
+	<phrase value="潺湲">
+		<sense value="水缓慢流动的样子" />
+	</phrase>
+</character>

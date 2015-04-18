@@ -1,0 +1,17 @@
+<character value="驭">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="折折横折捺" />
+	</introduce>
+	<pron value="yù">
+		<sense tag="动" vernacular="驾驭车马">
+			<exam article="《荀子·王霸》" ref="王良、造父者，善服驭者也。" />
+		</sense>
+		<sense tag="动" vernacular="驾驭；控制">
+			<exam article="《晋书·姚泓载记》" ref="岂是安上驭下之理乎？" />
+		</sense>
+	</pron>
+</character>

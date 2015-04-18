@@ -1,0 +1,27 @@
+<character value="纮">
+	<introduce>
+		<pinyin value="hong2" writing="hóng" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折折横横撇折捺" />
+	</introduce>
+	<pron value="hóng">
+		<sense tag="名" vernacular="系于颈下的帽带">
+			<exam article="《左传·桓公二年》" ref="衡、紞、纮、綖，昭其度也。" />
+		</sense>
+		<sense tag="名" vernacular="编磐成组的绳子">
+			<exam article="《仪礼·大射》" ref="鼗倚于颂磬西纮。" />
+		</sense>
+		<sense tag="名" vernacular="罗网">
+			<exam article="《羽猎赋》" ref="遥噱乎纮中。" />
+		</sense>
+		<sense tag="动" vernacular="维系">
+			<exam article="《淮南子·原道训》" ref="纮宇宙而章三光。" />
+			<exam article="《史记·司马相如列传》" ref="遍览八纮而观四荒兮。" />
+		</sense>
+		<sense tag="形" vernacular="通“宏”，广大">
+			<exam article="《淮南子·精神训》" ref="天地之道，至纮以大。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="坰">
+	<introduce>
+		<pinyin value="jiong1" writing="jiōng" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横竖折横竖折横" />
+	</introduce>
+	<pron value="jiōng">
+		<sense tag="名" vernacular="遥远的郊野">
+			<exam article="《列子·黄帝》" ref="出行经坰外。" />
+		</sense>
+	</pron>
+</character>

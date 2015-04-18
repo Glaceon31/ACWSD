@@ -1,0 +1,20 @@
+<character value="襟">
+	<introduce>
+		<pinyin value="jin1" writing="jīn" />
+		<bushou value="衤" />
+		<bushoustroke value="5" />
+		<stroke value="18" />
+		<order value="捺折竖撇捺横竖撇捺横竖撇捺横横竖撇捺" />
+	</introduce>
+	<pron value="jīn">
+		<sense tag="名" vernacular="古代衣、袍的交领">
+			<exam article="《风赋》" ref="王廼披襟而当之。" />
+		</sense>
+		<sense tag="名" vernacular="衣襟；前襟">
+			<exam article="《伶官传序》" ref="泣下沾襟，何其衰也。" />
+		</sense>
+		<sense tag="名" vernacular="襟怀；胸怀">
+			<exam article="《滕王阁序》" ref="遥襟甫畅，逸兴遄飞。" />
+		</sense>
+	</pron>
+</character>

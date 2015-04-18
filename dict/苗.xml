@@ -1,0 +1,33 @@
+<character value="苗">
+	<introduce>
+		<pinyin value="miao2" writing="miáo" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖竖竖折横竖横" />
+	</introduce>
+	<pron value="miáo">
+		<sense tag="名" vernacular="没有吐穗的庄稼">
+			<exam article="《归田园居》" ref="种豆南山下，草盛豆苗稀。" />
+		</sense>
+		<sense tag="名" vernacular="后代">
+			<exam article="《史记·太史公自序》" ref="毕公之苗，因以为姓。" />
+		</sense>
+		<sense tag="名" vernacular="事情的预兆或迹象">
+			<exam article="《读张籍古乐府》" ref="言者志之苗，行者文之根。" />
+		</sense>
+		<sense tag="动" vernacular="夏季打猎">
+			<exam article="《左传·隐公五年》" ref="春蒐夏苗，秋狝冬狩。" />
+		</sense>
+	</pron>
+	<phrase value="苗而不秀">
+		<sense value="人未成年就夭折" />
+		<sense value="外貌好但无才能" />
+	</phrase>
+	<phrase value="苗末">
+		<sense value="后代子孙" />
+	</phrase>
+	<phrase value="苗裔">
+		<sense value="后代子孙" />
+	</phrase>
+</character>

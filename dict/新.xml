@@ -1,0 +1,35 @@
+<character value="新">
+	<introduce>
+		<pinyin value="xin1" writing="xīn" />
+		<bushou value="斤" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="捺横捺撇横横竖撇捺撇撇横竖" />
+	</introduce>
+	<pron value="xīn">
+		<sense tag="形" vernacular="新的；与“旧”相对">
+			<exam article="《兵车行》" ref="新鬼烦冤旧鬼哭。" />
+		</sense>
+		<sense tag="名" vernacular="新出现的事物">
+			<exam article="《论语》" ref="温故而知新。" />
+		</sense>
+		<sense tag="形" vernacular="新鲜">
+			<exam article="《送元二使安西》" ref="客舍青青柳色新。" />
+		</sense>
+		<sense tag="副" vernacular="刚；才">
+			<exam article="《触龙说赵太后》" ref="赵太后新用事，秦急攻之。" />
+		</sense>
+	</pron>
+	<phrase value="新妇">
+		<sense value="新娘" />
+		<sense value="称儿媳" />
+		<sense value="妇人自称的谦辞" />
+	</phrase>
+	<phrase value="新贵">
+		<sense value="新任高官者" />
+	</phrase>
+	<phrase value="新正">
+		<sense value="正月" />
+		<sense value="元旦" />
+	</phrase>
+</character>

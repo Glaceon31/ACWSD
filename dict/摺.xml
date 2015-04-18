@@ -1,0 +1,17 @@
+<character value="摺">
+	<introduce>
+		<pinyin value="zhe2" writing="zhé" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="横竖横折捺横折捺横撇竖折横横" />
+	</introduce>
+	<pron value="zhé">
+		<sense tag="动" vernacular="折叠">
+			<exam article="《镜赋》" ref="始摺屏风，新开户扇。" />
+		</sense>
+		<sense tag="动" vernacular="折断">
+			<exam article="《淮南子·修务》" ref="摺胁伤干。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="廷">
+	<introduce>
+		<pinyin value="ting2" writing="tíng" />
+		<bushou value="廴" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇横竖横折捺" />
+	</introduce>
+	<pron value="tíng">
+		<sense tag="名" vernacular="朝廷">
+			<exam article="《廉颇蔺相如列传》" ref="乃设九宾于廷。" />
+		</sense>
+		<sense tag="名" vernacular="通“庭”，庭院">
+			<exam article="《李愬雪夜入蔡州》" ref="起，听于廷，闻愬军号令，应者近万人，始惧。" />
+		</sense>
+	</pron>
+</character>

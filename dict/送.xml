@@ -1,0 +1,29 @@
+<character value="送">
+	<introduce>
+		<pinyin value="song4" writing="sòng" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺撇横横撇捺捺折捺" />
+	</introduce>
+	<pron value="sòng">
+		<sense tag="动" vernacular="送行">
+			<exam article="《荆轲刺秦王》" ref="皆白衣冠以送之。" />
+		</sense>
+		<sense tag="动" vernacular="陪送；追随">
+			<exam article="《梦游天姥吟留别》" ref="湖月照我影，送我至剡溪。" />
+		</sense>
+		<sense tag="动" vernacular="押送；遣送">
+			<exam article="《李愬雪夜入蔡州》" ref="愬以槛车送元济诣京师。" />
+		</sense>
+		<sense tag="动" vernacular="送交；送达">
+			<exam article="《失街亭》" ref="忽报王平使人送图本至。" />
+		</sense>
+		<sense tag="动" vernacular="赠送">
+			<exam article="《林教头风雪山神庙》" ref="不时间送汤送水来营里与林冲吃。" />
+		</sense>
+		<sense tag="动" vernacular="断送；了结">
+			<exam article="《陈州粜米》" ref="兀的不送了我这条老命。" />
+		</sense>
+	</pron>
+</character>

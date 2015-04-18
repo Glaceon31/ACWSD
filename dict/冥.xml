@@ -1,0 +1,39 @@
+<character value="冥">
+	<introduce>
+		<pinyin value="ming2" writing="míng" />
+		<bushou value="冖" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺折竖折横横捺横撇捺" />
+	</introduce>
+	<pron value="míng">
+		<sense tag="形" vernacular="幽暗；昏暗">
+			<exam article="《岳阳楼记》" ref="薄暮冥冥，虎啸猿啼。" />
+		</sense>
+		<sense tag="形" vernacular="深远">
+			<exam article="《阿房宫赋》" ref="高低冥迷，不知西东。" />
+		</sense>
+		<sense tag="形" vernacular="深入">
+			<exam article="《促织》" ref="冥搜未已，一癞头蟆猝然跃去。" />
+		</sense>
+		<sense tag="形" vernacular="静；静默">
+			<exam article="《项脊轩志》" ref="冥然兀坐，万籁有声。" />
+		</sense>
+		<sense tag="名" vernacular="迷信者所说的人死后进入的阴间">
+			<exam article="《陈州粜米》" ref="我便死在幽冥，决不忘情。" />
+		</sense>
+	</pron>
+	<phrase value="冥会">
+		<sense value="暗合；默契" />
+		<sense value="意会" />
+	</phrase>
+	<phrase value="冥蒙">
+		<sense value="幽暗不明" />
+	</phrase>
+	<phrase value="冥冥">
+		<sense value="昏暗；愚昧" />
+		<sense value="黑夜" />
+		<sense value="高远" />
+		<sense value="谓精诚专一" />
+	</phrase>
+</character>

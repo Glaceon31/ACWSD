@@ -1,0 +1,12 @@
+<character value="誊">
+	<introduce>
+		<pinyin value="teng2" writing="téng" />
+		<bushou value="言" />
+		<bushoustroke value="7" />
+		<stroke value="13" />
+		<order value="捺撇横横撇捺捺横横横竖折横" />
+	</introduce>
+	<pron value="téng">
+		<sense tag="动" vernacular="抄写；誊写" />
+	</pron>
+</character>

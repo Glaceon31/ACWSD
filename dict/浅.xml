@@ -1,0 +1,42 @@
+<character value="浅">
+	<introduce>
+		<pinyin value="qian3" writing="qiăn" />
+		<pinyin value="jian1" writing="jiān" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺横横横折撇捺" />
+	</introduce>
+	<pron value="qiǎn">
+		<sense tag="形" vernacular="(水)不深；浅">
+			<exam article="《庄子·逍遥逰》" ref="置杯焉则胶，水浅而舟大也。" />
+		</sense>
+		<sense tag="形" vernacular="泛指浅，不深">
+			<exam article="《石钟山记》" ref="徐而察之，则山下皆石穴罅，不知其浅深。" />
+		</sense>
+		<sense tag="形" vernacular="低；矮；不高">
+			<exam article="《钱塘湖春行》" ref="浅草才能没马蹄。" />
+		</sense>
+		<sense tag="形" vernacular="(时间)短，不久">
+			<exam article="《过秦论》" ref="延及孝文王、庄襄王，享国之日浅。" />
+		</sense>
+		<sense tag="形" vernacular="(颜色)浅；浅淡">
+			<exam article="《江畔独步寻花》" ref="桃花一簇开无主，可爱深红爱浅红?" />
+		</sense>
+		<sense tag="形" vernacular="肤浅；浅薄">
+			<exam article="《隆中对》" ref="而智术浅短，遂用猖蹶，至于今日。" />
+		</sense>
+	</pron>
+	<pron value="jiān">
+		<sense vernacular="见“浅浅”" />
+	</pron>
+	<pron value="jiàn">
+		<sense vernacular="见“浅浅”" />
+	</pron>
+	<phrase value="浅浅">
+		<sense value="jiānjiān水疾流的样子" />
+	</phrase>
+	<phrase value="浅浅">
+		<sense value="jiànjiàn巧辩的样子" />
+	</phrase>
+</character>

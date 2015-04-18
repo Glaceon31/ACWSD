@@ -1,0 +1,17 @@
+<character value="盍">
+	<introduce>
+		<pinyin value="he2" writing="hé" />
+		<bushou value="皿" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="横竖横折捺竖折竖竖横" />
+	</introduce>
+	<pron value="hé">
+		<sense tag="兼" vernacular="何不；为什么不">
+			<exam article="《齐桓晋文之事》" ref="王欲行之，则盍反其本矣?" />
+		</sense>
+		<sense tag="代" vernacular="怎么；为什么">
+			<exam article="《管子·戒》" ref="盍不从乎?君将有行。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="啾">
+	<introduce>
+		<pinyin value="jiu1" writing="jiū" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="竖折横撇横竖撇捺捺撇撇捺" />
+	</introduce>
+	<pron value="jiū">
+		<sense tag="名" vernacular="吟声">
+			<exam article="《答宾戏》" ref="夫啾发投曲，感耳之声。" />
+		</sense>
+		<sense tag="动" vernacular="吹奏">
+			<exam article="《远公亭牡丹》" ref="平头奴子啾银笙。" />
+		</sense>
+	</pron>
+</character>

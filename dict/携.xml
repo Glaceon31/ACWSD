@@ -1,0 +1,27 @@
+<character value="携">
+	<introduce>
+		<pinyin value="xie2" writing="xié" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="横竖横撇竖捺横横横竖横折撇" />
+	</introduce>
+	<pron value="xié">
+		<sense tag="动" vernacular="提着；携带">
+			<exam article="《谭嗣同》" ref="且携所著书及诗文辞稿本数册。" />
+		</sense>
+		<sense tag="动" vernacular="拉着；搀扶">
+			<exam article="《归去来兮辞》" ref="携幼入室，有酒盈樽。" />
+		</sense>
+		<sense tag="动" vernacular="离开；分离">
+			<exam article="《与陈伯之书》" ref="部落携离，酋豪猜贰。" />
+		</sense>
+	</pron>
+	<phrase value="携贰">
+		<sense value="离心" />
+		<sense value="指有叛离心的人" />
+	</phrase>
+	<phrase value="携离">
+		<sense value="叛离" />
+	</phrase>
+</character>

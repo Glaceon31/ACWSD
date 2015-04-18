@@ -1,0 +1,25 @@
+<character value="殆">
+	<introduce>
+		<pinyin value="dai4" writing="dài" />
+		<bushou value="歹" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横撇折捺折捺竖折横" />
+	</introduce>
+	<pron value="dài">
+		<sense tag="形" vernacular="危险">
+			<exam article="《谋攻》" ref="知己知彼，百战不殆。" />
+			<exam article="《论语》" ref="思而不学则殆。" />
+		</sense>
+		<sense tag="副" vernacular="近于；几乎">
+			<exam article="《六国论》" ref="且燕赵处秦革灭殆尽之际。" />
+			<exam article="《雁荡山》" ref="凡永嘉山水，游历殆遍。" />
+		</sense>
+		<sense tag="副" vernacular="大概；恐怕">
+			<exam article="《石钟山记》" ref="郦元之所见闻，殆与余同。" />
+		</sense>
+		<sense tag="形" vernacular="通“怠”，懈怠；懒惰">
+			<exam article="《商君书·农战》" ref="农者殆则土地荒。" />
+		</sense>
+	</pron>
+</character>

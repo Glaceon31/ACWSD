@@ -1,0 +1,29 @@
+<character value="让">
+	<introduce>
+		<pinyin value="rang4" writing="ràng" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="5" />
+		<order value="捺折竖横横" />
+	</introduce>
+	<pron value="ràng">
+		<sense tag="动" vernacular="责问；责备">
+			<exam article="《左传·僖公二十四》" ref="寺人披请见，公使让之，且辞焉。" />
+		</sense>
+		<sense tag="动" vernacular="谦让；礼让">
+			<exam article="《鸿门宴》" ref="大行不顾细谨，大礼不辞小让。" />
+		</sense>
+		<sense tag="动" vernacular="让给；让位给">
+			<exam article="《五蠹》" ref="夫古之让天子者，是去监门之养而离臣虏之劳也。" />
+		</sense>
+		<sense tag="动" vernacular="亚于；比……差">
+			<exam article="《西厢记诸宫调》" ref="此个阁儿虽小，其间趣不让林泉。" />
+		</sense>
+		<sense tag="动" vernacular="推辞；拒绝">
+			<exam article="《谏逐客书》" ref="是以太山不让土壤，故能成其大。" />
+		</sense>
+		<sense tag="动" vernacular="让开；躲开">
+			<exam article="《唐翁猎虎》" ref="虎扑至，侧首让之。" />
+		</sense>
+	</pron>
+</character>

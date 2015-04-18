@@ -1,0 +1,42 @@
+<character value="利">
+	<introduce>
+		<pinyin value="li4" writing="lì" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇横竖撇捺竖竖" />
+	</introduce>
+	<pron value="lì">
+		<sense tag="形" vernacular="锋利；锐利">
+			<exam article="《劝学》" ref="金就砺则利。" />
+		</sense>
+		<sense tag="名" vernacular="利益；好处">
+			<exam article="《捕蛇者说》" ref="有蒋氏者，专其利三世矣。" />
+		</sense>
+		<sense tag="名意动" vernacular="以……为利">
+			<exam article="《伤仲永》" ref="父利其然也，日板仲永环谒于邑人。" />
+		</sense>
+		<sense tag="动" vernacular="有利；得利">
+			<exam article="《苦斋记》" ref="良药苦口利于病。" />
+		</sense>
+		<sense tag="形" vernacular="顺利">
+			<exam article="《赤壁之战》" ref="操军不利，引次江北。" />
+		</sense>
+		<sense tag="动" vernacular="盈利；取利">
+			<exam article="《冯谖客孟尝君》" ref="不拊爱子其民，因而贾利之。" />
+		</sense>
+		<sense tag="名" vernacular="盈利之物">
+			<exam article="《促织》" ref="欲居之以为利，而高其直。" />
+		</sense>
+		<sense tag="名" vernacular="有利的条件、时机、形势等">
+			<exam article="《子鱼论战》" ref="三军以利用也。" />
+			<exam article="《过秦论》" ref="因利乘便，宰割天下。" />
+		</sense>
+		<sense tag="名" vernacular="胜利">
+			<exam article="《孙膑减灶》" ref="兵法，百里而趋利者蹶上将。" />
+		</sense>
+		<sense tag="名" vernacular="物资；物产">
+			<exam article="《隆中对》" ref="荆州北据汉沔，利尽南海。" />
+		</sense>
+	</pron>
+</character>

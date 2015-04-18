@@ -1,0 +1,17 @@
+<character value="缓">
+	<introduce>
+		<pinyin value="huan3" writing="huăn" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折折横撇捺捺撇横横撇折捺" />
+	</introduce>
+	<pron value="huǎn">
+		<sense tag="形" vernacular="宽；松">
+			<exam article="《古诗十九首·行行重行行》" ref="相去日已远，衣带日已缓。" />
+		</sense>
+		<sense tag="副" vernacular="慢；迟">
+			<exam article="《嘲鲁儒》" ref="缓步从直道，未行先起尘。" />
+		</sense>
+	</pron>
+</character>

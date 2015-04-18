@@ -1,0 +1,20 @@
+<character value="恕">
+	<introduce>
+		<pinyin value="shu4" writing="shù" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="折撇横竖折横捺折捺捺" />
+	</introduce>
+	<pron value="shù">
+		<sense tag="动" vernacular="体谅；按照自己的情况来推测别人的情况">
+			<exam article="《触龙说赵太后》" ref="窃自恕，而恐太后玉体之有所郄也。" />
+		</sense>
+		<sense tag="动" vernacular="原谅；宽恕">
+			<exam article="《林教头风雪山神庙》" ref="杀人可恕，情理难容。" />
+		</sense>
+	</pron>
+	<phrase value="恕思">
+		<sense value="用宽容体谅之心去思考" />
+	</phrase>
+</character>

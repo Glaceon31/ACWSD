@@ -1,0 +1,21 @@
+<character value="媛">
+	<introduce>
+		<pinyin value="yuan2" writing="yuán" />
+		<pinyin value="yuan4" writing="yuàn" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折撇横撇捺捺撇横横撇折捺" />
+	</introduce>
+	<pron value="yuàn">
+		<sense tag="名" vernacular="美女">
+			<exam article="《诗经·鄘风·君子偕老》" ref="展如之人兮，邦之媛也。" />
+		</sense>
+		<sense tag="形" vernacular="美好">
+			<exam article="《止欲赋》" ref="媛哉逸女，在余东滨。" />
+		</sense>
+	</pron>
+	<pron value="yuán">
+		<sense vernacular="见“婵媛”" />
+	</pron>
+</character>

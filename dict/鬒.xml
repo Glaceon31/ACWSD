@@ -1,0 +1,14 @@
+<character value="鬒">
+	<introduce>
+		<pinyin value="zhen3" writing="zhĕn" />
+		<bushou value="髟" />
+		<bushoustroke value="10" />
+		<stroke value="20" />
+		<order value="横竖横横横折捺撇撇撇横竖竖折横横横横撇捺" />
+	</introduce>
+	<pron value="zhěn">
+		<sense tag="形" vernacular="头发稠而黑">
+			<exam article="《左传·昭公二十八年》" ref="昔有仍氏生女，鬒黑而甚美。" />
+		</sense>
+	</pron>
+</character>

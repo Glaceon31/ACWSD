@@ -1,0 +1,17 @@
+<character value="挈">
+	<introduce>
+		<pinyin value="qie4" writing="qiè" />
+		<bushou value="手" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横横横竖折撇撇横横竖" />
+	</introduce>
+	<pron value="qiè">
+		<sense tag="动" vernacular="提；拎">
+			<exam article="《墨子·兼爱》" ref="譬若挈太山越河济也。" />
+		</sense>
+		<sense tag="动" vernacular="带领；领着">
+			<exam article="《美猴王》" ref="都拖男挈女，呼弟呼兄，一齐跑不定来。" />
+		</sense>
+	</pron>
+</character>

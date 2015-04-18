@@ -1,0 +1,18 @@
+<character value="赧">
+	<introduce>
+		<pinyin value="nan3" writing="năn" />
+		<bushou value="赤" />
+		<bushoustroke value="7" />
+		<stroke value="11" />
+		<order value="横竖横撇竖撇捺折竖折捺" />
+	</introduce>
+	<pron value="nǎn">
+		<sense tag="动" vernacular="（因羞愧等）脸色泛红">
+			<exam article="《孟子·滕文公》" ref="未同而言，观其色赧然。" />
+			<exam article="《训俭示康》" ref="长者加以金银华美之服，辄羞赧弃去之。" />
+		</sense>
+		<sense tag="动" vernacular="忧惧">
+			<exam article="《国语·楚语上》" ref="夫子践位则退，自退则敬，不则赧。" />
+		</sense>
+	</pron>
+</character>

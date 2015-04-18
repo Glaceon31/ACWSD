@@ -1,0 +1,21 @@
+<character value="淩">
+	<introduce>
+		<pinyin value="ling2" writing="líng" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺横横竖横撇捺撇折捺" />
+	</introduce>
+	<pron value="líng">
+		<sense tag="名" vernacular="河名" />
+		<sense tag="动" vernacular="升；登">
+			<exam article="《节游赋》" ref="建三台于前处，飘飞陛以淩虚。" />
+		</sense>
+		<sense tag="动" vernacular="乘；凌驾">
+			<exam article="《九章·哀郢》" ref="淩阳侯之泛滥兮。" />
+		</sense>
+		<sense tag="动" vernacular="侵犯；欺侮">
+			<exam article="《史记·游侠列传》" ref="豪暴侵淩孤弱。" />
+		</sense>
+	</pron>
+</character>

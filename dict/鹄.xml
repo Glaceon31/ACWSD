@@ -1,0 +1,18 @@
+<character value="鹄">
+	<introduce>
+		<pinyin value="hu2" writing="hú" />
+		<pinyin value="gu3" writing="gŭ" />
+		<bushou value="鸟" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="撇横竖横竖折横撇折捺折横" />
+	</introduce>
+	<pron value="hú">
+		<sense tag="名" vernacular="天鹅">
+			<exam article="《陈涉世家》" ref="燕雀安知鸿鹄之志哉。" />
+		</sense>
+	</pron>
+	<pron value="gǔ">
+		<sense tag="名" vernacular="箭靶的中心" />
+	</pron>
+</character>

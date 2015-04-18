@@ -1,0 +1,23 @@
+<character value="丐">
+	<introduce>
+		<pinyin value="gai4" writing="gài" />
+		<bushou value="一" />
+		<bushoustroke value="1" />
+		<stroke value="4" />
+		<order value="横竖横折" />
+	</introduce>
+	<pron value="gài">
+		<sense tag="动" vernacular="乞求;请求">
+			<exam article="《&lt;黄花冈七十二烈士事略&gt;序》" ref="邹君海滨,以所辑黄花冈烈士事略丐序于予。" />
+		</sense>
+		<sense tag="名" vernacular="乞丐">
+			<exam article="《寄许京兆孟容书》" ref="宅隶佣丐,皆得上父母丘墓。" />
+		</sense>
+		<sense tag="动" vernacular="给予;施舍">
+			<exam article="《新唐书·杜甫传·赞》" ref="沾丐后人多矣。" />
+		</sense>
+	</pron>
+	<phrase value="丐养">
+		<sense value="被人收养的义子" />
+	</phrase>
+</character>

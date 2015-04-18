@@ -1,0 +1,17 @@
+<character value="鹖">
+	<introduce>
+		<pinyin value="he2" writing="hé" />
+		<bushou value="鸟" />
+		<bushoustroke value="5" />
+		<stroke value="14" />
+		<order value="竖折横横撇折撇捺折撇折捺折横" />
+	</introduce>
+	<pron value="hé">
+		<sense tag="名" vernacular="一种善斗的鸟">
+			<exam article="《山海经·中山经》" ref="辉诸之山，……其鸟多鹖。" />
+		</sense>
+	</pron>
+	<phrase value="鹖鴠">
+		<sense value="一种报晓的鸟" />
+	</phrase>
+</character>

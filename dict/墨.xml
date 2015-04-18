@@ -1,0 +1,52 @@
+<character value="墨">
+	<introduce>
+		<pinyin value="mo4" writing="mò" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="竖折捺撇横竖横横捺捺捺捺横竖横" />
+	</introduce>
+	<pron value="mò">
+		<sense tag="名" vernacular="写字用的墨；黑颜料">
+			<exam article="《石油》" ref="试扫其煤以为墨，黑光如漆。" />
+		</sense>
+		<sense tag="动" vernacular="沾黑">
+			<exam article="《石油》" ref="石炭烟亦大，墨人衣。" />
+		</sense>
+		<sense tag="动" vernacular="用墨染黑">
+			<exam article="《殽之战》" ref="子墨衰经。" />
+		</sense>
+		<sense tag="动" vernacular="穿上黑色丧服">
+			<exam article="《殽之战》" ref="遂墨以葬文公。" />
+		</sense>
+		<sense tag="动" vernacular="用黑色衣服作为丧服">
+			<exam article="《殽之战》" ref="晋于是始墨。" />
+		</sense>
+		<sense tag="名" vernacular="黑色">
+			<exam article="《核舟记》" ref="钩画了了，其色墨。" />
+		</sense>
+		<sense tag="名" vernacular="绳墨，木工用来校正曲直的墨斗线" />
+		<sense tag="名" vernacular="文字的代称，如“文墨”，又指文章学识">
+			<exam article="《荆溪林下偶谈》" ref="俚俗谓不能文者为胸中无墨。" />
+		</sense>
+		<sense tag="名" vernacular="古代刑罚之一">
+			<exam article="《尚书·伊训》" ref="臣下不匡，其刑墨。" />
+		</sense>
+		<sense tag="名" vernacular="古代计量单位，五尺为墨">
+			<exam article="《国语·周语》" ref="其察色也，不过墨丈寻常之间。" />
+		</sense>
+		<sense tag="名" vernacular="墨家的省称">
+			<exam article="《孟子·滕文公》" ref="天下之言，不归杨则归墨。" />
+		</sense>
+	</pron>
+	<phrase value="墨车">
+		<sense value="古代大夫所乘的车子，车身墨漆，无彩绘" />
+	</phrase>
+	<phrase value="墨妙">
+		<sense value="指精妙的文章、书法、绘画" />
+	</phrase>
+	<phrase value="墨绶">
+		<sense value="黑色的印带" />
+		<sense value="县令，县长的代称" />
+	</phrase>
+</character>

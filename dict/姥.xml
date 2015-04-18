@@ -1,0 +1,18 @@
+<character value="姥">
+	<introduce>
+		<pinyin value="lao3" writing="lăo" />
+		<pinyin value="mu3" writing="mŭ" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折撇横横竖横撇撇折" />
+	</introduce>
+	<pron value="mǔ">
+		<sense tag="名" vernacular="老年妇女">
+			<exam article="《李娃传》" ref="一姥垂白上偻，即娃母也。" />
+		</sense>
+		<sense tag="名" vernacular="同“母”，婆母">
+			<exam article="《孔雀东南飞》" ref="便可白公姥，及时相遣归。" />
+		</sense>
+	</pron>
+</character>

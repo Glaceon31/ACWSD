@@ -1,0 +1,23 @@
+<character value="贮">
+	<introduce>
+		<pinyin value="zhu4" writing="zhù" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="竖折撇捺捺捺折横" />
+	</introduce>
+	<pron value="zhù">
+		<sense tag="动" vernacular="积蓄">
+			<exam article="《论积贮疏》" ref="夫积贮者，天下之命也。" />
+		</sense>
+		<sense tag="动" vernacular="存放；放置">
+			<exam article="《活板》" ref="每韵为一贴，木格贮之。" />
+		</sense>
+		<sense tag="动" vernacular="通“伫”，久立">
+			<exam article="《汉书·外戚传》" ref="饰新宫以延贮兮。" />
+		</sense>
+	</pron>
+	<phrase value="贮廊">
+		<sense value="主廊" />
+	</phrase>
+</character>

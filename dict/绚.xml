@@ -1,0 +1,14 @@
+<character value="绚">
+	<introduce>
+		<pinyin value="xuan4" writing="xuàn" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折折横撇折竖折横横" />
+	</introduce>
+	<pron value="xuàn">
+		<sense tag="形" vernacular="有文彩；绚丽">
+			<exam article="《宋文皇帝元皇后哀策文》" ref="素章增绚。" />
+		</sense>
+	</pron>
+</character>

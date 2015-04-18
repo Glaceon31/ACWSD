@@ -1,0 +1,17 @@
+<character value="抔">
+	<introduce>
+		<pinyin value="pou2" writing="póu" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横横撇竖捺" />
+	</introduce>
+	<pron value="póu">
+		<sense tag="动" vernacular="用双手捧东西">
+			<exam article="《礼记·礼运》" ref="污尊而抔饮。" />
+		</sense>
+		<sense tag="量" vernacular="一捧">
+			<exam article="《〈黄花冈七十二烈士事略〉序》" ref="黄花冈上一抔土，犹湮于荒烟蔓草间。" />
+		</sense>
+	</pron>
+</character>

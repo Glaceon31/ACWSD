@@ -1,0 +1,14 @@
+<character value="辉">
+	<introduce>
+		<pinyin value="hui1" writing="huī" />
+		<bushou value="车" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="竖捺撇横撇折捺折横折横竖" />
+	</introduce>
+	<pron value="huī">
+		<sense tag="名" vernacular="同“煇”">
+			<exam article="《后汉书·李膺传》" ref="虹霓扬辉。" />
+		</sense>
+	</pron>
+</character>

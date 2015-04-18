@@ -1,0 +1,39 @@
+<character value="食">
+	<introduce>
+		<pinyin value="shi2" writing="shí" />
+		<pinyin value="si4" writing="sì" />
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="飠" />
+		<bushoustroke value="8" />
+		<stroke value="9" />
+		<order value="撇捺捺折横横折撇捺" />
+	</introduce>
+	<pron value="shí">
+		<sense tag="动" vernacular="吃">
+			<exam article="《寡人之于国也》" ref="不违农时，谷不可胜食也。" />
+		</sense>
+		<sense tag="名" vernacular="吃的东西；食物">
+			<exam article="《寡人之于国也》" ref="狗彘食人食而不知检。" />
+		</sense>
+		<sense tag="名" vernacular="粮食">
+			<exam article="《置屯田令》" ref="夫定国之术，在于强兵足食。" />
+		</sense>
+		<sense tag="动" vernacular="通“蚀”，亏缺">
+			<exam article="《诗经·十月之交》" ref="彼月而食，则维其常。" />
+		</sense>
+	</pron>
+	<pron value="sì">
+		<sense tag="动" vernacular="使……食；拿东西给人吃">
+			<exam article="《荷蓧丈人》" ref="杀鸡为黍而食之。" />
+		</sense>
+		<sense tag="动" vernacular="饲养；喂食">
+			<exam article="《捕蛇者说》" ref="谨食之，时而献焉。" />
+		</sense>
+	</pron>
+	<phrase value="食客">
+		<sense value="古代寄食贵族官僚家里，为主人出谋划策奔走效劳的人" />
+	</phrase>
+	<phrase value="食邑">
+		<sense value="封建时分封给卿大夫的领地" />
+	</phrase>
+</character>

@@ -1,0 +1,17 @@
+<character value="磊">
+	<introduce>
+		<pinyin value="lei3" writing="lĕi" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="15" />
+		<order value="横撇竖折横横撇竖折横横撇竖折横" />
+	</introduce>
+	<pron value="lěi">
+		<sense tag="形" vernacular="石头堆积的样子">
+			<exam article="《九歌·山鬼》" ref="石磊磊兮葛蔓蔓。" />
+		</sense>
+		<sense tag="形" vernacular="高大的样子">
+			<exam article="《海赋》" ref="磊喣匌而相豗。" />
+		</sense>
+	</pron>
+</character>

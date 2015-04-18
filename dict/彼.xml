@@ -1,0 +1,17 @@
+<character value="彼">
+	<introduce>
+		<pinyin value="bi3" writing="bĭ" />
+		<bushou value="彳" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇撇竖折撇竖折捺" />
+	</introduce>
+	<pron value="bǐ">
+		<sense tag="代" vernacular="那，那个，与“此”相对">
+			<exam article="《伐檀》" ref="彼君子兮，不素餐兮。" />
+		</sense>
+		<sense tag="代" vernacular="别人，对方，与“己”“我”相对">
+			<exam article="《谋攻》" ref="知彼知彼，百战不殆。" />
+		</sense>
+	</pron>
+</character>

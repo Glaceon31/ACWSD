@@ -1,0 +1,43 @@
+<character value="教">
+	<introduce>
+		<pinyin value="jiao4" writing="jiào" />
+		<pinyin value="jiao1" writing="jiāo" />
+		<bushou value="攵" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横竖横撇折竖横撇横撇捺" />
+	</introduce>
+	<pron value="jiào">
+		<sense tag="名" vernacular="教化；教育">
+			<exam article="《礼祀·学记》" ref="是故学然后知不足，教然后知困。" />
+		</sense>
+		<sense tag="动" vernacular="教导；教诲">
+			<exam article="《师说》" ref="爱其子，择师而教之。" />
+		</sense>
+		<sense tag="名" vernacular="教诲；指教">
+			<exam article="《荆轲刺秦王》" ref="此此臣日夜切齿拊心也，乃今得闻教。" />
+		</sense>
+		<sense tag="动" vernacular="指示；指点">
+			<exam article="《促织》" ref="得无教我猎虫所耶？" />
+		</sense>
+	</pron>
+	<pron value="jiāo">
+		<sense tag="动" vernacular="教授；传授知识技能">
+			<exam article="《孔雀东南飞》" ref="十三教汝织，十四能裁衣。" />
+		</sense>
+		<sense tag="动" vernacular="使；令；让">
+			<exam article="《琵琶行》" ref="曲罢曾教善才服，妆成每被秋娘妒。" />
+			<exam article="《出塞》" ref="但使龙城飞将在，不教胡马度阴山。" />
+		</sense>
+	</pron>
+	<phrase value="教成">
+		<sense value="教化成功" />
+	</phrase>
+	<phrase value="教坊">
+		<sense value="朝廷管理歌舞杂技的机构" />
+		<sense value="唐初始设，至清代废除" />
+	</phrase>
+	<phrase value="教化">
+		<sense value="教育感化" />
+	</phrase>
+</character>

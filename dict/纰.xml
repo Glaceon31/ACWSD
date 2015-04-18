@@ -1,0 +1,20 @@
+<character value="纰">
+	<introduce>
+		<pinyin value="pi1" writing="pī" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折折横横折撇折" />
+	</introduce>
+	<pron value="pī">
+		<sense vernacular="见“纰缪”" />
+	</pron>
+	<pron value="pí">
+		<sense tag="动" vernacular="在衣冠或旗帜上绣花边">
+			<exam article="《诗经·鄘风·干旄》" ref="素丝纰之。" />
+		</sense>
+	</pron>
+	<phrase value="纰缪">
+		<sense value="错误" />
+	</phrase>
+</character>

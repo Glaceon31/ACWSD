@@ -1,0 +1,19 @@
+<character value="孳">
+	<introduce>
+		<pinyin value="zi1" writing="zī" />
+		<pinyin value="zi4" writing="zì" />
+		<bushou value="子" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺撇横折折捺折折捺折竖横" />
+	</introduce>
+	<pron value="zī">
+		<sense tag="动" vernacular="繁殖；生息">
+			<exam article="《列子·汤问》" ref="不夭不病，其民孳阜亡数。" />
+		</sense>
+		<sense vernacular="见“孳孳”" />
+	</pron>
+	<phrase value="孳孳">
+		<sense value="勤勉，努力不懈的样子" />
+	</phrase>
+</character>

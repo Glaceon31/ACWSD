@@ -1,0 +1,19 @@
+<character value="鞹">
+	<introduce>
+		<pinyin value="kuo4" writing="kuò" />
+		<pinyin value="kui1" writing="kuī" />
+		<bushou value="革" />
+		<bushoustroke value="9" />
+		<stroke value="19" />
+		<order value="横竖竖横竖折横横竖捺横竖折横折竖横折竖" />
+	</introduce>
+	<pron value="kuò">
+		<sense tag="名" vernacular="同“鞟”，去了毛的兽皮">
+			<exam article="《诗经·齐风·载驱》" ref="簟茀朱鞹。" />
+			<exam article="《送秦光禄北征》" ref="虎鞹先蒙马，鱼肠且断犀。" />
+		</sense>
+		<sense tag="动" vernacular="用皮革捆缚">
+			<exam article="《吕氏春秋·赞能》" ref="乃使吏鞹其拳，胶其目。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,30 @@
+<character value="觉">
+	<introduce>
+		<pinyin value="jue2" writing="jué" />
+		<pinyin value="jiao4" writing="jiào" />
+		<bushou value="见" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="捺捺撇捺折竖折撇折" />
+	</introduce>
+	<pron value="jué">
+		<sense tag="动" vernacular="觉悟；醒悟；明白">
+			<exam article="《项羽本纪赞》" ref="身死东城，尚不觉寤。" />
+			<exam article="《归去来兮辞》" ref="觉今是而昨非。" />
+		</sense>
+		<sense tag="动" vernacular="发觉；觉察">
+			<exam article="《李愬雪夜入蔡州》" ref="城中皆不觉之。" />
+		</sense>
+		<sense tag="动" vernacular="感觉；觉得；感到">
+			<exam article="《滕王阁序》" ref="天高地迥，觉宇宙之无穷。" />
+		</sense>
+	</pron>
+	<pron value="jiào">
+		<sense tag="动" vernacular="睡醒">
+			<exam article="《梦游天姥吟留别》" ref="惟觉时之枕席，失向来之烟霞。" />
+		</sense>
+		<sense tag="动" vernacular="通“较”，差，不如，不及">
+			<exam article="《世说新语·捷悟》" ref="我才不及卿，乃觉三十里。" />
+		</sense>
+	</pron>
+</character>

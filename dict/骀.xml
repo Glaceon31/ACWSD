@@ -1,0 +1,32 @@
+<character value="骀">
+	<introduce>
+		<pinyin value="tai2" writing="tái" />
+		<pinyin value="dai4" writing="dài" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折折横折捺竖折横" />
+	</introduce>
+	<pron value="tái">
+		<sense tag="动" vernacular="马嚼子脱落">
+			<exam article="《后汉书·崔骃传》" ref="马骀其衔，四牡横奔。" />
+		</sense>
+		<sense tag="名" vernacular="劣马；不好的马">
+			<exam article="《九辨》" ref="却骐骥而不乘兮，策驽骀而取路。" />
+		</sense>
+		<sense vernacular="比喻庸才" />
+	</pron>
+	<pron value="dài">
+		<sense tag="形" vernacular="疲钝">
+			<exam article="《孙膑兵法·十问》" ref="压其骀，攻其疑。" />
+		</sense>
+		<sense tag="动" vernacular="放荡" />
+	</pron>
+	<phrase value="骀籍">
+		<sense value="践踏" />
+	</phrase>
+	<phrase value="骀荡">
+		<sense value="放荡" />
+		<sense value="舒缓荡漾，形容音乐或景色" />
+	</phrase>
+</character>

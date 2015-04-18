@@ -1,0 +1,14 @@
+<character value="侮">
+	<introduce>
+		<pinyin value="wu3" writing="wŭ" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="撇竖撇横折折捺横捺" />
+	</introduce>
+	<pron value="wǔ">
+		<sense tag="动" vernacular="轻慢；怠慢">
+			<exam article="《荀子·君子》" ref="刑当罪则威，不当罪则侮。" />
+		</sense>
+	</pron>
+</character>

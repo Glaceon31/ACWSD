@@ -1,0 +1,20 @@
+<character value="愧">
+	<introduce>
+		<pinyin value="kui4" writing="kuì" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺竖撇竖折横横撇折折捺" />
+	</introduce>
+	<pron value="kuì">
+		<sense tag="动" vernacular="羞愧；感到惭愧">
+			<exam article="《孔雀东南飞》" ref="本自无教训，兼愧贵家子。" />
+		</sense>
+		<sense tag="动" vernacular="愧对；对不起">
+			<exam article="《左忠毅公逸事》" ref="吾上恐负朝廷，下恐愧吾师也。" />
+		</sense>
+	</pron>
+	<phrase value="愧惕">
+		<sense value="因有愧而提心吊胆" />
+	</phrase>
+</character>

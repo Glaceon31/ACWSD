@@ -1,0 +1,39 @@
+<character value="面">
+	<introduce>
+		<pinyin value="mian4" writing="miàn" />
+		<bushou value="面" />
+		<bushoustroke value="9" />
+		<stroke value="9" />
+		<order value="横撇竖折竖竖横横横" />
+	</introduce>
+	<pron value="miàn">
+		<sense tag="名" vernacular="脸">
+			<exam article="《彭祖面长》" ref="不敢笑陛下，实笑彭祖面长。" />
+		</sense>
+		<sense tag="动" vernacular="面向；面对着">
+			<exam article="《愚公移山》" ref="北山愚公者，年且九十，面山而居。" />
+		</sense>
+		<sense tag="副" vernacular="当面">
+			<exam article="《邹忌讽齐王纳谏》" ref="群臣吏民能面刺寡人之过者。" />
+		</sense>
+		<sense tag="名" vernacular="方位；方面">
+			<exam article="《垓下之战》" ref="闻汉军四面皆楚歌。" />
+		</sense>
+		<sense tag="名" vernacular="平面；表面">
+			<exam article="《活板》" ref="药稍熔，则以一平板按其面，则字平如砥。" />
+		</sense>
+		<sense tag="量" vernacular="《宋书·何承天传》：“上又赐银筝一面">
+			<exam article="《宋书·何承天传》" ref="上又赐银筝一面。" />
+		</sense>
+	</pron>
+	<phrase value="面壁">
+		<sense value="面对墙壁静坐，常表示不介意或无所用心" />
+		<sense value="佛教指修行" />
+	</phrase>
+	<phrase value="面墙">
+		<sense value="喻不学，如面向墙面而一无所见" />
+	</phrase>
+	<phrase value="面首">
+		<sense value="本指壮美的男子，引申为妇人的男妾、男宠" />
+	</phrase>
+</character>

@@ -1,0 +1,26 @@
+<character value="黩">
+	<introduce>
+		<pinyin value="du2" writing="dú" />
+		<bushou value="黑" />
+		<bushoustroke value="12" />
+		<stroke value="20" />
+		<order value="竖折捺撇横竖横横捺捺捺捺横竖折捺捺横撇捺" />
+	</introduce>
+	<pron value="dú">
+		<sense tag="形" vernacular="污浊">
+			<exam article="《北山移文》" ref="先贞而后黩。" />
+		</sense>
+		<sense tag="形" vernacular="轻慢；亵渎">
+			<exam article="《公羊传·桓公八年》" ref="黩则不敬。" />
+		</sense>
+		<sense tag="动" vernacular="贪污">
+			<exam article="《南史·萧思话传》" ref="历十二州，所至虽无皎皎清节，亦无秽黩之累。" />
+		</sense>
+	</pron>
+	<phrase value="黩货">
+		<sense value="贪财" />
+	</phrase>
+	<phrase value="黩近">
+		<sense value="亲近" />
+	</phrase>
+</character>

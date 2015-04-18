@@ -1,0 +1,27 @@
+<character value="熟">
+	<introduce>
+		<pinyin value="shu2" writing="shú" />
+		<pinyin value="shou2" writing="shóu" />
+		<bushou value="灬" />
+		<bushoustroke value="4" />
+		<stroke value="15" />
+		<order value="捺横竖折横折竖横撇折捺捺捺捺捺" />
+	</introduce>
+	<pron value="shú">
+		<sense tag="形" vernacular="煮到可以食用的程度">
+			<exam article="《答韦中立论师道书》" ref="炊不暇熟，又挈挈而东。" />
+		</sense>
+		<sense tag="动" vernacular="成熟">
+			<exam article="《采草药》" ref="稻有七八月熟者，有八九月熟者。" />
+		</sense>
+		<sense tag="动" vernacular="熟悉；熟练">
+			<exam article="《卖油翁》" ref="无他，但手熟尔。" />
+		</sense>
+		<sense tag="形" vernacular="深透；仔细">
+			<exam article="《察传》" ref="凡闻言必熟论，其于人必验之以理。" />
+		</sense>
+		<sense tag="形" vernacular="深；酣">
+			<exam article="《李愬雪夜入蔡州》" ref="守门卒方熟寐，尽杀之。" />
+		</sense>
+	</pron>
+</character>

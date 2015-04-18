@@ -1,0 +1,23 @@
+<character value="纫">
+	<introduce>
+		<pinyin value="ren4" writing="rèn" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折折横折撇捺" />
+	</introduce>
+	<pron value="rèn">
+		<sense tag="动" vernacular="搓绳；捻线">
+			<exam article="《楚辞·惜誓》" ref="伤诚是之不察兮，并纫茅丝以为索。" />
+		</sense>
+		<sense tag="动" vernacular="连缀">
+			<exam article="《离骚》" ref="纫秋兰以为佩。" />
+		</sense>
+		<sense tag="动" vernacular="缝纫">
+			<exam article="《记王忠肃公翱事》" ref="公受珠，内所著披袄中，纫之。" />
+		</sense>
+		<sense tag="形" vernacular="通“韧”，柔软而结实">
+			<exam article="《孔雀东南飞》" ref="蒲苇纫如丝，磐石无转移。" />
+		</sense>
+	</pron>
+</character>

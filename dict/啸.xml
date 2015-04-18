@@ -1,0 +1,23 @@
+<character value="啸">
+	<introduce>
+		<pinyin value="xiao4" writing="xiào" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="竖折横折横横竖撇竖撇捺" />
+	</introduce>
+	<pron value="xiào">
+		<sense tag="动" vernacular="打口哨；呼号">
+			<exam article="《核舟记》" ref="右手攀右趾，若啸呼状。" />
+		</sense>
+		<sense tag="动" vernacular="禽兽拉长声音叫">
+			<exam article="《岳阳楼记》" ref="薄暮冥冥，虎啸猿啼。" />
+		</sense>
+	</pron>
+	<phrase value="啸咏">
+		<sense value="歌咏" />
+	</phrase>
+	<phrase value="啸咤">
+		<sense value="大声呼吼" />
+	</phrase>
+</character>

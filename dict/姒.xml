@@ -1,0 +1,17 @@
+<character value="姒">
+	<introduce>
+		<pinyin value="si4" writing="sì" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折撇横折捺撇捺" />
+	</introduce>
+	<pron value="sì">
+		<sense tag="名" vernacular="妯娌中年长者称姒">
+			<exam article="《左传·昭公二十八年》" ref="长叔姒生男。" />
+		</sense>
+		<sense tag="名" vernacular="古代妾中的年长者">
+			<exam article="《列女传》" ref="婢女娣姒，不能相教。" />
+		</sense>
+	</pron>
+</character>

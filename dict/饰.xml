@@ -1,0 +1,23 @@
+<character value="饰">
+	<introduce>
+		<pinyin value="shi4" writing="shì" />
+		<bushou value="饣" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇折折撇横竖折竖" />
+	</introduce>
+	<pron value="shì">
+		<sense tag="动" vernacular="装饰；修饰">
+			<exam article="《谏逐客书》" ref="所以饰后宫、充下陈、娱心意、说耳目者。" />
+		</sense>
+		<sense tag="名" vernacular="装饰品">
+			<exam article="《送东阳马生序》" ref="戴朱缨宝饰之帽。" />
+		</sense>
+		<sense tag="动" vernacular="掩饰；粉饰">
+			<exam article="《史通·惑经》" ref="文过饰非。" />
+		</sense>
+		<sense tag="动" vernacular="整治">
+			<exam article="《过秦论》" ref="以饰法设刑，而天下治。" />
+		</sense>
+	</pron>
+</character>

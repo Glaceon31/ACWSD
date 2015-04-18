@@ -1,0 +1,38 @@
+<character value="棘">
+	<introduce>
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖折竖撇捺横竖折竖撇捺" />
+	</introduce>
+	<pron value="jí">
+		<sense tag="名" vernacular="酸枣树">
+			<exam article="《诗经·魏风·园有桃》" ref="园有棘，其实之食。" />
+		</sense>
+		<sense tag="名" vernacular="多刺的灌木">
+			<exam article="《六国论》" ref="暴霜露，斩荆棘。" />
+		</sense>
+		<sense tag="名" vernacular="通“戟”，一种兵器">
+			<exam article="《左传·隐公十一年》" ref="子都拔棘以逐之。" />
+		</sense>
+	</pron>
+	<phrase value="棘手">
+		<sense value="像荆棘刺手，比喻事情难办" />
+	</phrase>
+	<phrase value="棘寺">
+		<sense value="九卿官署" />
+		<sense value="大理寺的别称" />
+	</phrase>
+	<phrase value="棘心">
+		<sense value="棘木的幼苗" />
+		<sense value="比喻孝子思亲之心" />
+	</phrase>
+	<phrase value="棘院">
+		<sense value="科举时代的试院" />
+	</phrase>
+	<phrase value="棘针">
+		<sense value="棘刺" />
+		<sense value="喻寒气刺骨" />
+	</phrase>
+</character>

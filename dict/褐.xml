@@ -1,0 +1,18 @@
+<character value="褐">
+	<introduce>
+		<pinyin value="he4" writing="hè" />
+		<pinyin value="he2" writing="hé" />
+		<bushou value="衤" />
+		<bushoustroke value="5" />
+		<stroke value="14" />
+		<order value="捺折竖撇捺竖折横横撇折撇捺折" />
+	</introduce>
+	<pron value="hè">
+		<sense tag="名" vernacular="古代贫苦人穿的粗布衣，用粗麻或粗毛制成">
+			<exam article="《廉颇蔺相如列传》" ref="乃使其从者衣褐，怀其璧。" />
+		</sense>
+		<sense tag="名" vernacular="墨黄色">
+			<exam article="《三适赠道友》" ref="褐绫袍厚暖。" />
+		</sense>
+	</pron>
+</character>

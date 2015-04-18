@@ -1,0 +1,38 @@
+<character value="鸣">
+	<introduce>
+		<pinyin value="ming2" writing="míng" />
+		<bushou value="鸟" />
+		<bushoustroke value="5" />
+		<stroke value="8" />
+		<order value="竖折横撇折捺折横" />
+	</introduce>
+	<pron value="míng">
+		<sense tag="动" vernacular="鸟叫">
+			<exam article="《与朱元思书》" ref="好鸟相鸣，嘤嘤成韵。" />
+		</sense>
+		<sense tag="动" vernacular="发出声响">
+			<exam article="《琵琶行》" ref="银瓶乍破水浆迸，铁骑突出刀枪鸣。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……鸣；使……发出声响">
+			<exam article="《石钟山记》" ref="虽大风浪不能鸣也。" />
+		</sense>
+		<sense tag="动" vernacular="敲击发声">
+			<exam article="《陈州粜米》" ref="也还要上登闻将怨鼓鸣。" />
+		</sense>
+		<sense tag="动" vernacular="扬名；出名">
+			<exam article="《柳敬亭传》" ref="此子机变，可使以其技鸣。" />
+		</sense>
+	</pron>
+	<phrase value="鸣镝">
+		<sense value="响箭" />
+	</phrase>
+	<phrase value="鸣銮">
+		<sense value="指皇帝或贵族出行" />
+	</phrase>
+	<phrase value="鸣玉">
+		<sense value="腰间佩玉发出声响" />
+	</phrase>
+	<phrase value="鸣驺">
+		<sense value="贵官出行时驺卒喝道" />
+	</phrase>
+</character>

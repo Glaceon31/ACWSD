@@ -1,0 +1,20 @@
+<character value="颐">
+	<introduce>
+		<pinyin value="yi2" writing="yí" />
+		<bushou value="页" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="横竖竖折横竖折横撇竖折撇捺" />
+	</introduce>
+	<pron value="yí">
+		<sense tag="名" vernacular="面颊">
+			<exam article="《孙子·九地》" ref="偃卧者涕交颐。" />
+		</sense>
+		<sense tag="动" vernacular="保养">
+			<exam article="《幽愤诗》" ref="颐性养寿。" />
+		</sense>
+		<sense tag="助" vernacular="无意义">
+			<exam article="《史记·陈涉世家》" ref="客曰：‘夥颐！涉之为王沈沈者！’" />
+		</sense>
+	</pron>
+</character>

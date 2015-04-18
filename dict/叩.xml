@@ -1,0 +1,23 @@
+<character value="叩">
+	<introduce>
+		<pinyin value="kou4" writing="kòu" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="竖折横折竖" />
+	</introduce>
+	<pron value="kòu">
+		<sense tag="动" vernacular="敲击；敲打">
+			<exam article="《项脊轩志》" ref="娘以指叩门扉曰。" />
+		</sense>
+		<sense tag="动" vernacular="磕；碰；顿">
+			<exam article="《芋老人传》" ref="一旦事变中起，衅孽外乘，辄屈膝叩首迎款。" />
+		</sense>
+		<sense tag="动" vernacular="叩问；询问">
+			<exam article="《左忠毅公逸事》" ref="叩之寺僧，则史公可法也。" />
+		</sense>
+		<sense tag="动" vernacular="通“扣”，拉住；牵住">
+			<exam article="《史记·伯夷列传》" ref="伯夷、叔齐叩马而谏。" />
+		</sense>
+	</pron>
+</character>

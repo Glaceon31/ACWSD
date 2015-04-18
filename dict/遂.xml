@@ -1,0 +1,33 @@
+<character value="遂">
+	<introduce>
+		<pinyin value="sui4" writing="suì" />
+		<pinyin value="sui2" writing="suí" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺撇横撇折撇撇撇捺捺折捺" />
+	</introduce>
+	<pron value="suì">
+		<sense tag="名" vernacular="田间小水沟">
+			<exam article="《考工记·匠人》" ref="广二尺，深二尺，谓之遂。" />
+		</sense>
+		<sense tag="动" vernacular="通达">
+			<exam article="《淮南子·精神》" ref="何往而不遂。" />
+		</sense>
+		<sense tag="动" vernacular="顺利成长">
+			<exam article="《韩非子·难二》" ref="六畜遂，五谷殖。" />
+		</sense>
+		<sense tag="动" vernacular="成功；实现">
+			<exam article="《复庵记》" ref="又范君之所有志而不遂者也。" />
+		</sense>
+		<sense tag="动" vernacular="因循；仍旧">
+			<exam article="《与陈伯之书》" ref="若遂不改，方思仆言。" />
+		</sense>
+		<sense tag="副" vernacular="终于；竟然">
+			<exam article="《隆中对》" ref="然操遂能克绍，以弱为强者，非惟天时，抑亦人谋也。" />
+		</sense>
+		<sense tag="副" vernacular="于是；就">
+			<exam article="《愚公移山》" ref="遂率子孙荷担者三夫，叩石垦壤。" />
+		</sense>
+	</pron>
+</character>

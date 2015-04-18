@@ -1,0 +1,20 @@
+<character value="副">
+	<introduce>
+		<pinyin value="fu4" writing="fù" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="横竖折横竖折横竖横竖竖" />
+	</introduce>
+	<pron value="fù">
+		<sense tag="形" vernacular="副的；居次的">
+			<exam article="《梅花岭记》" ref="马副使鸣騄、任太守民育及诸将刘都督肇基等皆死。" />
+		</sense>
+		<sense tag="名" vernacular="辅佐；助手">
+			<exam article="《荆轲刺秦王》" ref="乃令秦武阳为副。" />
+		</sense>
+		<sense tag="动" vernacular="符合；相称">
+			<exam article="《后汉书·黄琼传》" ref="阳春之曲，和者必寡；盛名之下，其实难副。" />
+		</sense>
+	</pron>
+</character>

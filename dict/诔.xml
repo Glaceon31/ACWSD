@@ -1,0 +1,14 @@
+<character value="诔">
+	<introduce>
+		<pinyin value="lei3" writing="lĕi" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺折横横横竖撇捺" />
+	</introduce>
+	<pron value="lěi">
+		<sense tag="动" vernacular="叙述死者生前事迹，表示哀悼（多用于上对下）">
+			<exam article="《墨子·鲁问》" ref="鲁君之嬖人死，鲁君为之诔。" />
+		</sense>
+	</pron>
+</character>

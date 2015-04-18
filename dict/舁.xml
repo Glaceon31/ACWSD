@@ -1,0 +1,14 @@
+<character value="舁">
+	<introduce>
+		<pinyin value="yu2" writing="yú" />
+		<bushou value="臼" />
+		<bushoustroke value="6" />
+		<stroke value="9" />
+		<order value="撇竖横折横横横撇竖" />
+	</introduce>
+	<pron value="yú">
+		<sense tag="动" vernacular="抬">
+			<exam article="《冯婉贞》" ref="未几，敌兵果舁炮至。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,29 @@
+<character value="德">
+	<introduce>
+		<pinyin value="de2" writing="dé" />
+		<bushou value="彳" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="撇撇竖横竖竖折竖竖横横捺折捺捺" />
+	</introduce>
+	<pron value="dé">
+		<sense tag="名" vernacular="道德；品德">
+			<exam article="《劝学》" ref="积善成德，而神明自得，圣心备焉。" />
+		</sense>
+		<sense tag="名" vernacular="恩德；恩惠">
+			<exam article="《垓下之战》" ref="吾闻汉购我头千金，邑万户，吾为若德。" />
+		</sense>
+		<sense tag="动" vernacular="感激">
+			<exam article="《史记·信陵君列传》" ref="赵孝成王德公子之矫夺晋鄙兵而存赵。" />
+		</sense>
+		<sense tag="名" vernacular="德政；功德">
+			<exam article="《殽之战》" ref="吾不以一眚掩大德。" />
+		</sense>
+		<sense tag="名" vernacular="福">
+			<exam article="《礼记·哀公问》" ref="君之及皮言也，百姓之德也。" />
+		</sense>
+	</pron>
+	<phrase value="德化">
+		<sense value="道德教化，道德影响" />
+	</phrase>
+</character>

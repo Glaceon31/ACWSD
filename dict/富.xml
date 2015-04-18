@@ -1,0 +1,30 @@
+<character value="富">
+	<introduce>
+		<pinyin value="fu4" writing="fù" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺折横竖折横竖折横竖横" />
+	</introduce>
+	<pron value="fù">
+		<sense tag="形" vernacular="财产多；富裕；富足">
+			<exam article="《促织》" ref="独是成氏子以蠹贫，以促织富。" />
+		</sense>
+		<sense tag="形使动" vernacular="使……富足">
+			<exam article="《论积贮疏》" ref="可以为富安天下，而直为此廪廪也。" />
+		</sense>
+		<sense tag="形" vernacular="多；丰富">
+			<exam article="《塞翁失马》" ref="家富良马，其子好骑，堕而折其髀。" />
+			<exam article="《黄生借书》" ref="有张氏藏书甚富。" />
+		</sense>
+		<sense tag="名" vernacular="财富；财产">
+			<exam article="《叔向贺贫》" ref="其富半公室，其家半三军。" />
+		</sense>
+	</pron>
+	<phrase value="富年">
+		<sense value="指年轻少壮之时" />
+	</phrase>
+	<phrase value="富岁">
+		<sense value="丰年" />
+	</phrase>
+</character>

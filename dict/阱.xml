@@ -1,0 +1,15 @@
+<character value="阱">
+	<introduce>
+		<pinyin value="jing3" writing="jĭng" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="折竖横横撇竖" />
+	</introduce>
+	<pron value="jǐng">
+		<sense tag="名" vernacular="为防御或捕捉野兽或敌人而挖的坑">
+			<exam article="《汉书·谷永传》" ref="又以掖庭狱大为乱阱。" />
+			<exam article="《君马黄》" ref="猛虎落陷阱。" />
+		</sense>
+	</pron>
+</character>

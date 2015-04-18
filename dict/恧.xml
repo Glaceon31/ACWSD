@@ -1,0 +1,14 @@
+<character value="恧">
+	<introduce>
+		<pinyin value="nu4" writing="nǜ" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横撇竖折竖竖捺折捺捺" />
+	</introduce>
+	<pron value="nǜ">
+		<sense tag="形" vernacular="惭愧">
+			<exam article="《思玄赋》" ref="苟中情之端直兮，莫吾知而不恧。" />
+		</sense>
+	</pron>
+</character>

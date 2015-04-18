@@ -1,0 +1,17 @@
+<character value="殪">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="歹" />
+		<bushoustroke value="4" />
+		<stroke value="16" />
+		<order value="横撇折捺横竖横捺折横竖折横捺撇横" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="动" vernacular="死亡">
+			<exam article="《国殇》" ref="左骖殪兮右刃伤。" />
+		</sense>
+		<sense tag="动" vernacular="杀死">
+			<exam article="《中山狼传》" ref="遂举手助先生操刃，共殪狼，弃道上而去。" />
+		</sense>
+	</pron>
+</character>

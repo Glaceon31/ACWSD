@@ -1,0 +1,32 @@
+<character value="编">
+	<introduce>
+		<pinyin value="bian1" writing="biān" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折折横捺折横撇竖折横竖竖" />
+	</introduce>
+	<pron value="biān">
+		<sense tag="名" vernacular="古代用来穿竹简的皮条或绳子">
+			<exam article="《史记·孔子世家》" ref="读《易》,韦编三绝。" />
+		</sense>
+		<sense tag="动" vernacular="按次序排列">
+			<exam article="《战国策·楚策一》" ref="臣入编席,出川陪乘。" />
+		</sense>
+		<sense tag="动" vernacular="编联">
+			<exam article="《汉书·路温舒传》" ref="温舒取泽中蒲,截以为牒,编用写书。" />
+		</sense>
+		<sense tag="动" vernacular="编写">
+			<exam article="《韩非子·难三》" ref="法者,编著之图籍。" />
+		</sense>
+		<sense tag="动" vernacular="编织编结">
+			<exam article="《荀子·劝学》" ref="以羽为巢,而编之以发,系之苇苕。" />
+		</sense>
+		<sense tag="动" vernacular="编入户籍">
+			<exam article="《荀子·儒效》" ref="不用,则退编百姓而悫。" />
+		</sense>
+	</pron>
+	<phrase value="编贝">
+		<sense value="排列编串的贝壳,因洁白整齐,借喻牙齿之美" />
+	</phrase>
+</character>

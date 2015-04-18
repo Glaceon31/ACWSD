@@ -1,0 +1,32 @@
+<character value="格">
+	<introduce>
+		<pinyin value="ge2" writing="gé" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横竖撇捺撇折捺竖折横" />
+	</introduce>
+	<pron value="gé">
+		<sense tag="名" vernacular="树木的长枝条">
+			<exam article="《小园赋》" ref="枝格相交。" />
+		</sense>
+		<sense tag="名" vernacular="格式；标准">
+			<exam article="《己亥杂诗》" ref="我劝天公重抖擞，不拘一格降人才。" />
+		</sense>
+		<sense tag="动" vernacular="阻止；阻碍">
+			<exam article="《史记·孙宾传》" ref="形格势禁" />
+		</sense>
+		<sense tag="动" vernacular="击；打击">
+			<exam article="《后汉书·钟离意传》" ref="乃解衣就格。" />
+		</sense>
+		<sense tag="动" vernacular="推究；研究">
+			<exam article="《礼记·大学》" ref="致知在格物。" />
+		</sense>
+		<sense tag="动" vernacular="正；纠正">
+			<exam article="《孟子·离娄上》" ref="叭大人为能格君心之非。" />
+		</sense>
+		<sense tag="动" vernacular="到">
+			<exam article="《尚书·君奭》" ref="格于皇天。" />
+		</sense>
+	</pron>
+</character>

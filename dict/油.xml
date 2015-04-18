@@ -1,0 +1,28 @@
+<character value="油">
+	<introduce>
+		<pinyin value="you2" writing="yóu" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺横竖折横竖横" />
+	</introduce>
+	<pron value="yóu">
+		<sense tag="名" vernacular="动物的脂肪或由植物、矿物中提炼出来的一种物质">
+			<exam article="《梦溪笔谈》" ref="鄜延境内有石油。" />
+		</sense>
+	</pron>
+	<phrase value="油络">
+		<sense value="古代车上悬垂的丝绳" />
+	</phrase>
+	<phrase value="油然">
+		<sense value="自然而然地" />
+		<sense value="云气上升的样子" />
+		<sense value="" />
+	</phrase>
+	<phrase value="油油">
+		<sense value="形容江河水流动" />
+		<sense value="形容云朵飘动" />
+		<sense value="形容光润；茁壮" />
+		<sense value="" />
+	</phrase>
+</character>

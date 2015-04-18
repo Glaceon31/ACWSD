@@ -1,0 +1,20 @@
+<character value="琦">
+	<introduce>
+		<pinyin value="qi2" writing="qí" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横横竖横横撇捺横竖折横竖" />
+	</introduce>
+	<pron value="qí">
+		<sense tag="名" vernacular="美玉">
+			<exam article="《鬼谷子·飞箝》" ref="财货琦玮，珠玉璧白。" />
+		</sense>
+		<sense tag="形" vernacular="珍奇，美好">
+			<exam article="《昌言·理乱》" ref="琦赂宝货，巨室不容。" />
+		</sense>
+		<sense tag="形" vernacular="奇异的">
+			<exam article="《荀子·非十二子》" ref="好治怪说，玩琦辞。" />
+		</sense>
+	</pron>
+</character>

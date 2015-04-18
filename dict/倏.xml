@@ -1,0 +1,15 @@
+<character value="倏">
+	<introduce>
+		<pinyin value="shu1" writing="shū" />
+		<pinyin value="shu4" writing="shù" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="撇竖竖撇折捺横撇捺捺" />
+	</introduce>
+	<pron value="shū">
+		<sense tag="形" vernacular="迅速；很快">
+			<exam article="《魏书·崔挺传》" ref="别卿已来，倏焉二载，吾所缀文，已成一集。" />
+		</sense>
+	</pron>
+</character>

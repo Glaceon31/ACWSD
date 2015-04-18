@@ -1,0 +1,14 @@
+<character value="茫">
+	<introduce>
+		<pinyin value="mang2" writing="máng" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖竖捺捺横捺横折" />
+	</introduce>
+	<pron value="máng">
+		<sense tag="形" vernacular="辽阔无边；模糊不清">
+			<exam article="《敕勒歌》" ref="天苍苍，野茫茫，风吹草低见牛羊。" />
+		</sense>
+	</pron>
+</character>

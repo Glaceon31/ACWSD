@@ -1,0 +1,23 @@
+<character value="卖">
+	<introduce>
+		<pinyin value="mai4" writing="mài" />
+		<bushou value="十" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="横竖折捺捺横撇捺" />
+	</introduce>
+	<pron value="mài">
+		<sense tag="动" vernacular="用东西换钱，如“卖柑者”、“卖炭翁”《论积贮疏》：“岁恶不入，请卖爵子">
+			<exam article="《论积贮疏》" ref="岁恶不入，请卖爵子。" />
+		</sense>
+		<sense tag="动" vernacular="背叛">
+			<exam article="《后汉书·李固传》" ref="谄贵卖友。" />
+		</sense>
+	</pron>
+	<phrase value="卖舌">
+		<sense value="夸夸其谈；自我炫耀" />
+	</phrase>
+	<phrase value="卖重">
+		<sense value="卖弄权势" />
+	</phrase>
+</character>

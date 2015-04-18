@@ -1,0 +1,24 @@
+<character value="菁">
+	<introduce>
+		<pinyin value="jing1" writing="jīng" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖竖横横竖横竖折横横" />
+	</introduce>
+	<pron value="jīng">
+		<sense tag="名" vernacular="韭菜的花" />
+		<sense tag="名" vernacular="蔓菁，芜菁">
+			<exam article="《齐民要术·蔓菁》" ref="七月可种芜菁。" />
+		</sense>
+		<sense tag="名" vernacular="水草">
+			<exam article="《上林赋》" ref="唼喋菁藻。" />
+		</sense>
+		<sense vernacular="通“精”">
+			<exam article="《&lt;黄花冈七十二烈士事略&gt;序》" ref="吾党菁华付之一炬,其损失可谓大矣!" />
+		</sense>
+	</pron>
+	<phrase value="菁菁">
+		<sense value="茂盛的样子" />
+	</phrase>
+</character>

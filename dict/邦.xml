@@ -1,0 +1,26 @@
+<character value="邦">
+	<introduce>
+		<pinyin value="bang1" writing="bāng" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="横横横撇折竖" />
+	</introduce>
+	<pron value="bāng">
+		<sense tag="名" vernacular="诸候的封国,泛指国家">
+			<exam article="《季氏将伐颛臾》" ref="邦分崩离析而不能守也。" />
+		</sense>
+		<sense tag="动" vernacular="分封">
+			<exam article="《封建论》" ref="邦群后。" />
+		</sense>
+	</pron>
+	<phrase value="邦畿">
+		<sense value="古代指天子直辖地,后泛指国境疆域" />
+	</phrase>
+	<phrase value="邦君">
+		<sense value="地方长官,指太守丶刺史等" />
+	</phrase>
+	<phrase value="邦彦">
+		<sense value="国中杰出有才德的人" />
+	</phrase>
+</character>

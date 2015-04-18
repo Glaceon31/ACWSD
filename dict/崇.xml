@@ -1,0 +1,47 @@
+<character value="崇">
+	<introduce>
+		<pinyin value="chong2" writing="chóng" />
+		<bushou value="山" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="竖折竖捺捺折横横竖撇捺" />
+	</introduce>
+	<pron value="chóng">
+		<sense tag="形" vernacular="高">
+			<exam article="《滕王阁序》" ref="俨骖骖于上路，访风景于崇阿。" />
+		</sense>
+		<sense tag="形" vernacular="崇高">
+			<exam article="《屈原列传》" ref="明道德之广崇，治知己之条贯。" />
+		</sense>
+		<sense tag="动" vernacular="推崇，推重">
+			<exam article="《进学解》" ref="拔去凶邪，登崇良。" />
+		</sense>
+		<sense tag="动" vernacular="充满">
+			<exam article="《送薛存义之任序》" ref="崇酒于觞。" />
+		</sense>
+		<sense tag="动" vernacular="增长">
+			<exam article="《左传·成公十八年》" ref="今将崇诸侯之奸。" />
+		</sense>
+	</pron>
+	<phrase value="崇绝">
+		<sense value="高远；至高" />
+	</phrase>
+	<phrase value="崇乱">
+		<sense value="犹言重乱，大乱" />
+	</phrase>
+	<phrase value="崇日">
+		<sense value="终日" />
+	</phrase>
+	<phrase value="崇替">
+		<sense value="兴废" />
+	</phrase>
+	<phrase value="崇信">
+		<sense value="1" />
+		<sense value="尊崇信任" />
+		<sense value="2" />
+		<sense value="崇尚信义" />
+	</phrase>
+	<phrase value="崇崒">
+		<sense value="高耸的样子" />
+	</phrase>
+</character>

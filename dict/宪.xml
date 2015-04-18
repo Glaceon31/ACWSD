@@ -1,0 +1,20 @@
+<character value="宪">
+	<introduce>
+		<pinyin value="xian4" writing="xiàn" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺折撇横竖横撇折" />
+	</introduce>
+	<pron value="xiàn">
+		<sense tag="名" vernacular="法令；法律">
+			<exam article="《屈原列传》" ref="怀王使屈原造为宪令。" />
+		</sense>
+		<sense tag="动" vernacular="效法">
+			<exam article="《诗经·崧高》" ref="王之元舅，文武是宪。" />
+		</sense>
+	</pron>
+	<phrase value="宪典">
+		<sense value="法律；法典" />
+	</phrase>
+</character>

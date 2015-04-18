@@ -1,0 +1,20 @@
+<character value="嘶">
+	<introduce>
+		<pinyin value="si1" writing="sī" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="竖折横横竖竖横横横撇捺撇撇横竖" />
+	</introduce>
+	<pron value="sī">
+		<sense tag="形" vernacular="声音沙哑">
+			<exam article="《北史·高允传》" ref="崔公声嘶股战，不能一言。" />
+		</sense>
+		<sense tag="动" vernacular="马叫">
+			<exam article="《孔雀东南飞》" ref="其日牛马嘶，新妇入青庐。" />
+		</sense>
+		<sense tag="动" vernacular="虫、鸟凄切幽咽地叫">
+			<exam article="《青溪辞》" ref="雁南归兮寒蜩嘶。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,46 @@
+<character value="定">
+	<introduce>
+		<pinyin value="ding4" writing="dìng" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺折横竖横撇捺" />
+	</introduce>
+	<pron value="dìng">
+		<sense tag="形" vernacular="安定；稳定">
+			<exam article="《出师表》" ref="今南方已定。" />
+			<exam article="《柳毅传》" ref="毅良久稍安，乃获自定。" />
+		</sense>
+		<sense tag="动" vernacular="平定">
+			<exam article="《出师表》" ref="当奖率三军，北定中原。" />
+			<exam article="《示儿》" ref="王师北定中原日，家祭毋忘告乃翁。" />
+		</sense>
+		<sense tag="动" vernacular="停止；平静">
+			<exam article="《茅屋为秋风所破歌》" ref="俄顷风定云墨色，秋天漠漠向昏黑。" />
+			<exam article="《&lt;指南录&gt;后序》" ref="痛定思痛，痛何如哉！" />
+		</sense>
+		<sense tag="动" vernacular="决定；确定">
+			<exam article="《廉颇蔺相如列传》" ref="计未定，求人可使报秦者，未得。" />
+			<exam article="《赤壁之战》" ref="愿早定大计，莫用众人之议也。" />
+		</sense>
+		<sense tag="形" vernacular="固定">
+			<exam article="《梦游天姥吟留别》" ref="千岩万转路不定，迷花倚石忽已螟。" />
+			<exam article="《采草药》" ref="岂可一切拘以定月哉。" />
+		</sense>
+		<sense tag="形" vernacular="镇定">
+			<exam article="《谭嗣同》" ref="指挥若定。" />
+		</sense>
+		<sense tag="动" vernacular="约定">
+			<exam article="《明湖居听书》" ref="桌子却都帖着‘抚院定’‘学院定’等类红纸条儿。" />
+		</sense>
+		<sense tag="副" vernacular="一定">
+			<exam article="《窦娥冤》" ref="定要感的六出冰花滚似绵。" />
+		</sense>
+		<sense tag="副" vernacular="到底；究竟">
+			<exam article="《答僧中孚赠仙人掌茶》" ref="举世未见之，其名定谁传。" />
+		</sense>
+	</pron>
+	<phrase value="定数">
+		<sense value="一定的气数、命运，迷信认为人世祸福都由前世决定" />
+	</phrase>
+</character>

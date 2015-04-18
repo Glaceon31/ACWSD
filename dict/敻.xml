@@ -1,0 +1,14 @@
+<character value="敻">
+	<introduce>
+		<pinyin value="xiong4" writing="xiòng" />
+		<bushou value="攵" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="撇折竖折撇捺竖折横横横撇折捺" />
+	</introduce>
+	<pron value="xiòng">
+		<sense tag="形" vernacular="远">
+			<exam article="《京路夜发》" ref="故乡邈已敻，山川修且广。" />
+		</sense>
+	</pron>
+</character>

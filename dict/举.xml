@@ -1,0 +1,75 @@
+<character value="举">
+	<introduce>
+		<pinyin value="ju3" writing="jŭ" />
+		<bushou value="丶" />
+		<bushoustroke value="1" />
+		<stroke value="9" />
+		<order value="捺捺撇横撇捺横横竖" />
+	</introduce>
+	<pron value="jǔ">
+		<sense tag="动" vernacular="举起；擎起">
+			<exam article="《齐桓晋文之事》" ref="吾力足以举百钧。" />
+		</sense>
+		<sense tag="动" vernacular="拿，用">
+			<exam article="《赤壁之战》" ref="吾不能举全吴之地，十万之众，受制于人。" />
+		</sense>
+		<sense tag="动" vernacular="举出；提出">
+			<exam article="《屈原列传》" ref="举类迩而见义远。" />
+		</sense>
+		<sense tag="动" vernacular="起身；腾起">
+			<exam article="《吕氏春秋·论威》" ref="兔起凫举。" />
+		</sense>
+		<sense tag="动" vernacular="挂起；升起">
+			<exam article="《赤壁之战》" ref="中江举帆。" />
+		</sense>
+		<sense tag="动" vernacular="推举；推荐">
+			<exam article="《陈情表》" ref="后刺史臣荣举臣秀才。" />
+		</sense>
+		<sense tag="动" vernacular="举用；任用">
+			<exam article="《屈原列传》" ref="莫不求忠以自为，举贤以自佐。" />
+		</sense>
+		<sense tag="动" vernacular="发动；兴起">
+			<exam article="《论积贮疏》" ref="远方之能疑者，并举而争起矣。" />
+		</sense>
+		<sense tag="动" vernacular="举行；实行">
+			<exam article="《陈涉世家》" ref="今亡亦死，举大计亦死，等死，死国可乎？" />
+		</sense>
+		<sense tag="名" vernacular="举动；行为动作">
+			<exam article="《谭嗣同》" ref="全在天津阅兵之举。" />
+		</sense>
+		<sense tag="动" vernacular="攻克；攻占">
+			<exam article="《过秦论》" ref="南取汉中，西举巴蜀。" />
+		</sense>
+		<sense tag="动" vernacular="完成；成功">
+			<exam article="《孔雀东南飞》" ref="何不作衣裳？莫令事不举。" />
+		</sense>
+		<sense tag="动" vernacular="生育；养育">
+			<exam article="《史记·孟尝君列传》" ref="其母窃举生之。" />
+			<exam article="《饮马长城窟行》" ref="生男慎莫举，生女哺用脯。" />
+		</sense>
+		<sense tag="动" vernacular="检举；揭发">
+			<exam article="《时令论上》" ref="恤孤寡，举阿党。" />
+		</sense>
+		<sense tag="名" vernacular="科举；科举考试">
+			<exam article="《柳毅传》" ref="有儒生柳毅者，应举下第。" />
+		</sense>
+		<sense tag="动" vernacular="应举；参加科举考试">
+			<exam article="《讳辨》" ref="愈与李贺书，劝贺举进士。" />
+		</sense>
+		<sense tag="动" vernacular="中举；考中">
+			<exam article="《芋老人传》" ref="乙先得举，登仕路。" />
+		</sense>
+		<sense tag="形" vernacular="全；整个">
+			<exam article="《屈原列传》" ref="举世皆浊而我独清。" />
+		</sense>
+		<sense tag="副" vernacular="全；都">
+			<exam article="《庄暴见孟子》" ref="举欣欣然有喜色而相告。" />
+		</sense>
+		<sense tag="形" vernacular="尽；完">
+			<exam article="《鸿门宴》" ref="杀人如不能举，刑人如恐不胜。" />
+		</sense>
+		<sense tag="动" vernacular="点起为；点燃">
+			<exam article="《孙膑减灶》" ref="暮见火举而俱发。" />
+		</sense>
+	</pron>
+</character>

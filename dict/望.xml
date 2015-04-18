@@ -1,0 +1,29 @@
+<character value="望">
+	<introduce>
+		<pinyin value="wang4" writing="wàng" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="捺横折撇折横横横横竖横" />
+	</introduce>
+	<pron value="wàng">
+		<sense tag="动" vernacular="远望；远看">
+			<exam article="《劝学》" ref="吾尝跂而望矣，不如登高之博见也。" />
+		</sense>
+		<sense tag="动" vernacular="盼望；希望；期望">
+			<exam article="《鸿门宴》" ref="日夜望将军至，岂敢反乎?" />
+		</sense>
+		<sense tag="动" vernacular="埋怨；怨恨；责怪">
+			<exam article="《书博鸡者事》" ref="敢用是为怨望。" />
+		</sense>
+		<sense tag="名" vernacular="月光满盈时，即农历每月十五日">
+			<exam article="《赤壁赋》" ref="壬戌之秋，七月既望，苏子与客泛舟游于赤壁之下。" />
+		</sense>
+		<sense tag="名" vernacular="名望；声望">
+			<exam article="《送东阳马生序》" ref="先达德隆望尊，门人弟子填其室。" />
+		</sense>
+	</pron>
+	<phrase value="望洋">
+		<sense value="仰视的样子" />
+	</phrase>
+</character>

@@ -1,0 +1,22 @@
+<character value="涔">
+	<introduce>
+		<pinyin value="cen2" writing="cén" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横竖折竖撇捺捺折" />
+	</introduce>
+	<pron value="cén">
+		<sense tag="形" vernacular="雨水多，涝">
+			<exam article="《主术训》" ref="时有涔旱灾害之患。" />
+		</sense>
+		<sense tag="形" vernacular="泪落不止" />
+		<sense tag="形" vernacular="久雨">
+			<exam article="《淮南子·览冥训》" ref="涔云波水，各象其形类所以感之。" />
+		</sense>
+	</pron>
+	<phrase value="涔涔">
+		<sense value="1" />
+		<sense value="滴落不止" />
+	</phrase>
+</character>

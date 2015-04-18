@@ -1,0 +1,52 @@
+<character value="辟">
+	<introduce>
+		<pinyin value="pi4" writing="pì" />
+		<pinyin value="bi4" writing="bì" />
+		<pinyin value="pi1" writing="pī" />
+		<bushou value="辛" />
+		<bushoustroke value="7" />
+		<stroke value="13" />
+		<order value="折横撇竖折横捺横捺撇横横竖" />
+	</introduce>
+	<pron value="bì">
+		<sense tag="名" vernacular="刑法;法律">
+			<exam article="《左传·昭公六年》" ref="制参辟,铸刑书。" />
+		</sense>
+		<sense tag="名" vernacular="君主">
+			<exam article="《诗经·大雅·荡》" ref="荡荡上帝,下民之辟。" />
+		</sense>
+		<sense tag="动" vernacular="征召">
+			<exam article="《张衡传》" ref="举孝廉不行,连辟公府不就。" />
+		</sense>
+		<sense tag="动" vernacular="通“避”">
+			<exam article="《殽之战》" ref="其北陵,文王之所辟风雨也。" />
+		</sense>
+	</pron>
+	<pron value="pì">
+		<sense tag="动" vernacular="开;打开">
+			<exam article="《促织》" ref="巫从旁望空代祝,唇吻翕辟,不知何词。" />
+		</sense>
+		<sense tag="动" vernacular="开辟;开垦;开设">
+			<exam article="《齐桓晋文之事》" ref="欲辟土地,朝秦楚。" />
+			<exam article="《治平篇》" ref="隙地未尽辟,闭廛未尽居也。" />
+			<exam article="《病梅馆记》" ref="辟病梅之馆以贮之。" />
+		</sense>
+		<sense tag="动" vernacular="排斥;驳斥">
+			<exam article="《答司马谏议书》" ref="辟邪说,难任人,不为拒谏。" />
+		</sense>
+		<sense tag="形" vernacular="偏僻;僻远">
+			<exam article="《汉书·萧何传》" ref="何买田宅必居穷辟处。" />
+		</sense>
+		<sense tag="动" vernacular="比喻,打比方">
+			<exam article="《孟子·尽心上》" ref="有为者辟若掘井,掘井九仞而不及泉,犹为弃井也。" />
+		</sense>
+	</pron>
+	<phrase value="辟谷">
+		<sense value="古代一种养生之术" />
+		<sense value="不吃五谷,专靠服气长生" />
+	</phrase>
+	<phrase value="辟易">
+		<sense value="1" />
+		<sense value="bì惊退" />
+	</phrase>
+</character>

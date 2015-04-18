@@ -1,0 +1,14 @@
+<character value="扯">
+	<introduce>
+		<pinyin value="che3" writing="chĕ" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横竖横竖横" />
+	</introduce>
+	<pron value="chě">
+		<sense tag="动" vernacular="展开，裂开" />
+		<sense tag="动" vernacular="拉，牵" />
+		<sense tag="副" vernacular="漫无边际的谈话" />
+	</pron>
+</character>

@@ -1,0 +1,21 @@
+<character value="肴">
+	<introduce>
+		<pinyin value="yao2" writing="yáo" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="撇捺横撇竖折横横" />
+	</introduce>
+	<pron value="yáo">
+		<sense tag="名" vernacular="鱼肉类食物">
+			<exam article="《醉翁亭记》" ref="山肴野蔌，杂然而前陈者，太守宴也。" />
+		</sense>
+		<sense tag="动" vernacular="通“淆”" />
+	</pron>
+	<phrase value="肴核">
+		<sense value="菜肴和果品" />
+	</phrase>
+	<phrase value="肴馔">
+		<sense value="酒肉等比较丰盛的饭菜" />
+	</phrase>
+</character>

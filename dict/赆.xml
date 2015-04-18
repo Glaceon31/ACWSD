@@ -1,0 +1,17 @@
+<character value="赆">
+	<introduce>
+		<pinyin value="jin4" writing="jìn" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="竖折撇捺折横撇捺捺捺" />
+	</introduce>
+	<pron value="jìn">
+		<sense tag="名" vernacular="赠送路费或财物">
+			<exam article="《梁书·杨公则传》" ref="赆送一无所取。" />
+		</sense>
+		<sense tag="名" vernacular="进贡的财物">
+			<exam article="《赭白马赋》" ref="或踰远而纳赆。" />
+		</sense>
+	</pron>
+</character>

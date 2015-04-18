@@ -1,0 +1,29 @@
+<character value="炎">
+	<introduce>
+		<pinyin value="yan2" writing="yán" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="捺撇撇捺捺撇撇捺" />
+	</introduce>
+	<pron value="yán">
+		<sense tag="动" vernacular="燓烧；燃烧">
+			<exam article="《尚书·胤征》" ref="火炎崐冈，玉石俱焚。" />
+			<exam article="《叙禄命》" ref="蜀郡炎燎。" />
+		</sense>
+		<sense tag="形" vernacular="热；炎热">
+			<exam article="《九章·悲回风》" ref="观炎气之相仍兮。" />
+		</sense>
+	</pron>
+	<pron value="yàn">
+		<sense tag="名" vernacular="通“焰”">
+			<exam article="《后汉书·任光传》" ref="光炎烛天地。" />
+		</sense>
+	</pron>
+	<phrase value="炎炎">
+		<sense value="火光旺盛" />
+		<sense value="权势显赫" />
+		<sense value="炎热，极热" />
+		<sense value="光彩夺目" />
+	</phrase>
+</character>

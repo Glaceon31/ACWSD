@@ -1,0 +1,18 @@
+<character value="吉">
+	<introduce>
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="横竖横竖折横" />
+	</introduce>
+	<pron value="jí">
+		<sense tag="形" vernacular="吉利；吉祥">
+			<exam article="《荀子·天论》" ref="倍道而妄行，则天不能使之吉。" />
+		</sense>
+		<sense tag="形" vernacular="善良；美好">
+			<exam article="《易·系辞下》" ref="吉人之辞寡。" />
+		</sense>
+		<sense tag="名" vernacular="朔日，阴历每月初一" />
+	</pron>
+</character>

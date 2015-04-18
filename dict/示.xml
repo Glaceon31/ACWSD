@@ -1,0 +1,20 @@
+<character value="示">
+	<introduce>
+		<pinyin value="shi4" writing="shì" />
+		<bushou value="示" />
+		<bushoustroke value="5" />
+		<stroke value="5" />
+		<order value="横横竖撇捺" />
+	</introduce>
+	<pron value="shì">
+		<sense tag="动" vernacular="给……看">
+			<exam article="《廉颇蔺相如列传》" ref="璧有瑕，请指示王。" />
+		</sense>
+		<sense tag="动" vernacular="表示；显示">
+			<exam article="《廉颇蔺相如列传》" ref="王不行，示赵弱且怯也。" />
+		</sense>
+		<sense tag="动" vernacular="暗示；示意">
+			<exam article="《鸿门宴》" ref="举所佩玉玦以示之者三。" />
+		</sense>
+	</pron>
+</character>

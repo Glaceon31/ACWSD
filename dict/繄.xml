@@ -1,0 +1,17 @@
+<character value="繄">
+	<introduce>
+		<pinyin value="yi1" writing="yī" />
+		<bushou value="糸" />
+		<bushoustroke value="6" />
+		<stroke value="17" />
+		<order value="横撇横横撇捺折撇折折捺折折捺竖撇捺" />
+	</introduce>
+	<pron value="yī">
+		<sense tag="助" vernacular="句首语气词">
+			<exam article="《左传·隐公元年》" ref="尔有母遗，繄我独无。" />
+		</sense>
+		<sense tag="助" vernacular="句中语气词">
+			<exam article="《国语·周语下》" ref="此一王四伯，岂繄多宠。" />
+		</sense>
+	</pron>
+</character>

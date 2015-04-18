@@ -1,0 +1,57 @@
+<character value="殷">
+	<introduce>
+		<pinyin value="yin1" writing="yīn" />
+		<pinyin value="yan1" writing="yān" />
+		<pinyin value="yin3" writing="yĭn" />
+		<bushou value="殳" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="撇撇折横横折撇折折捺" />
+	</introduce>
+	<pron value="yīn">
+		<sense tag="形" vernacular="众多">
+			<exam article="《诗经·郑风·溱洧》" ref="士与女殷其盈矣。" />
+		</sense>
+		<sense tag="形" vernacular="富裕">
+			<exam article="《隆中对》" ref="民殷国富而不知存恤。" />
+		</sense>
+		<sense tag="形" vernacular="情意深厚">
+			<exam article="《报刘一丈书》" ref="书中情意甚殷。" />
+		</sense>
+	</pron>
+	<pron value="yān">
+		<sense tag="名" vernacular="红黑色">
+			<exam article="《左传·成公二年》" ref="左轮朱殷。" />
+		</sense>
+		<sense tag="名使动" vernacular="使……殷">
+			<exam article="《观巴黎油画记》" ref="而军士之折臂断足，血流殷地，偃仰僵仆者，令人目不忍睹。" />
+		</sense>
+	</pron>
+	<pron value="yǐn">
+		<sense tag="动" vernacular="震动">
+			<exam article="《梦游天姥吟留别》" ref="熊咆龙吟殷岩泉。" />
+		</sense>
+	</pron>
+	<phrase value="殷富">
+		<sense value="富足；丰裕" />
+	</phrase>
+	<phrase value="殷鉴">
+		<sense value="可作借鉴的前事" />
+	</phrase>
+	<phrase value="殷勤">
+		<sense value="深厚的情意" />
+		<sense value="情意深厚" />
+	</phrase>
+	<phrase value="殷实">
+		<sense value="富足；充实" />
+	</phrase>
+	<phrase value="殷殷">
+		<sense value="忧伤的样子" />
+		<sense value="众多的样子" />
+		<sense value="盛大的样子" />
+		<sense value="恳切的样子" />
+	</phrase>
+	<phrase value="殷忧">
+		<sense value="深深的忧虑" />
+	</phrase>
+</character>

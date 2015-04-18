@@ -1,0 +1,30 @@
+<character value="殿">
+	<introduce>
+		<pinyin value="dian4" writing="diàn" />
+		<bushou value="殳" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="折横撇横竖竖横撇捺撇折折捺" />
+	</introduce>
+	<pron value="diàn">
+		<sense tag="名" vernacular="高大的房屋">
+			<exam article="《后汉书·蔡茂传》" ref="梦坐大殿。" />
+		</sense>
+		<sense tag="名" vernacular="封建帝王进行统治发号施令的地方">
+			<exam article="《滕王阁序》" ref="桂殿兰宫，即冈峦之体势。" />
+			<exam article="《阿房宫赋》" ref="辞楼下殿，辇来于秦。" />
+		</sense>
+		<sense tag="名" vernacular="宗教徒供奉神佛的地方">
+			<exam article="《洛阳伽蓝记》" ref="浮图北有佛殿一所。" />
+		</sense>
+		<sense tag="名" vernacular="行军的尾部">
+			<exam article="《左传·襄公二十六年》" ref="晋人寘诸戎车之殿。" />
+		</sense>
+		<sense tag="动" vernacular="行军走在最后面">
+			<exam article="《李愬雪夜入蔡州》" ref="命李进诚将三千人殿其后。" />
+		</sense>
+		<sense tag="动" vernacular="镇抚；镇守">
+			<exam article="《左传·成公二年》" ref="此车一人殿之，可以集事。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,18 @@
+<character value="豕">
+	<introduce>
+		<pinyin value="shi3" writing="shĭ" />
+		<bushou value="豕" />
+		<bushoustroke value="7" />
+		<stroke value="7" />
+		<order value="横撇折撇撇撇捺" />
+	</introduce>
+	<pron value="shǐ">
+		<sense tag="名" vernacular="猪">
+			<exam article="《墨子·鲁问》" ref="取其狗豕食粮衣裘。" />
+		</sense>
+	</pron>
+	<phrase value="豕牢">
+		<sense value="猪圈" />
+		<sense value="厕所" />
+	</phrase>
+</character>

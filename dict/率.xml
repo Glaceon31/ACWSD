@@ -1,0 +1,34 @@
+<character value="率">
+	<introduce>
+		<pinyin value="lu4" writing="lǜ" />
+		<pinyin value="shuai4" writing="shuài" />
+		<pinyin value="shuo4" writing="shuò" />
+		<bushou value="玄" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="捺横折折捺捺横撇捺横竖" />
+	</introduce>
+	<pron value="shuài">
+		<sense tag="名" vernacular="捕鸟的网" />
+		<sense tag="动" vernacular="遵循；遵从">
+			<exam article="《与妻书》" ref="此吾所以敢率性就死不顾汝也。" />
+		</sense>
+		<sense tag="动" vernacular="率领；带领">
+			<exam article="《愚公移山》" ref="遂率子孙荷担者三夫。" />
+		</sense>
+		<sense tag="副" vernacular="大概；大致">
+			<exam article="《察今》" ref="率皆递有变迁。" />
+		</sense>
+		<sense tag="副" vernacular="一概；都">
+			<exam article="《六国论》" ref="六国互丧，率赂秦耶。" />
+		</sense>
+	</pron>
+	<pron value="lǜ">
+		<sense tag="名" vernacular="一定的标准和比率">
+			<exam article="《史记·商君列传》" ref="有军功者，各以其率受上爵。" />
+		</sense>
+	</pron>
+	<phrase value="率土">
+		<sense value="整个境内" />
+	</phrase>
+</character>

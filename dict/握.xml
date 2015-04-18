@@ -1,0 +1,36 @@
+<character value="握">
+	<introduce>
+		<pinyin value="wo4" writing="wò" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖横折横撇横折捺横竖横" />
+	</introduce>
+	<pron value="wò">
+		<sense tag="动" vernacular="攥在手里；执持">
+			<exam article="《九章·怀沙》" ref="怀瑾握瑜兮。" />
+		</sense>
+		<sense tag="动" vernacular="屈指成拳">
+			<exam article="《老子·五十五章》" ref="骨弱筋柔而握固。" />
+		</sense>
+		<sense tag="动" vernacular="掌握">
+			<exam article="《韩非子·主道》" ref="谨执其柄而固握之。" />
+		</sense>
+		<sense tag="量" vernacular="一握即今所谓一把">
+			<exam article="《诗经·陈风·东门之枌》" ref="贻我握椒。" />
+		</sense>
+	</pron>
+	<pron value="uò">
+		<sense vernacular="见“握手”" />
+	</pron>
+	<phrase value="握发">
+		<sense value="洗发时握住头发（不洗）" />
+		<sense value="形容勤劳国事，为招引人才而忙碌" />
+	</phrase>
+	<phrase value="握要">
+		<sense value="掌握要领" />
+	</phrase>
+	<phrase value="握手">
+		<sense value="古代死者的敛具，用布做成袋子套在手上" />
+	</phrase>
+</character>

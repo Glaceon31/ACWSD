@@ -1,0 +1,15 @@
+<character value="碇">
+	<introduce>
+		<pinyin value="ding4" writing="dìng" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="横撇竖折横捺捺折横竖横撇捺" />
+	</introduce>
+	<pron value="dìng">
+		<sense tag="名" vernacular="停船时用来稳定船身的石墩">
+			<exam article="《赠刘司户》" ref="江风扬浪动云根，重碇危樯白日昏。" />
+			<exam article="《群英会蒋干中计》" ref="至操寨边，瑜命下了碇石，楼船上鼓乐齐奏。" />
+		</sense>
+	</pron>
+</character>

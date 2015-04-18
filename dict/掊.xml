@@ -1,0 +1,29 @@
+<character value="掊">
+	<introduce>
+		<pinyin value="pou2" writing="póu" />
+		<pinyin value="pou3" writing="pŏu" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖横捺横捺撇横竖折横" />
+	</introduce>
+	<pron value="póu">
+		<sense tag="动" vernacular="用手扒土">
+			<exam article="《史记·封禅书》" ref="见地如钩状，掊视得鼎。" />
+		</sense>
+		<sense tag="量" vernacular="一捧">
+			<exam article="《论衡·譋时》" ref="河决千里，塞以一掊之土，能胜之乎。" />
+		</sense>
+		<sense tag="动" vernacular="积聚">
+			<exam article="《新唐书·封伦传》" ref="(杨)素殚百姓力，为吾掊怨天下。" />
+		</sense>
+	</pron>
+	<pron value="pǒu">
+		<sense tag="动" vernacular="击；击破">
+			<exam article="《庄子·胠箧》" ref="掊斗折衡，而民不争。" />
+		</sense>
+	</pron>
+	<phrase value="掊克">
+		<sense value="搜刮民财" />
+	</phrase>
+</character>

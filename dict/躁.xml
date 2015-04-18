@@ -1,0 +1,26 @@
+<character value="躁">
+	<introduce>
+		<pinyin value="zao4" writing="zào" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="20" />
+		<order value="竖折横竖横竖横竖折横竖折横竖折横横竖撇捺" />
+	</introduce>
+	<pron value="zào">
+		<sense tag="形" vernacular="急躁；不安静">
+			<exam article="《论语·季氏》" ref="言未及之而言，谓之躁。" />
+		</sense>
+		<sense tag="形" vernacular="躁动">
+			<exam article="《兰亭集序》" ref="虽趣舍万物，静躁不同。" />
+		</sense>
+		<sense tag="形" vernacular="不专心">
+			<exam article="《劝学》" ref="蟹六跪而二螯，非蛇蟮之穴无可寄托者，用心躁也。" />
+		</sense>
+		<sense tag="形" vernacular="狡猾">
+			<exam article="《荀子·富国》" ref="躁者皆化而悫。" />
+		</sense>
+	</pron>
+	<phrase value="躁竞">
+		<sense value="急于争夺权势；好胜争强" />
+	</phrase>
+</character>

@@ -1,0 +1,20 @@
+<character value="瞰">
+	<introduce>
+		<pinyin value="kan4" writing="kàn" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="16" />
+		<order value="竖折横横横折横竖竖横横横撇横撇捺" />
+	</introduce>
+	<pron value="kàn">
+		<sense tag="动" vernacular="俯视">
+			<exam article="《游黄山记》" ref="下瞰峭壑阴森。" />
+		</sense>
+		<sense tag="动" vernacular="远望">
+			<exam article="《雁荡山》" ref="此山南有芙蓉峰，峰下芙蓉驿，前瞰大海。" />
+		</sense>
+		<sense tag="动" vernacular="窥探">
+			<exam article="《孟子·滕文公下》" ref="阳货瞰孔子之也，而馈孔子蒸豚。" />
+		</sense>
+	</pron>
+</character>

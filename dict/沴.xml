@@ -1,0 +1,17 @@
+<character value="沴">
+	<introduce>
+		<pinyin value="li4" writing="lì" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺横撇捺撇撇撇" />
+	</introduce>
+	<pron value="lì">
+		<sense tag="动" vernacular="气不和而相伤">
+			<exam article="《庄子·大宗师》" ref="阴阳之气有沴。" />
+		</sense>
+		<sense tag="名" vernacular="灾气；恶气">
+			<exam article="《汉书·孔光传》" ref="六沴之作，岁之朝曰三朝，其应至重。" />
+		</sense>
+	</pron>
+</character>

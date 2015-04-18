@@ -1,0 +1,18 @@
+<character value="濆">
+	<introduce>
+		<pinyin value="fen2" writing="fén" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="捺捺横横竖横竖竖竖折横横横撇捺" />
+	</introduce>
+	<pron value="fén">
+		<sense tag="名" vernacular="水边；河旁高地">
+			<exam article="《诗经·大雅·常武》" ref="铺敦淮濆，仍执丑虏。" />
+		</sense>
+		<sense tag="名" vernacular="汝水的岔流" />
+		<sense vernacular="pēn水从地下涌出">
+			<exam article="《公羊传·昭公五年》" ref="叔弓帅师败莒师于濆泉。濆泉者何？直泉也。直泉者何？涌泉也。" />
+		</sense>
+	</pron>
+</character>

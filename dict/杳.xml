@@ -1,0 +1,26 @@
+<character value="杳">
+	<introduce>
+		<pinyin value="yao3" writing="yăo" />
+		<pinyin value="miao3" writing="miăo" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横竖撇捺竖折横横" />
+	</introduce>
+	<pron value="yǎo">
+		<sense tag="形" vernacular="昏暗">
+			<exam article="《涉江》" ref="深林杳以冥冥兮。" />
+		</sense>
+		<sense tag="形" vernacular="远">
+			<exam article="《胡笳十八拍》" ref="朝见长城兮路杳漫。" />
+		</sense>
+	</pron>
+	<phrase value="杳眇">
+		<sense value="深远的样子" />
+	</phrase>
+	<phrase value="杳杳">
+		<sense value="高远的样子" />
+		<sense value="幽暗的样子" />
+		<sense value="遥远的样子" />
+	</phrase>
+</character>

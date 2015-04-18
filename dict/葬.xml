@@ -1,0 +1,17 @@
+<character value="葬">
+	<introduce>
+		<pinyin value="zang4" writing="zàng" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖竖横撇折捺撇折横撇竖" />
+	</introduce>
+	<pron value="zàng">
+		<sense tag="动" vernacular="掩埋尸体；安葬">
+			<exam article="《殽之战》" ref="遂墨以葬文公。" />
+		</sense>
+		<sense tag="动" vernacular="死；葬身">
+			<exam article="《屈原列传》" ref="宁赴常流而葬乎江鱼腹中耳，又安能以皓皓之白，而蒙世之温蠖乎！" />
+		</sense>
+	</pron>
+</character>

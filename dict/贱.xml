@@ -1,0 +1,30 @@
+<character value="贱">
+	<introduce>
+		<pinyin value="jian4" writing="jiàn" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="竖折撇捺横横折撇捺" />
+	</introduce>
+	<pron value="jiàn">
+		<sense tag="形" vernacular="价格低廉">
+			<exam article="《卖炭翁》" ref="可怜身上衣正单，心忧炭贱愿天寒。" />
+		</sense>
+		<sense tag="形" vernacular="不珍贵的；不可贵的">
+			<exam article="《游园》" ref="锦屏人忒看这韶光贱。" />
+		</sense>
+		<sense tag="形" vernacular="地位卑下；卑贱">
+			<exam article="《师说》" ref="是故无贵无贱，无长无少。" />
+		</sense>
+		<sense tag="形" vernacular="卑鄙；下贱">
+			<exam article="《五人墓碑记》" ref="其辱人贱行，视五人之死，轻重固何如哉。" />
+		</sense>
+		<sense tag="形意动" vernacular="以……为贱；轻视" />
+		<sense tag="形" vernacular="，表示谦虚">
+			<exam article="《孔雀东南飞》" ref="贱妾留空房。" />
+		</sense>
+	</pron>
+	<phrase value="贱息">
+		<sense value="谦称自己的儿子" />
+	</phrase>
+</character>

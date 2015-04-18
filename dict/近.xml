@@ -1,0 +1,41 @@
+<character value="近">
+	<introduce>
+		<pinyin value="jin4" writing="jìn" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="撇撇横竖捺折捺" />
+	</introduce>
+	<pron value="jìn">
+		<sense tag="形" vernacular="空间距离小，与“远”相对">
+			<exam article="《桃花源记》" ref="缘溪行，忘路之远近。" />
+		</sense>
+		<sense tag="形" vernacular="时间上距离短，与“久”“远”相对">
+			<exam article="《柳敬亭传》" ref="乃近年共称柳敬亭说书。" />
+		</sense>
+		<sense tag="动" vernacular="走近；靠近">
+			<exam article="《左忠毅公逸事》" ref="逆阉防伺甚严，虽家仆不得近。" />
+		</sense>
+		<sense tag="名" vernacular="近处；近旁">
+			<exam article="《察今》" ref="有道之士，贵以近知远。" />
+		</sense>
+		<sense tag="动" vernacular="亲近">
+			<exam article="《战国策·赵策》" ref="襄子必近幸子。" />
+		</sense>
+		<sense tag="形" vernacular="亲近的">
+			<exam article="《陈情表》" ref="外无期功强近之亲。" />
+		</sense>
+		<sense tag="动" vernacular="近似；接近；与……差异不大">
+			<exam article="《师说》" ref="位卑则足羞，官盛则近谀。" />
+		</sense>
+		<sense tag="形" vernacular="浅近；不够深厚或深奥">
+			<exam article="《答韦中立论师道书》" ref="仆道不笃，业甚浅近。" />
+		</sense>
+		<sense tag="副" vernacular="将近；差不多">
+			<exam article="《李愬雪夜入蔡州》" ref="闻愬军号令，应者近万人。" />
+		</sense>
+	</pron>
+	<phrase value="近局">
+		<sense value="指邻居" />
+	</phrase>
+</character>

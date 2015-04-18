@@ -1,0 +1,14 @@
+<character value="呿">
+	<introduce>
+		<pinyin value="qu1" writing="qū" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="竖折横横竖横折捺" />
+	</introduce>
+	<pron value="qù">
+		<sense tag="动" vernacular="张（口）；张开">
+			<exam article="《狱中杂记》" ref="主者口呿舌挢，终不敢诘。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,39 @@
+<character value="不">
+	<introduce>
+		<pinyin value="bu4" writing="bù" />
+		<pinyin value="bu2" writing="bú" />
+		<pinyin value="fou3" writing="fŏu" />
+		<bushou value="一" />
+		<bushoustroke value="1" />
+		<stroke value="4" />
+		<order value="横撇竖捺" />
+	</introduce>
+	<pron value="bú">
+		<sense tag="副" vernacular="不,表一般否定" />
+		<sense tag="副" vernacular="没有,表存在的否定">
+			<exam article="《毛遂自荐》" ref="今日出而从,日中不决,何也?" />
+		</sense>
+		<sense tag="副" vernacular="不是,表否定判断">
+			<exam article="《卖柑者言》" ref="又何往而不金玉其外败絮其中也哉。" />
+		</sense>
+	</pron>
+	<pron value="fǒu">
+		<sense vernacular="通“否”" />
+		<sense tag="助" vernacular="在句末表询问">
+			<exam article="《廉颇蔺相如列传》" ref="秦王以十五城请易寡人之璧,可予不?" />
+		</sense>
+		<sense tag="副" vernacular="用在句中表否定">
+			<exam article="《鸿门宴》" ref="不者,若属皆为所虏。" />
+			<exam article="《师说》" ref="或师焉,或不焉。" />
+		</sense>
+	</pron>
+	<phrase value="不齿">
+		<sense value="齿,并列,并排" />
+		<sense value="不与并列,不与同列" />
+		<sense value="表示极度鄙视" />
+	</phrase>
+	<phrase value="不佞">
+		<sense value="1" />
+		<sense value="无口才;不会巧言善说" />
+	</phrase>
+</character>

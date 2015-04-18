@@ -1,0 +1,27 @@
+<character value="瞿">
+	<introduce>
+		<pinyin value="ju4" writing="jù" />
+		<pinyin value="qu2" writing="qú" />
+		<pinyin value="qu1" writing="qū" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="18" />
+		<order value="竖折横横横竖折横横横撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="jù">
+		<sense tag="动" vernacular="因吃惊而瞪着眼睛">
+			<exam article="《左忠毅公逸事》" ref="及试，吏呼名至史公，公瞿然注视。" />
+		</sense>
+		<sense tag="动" vernacular="惊惧；惊恐">
+			<exam article="《冯婉贞》" ref="三保瞿然曰：‘何以为计？’" />
+		</sense>
+	</pron>
+	<pron value="qú">
+		<sense tag="名" vernacular="兵器名，戟类">
+			<exam article="《尚书·顾命》" ref="一人冕，执瞿，立于西垂。" />
+		</sense>
+		<sense vernacular="通“衢”，四通八达的地方">
+			<exam article="《孙子兵法·九地》" ref="有瞿地，有重地，有冷地。" />
+		</sense>
+	</pron>
+</character>

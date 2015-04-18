@@ -1,0 +1,15 @@
+<character value="瑾">
+	<introduce>
+		<pinyin value="jin3" writing="jĭn" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="15" />
+		<order value="横横竖横横竖竖横竖折横横横竖横" />
+	</introduce>
+	<pron value="jǐn">
+		<sense tag="名" vernacular="美玉">
+			<exam article="《九章·怀沙》" ref="怀瑾握瑜兮穷不知所示。" />
+			<exam article="《山海经·西山经》" ref="其阳多瑾瑜之玉。" />
+		</sense>
+	</pron>
+</character>

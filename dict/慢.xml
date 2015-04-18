@@ -1,0 +1,23 @@
+<character value="慢">
+	<introduce>
+		<pinyin value="man4" writing="màn" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="捺捺竖竖折横横竖折竖竖横折捺" />
+	</introduce>
+	<pron value="màn">
+		<sense tag="形" vernacular="傲慢；不敬">
+			<exam article="《史记·淮侯列传》" ref="王素慢无礼，今拜大将如呼小儿耳。" />
+		</sense>
+		<sense tag="动" vernacular="懈怠；轻视">
+			<exam article="《陈情表》" ref="诏书切峻，责臣逋慢。" />
+		</sense>
+		<sense tag="形" vernacular="缓慢">
+			<exam article="《琵琶行》" ref="轻拢慢捻抹复挑。" />
+		</sense>
+	</pron>
+	<phrase value="慢世">
+		<sense value="玩世不恭；不拘礼法；不以世人毁誉为意" />
+	</phrase>
+</character>

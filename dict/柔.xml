@@ -1,0 +1,36 @@
+<character value="柔">
+	<introduce>
+		<pinyin value="rou2" writing="róu" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="折捺折竖撇横竖撇捺" />
+	</introduce>
+	<pron value="róu">
+		<sense tag="形" vernacular="草木始生；稚嫩">
+			<exam article="《诗经·豳风·七月》" ref="遵彼微行，爰求柔桑。" />
+		</sense>
+		<sense tag="形" vernacular="柔软；柔弱">
+			<exam article="《后汉书·光武帝纪》" ref="吾理天下，亦欲以柔道行。" />
+		</sense>
+		<sense tag="形" vernacular="和；顺">
+			<exam article="《管子·四时》" ref="然则柔风甘雨乃至，百姓乃寿。" />
+		</sense>
+		<sense tag="动" vernacular="安抚">
+			<exam article="《国语·齐语》" ref="宽惠柔民，弗若也。" />
+		</sense>
+	</pron>
+	<phrase value="柔翰">
+		<sense value="毛笔" />
+	</phrase>
+	<phrase value="柔嘉">
+		<sense value="温柔而美善" />
+	</phrase>
+	<phrase value="柔远">
+		<sense value="安抚远方的民族，使归顺" />
+	</phrase>
+	<phrase value="柔则">
+		<sense value="以柔顺为准则" />
+		<sense value="古代女子的道德准则" />
+	</phrase>
+</character>

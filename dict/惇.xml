@@ -1,0 +1,21 @@
+<character value="惇">
+	<introduce>
+		<pinyin value="dun1" writing="dūn" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺竖捺横竖折横折竖横" />
+	</introduce>
+	<pron value="dūn">
+		<sense tag="形" vernacular="敦厚；厚道；诚实">
+			<exam article="《国语·晋语七》" ref="荀家惇。" />
+			<exam article="《韩非子·诡使》" ref="惇悫纯信，用心怯言。" />
+		</sense>
+		<sense tag="动" vernacular="注重；推崇">
+			<exam article="《尚书·武成》" ref="惇信明义，崇德报功。" />
+		</sense>
+		<sense tag="动" vernacular="劝勉；勤勉">
+			<exam article="《汉书·翼奉传》" ref="奉惇学不仕，好律历阴阳之占。" />
+		</sense>
+	</pron>
+</character>

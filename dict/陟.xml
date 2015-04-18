@@ -1,0 +1,17 @@
+<character value="陟">
+	<introduce>
+		<pinyin value="zhi4" writing="zhì" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="折竖竖横竖横竖撇撇" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="动" vernacular="登；上">
+			<exam article="《诗经·周南·卷耳》" ref="陟彼高冈，我马玄黄。" />
+		</sense>
+		<sense tag="动" vernacular="提升；提拔">
+			<exam article="《出师表》" ref="陟罚臧否，不宜异同。" />
+		</sense>
+	</pron>
+</character>

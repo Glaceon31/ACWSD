@@ -1,0 +1,18 @@
+<character value="沆">
+	<introduce>
+		<pinyin value="hang4" writing="hàng" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺横捺横撇折" />
+	</introduce>
+	<pron value="hàng">
+		<sense vernacular="见“沆漭”、“沆瀣”" />
+	</pron>
+	<phrase value="沆漭">
+		<sense value="广阔无边的样子" />
+	</phrase>
+	<phrase value="沆瀣">
+		<sense value="夜间的水气" />
+	</phrase>
+</character>

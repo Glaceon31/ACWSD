@@ -1,0 +1,52 @@
+<character value="恶">
+	<introduce>
+		<pinyin value="e4" writing="è" />
+		<pinyin value="e3" writing="ĕ" />
+		<pinyin value="wu4" writing="wù" />
+		<pinyin value="wu1" writing="wū" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横竖竖捺撇横捺折捺捺" />
+	</introduce>
+	<pron value="è">
+		<sense tag="形" vernacular="罪恶；邪恶">
+			<exam article="《谏太宗十思疏》" ref="惧谗邪则思正身以黜恶。" />
+			<exam article="《&lt;指南录&gt;后序》" ref="不幸吕师孟构恶于前，贾余庆献谄于后。" />
+		</sense>
+		<sense tag="形" vernacular="丑；丑陋">
+			<exam article="《釆草药》" ref="未花时釆，则根色鲜泽；花过而釆，则根色黯恶。" />
+		</sense>
+		<sense tag="形" vernacular="坏；不好">
+			<exam article="《论积贮疏》" ref="岁恶不人，请卖爵子。" />
+			<exam article="《廉颇蔺相如列传》" ref="今君与廉颇同列，廉君宣恶言，而君畏匿之。" />
+		</sense>
+		<sense tag="形" vernacular="污秽">
+			<exam article="《五蠹》" ref="腥臊恶臭而伤害腹胃" />
+			<exam article="《报刘一丈书》" ref="立厩中仆马之间，恶气袭衣裾" />
+		</sense>
+		<sense tag="形" vernacular="险恶；凶险">
+			<exam article="《&lt;指南录&gt;后序》" ref="而境界危恶，层见错出，非人世所堪。" />
+		</sense>
+	</pron>
+	<pron value="wù">
+		<sense tag="动" vernacular="憎恶；讨厌；不喜欢">
+			<exam article="《鱼我所欲也》" ref="死亦我所恶，所恶有甚于死者，故患有所不避也。" />
+		</sense>
+		<sense tag="名" vernacular="耻辱；羞辱">
+			<exam article="《史记·平原君列传》" ref="此百世之怨，而赵之所羞，而王弗知恶焉。" />
+		</sense>
+		<sense tag="动" vernacular="嫉妒">
+			<exam article="《赤壁之战》" ref="表恶其能而不能用也。" />
+		</sense>
+	</pron>
+	<pron value="wū">
+		<sense tag="代" vernacular="哪里；怎么">
+			<exam article="《齐桓晋文之事》" ref="以小易大，彼恶知之？" />
+			<exam article="《满井游记》" ref="余之游将从此始，恶能无记？。" />
+		</sense>
+		<sense tag="叹" vernacular="相当于“啊”、“唉”">
+			<exam article="《孟子·公孙丑上》" ref="恶！是何言也。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,26 @@
+<character value="殊">
+	<introduce>
+		<pinyin value="shu1" writing="shū" />
+		<bushou value="歹" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横撇折捺撇横横竖撇捺" />
+	</introduce>
+	<pron value="shū">
+		<sense tag="动" vernacular="断；绝">
+			<exam article="《左传·昭公二十三年》" ref="武城人塞其前，断其后之木弗殊。" />
+		</sense>
+		<sense tag="动" vernacular="死">
+			<exam article="《史记·淮南王刘安传》" ref="太子即自刭，不殊。" />
+		</sense>
+		<sense tag="形" vernacular="特别；特殊">
+			<exam article="《出师表》" ref="盖追先帝之殊遇，欲报之陛下也。" />
+		</sense>
+		<sense tag="形" vernacular="不同；差异">
+			<exam article="《过秦论》" ref="始皇既没，余威震于殊俗。" />
+		</sense>
+		<sense tag="副" vernacular="很；非常">
+			<exam article="《廉颇蔺相如列传》" ref="而君畏匿之，恐惧殊甚。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="怡">
+	<introduce>
+		<pinyin value="yi2" writing="yí" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺竖折捺竖折横" />
+	</introduce>
+	<pron value="yí">
+		<sense tag="形" vernacular="和悦；愉快">
+			<exam article="《桃花源记》" ref="黄发垂髫，并怡然自乐。" />
+		</sense>
+		<sense tag="形使动" vernacular="使……愉快">
+			<exam article="《归去来辞》" ref="眄庭柯以怡颜。" />
+		</sense>
+	</pron>
+</character>

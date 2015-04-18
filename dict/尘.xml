@@ -1,0 +1,59 @@
+<character value="尘">
+	<introduce>
+		<pinyin value="chen2" writing="chén" />
+		<bushou value="小" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="竖撇捺横竖横" />
+	</introduce>
+	<pron value="chén">
+		<sense tag="名" vernacular="尘土；灰尘">
+			<exam article="《卖炭翁》" ref="满面尘灰烟火色，两鬓苍苍十指黑。" />
+		</sense>
+		<sense tag="名" vernacular="人间；世俗社会">
+			<exam article="《归园田居》" ref="误落尘网中，一去三十年。" />
+		</sense>
+	</pron>
+	<phrase value="尘埃">
+		<sense value="尘俗；尘世" />
+	</phrase>
+	<phrase value="尘凡">
+		<sense value="1" />
+		<sense value="人间" />
+		<sense value="2" />
+		<sense value="凡人" />
+	</phrase>
+	<phrase value="尘寰">
+		<sense value="人世间" />
+	</phrase>
+	<phrase value="尘累">
+		<sense value="1" />
+		<sense value="世俗事务的牵累" />
+	</phrase>
+	<phrase value="尘襟">
+		<sense value="世俗的杂念" />
+	</phrase>
+	<phrase value="尘露">
+		<sense value="1" />
+		<sense value="微尘滴露" />
+		<sense value="比喻微末不足道" />
+	</phrase>
+	<phrase value="尘俗">
+		<sense value="1" />
+		<sense value="世俗；流俗" />
+	</phrase>
+	<phrase value="尘网">
+		<sense value="指尘世" />
+		<sense value="古人认为人在世间有种种束缚，如鱼在网，故称“尘网”" />
+	</phrase>
+	<phrase value="尘嚣">
+		<sense value="世间的纷扰、喧嚣" />
+	</phrase>
+	<phrase value="尘滓">
+		<sense value="1" />
+		<sense value="比喻世间繁琐的事物" />
+	</phrase>
+	<phrase value="尘世">
+		<sense value="指人间" />
+	</phrase>
+</character>

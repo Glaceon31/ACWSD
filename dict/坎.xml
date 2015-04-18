@@ -1,0 +1,26 @@
+<character value="坎">
+	<introduce>
+		<pinyin value="kan3" writing="kăn" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横撇折撇捺" />
+	</introduce>
+	<pron value="kǎn">
+		<sense tag="名" vernacular="坑；坑穴">
+			<exam article="《汉书·苏武》" ref="凿地为坎。" />
+		</sense>
+		<sense tag="名" vernacular="洞；洞穴">
+			<exam article="《李愬雪夜入蔡州》" ref="李祐、李忠义钁其城为坎以先登。" />
+		</sense>
+		<sense tag="象" vernacular="形容敲击的声音">
+			<exam article="《石钟山记》" ref="有窾坎镗鞳之声。" />
+		</sense>
+	</pron>
+	<phrase value="坎毒">
+		<sense value="愤恨" />
+	</phrase>
+	<phrase value="坎廪">
+		<sense value="也作“坎壈”，不平，喻遭遇不顺利" />
+	</phrase>
+</character>

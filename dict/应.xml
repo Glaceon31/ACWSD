@@ -1,0 +1,38 @@
+<character value="应">
+	<introduce>
+		<pinyin value="ying1" writing="yīng" />
+		<pinyin value="ying4" writing="yìng" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺横撇捺捺撇横" />
+	</introduce>
+	<pron value="yīng">
+		<sense tag="副" vernacular="应该">
+			<exam article="《口技》" ref="凡所应有，无所不有。" />
+		</sense>
+		<sense tag="动" vernacular="许给">
+			<exam article="《孔雀东南飞》" ref="以我应他人，君还何所望。" />
+		</sense>
+	</pron>
+	<pron value="yìng">
+		<sense tag="动" vernacular="应答">
+			<exam article="《愚公移山》" ref="河曲智叟亡以应。" />
+		</sense>
+		<sense tag="动" vernacular="承诺">
+			<exam article="《孔雀东南飞》" ref="汝可去应之。" />
+		</sense>
+		<sense tag="形" vernacular="适合">
+			<exam article="《孔雀东南飞》" ref="便利此月内，六合正相应。" />
+		</sense>
+		<sense tag="动" vernacular="应和">
+			<exam article="《促织》" ref="每闻琴瑟之声，则应节而舞。" />
+		</sense>
+		<sense tag="动" vernacular="应召；应征">
+			<exam article="《石壕吏》" ref="急应河阳役，犹得备晨炊。" />
+		</sense>
+		<sense tag="动" vernacular="对付；应付">
+			<exam article="《陈情表》" ref="内无应门五尺之僮。" />
+		</sense>
+	</pron>
+</character>

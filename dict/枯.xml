@@ -1,0 +1,23 @@
+<character value="枯">
+	<introduce>
+		<pinyin value="ku1" writing="kū" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横竖撇捺横竖竖折横" />
+	</introduce>
+	<pron value="kū">
+		<sense tag="动" vernacular="枯萎；蔫">
+			<exam article="《观猎》" ref="草枯鹰眼疾，雪尽马蹄轻。" />
+		</sense>
+		<sense tag="形" vernacular="干枯；干燥">
+			<exam article="《赤壁之战》" ref="取蒙冲斗舰十艘，载燥荻枯柴。" />
+		</sense>
+		<sense tag="动" vernacular="干涸；枯竭">
+			<exam article="《荀子·致士》" ref="川渊枯则鱼龙去之。" />
+		</sense>
+		<sense tag="形" vernacular="憔悴；枯瘦">
+			<exam article="《荀子·修身》" ref="劳倦而容貌不枯。" />
+		</sense>
+	</pron>
+</character>

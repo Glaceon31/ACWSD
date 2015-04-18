@@ -1,0 +1,27 @@
+<character value="博">
+	<introduce>
+		<pinyin value="bo2" writing="bó" />
+		<bushou value="十" />
+		<bushoustroke value="2" />
+		<stroke value="12" />
+		<order value="横竖横竖折横横竖捺横竖捺" />
+	</introduce>
+	<pron value="bó">
+		<sense tag="形" vernacular="宽广；广博">
+			<exam article="《劝学》" ref="君子博学而日参省乎己。" />
+		</sense>
+		<sense tag="动" vernacular="增广，开阔">
+			<exam article="《答韦中立论师道书》" ref="参之《国语》以博其趣。" />
+		</sense>
+		<sense tag="名" vernacular="古代一种赌输赢的游戏">
+			<exam article="《史记·游使列传》" ref="剧孟行大类朱家而好博。" />
+		</sense>
+		<sense tag="动" vernacular="赌博">
+			<exam article="《书博鸡者事》" ref="博鸡者袁人，素无赖。" />
+		</sense>
+		<sense tag="动" vernacular="换取；求取">
+			<exam article="《原君》" ref="以博我一人之产业，曾不惨然。" />
+			<exam article="《促织》" ref="顾念蓄劣物终无所用，不如拚博一笑。" />
+		</sense>
+	</pron>
+</character>

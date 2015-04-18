@@ -1,0 +1,18 @@
+<character value="晟">
+	<introduce>
+		<pinyin value="sheng4" writing="shèng" />
+		<pinyin value="cheng2" writing="chéng" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="竖折横横横撇折折撇捺" />
+	</introduce>
+	<pron value="shèng">
+		<sense tag="形" vernacular="光明">
+			<exam article="《原古上元学士》" ref="昂头冠三山，俯瞰旭日晟。" />
+		</sense>
+		<sense tag="形" vernacular="兴盛，旺盛">
+			<exam article="《西陲石刻录·周李君修绋龛碑》" ref="自泰创兴，于周转晟。" />
+		</sense>
+	</pron>
+</character>

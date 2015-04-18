@@ -1,0 +1,36 @@
+<character value="弹">
+	<introduce>
+		<pinyin value="dan4" writing="dàn" />
+		<pinyin value="tan2" writing="tán" />
+		<bushou value="弓" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="折横折捺撇竖折横横横竖" />
+	</introduce>
+	<pron value="dàn">
+		<sense tag="名" vernacular="弹弓">
+			<exam article="《战国策·楚策四》" ref="左挟弹，右摄丸。" />
+		</sense>
+		<sense tag="名" vernacular="圆形的弹丸，弹子">
+			<exam article="《紫骝马》" ref="角弓连两兔，珠弹落双鸿。" />
+		</sense>
+		<sense tag="名" vernacular="烟火弹、炸弹、枪弹、炮弹等的统称">
+			<exam article="《谭嗣同》" ref="今营中枪弹火药皆在荣贼之手。" />
+		</sense>
+	</pron>
+	<pron value="tán">
+		<sense tag="动" vernacular="用弹子发射弹丸">
+			<exam article="《左传·宣公二年》" ref="从台上弹人，而观其辟丸也。" />
+		</sense>
+		<sense tag="动" vernacular="用手指敲">
+			<exam article="《屈原列传》" ref="新沐者必弹冠，新浴者必振衣。" />
+		</sense>
+		<sense tag="动" vernacular="弹奏">
+			<exam article="《孔雀东南飞》" ref="十五弹箜篌，十六诵书。" />
+			<exam article="《琵琶行》" ref="低眉信手续续弹，说尽心中无限事。" />
+		</sense>
+		<sense tag="动" vernacular="批评；抨击；检举">
+			<exam article="《与杨千祖书》" ref="仆常好人讥弹其文，有不善者，应时改定。" />
+		</sense>
+	</pron>
+</character>

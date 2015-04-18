@@ -1,0 +1,20 @@
+<character value="授">
+	<introduce>
+		<pinyin value="shou4" writing="shòu" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖横撇捺捺撇捺折折捺" />
+	</introduce>
+	<pron value="shòu">
+		<sense tag="动" vernacular="授予；传授">
+			<exam article="《师说》" ref="彼童子之师，授之书而习其句读者。" />
+		</sense>
+		<sense tag="动" vernacular="授予；给予">
+			<exam article="《廉颇蔺相如列传》" ref="王授璧，相如因持璧却立。" />
+		</sense>
+		<sense tag="动" vernacular="任命；被任命">
+			<exam article="《葫芦僧判断葫芦案》" ref="如今且说贾雨村授了应天府。" />
+		</sense>
+	</pron>
+</character>

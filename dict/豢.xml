@@ -1,0 +1,20 @@
+<character value="豢">
+	<introduce>
+		<pinyin value="huan4" writing="huàn" />
+		<bushou value="豕" />
+		<bushoustroke value="7" />
+		<stroke value="13" />
+		<order value="捺撇横横撇捺横撇折撇撇撇捺" />
+	</introduce>
+	<pron value="huàn">
+		<sense tag="动" vernacular="喂养；饲养">
+			<exam article="《礼记·乐记》" ref="夫豢豕为酒，非以为祸也" />
+		</sense>
+		<sense tag="动" vernacular="以利引诱；收买">
+			<exam article="《左传·哀公十一年》" ref="唯子胥惧，曰：‘是豢吴也夫！’" />
+		</sense>
+		<sense tag="动" vernacular="安养；生活">
+			<exam article="《教战守策》" ref="其民安于太平之乐，豢于游戏酒食之间。" />
+		</sense>
+	</pron>
+</character>

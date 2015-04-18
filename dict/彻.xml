@@ -1,0 +1,33 @@
+<character value="彻">
+	<introduce>
+		<pinyin value="che4" writing="chè" />
+		<bushou value="彳" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="撇撇竖横折折撇" />
+	</introduce>
+	<pron value="chè">
+		<sense tag="动" vernacular="通；通达">
+			<exam article="《滕王阁序》" ref="云销雨霁，彩彻区明。" />
+			<exam article="《愚公移山》" ref="汝心之固，固不可彻。" />
+		</sense>
+		<sense tag="动" vernacular="透，穿过">
+			<exam article="《小石潭记》" ref="日光下彻，影布石上，佁然不动。" />
+		</sense>
+		<sense tag="动" vernacular="尽；完；到底">
+			<exam article="《茅屋为秋风所破歌》" ref="自经丧乱少睡眠，长夜沾湿何由彻。" />
+		</sense>
+		<sense tag="动" vernacular="通“撤”">
+			<exam article="《赵威后问齐使》" ref="彻其环瑱，至老不嫁，以养父母。" />
+		</sense>
+	</pron>
+	<phrase value="彻骨">
+		<sense value="透到骨肉，比喻程度极深" />
+	</phrase>
+	<phrase value="彻席">
+		<sense value="死的委婉说法" />
+	</phrase>
+	<phrase value="彻夜">
+		<sense value="通霄" />
+	</phrase>
+</character>

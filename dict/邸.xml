@@ -1,0 +1,38 @@
+<character value="邸">
+	<introduce>
+		<pinyin value="di3" writing="dĭ" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇折横折捺折竖" />
+	</introduce>
+	<pron value="dǐ">
+		<sense tag="名" vernacular="战国时各国的客馆；汉各郡王侯为朝见而设置在京都的住所">
+			<exam article="《史记·吕后本纪》" ref="迎代王于邸。" />
+		</sense>
+		<sense tag="名" vernacular="官员办事或居住的住所">
+			<exam article="《世态炎凉》" ref="（朱）买臣衣故衣，怀其印绶，步归郡邸。" />
+		</sense>
+		<sense tag="名" vernacular="客店；旅店">
+			<exam article="《宋史·黄干传》" ref="干因留客邸。" />
+		</sense>
+		<sense tag="动史动" vernacular="使……来到">
+			<exam article="《涉江》" ref="邸余车兮方林。" />
+		</sense>
+		<sense tag="名" vernacular="粮库">
+			<exam article="《三国志·蜀志·后主传》" ref="治斜谷邸阁。" />
+		</sense>
+		<sense tag="动" vernacular="通“抵”">
+			<exam article="《史记·河渠书》" ref="令凿泾水自中山西邸瓠口为渠。" />
+		</sense>
+	</pron>
+	<phrase value="邸报">
+		<sense value="汉唐地方长官在京师设邸，传抄诏令奏章等，报给各藩国，所以称为邸报，后泛指朝廷官报" />
+	</phrase>
+	<phrase value="邸第">
+		<sense value="王侯贵族的住宅" />
+	</phrase>
+	<phrase value="邸阁">
+		<sense value="屯积军粮或物资之所" />
+	</phrase>
+</character>

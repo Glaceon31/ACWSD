@@ -1,0 +1,17 @@
+<character value="虔">
+	<introduce>
+		<pinyin value="qian2" writing="qián" />
+		<bushou value="虍" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="竖横折撇横折捺横撇捺" />
+	</introduce>
+	<pron value="qián">
+		<sense tag="形" vernacular="恭敬">
+			<exam article="《诗经·大雅·韩奕》" ref="夙夜匪懈，虔共尔位。" />
+		</sense>
+		<sense tag="动" vernacular="杀">
+			<exam article="《左传·成公十三年》" ref="虔刘我边陲。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,39 @@
+<character value="帖">
+	<introduce>
+		<pinyin value="tie1" writing="tiē" />
+		<pinyin value="tie3" writing="tiĕ" />
+		<pinyin value="tie4" writing="tiè" />
+		<bushou value="巾" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="竖折竖竖横竖折横" />
+	</introduce>
+	<pron value="tiē">
+		<sense tag="形" vernacular="安定">
+			<exam article="《十渐不克终疏》" ref="脱因水旱，谷麦不收，恐百姓之心，不能如前日之宁帖。" />
+		</sense>
+		<sense tag="动" vernacular="通“贴”">
+			<exam article="《梁书·羊侃传》" ref="能反腰帖地。" />
+			<exam article="《木兰诗》" ref="当窗理云鬓，对镜帖花黄。" />
+		</sense>
+		<sense tag="动" vernacular="通“贴”">
+			<exam article="《新唐书·李峤传》" ref="有卖舍、帖田供王役者。" />
+		</sense>
+	</pron>
+	<pron value="tiě">
+		<sense tag="名" vernacular="文书；告示">
+			<exam article="《新安吏》" ref="府帖昨夜下。" />
+		</sense>
+	</pron>
+	<pron value="tiè">
+		<sense tag="名" vernacular="书法、绘画时摹仿的样本">
+			<exam article="《跋某帖后》" ref="于塾中日展此帖临之。" />
+		</sense>
+	</pron>
+	<phrase value="帖服">
+		<sense value="顺从" />
+	</phrase>
+	<phrase value="帖息">
+		<sense value="安静平息" />
+	</phrase>
+</character>

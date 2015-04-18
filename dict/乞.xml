@@ -1,0 +1,28 @@
+<character value="乞">
+	<introduce>
+		<pinyin value="qi3" writing="qĭ" />
+		<bushou value="乙" />
+		<bushoustroke value="1" />
+		<stroke value="3" />
+		<order value="撇横折" />
+	</introduce>
+	<pron value="qǐ">
+		<sense tag="动" vernacular="乞求">
+			<exam article="《班超告老归国》" ref="上书乞归曰。" />
+		</sense>
+		<sense tag="动" vernacular="乞讨">
+			<exam article="《教战守策》" ref="四方之民兽奔鸟窜，乞为囚瞄之不暇。" />
+		</sense>
+	</pron>
+	<pron value="qì">
+		<sense tag="动" vernacular="给；给予">
+			<exam article="《晋书·谢安传》" ref="安顾谓其甥羊昙曰：‘以墅乞汝。’" />
+		</sense>
+		<sense tag="动" vernacular="特指讨饭">
+			<exam article="《韩非子·诡使》" ref="今死士之孤饥饿乞于道，而优笑酒徒之属乘车衣丝。" />
+		</sense>
+	</pron>
+	<phrase value="乞骸骨">
+		<sense value="古代官吏因年老自请退职的用语" />
+	</phrase>
+</character>

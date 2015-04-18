@@ -1,0 +1,20 @@
+<character value="铙">
+	<introduce>
+		<pinyin value="nao2" writing="náo" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="撇横横横折横折撇横撇折" />
+	</introduce>
+	<pron value="náo">
+		<sense tag="名" vernacular="古时一种军中乐器，似铃，用槌敲击发声">
+			<exam article="《鲁提辖拳打镇关西》" ref="却似做了一个全堂水陆的道场，罄儿、钹儿、铙儿一齐响。" />
+		</sense>
+		<sense tag="动" vernacular="通“挠”，扰乱">
+			<exam article="《庄子·天道》" ref="万物无足以铙心者，故静也。" />
+		</sense>
+	</pron>
+	<phrase value="铙歌">
+		<sense value="乐府《鼓吹曲》的一种，多用于宴会及激励士气" />
+	</phrase>
+</character>

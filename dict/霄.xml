@@ -1,0 +1,20 @@
+<character value="霄">
+	<introduce>
+		<pinyin value="xiao1" writing="xiāo" />
+		<bushou value="雨" />
+		<bushoustroke value="8" />
+		<stroke value="15" />
+		<order value="横捺折竖捺捺捺捺竖捺撇竖折横横" />
+	</introduce>
+	<pron value="xiāo">
+		<sense tag="名" vernacular="云气">
+			<exam article="《兵车行》" ref="哭声直上干云霄。" />
+		</sense>
+		<sense tag="名" vernacular="天空">
+			<exam article="《雁荡山》" ref="至谷中则森然干霄。" />
+		</sense>
+	</pron>
+	<phrase value="霄汉">
+		<sense value="云霄和银河，也比喻朝廷" />
+	</phrase>
+</character>

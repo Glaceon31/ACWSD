@@ -1,0 +1,41 @@
+<character value="第">
+	<introduce>
+		<pinyin value="di4" writing="dì" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="11" />
+		<order value="撇横捺撇横捺折横折竖撇" />
+	</introduce>
+	<pron value="dì">
+		<sense tag="名" vernacular="次第；次序">
+			<exam article="《左传·哀公十六年》" ref="楚国第，我死，令尹司马非胜而谁？" />
+		</sense>
+		<sense tag="名" vernacular="官僚和贵族的住宅">
+			<exam article="《记王忠肃公翱事》" ref="出，驾而宿于朝房，旬而还第。" />
+			<exam article="《左忠毅公逸事》" ref="必躬造左公第，候太公、太母起居。" />
+		</sense>
+		<sense tag="名" vernacular="科举考试的等级">
+			<exam article="《柳毅传》" ref="有儒生柳毅者，应举下第。" />
+			<exam article="《芋老人传》" ref="书生用甲第为祖国。" />
+		</sense>
+		<sense tag="副" vernacular="但；只管">
+			<exam article="《陈涉世家》" ref="借第令毋斩，而戍死者固十六七。" />
+		</sense>
+		<sense tag="副" vernacular="只；仅仅">
+			<exam article="《黄州新建小竹楼记》" ref="江山之外，第见风帆、沙鸟、烟云、竹树而已。" />
+		</sense>
+		<sense tag="连" vernacular="只是；但是">
+			<exam article="《与妻书》" ref="吾诚愿与汝相守以死，第以今日事势观之……。" />
+		</sense>
+		<sense vernacular="词头">
+			<exam article="《孔雀东南飞》" ref="云有第三郞，窈窕世无双。" />
+			<exam article="《活板》" ref="此印者才毕，则第二板已具。" />
+		</sense>
+	</pron>
+	<phrase value="第家">
+		<sense value="世家" />
+	</phrase>
+	<phrase value="第下">
+		<sense value="对公侯大官的敬称等于“门下”、“阁下”" />
+	</phrase>
+</character>

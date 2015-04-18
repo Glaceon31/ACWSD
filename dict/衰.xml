@@ -1,0 +1,35 @@
+<character value="衰">
+	<introduce>
+		<pinyin value="shuai1" writing="shuāi" />
+		<pinyin value="cui1" writing="cuī" />
+		<bushou value="衣" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="捺横竖折横横撇折撇捺" />
+	</introduce>
+	<pron value="shuāi">
+		<sense tag="形" vernacular="衰微；衰弱">
+			<exam article="《石壕吏》" ref="老妪力虽衰，请从吏夜归。" />
+		</sense>
+		<sense tag="形" vernacular="衰老">
+			<exam article="《触龙说赵太后》" ref="老臣贱息舒祺，最少，不肖，而臣衰，窃爱怜之。" />
+		</sense>
+		<sense tag="形" vernacular="衰败；衰落">
+			<exam article="《陈情表》" ref="门衰祚薄，晚有儿息。" />
+		</sense>
+		<sense tag="形" vernacular="衰亡">
+			<exam article="《伶官传序》" ref="盛衰之理，虽曰天命，岂非人事哉。" />
+		</sense>
+	</pron>
+	<pron value="cuī">
+		<sense tag="动" vernacular="减少">
+			<exam article="《回乡偶书》" ref="少小离家老大回，乡音未改鬓毛衰。" />
+		</sense>
+		<sense tag="名" vernacular="古代丧服，用粗麻布制成披在胸前">
+			<exam article="《殽之战》" ref="子墨衰绖。" />
+		</sense>
+	</pron>
+	<phrase value="衰红">
+		<sense value="凋谢之花" />
+	</phrase>
+</character>

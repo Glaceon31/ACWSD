@@ -1,0 +1,17 @@
+<character value="刎">
+	<introduce>
+		<pinyin value="wen3" writing="wĕn" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇折撇撇竖竖" />
+	</introduce>
+	<pron value="wěn">
+		<sense tag="动" vernacular="割颈部">
+			<exam article="《史记·廉颇蔺相如列传》" ref="为刎颈之交。" />
+		</sense>
+		<sense tag="动" vernacular="泛指割断">
+			<exam article="《韩非子·外储说右下》" ref="抽刀而刎其啼。" />
+		</sense>
+	</pron>
+</character>

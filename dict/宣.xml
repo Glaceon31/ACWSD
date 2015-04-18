@@ -1,0 +1,32 @@
+<character value="宣">
+	<introduce>
+		<pinyin value="xuan1" writing="xuān" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺折横竖折横横横" />
+	</introduce>
+	<pron value="xuān">
+		<sense tag="动" vernacular="宣布；公开说出">
+			<exam article="《廉颇蔺相如列传》" ref="今君与廉颇同列，廉君宣恶言，而君畏匿之。" />
+		</sense>
+		<sense tag="动" vernacular="宣谕；传达帝王的令或意见">
+			<exam article="《三峡》" ref="或王命急宣，有时朝发白帝，暮到江陵。" />
+		</sense>
+		<sense tag="动" vernacular="显示；发扬">
+			<exam article="《叔向贺贫》" ref="宣其德行，顺其宪则。" />
+		</sense>
+		<sense tag="动" vernacular="放开">
+			<exam article="《邵公谏厉王弭谤》" ref="是故为川者决之使导，为民者宣之使言。" />
+		</sense>
+	</pron>
+	<phrase value="宣国">
+		<sense value="致力；用力" />
+	</phrase>
+	<phrase value="宣募">
+		<sense value="公开招募" />
+	</phrase>
+	<phrase value="宣慰">
+		<sense value="安抚" />
+	</phrase>
+</character>

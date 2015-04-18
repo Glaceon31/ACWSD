@@ -1,0 +1,19 @@
+<character value="曜">
+	<introduce>
+		<pinyin value="yao4" writing="yào" />
+		<pinyin value="yue4" writing="yuè" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="18" />
+		<order value="竖折横横折捺横折捺横撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="yào">
+		<sense tag="名" vernacular="日光">
+			<exam article="《水经注·卢江水》" ref="晨光初散，则延曜入石。" />
+		</sense>
+		<sense tag="动" vernacular="照耀" />
+		<sense tag="名" vernacular="指日、月及金、木、水、火、土五星">
+			<exam article="《谷梁传序》" ref="七曜为之盈缩。" />
+		</sense>
+	</pron>
+</character>

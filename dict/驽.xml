@@ -1,0 +1,17 @@
+<character value="驽">
+	<introduce>
+		<pinyin value="nu2" writing="nú" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折撇横折捺折折横" />
+	</introduce>
+	<pron value="nú">
+		<sense tag="名" vernacular="劣马">
+			<exam article="《劝学》" ref="驽马十驾，功在不舍。" />
+		</sense>
+		<sense tag="形" vernacular="才能低下">
+			<exam article="《廉颇蔺相如列传》" ref="相如虽驽，独畏廉将军哉？" />
+		</sense>
+	</pron>
+</character>

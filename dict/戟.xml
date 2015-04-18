@@ -1,0 +1,30 @@
+<character value="戟">
+	<introduce>
+		<pinyin value="ji3" writing="jĭ" />
+		<bushou value="戈" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖竖折横横横竖横折撇捺" />
+	</introduce>
+	<pron value="jǐ">
+		<sense tag="名" vernacular="一种兵器">
+			<exam article="《鸿门宴》" ref="交戟之士欲止不内。" />
+		</sense>
+		<sense tag="动" vernacular="钩刺">
+			<exam article="《梦溪笔谈·异事》" ref="遇鹿豕即以尾戟之以食。" />
+		</sense>
+		<sense tag="形" vernacular="指手臂做成戟的形状">
+			<exam article="《后怪石供》" ref="戟此而詈人，人莫不怒。" />
+		</sense>
+		<sense tag="形" vernacular="刺激">
+			<exam article="《与崔饶州论石钟乳书》" ref="泄火生风，戟喉痒肺。" />
+		</sense>
+	</pron>
+	<phrase value="戟户">
+		<sense value="指军营" />
+		<sense value="指显赫高贵之家" />
+	</phrase>
+	<phrase value="戟手">
+		<sense value="（骂人时）将食指和中指伸屈成戟形以指指点点" />
+	</phrase>
+</character>

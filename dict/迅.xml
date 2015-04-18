@@ -1,0 +1,17 @@
+<character value="迅">
+	<introduce>
+		<pinyin value="xun4" writing="xùn" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折横竖捺折捺" />
+	</introduce>
+	<pron value="xùn">
+		<sense tag="副" vernacular="快；急速">
+			<exam article="《世说新语·汰侈》" ref="崇牛数十步后迅若飞禽，恺牛绝走不能及。" />
+		</sense>
+	</pron>
+	<phrase value="迅雷">
+		<sense value="疾雷" />
+	</phrase>
+</character>

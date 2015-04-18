@@ -1,0 +1,16 @@
+<character value="雎">
+	<introduce>
+		<pinyin value="ju1" writing="jū" />
+		<bushou value="隹" />
+		<bushoustroke value="8" />
+		<stroke value="13" />
+		<order value="竖折横横横撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="jū">
+		<sense vernacular="见“雎鸠”" />
+		<sense vernacular="用于人名" />
+	</pron>
+	<phrase value="雎鸠">
+		<sense value="一种水鸟，又名王维，俗称鱼鹰" />
+	</phrase>
+</character>

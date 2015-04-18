@@ -1,0 +1,24 @@
+<character value="樵">
+	<introduce>
+		<pinyin value="qiao2" writing="qiáo" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="16" />
+		<order value="横竖撇捺撇竖捺横横横竖横捺捺捺捺" />
+	</introduce>
+	<pron value="qiáo">
+		<sense tag="名" vernacular="木柴">
+			<exam article="《论贵粟疏》" ref="伐薪樵，治官府，给徭役。" />
+		</sense>
+		<sense tag="动" vernacular="砍柴；打柴">
+			<exam article="《赤壁赋》" ref="况吾与子渔樵于江渚之上。" />
+		</sense>
+		<sense tag="名" vernacular="樵夫；打柴的人">
+			<exam article="《谢公墩》" ref="问樵樵不知，问牧牧不言及。" />
+		</sense>
+	</pron>
+	<phrase value="樵苏不爨">
+		<sense value="有柴有草，无食为炊" />
+		<sense value="用以喻贫困" />
+	</phrase>
+</character>

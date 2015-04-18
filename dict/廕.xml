@@ -1,0 +1,17 @@
+<character value="廕">
+	<introduce>
+		<pinyin value="yin4" writing="yìn" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="捺横撇折竖撇捺捺折横横折捺" />
+	</introduce>
+	<pron value="yìn">
+		<sense tag="动" vernacular="荫庇">
+			<exam article="《九思·悯上》" ref="庇廕兮枯树，匍匐兮岩石。" />
+		</sense>
+		<sense tag="动" vernacular="封建时代帝王给予有功大臣的子孙读书或做官的特权">
+			<exam article="《新唐书·韦挺传》" ref="武少孤，年十一，廕补右千牛。" />
+		</sense>
+	</pron>
+</character>

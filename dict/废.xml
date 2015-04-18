@@ -1,0 +1,32 @@
+<character value="废">
+	<introduce>
+		<pinyin value="fei4" writing="fèi" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺横撇折撇折捺捺" />
+	</introduce>
+	<pron value="fèi">
+		<sense tag="动" vernacular="舍弃；停止">
+			<exam article="《齐桓晋之事》" ref="然则废衅钟与?" />
+		</sense>
+		<sense tag="动" vernacular="废黜；罢黜">
+			<exam article="《柳子厚墓志铭》" ref="谓功业可立就，故坐废退。" />
+		</sense>
+		<sense tag="形" vernacular="衰败">
+			<exam article="《岳阳楼记》" ref="政通人和，百废待兴。" />
+		</sense>
+		<sense tag="动" vernacular="秃败；倒塌">
+			<exam article="《扬州慢》" ref="废池乔木，犹厌言兵。" />
+		</sense>
+		<sense tag="形" vernacular="负伤；残废">
+			<exam article="《荆轲刺秦王》" ref="荆轲~，乃引其匕首提秦王。" />
+		</sense>
+		<sense tag="动" vernacular="浪费">
+			<exam article="《乐羊子妻》" ref="今若断斯织也，则捐失成功，稽废时日。" />
+		</sense>
+		<sense tag="形" vernacular="失望；颓废">
+			<exam article="《原君》" ref="其欲得天下之心，有不废然摧泪者乎。" />
+		</sense>
+	</pron>
+</character>

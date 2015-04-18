@@ -1,0 +1,26 @@
+<character value="刊">
+	<introduce>
+		<pinyin value="kan1" writing="kān" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="5" />
+		<order value="横横竖竖竖" />
+	</introduce>
+	<pron value="kān">
+		<sense tag="动" vernacular="砍；削">
+			<exam article="《尚书·益稷》" ref="随山刊木。" />
+		</sense>
+		<sense tag="动" vernacular="删改；修正">
+			<exam article="《察变》" ref="此地学不刊之说也。" />
+		</sense>
+		<sense tag="动" vernacular="刻；雕刻">
+			<exam article="《晋书·孙绰传》" ref="必须绰为碑文，然后刊石焉。" />
+		</sense>
+	</pron>
+	<phrase value="刊落">
+		<sense value="删除繁琐芜杂的文字" />
+	</phrase>
+	<phrase value="刊颂">
+		<sense value="刻石立碑，歌功颂德" />
+	</phrase>
+</character>

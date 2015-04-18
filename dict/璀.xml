@@ -1,0 +1,21 @@
+<character value="璀">
+	<introduce>
+		<pinyin value="cui3" writing="cuĭ" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="15" />
+		<order value="横横竖横竖折竖撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="cuǐ">
+		<sense vernacular="玉石有光泽，色彩鲜明">
+			<exam article="《游天台山赋》" ref="建木灭景于千寻，琪树璀璨而垂珠。" />
+			<exam article="《文木赋》" ref="制为枕案，文章璀璨。" />
+		</sense>
+	</pron>
+	<phrase value="璀璀">
+		<sense value="形容鲜明" />
+	</phrase>
+	<phrase value="璀错">
+		<sense value="繁盛；盛美" />
+	</phrase>
+</character>

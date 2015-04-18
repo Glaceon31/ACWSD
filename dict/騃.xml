@@ -1,0 +1,19 @@
+<character value="騃">
+	<introduce>
+		<pinyin value="ai2" writing="ái" />
+		<bushou value="馬" />
+		<bushoustroke value="10" />
+		<stroke value="17" />
+		<order value="横竖横横竖折捺捺捺捺折捺撇横横撇捺" />
+	</introduce>
+	<pron value="ái">
+		<sense tag="形" vernacular="痴呆；愚蠢">
+			<exam article="《汉书·息夫躬传》" ref="外有直项之名，内实騃不晓政事。" />
+		</sense>
+	</pron>
+	<pron value="sì㈡">
+		<sense tag="形" vernacular="急走的样子">
+			<exam article="《有事于南郊赋》" ref="雷公河伯，咸駓騃以修耸。" />
+		</sense>
+	</pron>
+</character>

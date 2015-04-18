@@ -1,0 +1,39 @@
+<character value="区">
+	<introduce>
+		<pinyin value="qu1" writing="qū" />
+		<pinyin value="ou1" writing="ōu" />
+		<bushou value="匚" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="横撇捺折" />
+	</introduce>
+	<pron value="qū">
+		<sense tag="动" vernacular="区分；区别">
+			<exam article="《论语·子张》" ref="臂诸草木，区以别矣。" />
+		</sense>
+		<sense tag="名" vernacular="区域；地区">
+			<exam article="《察变》" ref="英伦诸岛乃属冰天雪海之区。" />
+		</sense>
+	</pron>
+	<pron value="ōu">
+		<sense tag="名" vernacular="古代量器名">
+			<exam article="《韩非子·外储说右上》" ref="私大斗斛区釜以出贷，小斗斛区釜以氏儿也。" />
+		</sense>
+		<sense tag="名" vernacular="姓">
+			<exam article="《童区寄传》" ref="我区氏儿也。" />
+		</sense>
+	</pron>
+	<phrase value="区理">
+		<sense value="分别料理" />
+	</phrase>
+	<phrase value="区区">
+		<sense value="小；少" />
+		<sense value="见识短浅；愚笨" />
+		<sense value="自称的谦词" />
+		<sense value="仅仅" />
+		<sense value="⒌爱慕；思慕" />
+	</phrase>
+	<phrase value="区宇">
+		<sense value="境域；区域" />
+	</phrase>
+</character>

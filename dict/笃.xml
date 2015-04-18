@@ -1,0 +1,32 @@
+<character value="笃">
+	<introduce>
+		<pinyin value="du3" writing="dŭ" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="9" />
+		<order value="撇横捺撇横捺折折横" />
+	</introduce>
+	<pron value="dǔ">
+		<sense tag="形" vernacular="忠诚；厚道">
+			<exam article="《答韦中立论师道书》" ref="仆道不笃，业甚浅近。" />
+		</sense>
+		<sense tag="形" vernacular="坚定">
+			<exam article="《礼记·中庸》" ref="明辨之，笃行之。" />
+		</sense>
+		<sense tag="形" vernacular="（病）重">
+			<exam article="《陈情表》" ref="臣欲奉诏奔驰，则刘病日笃。" />
+		</sense>
+		<sense tag="副" vernacular="很；非常">
+			<exam article="《南史·文学传》" ref="盖由时主儒雅，笃好文章。" />
+		</sense>
+	</pron>
+	<phrase value="笃论">
+		<sense value="正确、恰当的评论" />
+	</phrase>
+	<phrase value="笃行">
+		<sense value="力行其事，不改初衷" />
+	</phrase>
+	<phrase value="笃学">
+		<sense value="专心学习" />
+	</phrase>
+</character>

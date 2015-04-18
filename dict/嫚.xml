@@ -1,0 +1,18 @@
+<character value="嫚">
+	<introduce>
+		<pinyin value="man4" writing="màn" />
+		<pinyin value="man1" writing="mān" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="折撇横竖折横横竖折竖竖横折捺" />
+	</introduce>
+	<pron value="màn">
+		<sense tag="动" vernacular="轻慢；侮辱">
+			<exam article="《汉书·季布传》" ref="单于尝为书嫚吕太后。" />
+		</sense>
+		<sense tag="动" vernacular="通“慢”">
+			<exam article="《淮南子·主术》" ref="而职事不嫚。" />
+		</sense>
+	</pron>
+</character>

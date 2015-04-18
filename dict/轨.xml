@@ -1,0 +1,23 @@
+<character value="轨">
+	<introduce>
+		<pinyin value="gui3" writing="guĭ" />
+		<bushou value="车" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="横折竖横撇折" />
+	</introduce>
+	<pron value="guǐ">
+		<sense tag="名" vernacular="车两轮间的距离">
+			<exam article="《史记·秦始皇本纪》" ref="车同轨，书同文。" />
+		</sense>
+		<sense tag="名" vernacular="轨道；一定的路线">
+			<exam article="《淮南子·本经》" ref="五星循轨而不失其行。" />
+		</sense>
+		<sense tag="名" vernacular="法则；法度">
+			<exam article="《汉书·叙传》" ref="东平失轨。" />
+		</sense>
+		<sense tag="名" vernacular="通“宄”，犯法作乱的人">
+			<exam article="《汉书·辛庆忌传》" ref="奸轨不得萌动而破灭。" />
+		</sense>
+	</pron>
+</character>

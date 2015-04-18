@@ -1,0 +1,37 @@
+<character value="阻">
+	<introduce>
+		<pinyin value="zu3" writing="zŭ" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="折竖竖折横横横" />
+	</introduce>
+	<pron value="zǔ">
+		<sense tag="名" vernacular="险要的地方">
+			<exam article="《子鱼论战》" ref="古之为军也，不以阻隘也。" />
+			<exam article="《隆中对》" ref="若跨荆、益，保其险阻。" />
+		</sense>
+		<sense tag="形" vernacular="艰险；险阻">
+			<exam article="《古诗十九首·行行重行行》" ref="道路阻且长，会面安可知？" />
+		</sense>
+		<sense tag="动" vernacular="阻断；阻截">
+			<exam article="《三峡》" ref="至于夏水襄陵，沿溯阻绝。" />
+			<exam article="《子鱼论战》" ref="阻而鼓之，不亦可乎？" />
+		</sense>
+		<sense tag="动" vernacular="恃；倚仗">
+			<exam article="《左传·隐公四年》" ref="夫州吁阻兵而安忍。" />
+		</sense>
+		<sense tag="动" vernacular="疑惑">
+			<exam article="《左传·闵公二年》" ref="狂夫阻之。" />
+		</sense>
+		<sense tag="形" vernacular="艰难">
+			<exam article="《尚书·舜典》" ref="黎民阻饥。" />
+		</sense>
+	</pron>
+	<phrase value="阻深">
+		<sense value="阻隔至深" />
+	</phrase>
+	<phrase value="阻修">
+		<sense value="阻隔遥远" />
+	</phrase>
+</character>

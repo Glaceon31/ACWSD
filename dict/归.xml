@@ -1,0 +1,47 @@
+<character value="归">
+	<introduce>
+		<pinyin value="gui1" writing="guī" />
+		<bushou value="彐" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="竖撇折横横" />
+	</introduce>
+	<pron value="guī">
+		<sense tag="动" vernacular="女子出嫁">
+			<exam article="《项脊轩志》" ref="后五年，吾妻来归。" />
+		</sense>
+		<sense tag="动" vernacular="返回；回去">
+			<exam article="《屈原列传》" ref="楚兵惧，自秦归。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……返回">
+			<exam article="《廉颇蔺相如列传》" ref="卒廷见相如，毕礼而归之。" />
+		</sense>
+		<sense tag="动" vernacular="送回；归还">
+			<exam article="《廉颇蔺相如列传》" ref="城不入，臣请完璧归赵。" />
+		</sense>
+		<sense tag="动" vernacular="归向；归聚">
+			<exam article="《赤壁之战》" ref="众士仰慕，若水之归海。" />
+		</sense>
+		<sense tag="动" vernacular="归依；归附">
+			<exam article="《荆轲刺秦王》" ref="樊将军以穷困来归丹。" />
+		</sense>
+		<sense tag="名" vernacular="结局；归宿">
+			<exam article="《周易·系辞》" ref="天下同归而殊涂。" />
+			<exam article="《归田园居》" ref="开荒南野际，守拙归园田。" />
+		</sense>
+		<sense tag="动" vernacular="死">
+			<exam article="《尔雅·释训》" ref="鬼之为言归也。" />
+		</sense>
+		<sense tag="名" vernacular="珠算一位数除法" />
+		<sense tag="动" vernacular="通“馈”，赠送">
+			<exam article="《论语·阳货》" ref="阳货欲见孔子，孔子不见。归孔子豚。" />
+		</sense>
+	</pron>
+	<phrase value="归宁">
+		<sense value="妇人回娘家看望父母" />
+		<sense value="有时亦指男子回家省亲" />
+	</phrase>
+	<phrase value="归田">
+		<sense value="旧时称辞官还乡" />
+	</phrase>
+</character>

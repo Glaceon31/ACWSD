@@ -1,0 +1,19 @@
+<character value="傔">
+	<introduce>
+		<pinyin value="qian4" writing="qiàn" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="12" />
+		<order value="撇竖捺撇横折横横竖竖撇捺" />
+	</introduce>
+	<pron value="qiàn">
+		<sense tag="名" vernacular="侍从">
+			<exam article="《旧唐书·裴度传》" ref="已杀其二傔，悟救之获免。" />
+		</sense>
+	</pron>
+	<pron value="qiè">
+		<sense tag="形" vernacular="通“慊”，满足">
+			<exam article="《吕氏春秋·知士》" ref="划而类，揆吾家，苟可以傔剂貌辨者，吾无辞为也。" />
+		</sense>
+	</pron>
+</character>

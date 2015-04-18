@@ -1,0 +1,20 @@
+<character value="揉">
+	<introduce>
+		<pinyin value="rou2" writing="róu" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖横折捺折竖撇横竖撇捺" />
+	</introduce>
+	<pron value="róu">
+		<sense tag="动" vernacular="使木弯曲以造车轮等物">
+			<exam article="《管子·七法》" ref="朝揉轮而夕欲乘车。" />
+		</sense>
+		<sense tag="形" vernacular="杂；错杂">
+			<exam article="《世说新语·文学》" ref="皆粲然成章，不相揉杂。" />
+		</sense>
+		<sense tag="动" vernacular="用手来回搓或擦">
+			<exam article="《照镜》" ref="暖手揉双回，看图引四肢。" />
+		</sense>
+	</pron>
+</character>

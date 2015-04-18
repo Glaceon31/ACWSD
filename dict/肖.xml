@@ -1,0 +1,35 @@
+<character value="肖">
+	<introduce>
+		<pinyin value="xiao4" writing="xiào" />
+		<pinyin value="xiao1" writing="xiāo" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="竖捺撇竖折横横" />
+	</introduce>
+	<pron value="xiào">
+		<sense tag="动" vernacular="相像">
+			<exam article="《观巴黎油画记》" ref="见所制蜡人，悉仿生人，形体态度，发肤颜色，长短丰脊，无不毕肖。" />
+		</sense>
+		<sense tag="动" vernacular="刻画，谓图画或雕塑人像">
+			<exam article="《扬州画航录》" ref="旁肖十六应真像。" />
+		</sense>
+		<sense tag="动" vernacular="仿效" />
+	</pron>
+	<pron value="xiāo">
+		<sense vernacular="同“小”">
+			<exam article="《庄子·胠箧》" ref="肖翘之物。" />
+		</sense>
+		<sense tag="形" vernacular="同“消”">
+			<exam article="《史记·太史公自序》" ref="申吕肖矣，尚父侧微。" />
+		</sense>
+		<sense tag="名" vernacular="姓，即“萧”" />
+	</pron>
+	<phrase value="肖像">
+		<sense value="类似；近似" />
+	</phrase>
+	<phrase value="不肖">
+		<sense value="品行不好" />
+		<sense value="才能不高" />
+	</phrase>
+</character>

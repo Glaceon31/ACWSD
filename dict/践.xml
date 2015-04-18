@@ -1,0 +1,29 @@
+<character value="践">
+	<introduce>
+		<pinyin value="jian4" writing="jiàn" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="12" />
+		<order value="竖折横竖横竖横横横折撇捺" />
+	</introduce>
+	<pron value="jiàn">
+		<sense tag="动" vernacular="踩；践踏">
+			<exam article="《察变》" ref="上有鸟兽之践啄，下有蚁蝝之啮伤。" />
+		</sense>
+		<sense tag="动" vernacular="履行；实践">
+			<exam article="《礼记·曲礼上》" ref="脩身践言，谓之善行。" />
+		</sense>
+		<sense tag="动" vernacular="就（职）；就（位）">
+			<exam article="《左传·僖公十二年》" ref="往践乃职。" />
+		</sense>
+		<sense tag="动" vernacular="凭借；依凭">
+			<exam article="《过秦论》" ref="然后践华为城，因河为池。" />
+		</sense>
+	</pron>
+	<phrase value="践墨">
+		<sense value="遵守法度" />
+	</phrase>
+	<phrase value="践形">
+		<sense value="体现人所天赋的品质" />
+	</phrase>
+</character>

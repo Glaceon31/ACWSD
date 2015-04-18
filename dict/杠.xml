@@ -1,0 +1,20 @@
+<character value="杠">
+	<introduce>
+		<pinyin value="gang1" writing="gāng" />
+		<pinyin value="gang4" writing="gàng" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="横竖撇捺横竖横" />
+	</introduce>
+	<pron value="gàng">
+		<sense tag="名" vernacular="竹木杆子">
+			<exam article="《仪礼·乡射礼》" ref="以白羽与朱羽糅杠。" />
+			<exam article="《尔雅·释天》" ref="素锦绸杠。" />
+		</sense>
+		<sense tag="名" vernacular="独木桥；小桥">
+			<exam article="《孟子·离娄下》" ref="岁十一月，徒杠成；十二月，舆梁成。" />
+		</sense>
+		<sense tag="动" vernacular="通“扛”抬" />
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="谡">
+	<introduce>
+		<pinyin value="su4" writing="sù" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="12" />
+		<order value="捺折竖折横竖横撇捺撇折捺" />
+	</introduce>
+	<pron value="sù">
+		<sense tag="动" vernacular="起来">
+			<exam article="《列子·黄帝》" ref="若夫没人，则未尝见舟而谡操之者也。" />
+		</sense>
+		<sense tag="形" vernacular="肃敬的样子">
+			<exam article="《后汉书·蔡邕传》" ref="公子谡尔敛袂而兴。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,27 @@
+<character value="涣">
+	<introduce>
+		<pinyin value="huan4" writing="huàn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横撇折竖折横撇捺" />
+	</introduce>
+	<pron value="huàn">
+		<sense tag="动" vernacular="离散；散开">
+			<exam article="《愚溪对》" ref="四海有水，散涣而无力，不能负芥。" />
+		</sense>
+		<sense tag="形" vernacular="水流盛大的样子">
+			<exam article="《丹泉》" ref="清音应空谷，潜波涣寒塘。" />
+		</sense>
+		<sense tag="形" vernacular="通“焕”，鲜明" />
+		<sense tag="名" vernacular="六十四卦之一，卦形为坎下巽上">
+			<exam article="《周易·涣》" ref="象曰：风行水上，涣。" />
+		</sense>
+	</pron>
+	<phrase value="涣号">
+		<sense value="帝王的旨令，恩旨" />
+	</phrase>
+	<phrase value="涣衍">
+		<sense value="声音缓慢" />
+	</phrase>
+</character>

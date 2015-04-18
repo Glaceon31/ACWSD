@@ -1,0 +1,23 @@
+<character value="圆">
+	<introduce>
+		<pinyin value="yuan2" writing="yuán" />
+		<bushou value="囗" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="竖折竖折横竖折撇捺横" />
+	</introduce>
+	<pron value="yuán">
+		<sense tag="形" vernacular="圆形，与“方”相对">
+			<exam article="《荀子·赋篇》" ref="圆者中规。" />
+		</sense>
+		<sense tag="形" vernacular="完备；周全">
+			<exam article="《文心雕龙·镕裁》" ref="故能首尾圆合。" />
+		</sense>
+		<sense tag="形" vernacular="婉转">
+			<exam article="《题周家歌者》" ref="深圆似转簧。" />
+		</sense>
+		<sense tag="代" vernacular="指天">
+			<exam article="《淮南子·本经》" ref="戴圆履方。" />
+		</sense>
+	</pron>
+</character>

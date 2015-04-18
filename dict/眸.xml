@@ -1,0 +1,14 @@
+<character value="眸">
+	<introduce>
+		<pinyin value="mou2" writing="móu" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="竖折横横横折捺撇横横竖" />
+	</introduce>
+	<pron value="móu">
+		<sense tag="名" vernacular="眼睛">
+			<exam article="《洛神赋》" ref="明眸善睐。" />
+		</sense>
+	</pron>
+</character>

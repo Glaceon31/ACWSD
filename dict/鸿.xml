@@ -1,0 +1,32 @@
+<character value="鸿">
+	<introduce>
+		<pinyin value="hong2" writing="hóng" />
+		<bushou value="鸟" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="捺捺横横竖横撇折捺折横" />
+	</introduce>
+	<pron value="hóng">
+		<sense tag="名" vernacular="大型雁类的泛称">
+			<exam article="《报任安书》" ref="人固有一死,或重于泰山,或轻于鸿毛。" />
+		</sense>
+		<sense tag="名" vernacular="书信">
+			<exam article="《西厢记》" ref="自别颜范,鸿稀鳞绝,悲怆不胜。" />
+		</sense>
+		<sense vernacular="通“洪”">
+			<exam article="《陋室铭》" ref="谈笑有鸿儒,往来无白丁。" />
+			<exam article="《荀孑·成相》" ref="禹有功,抑下鸿。" />
+			<exam article="《吕氏春秋·执一》" ref="五帝以昭,神农以鸿。" />
+		</sense>
+	</pron>
+	<phrase value="鸿儒">
+		<sense value="大儒,泛指学识广博的人" />
+	</phrase>
+	<phrase value="鸿绪">
+		<sense value="祖先的基业,多指帝王世传的大业" />
+	</phrase>
+	<phrase value="鸿洞">
+		<sense value="虚空混沌的样子" />
+		<sense value="弥漫无边,连成一片" />
+	</phrase>
+</character>

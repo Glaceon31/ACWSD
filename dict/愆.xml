@@ -1,0 +1,26 @@
+<character value="愆">
+	<introduce>
+		<pinyin value="qian1" writing="qiān" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="撇撇竖捺捺横横横竖捺折捺捺" />
+	</introduce>
+	<pron value="qiān">
+		<sense tag="名" vernacular="过失；过错">
+			<exam article="《窦娥冤》" ref="念窦娥葫芦提当罪愆。" />
+		</sense>
+		<sense tag="动" vernacular="违背；违反">
+			<exam article="《陶徵士诔》" ref="有合谥典，无愆前志。" />
+		</sense>
+		<sense tag="形" vernacular="过分；过度">
+			<exam article="《左传·昭公四年》" ref="冬无愆阳。" />
+		</sense>
+	</pron>
+	<phrase value="愆伏">
+		<sense value="（气候）失调；失常" />
+	</phrase>
+	<phrase value="愆尤">
+		<sense value="罪过；过失" />
+	</phrase>
+</character>

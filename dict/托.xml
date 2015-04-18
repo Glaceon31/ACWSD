@@ -1,0 +1,26 @@
+<character value="托">
+	<introduce>
+		<pinyin value="tuo1" writing="tuō" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="横竖横撇横折" />
+	</introduce>
+	<pron value="tuō">
+		<sense tag="动" vernacular="寄托；依靠">
+			<exam article="《滕王阁序》" ref="今兹捧袂，喜托龙门。" />
+		</sense>
+		<sense tag="动" vernacular="托付；委托">
+			<exam article="《出师表》" ref="愿陛下托臣以讨贼兴复之效。" />
+		</sense>
+		<sense tag="动" vernacular="假托；假借">
+			<exam article="《梅花岭记》" ref="已而英、霍山师大起，皆托忠烈之名。" />
+		</sense>
+	</pron>
+	<phrase value="托庇">
+		<sense value="托人福庇，旧时的客套话" />
+	</phrase>
+	<phrase value="托大">
+		<sense value="大意" />
+	</phrase>
+</character>

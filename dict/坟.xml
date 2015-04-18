@@ -1,0 +1,21 @@
+<character value="坟">
+	<introduce>
+		<pinyin value="fen2" writing="fén" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横捺横撇捺" />
+	</introduce>
+	<pron value="fén">
+		<sense tag="名" vernacular="土堆">
+			<exam article="《九章》" ref="登大坟以远望兮。" />
+		</sense>
+		<sense tag="名" vernacular="坟墓">
+			<exam article="《史记·文帝本纪》" ref="不治坟，欲为大省。" />
+		</sense>
+		<sense tag="形" vernacular="大">
+			<exam article="《诗经·小雅·苕之华》" ref="牂羊坟首。" />
+		</sense>
+		<sense tag="名" vernacular="典籍名称，传说中远古时代三皇作的书叫“三坟”" />
+	</pron>
+</character>

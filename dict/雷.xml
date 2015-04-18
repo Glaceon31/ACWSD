@@ -1,0 +1,18 @@
+<character value="雷">
+	<introduce>
+		<pinyin value="lei2" writing="léi" />
+		<bushou value="雨" />
+		<bushoustroke value="8" />
+		<stroke value="13" />
+		<order value="横捺折竖捺捺捺捺竖折横竖横" />
+	</introduce>
+	<pron value="léi">
+		<sense tag="名" vernacular="云层放电时发出的响声">
+			<exam article="《柳毅传》" ref="千雷万霆，激绕其身。" />
+		</sense>
+		<sense tag="名" vernacular="像雷一样震耳的声响" />
+		<sense tag="动" vernacular="通“擂”，击打；敲击">
+			<exam article="《赤壁之战》" ref="瑜等率轻锐继其后，雷鼓大震，北军大坏。" />
+		</sense>
+	</pron>
+</character>

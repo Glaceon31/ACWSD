@@ -1,0 +1,25 @@
+<character value="毫">
+	<introduce>
+		<pinyin value="hao2" writing="háo" />
+		<bushou value="毛" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="捺横竖折横捺折撇横横折" />
+	</introduce>
+	<pron value="háo">
+		<sense tag="名" vernacular="长而尖的细毛">
+			<exam article="《齐桓晋文之事》" ref="明足以察秋毫之末。" />
+		</sense>
+		<sense tag="名" vernacular="比喻极其细微的东西">
+			<exam article="《老子·千里之行始于足下》" ref="合之木，生于毫末。" />
+			<exam article="《赤壁赋》" ref="苟非吾之所有，虽一毫而莫取。" />
+		</sense>
+		<sense tag="名" vernacular="毛笔">
+			<exam article="《答王百谷》" ref="方且挥毫命楮，恣意著述。" />
+		</sense>
+		<sense tag="量" vernacular="长度单位" />
+	</pron>
+	<phrase value="毫光">
+		<sense value="光线四射如毫毛" />
+	</phrase>
+</character>

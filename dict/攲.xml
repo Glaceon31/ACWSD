@@ -1,0 +1,14 @@
+<character value="攲">
+	<introduce>
+		<pinyin value="qi1" writing="qī" />
+		<bushou value="支" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横撇捺横竖折横竖横竖折捺" />
+	</introduce>
+	<pron value="qī">
+		<sense tag="动" vernacular="倾斜；倾侧">
+			<exam article="《病梅馆记》" ref="梅以曲为美，直则无姿；以攲为美，正则无景。" />
+		</sense>
+	</pron>
+</character>

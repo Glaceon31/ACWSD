@@ -1,0 +1,36 @@
+<character value="幸">
+	<introduce>
+		<pinyin value="xing4" writing="xìng" />
+		<bushou value="干" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横捺撇横横竖" />
+	</introduce>
+	<pron value="xìng">
+		<sense tag="形" vernacular="幸运">
+			<exam article="《论积贮疏》" ref="即不幸有方二三千里之旱。" />
+		</sense>
+		<sense tag="副" vernacular="侥幸">
+			<exam article="《童区寄传》" ref="贼二人得我，我幸皆杀之矣。" />
+		</sense>
+		<sense tag="副" vernacular="幸亏">
+			<exam article="《鸿门宴》" ref="今事有急，故幸来告良。" />
+		</sense>
+		<sense tag="形为动" vernacular="为……高兴">
+			<exam article="《骂尸虫文》" ref="妒人之能，幸人之失。" />
+		</sense>
+		<sense tag="动" vernacular="宠幸；宠爱">
+			<exam article="《鸿门宴》" ref="财物无所取，妇女无所幸。" />
+		</sense>
+		<sense tag="动" vernacular="帝王到某处">
+			<exam article="《阿房宫赋》" ref="缦立远视，而望幸焉。" />
+		</sense>
+		<sense tag="副" vernacular="敬词，希望对方照自己的意见做，可译为“希望”">
+			<exam article="《孔雀东南飞》" ref="幸可广问讯，不得便相许。" />
+		</sense>
+	</pron>
+	<phrase value="幸民">
+		<sense value="侥幸苟生而怠惰的人" />
+		<sense value="幸福之民" />
+	</phrase>
+</character>

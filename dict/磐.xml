@@ -1,0 +1,24 @@
+<character value="磐">
+	<introduce>
+		<pinyin value="pan2" writing="pán" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="15" />
+		<order value="撇撇折捺横捺撇折折捺横撇竖折横" />
+	</introduce>
+	<pron value="pán">
+		<sense tag="名" vernacular="巨大的石头">
+			<exam article="《易·渐》" ref="鸿渐于磐。" />
+		</sense>
+		<sense tag="形" vernacular="大；巨大的；厚重的">
+			<exam article="《孔雀东南飞》" ref="磐石方且厚，可以卒千年。" />
+		</sense>
+		<sense tag="动" vernacular="通“盘”">
+			<exam article="《后汉书·宋意传》" ref="久磐京邑。" />
+		</sense>
+	</pron>
+	<phrase value="磐石">
+		<sense value="巨大的石头" />
+		<sense value="比喻稳固；坚实牢固" />
+	</phrase>
+</character>

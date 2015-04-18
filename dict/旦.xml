@@ -1,0 +1,21 @@
+<character value="旦">
+	<introduce>
+		<pinyin value="dan4" writing="dàn" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="5" />
+		<order value="竖折横横横" />
+	</introduce>
+	<pron value="dàn">
+		<sense tag="名" vernacular="日出的时候；早晨">
+			<exam article="《涉江》" ref="哀南夷之莫吾知兮旦余济乎江湖。" />
+			<exam article="《木兰辞》" ref="旦辞爷娘去，暮宿黄河边。" />
+		</sense>
+		<sense tag="名" vernacular="日；一日">
+			<exam article="《捕蛇者说》" ref="岂若吾乡邻之旦旦有是哉。" />
+		</sense>
+		<sense tag="名" vernacular="旦角，传统戏曲中扮演妇女的角色">
+			<exam article="《窦娥冤》" ref="刽子磨旗、提刀，押正旦带枷上。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,41 @@
+<character value="薄">
+	<introduce>
+		<pinyin value="bo2" writing="bó" />
+		<pinyin value="bao2" writing="báo" />
+		<pinyin value="bo4" writing="bò" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="横竖竖捺捺横横竖折横横竖捺横竖捺" />
+	</introduce>
+	<pron value="bó">
+		<sense tag="名" vernacular="草木丛生的地方">
+			<exam article="《涉江》" ref="露申辛夷，死林薄兮。" />
+		</sense>
+		<sense tag="形" vernacular="（今读báo）厚度小，与“厚”相对">
+			<exam article="《白雪歌送武判官归京》" ref="狐裘不暖锦衾薄。" />
+		</sense>
+		<sense tag="形" vernacular="微少；微薄；浅薄">
+			<exam article="《孔雀东南飞》" ref="儿已薄禄相。" />
+			<exam article="《促织》" ref="不终岁，薄产累尽。" />
+			<exam article="《陈情表》" ref="门衰祚薄，晚有儿息。" />
+		</sense>
+		<sense tag="动" vernacular="减轻">
+			<exam article="《论贵粟疏》" ref="薄赋敛，广畜积。" />
+		</sense>
+		<sense tag="形" vernacular="（今读báo）贫瘠">
+			<exam article="《杜陵叟》" ref="岁种薄田一顷余。" />
+		</sense>
+		<sense tag="动" vernacular="鄙薄；轻视">
+			<exam article="《出师表》" ref="不宜妄自菲薄，引喻失义。" />
+		</sense>
+		<sense tag="动" vernacular="通“迫”，迫近，靠近">
+			<exam article="《涉江》" ref="腥臊并御，芳不得薄兮。" />
+			<exam article="《陈情表》" ref="日薄西山，气息奄奄。" />
+		</sense>
+		<sense tag="动" vernacular="通“迫”，附着，混杂">
+			<exam article="《狱中杂记》" ref="与饮食之所相薄。" />
+		</sense>
+		<sense vernacular="bò薄荷，多年生草本植物" />
+	</pron>
+</character>

@@ -1,0 +1,27 @@
+<character value="堕">
+	<introduce>
+		<pinyin value="duo4" writing="duò" />
+		<pinyin value="hui1" writing="huī" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="折竖横撇竖折横横横竖横" />
+	</introduce>
+	<pron value="duò">
+		<sense tag="动" vernacular="落下；掉下">
+			<exam article="《塞翁失马》" ref="其子好骑，堕而折其髀。" />
+		</sense>
+		<sense tag="形" vernacular="，通“惰”，懈怠">
+			<exam article="《淮南子·兵略》" ref="动无堕容，口无虚言。" />
+		</sense>
+	</pron>
+	<pron value="huī">
+		<sense tag="动" vernacular="通“隳”">
+			<exam article="《殽之战》" ref="堕军实而长寇雠，亡无日矣。" />
+			<exam article="《满井游记》" ref="夫能不以游堕事，而潇然于山石草木之间者，惟此官也。" />
+		</sense>
+	</pron>
+	<phrase value="堕突">
+		<sense value="毁坏冲击" />
+	</phrase>
+</character>

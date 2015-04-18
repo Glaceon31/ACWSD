@@ -1,0 +1,23 @@
+<character value="诋">
+	<introduce>
+		<pinyin value="di3" writing="dĭ" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺折撇折横折捺" />
+	</introduce>
+	<pron value="dǐ">
+		<sense tag="动" vernacular="斥责；辱骂">
+			<exam article="《&lt;指南录&gt;后序》" ref="予之及于死者不知其几矣！诋大酋当死；骂逆贼当死……。" />
+		</sense>
+		<sense tag="动" vernacular="毁谤">
+			<exam article="《史记·张汤列传》" ref="所治即毫，必舞文巧诋。" />
+		</sense>
+		<sense tag="名" vernacular="通“柢”">
+			<exam article="《淮南子·兵略》" ref="兵有三诋。" />
+		</sense>
+	</pron>
+	<phrase value="诋阁">
+		<sense value="诋毁侮辱" />
+	</phrase>
+</character>

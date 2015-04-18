@@ -1,0 +1,18 @@
+<character value="庠">
+	<introduce>
+		<pinyin value="xiang2" writing="xiáng" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺横撇捺撇横横横竖" />
+	</introduce>
+	<pron value="xiáng">
+		<sense tag="名" vernacular="古代地方开办的学校">
+			<exam article="《促织》" ref="又嘱学使，俾入邑庠。" />
+		</sense>
+	</pron>
+	<phrase value="庠序">
+		<sense value="古代的乡学，与帝王的辟雍、诸侯的洋宫等大学相对" />
+		<sense value="后泛指学校" />
+	</phrase>
+</character>

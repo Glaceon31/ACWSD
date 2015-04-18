@@ -1,0 +1,20 @@
+<character value="盗">
+	<introduce>
+		<pinyin value="dao4" writing="dào" />
+		<bushou value="皿" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="捺横撇折撇捺竖折竖竖横" />
+	</introduce>
+	<pron value="dào">
+		<sense tag="动" vernacular="偷">
+			<exam article="《信陵君窍符救赵》" ref="如姬果盗兵符与公子。" />
+		</sense>
+		<sense tag="名" vernacular="偷东西的人；小偷">
+			<exam article="《智子疑邻》" ref="不筑，必将有盗。" />
+		</sense>
+		<sense tag="名" vernacular="强盗">
+			<exam article="《鸿门宴》" ref="所以遗将守关者，备他盗之出入与非常也。" />
+		</sense>
+	</pron>
+</character>

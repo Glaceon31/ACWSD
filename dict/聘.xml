@@ -1,0 +1,20 @@
+<character value="聘">
+	<introduce>
+		<pinyin value="pin4" writing="pìn" />
+		<bushou value="耳" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="横竖竖横横横竖折横竖横横折" />
+	</introduce>
+	<pron value="pìn">
+		<sense tag="动" vernacular="探访；访问">
+			<exam article="《左传·宣公十年》" ref="季文子初聘于齐。" />
+		</sense>
+		<sense tag="动" vernacular="聘请；招请">
+			<exam article="《冯谖客孟尝君》" ref="遣使者，黄金千斤，车百乘，往聘孟尝君。" />
+		</sense>
+		<sense tag="动" vernacular="通“娉”，用礼物订婚或迎娶">
+			<exam article="《史记·陈丞相世家》" ref="乃假贷币以聘，予酒肉之资以内妇。" />
+		</sense>
+	</pron>
+</character>

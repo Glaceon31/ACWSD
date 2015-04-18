@@ -1,0 +1,23 @@
+<character value="沛">
+	<introduce>
+		<pinyin value="pei4" writing="pèi" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺横横竖折竖" />
+	</introduce>
+	<pron value="pèi">
+		<sense tag="名" vernacular="杂草丛生的湖泊">
+			<exam article="《管子·揆度》" ref="焚沛泽，逐禽兽。" />
+		</sense>
+		<sense tag="形" vernacular="水奔流的样子">
+			<exam article="《孟子·梁惠王上》" ref="由水之就下，沛然谁能御之？" />
+		</sense>
+		<sense tag="形" vernacular="行动迅速地子">
+			<exam article="《九歌·湘君》" ref="沛吾乘兮桂舟。" />
+		</sense>
+		<sense tag="形" vernacular="充足；充沛">
+			<exam article="《公羊传·文公十四年》" ref="力沛若有余。" />
+		</sense>
+	</pron>
+</character>

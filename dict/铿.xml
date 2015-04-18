@@ -1,0 +1,15 @@
+<character value="铿">
+	<introduce>
+		<pinyin value="keng1" writing="kēng" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="撇横横横折竖竖折捺横竖横" />
+	</introduce>
+	<pron value="kēng">
+		<sense tag="象" vernacular="形容钟声、琴瑟声等" />
+		<sense tag="动" vernacular="撞击">
+			<exam article="《东都赋》" ref="于是发鲸鱼，铿华钟。" />
+		</sense>
+	</pron>
+</character>

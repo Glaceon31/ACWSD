@@ -1,0 +1,19 @@
+<character value="砭">
+	<introduce>
+		<pinyin value="bian1" writing="biān" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="横撇竖折横撇捺折捺" />
+	</introduce>
+	<pron value="biān">
+		<sense tag="动" vernacular="用石针扎刺皮肉以治病" />
+		<sense tag="动" vernacular="规谏;纠正">
+			<exam article="《简同年刁时中俊卿》" ref="君盍砭我失?" />
+		</sense>
+		<sense tag="名" vernacular="古代治病用的石针" />
+		<sense tag="动" vernacular="救治">
+			<exam article="《喜侯喜至赠张籍张彻》" ref="箴石非所砭。" />
+		</sense>
+	</pron>
+</character>

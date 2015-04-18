@@ -1,0 +1,14 @@
+<character value="鼙">
+	<introduce>
+		<pinyin value="pi2" writing="pí" />
+		<bushou value="鼓" />
+		<bushoustroke value="13" />
+		<stroke value="21" />
+		<order value="横竖横竖折横捺撇横横竖折捺撇竖折横横撇横竖" />
+	</introduce>
+	<pron value="pí">
+		<sense tag="名" vernacular="一种军用小鼓">
+			<exam article="《六韬·虎韬·军略》" ref="击雷鼓，振鼙铎。" />
+		</sense>
+	</pron>
+</character>

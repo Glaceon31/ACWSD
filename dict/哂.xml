@@ -1,0 +1,14 @@
+<character value="哂">
+	<introduce>
+		<pinyin value="shen3" writing="shĕn" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="竖折横横竖折撇折横" />
+	</introduce>
+	<pron value="shěn">
+		<sense tag="动" vernacular="笑；微笑">
+			<exam article="《子路曾皙冉有公西华侍坐》" ref="夫子何哂由也?" />
+		</sense>
+	</pron>
+</character>

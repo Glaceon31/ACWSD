@@ -1,0 +1,23 @@
+<character value="纲">
+	<introduce>
+		<pinyin value="gang1" writing="gāng" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折折横竖折撇捺" />
+	</introduce>
+	<pron value="gāng">
+		<sense tag="名" vernacular="鱼网上的总绳">
+			<exam article="《韩非子·外储说右下》" ref="引网之纲。" />
+		</sense>
+		<sense tag="名" vernacular="唐、宋时成批运输货物的组织" />
+		<sense tag="名" vernacular="法纪；秩序" />
+	</pron>
+	<phrase value="纲常">
+		<sense value="三纲五常的简称" />
+		<sense value="君为臣纲，父为子纲，夫为妻纲，是为三纲；仁、义、礼、智、信，是为五常" />
+	</phrase>
+	<phrase value="纲维">
+		<sense value="法纪" />
+	</phrase>
+</character>

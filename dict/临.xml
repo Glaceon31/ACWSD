@@ -1,0 +1,37 @@
+<character value="临">
+	<introduce>
+		<pinyin value="lin2" writing="lín" />
+		<bushou value="丨" />
+		<bushoustroke value="1" />
+		<stroke value="9" />
+		<order value="竖竖撇横捺竖折竖横" />
+	</introduce>
+	<pron value="lín">
+		<sense tag="动" vernacular="从高处向下看">
+			<exam article="《滕王阁序》" ref="飞阁流丹，下临无地。" />
+		</sense>
+		<sense tag="动" vernacular="到；靠近">
+			<exam article="《陈情表》" ref="州司临门，急于星火。" />
+			<exam article="《观沧海》" ref="东临碣石，以观沧海。" />
+		</sense>
+		<sense tag="动" vernacular="面对；对着">
+			<exam article="《过秦论》" ref="据亿丈之城，临不测之渊以为固。" />
+		</sense>
+		<sense tag="副" vernacular="将要；快要">
+			<exam article="《出师表》" ref="先帝知臣谨慎，故临崩寄臣以大事也。" />
+		</sense>
+	</pron>
+	<phrase value="临池">
+		<sense value="学习书法" />
+	</phrase>
+	<phrase value="临存">
+		<sense value="地位高的人对下人的问候，看望" />
+		<sense value="" />
+	</phrase>
+	<phrase value="临命">
+		<sense value="将死的时候" />
+	</phrase>
+	<phrase value="临蓐">
+		<sense value="将要分娩" />
+	</phrase>
+</character>

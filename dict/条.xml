@@ -1,0 +1,36 @@
+<character value="条">
+	<introduce>
+		<pinyin value="tiao2" writing="tiáo" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="撇折捺横竖撇捺" />
+	</introduce>
+	<pron value="tiáo">
+		<sense tag="名" vernacular="枝条；树枝">
+			<exam article="《与朱元思书》" ref="疏条交映，有时见日。" />
+		</sense>
+		<sense tag="名" vernacular="条理">
+			<exam article="《屈原列传》" ref="明道德之广崇，治乱之条贯，靡不毕见。" />
+		</sense>
+		<sense tag="名" vernacular="条款；项目">
+			<exam article="《战国策·秦策》" ref="科条既备，民多伪态。" />
+		</sense>
+		<sense tag="动" vernacular="通达；通畅">
+			<exam article="《汉书·礼乐志》" ref="声气远条。" />
+		</sense>
+		<sense tag="量" vernacular="多指长形的物体或列的条项">
+			<exam article="《旧唐书·刑法志》" ref="约法为二十条。" />
+		</sense>
+	</pron>
+	<phrase value="条畅">
+		<sense value="顺达通畅" />
+	</phrase>
+	<phrase value="条陈">
+		<sense value="分条陈述，也称分条陈述意见的书面材料" />
+	</phrase>
+	<phrase value="条贯">
+		<sense value="条理；系统" />
+		<sense value="办事的程序手续" />
+	</phrase>
+</character>

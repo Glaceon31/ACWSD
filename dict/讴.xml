@@ -1,0 +1,17 @@
+<character value="讴">
+	<introduce>
+		<pinyin value="ou1" writing="ōu" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺折横撇捺折" />
+	</introduce>
+	<pron value="ōu">
+		<sense tag="动" vernacular="唱歌">
+			<exam article="《孟子·告子》" ref="昔者王豹处于淇，而河西善讴。" />
+		</sense>
+		<sense tag="名" vernacular="歌曲">
+			<exam article="《汉书·礼乐志》" ref="乃立乐府，采诗夜诵，有赵、代、秦、楚之讴。" />
+		</sense>
+	</pron>
+</character>

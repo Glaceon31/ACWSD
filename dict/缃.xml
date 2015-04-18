@@ -1,0 +1,14 @@
+<character value="缃">
+	<introduce>
+		<pinyin value="xiang1" writing="xiāng" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折折横横竖撇捺竖折横横横" />
+	</introduce>
+	<pron value="xiāng">
+		<sense tag="形" vernacular="浅黄色">
+			<exam article="《陌上桑》" ref="缃绮为下裙。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="跷">
+	<introduce>
+		<pinyin value="qiao1" writing="qiāo" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="13" />
+		<order value="竖折横竖横竖横横折撇横撇折" />
+	</introduce>
+	<pron value="qiāo">
+		<sense tag="动" vernacular="举脚">
+			<exam article="《蹴踘》" ref="蹑来行数步，跷后立多时。" />
+		</sense>
+	</pron>
+</character>

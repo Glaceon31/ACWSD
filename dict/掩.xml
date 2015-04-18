@@ -1,0 +1,32 @@
+<character value="掩">
+	<introduce>
+		<pinyin value="yan3" writing="yăn" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖横横撇捺竖折横横折" />
+	</introduce>
+	<pron value="yǎn">
+		<sense tag="动" vernacular="掩盖；遮蔽">
+			<exam article="《孔雀东南飞》" ref="手巾掩口啼，泪落便如泻。" />
+		</sense>
+		<sense tag="动" vernacular="堵塞">
+			<exam article="《教战守策》" ref="则掩耳而不愿听。" />
+		</sense>
+		<sense tag="动" vernacular="关闭">
+			<exam article="《林教头风雪山神庙》" ref="再把门掩上。" />
+		</sense>
+		<sense tag="动" vernacular="趁人不备而采取行动">
+			<exam article="《史记·彭越传》" ref="于是上使使掩梁王，梁王不觉，捕梁王。" />
+		</sense>
+	</pron>
+	<phrase value="掩涕">
+		<sense value="掩面流泪" />
+	</phrase>
+	<phrase value="掩抑">
+		<sense value="乐声低沉抑郁" />
+	</phrase>
+	<phrase value="掩映">
+		<sense value="彼此遮掩而互相映衬" />
+	</phrase>
+</character>

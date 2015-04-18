@@ -1,0 +1,26 @@
+<character value="矣">
+	<introduce>
+		<pinyin value="yi3" writing="yĭ" />
+		<bushou value="矢" />
+		<bushoustroke value="5" />
+		<stroke value="7" />
+		<order value="折捺撇横横撇捺" />
+	</introduce>
+	<pron value="yǐ">
+		<sense tag="助" vernacular="表示肯定语气，说明事情已实现">
+			<exam article="《扁鹊见蔡桓公》" ref="使人索扁鹊，已逃秦矣。" />
+		</sense>
+		<sense tag="助" vernacular="表示推测语气，说明事情将要实现">
+			<exam article="《赤壁之战》" ref="事急而不断，祸至无日！" />
+		</sense>
+		<sense tag="助" vernacular="用于感叹，可译为“了”、“啊”">
+			<exam article="《愚公移山》" ref="甚矣，汝之不惠！" />
+		</sense>
+		<sense tag="助" vernacular="表示请求、禁止语气，可译为“吧”">
+			<exam article="《信陵君窃符救赵》" ref="公子勉之矣，老臣不能从。" />
+		</sense>
+		<sense tag="助" vernacular="与其他疑问词结合，表示疑问语气">
+			<exam article="《齐桓晋文之事》" ref="德何如，则可以王矣？" />
+		</sense>
+	</pron>
+</character>

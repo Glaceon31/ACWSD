@@ -1,0 +1,14 @@
+<character value="纆">
+	<introduce>
+		<pinyin value="mo4" writing="mò" />
+		<bushou value="糹" />
+		<bushoustroke value="6" />
+		<stroke value="21" />
+		<order value="折折捺捺捺捺竖折捺撇横竖横横捺捺捺捺横竖横" />
+	</introduce>
+	<pron value="mò">
+		<sense tag="名" vernacular="两股搓成的绳索">
+			<exam article="《周易·坎卦》" ref="係用徽纆。" />
+		</sense>
+	</pron>
+</character>

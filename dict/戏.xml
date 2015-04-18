@@ -1,0 +1,33 @@
+<character value="戏">
+	<introduce>
+		<pinyin value="xi4" writing="xì" />
+		<pinyin value="hu1" writing="hū" />
+		<bushou value="戈" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="折捺横折撇捺" />
+	</introduce>
+	<pron value="xì">
+		<sense tag="动" vernacular="游戏；玩耍">
+			<exam article="《孔雀东南飞》" ref="初七及下九，嬉戏莫相忘。" />
+		</sense>
+		<sense tag="名" vernacular="游戏活动；娱乐活动">
+			<exam article="《促织》" ref="宫中尚促织之戏。" />
+		</sense>
+		<sense tag="动" vernacular="戏弄；嘲弄；开玩笑">
+			<exam article="《廉颇蔺相如列传》" ref="传之美人，以戏弄臣。" />
+		</sense>
+		<sense tag="名" vernacular="歌舞、杂技等表演">
+			<exam article="《汉书·西域传赞》" ref="作巴俞都卢、海中砀极、漫衍鱼龙、角抵之戏以观视之。" />
+		</sense>
+	</pron>
+	<pron value="huī">
+		<sense tag="名" vernacular="通“麾”">
+			<exam article="《汉书·灌夫传》" ref="驰入吴军，至戏下。" />
+		</sense>
+	</pron>
+	<pron value="xī">
+		<sense vernacular="通“羲”，“伏羲”也作“伏戏”" />
+		<sense vernacular="通“巇”，险峻" />
+	</pron>
+</character>

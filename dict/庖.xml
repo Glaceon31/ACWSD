@@ -1,0 +1,24 @@
+<character value="庖">
+	<introduce>
+		<pinyin value="pao2" writing="páo" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺横撇撇折折横折" />
+	</introduce>
+	<pron value="páo">
+		<sense tag="名" vernacular="厨房">
+			<exam article="《项脊轩志》" ref="客逾庖而宴。" />
+		</sense>
+		<sense tag="名" vernacular="厨师">
+			<exam article="《庖丁解牛》" ref="良庖岁更刀，割也。" />
+		</sense>
+	</pron>
+	<phrase value="庖丁">
+		<sense value="厨师" />
+	</phrase>
+	<phrase value="庖人">
+		<sense value="掌膳食的官" />
+		<sense value="厨师" />
+	</phrase>
+</character>

@@ -1,0 +1,49 @@
+<character value="数">
+	<introduce>
+		<pinyin value="shu4" writing="shù" />
+		<pinyin value="shu3" writing="shŭ" />
+		<pinyin value="shuo4" writing="shuò" />
+		<bushou value="攵" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="捺撇横竖撇捺折撇横撇横撇捺" />
+	</introduce>
+	<pron value="shù">
+		<sense tag="名" vernacular="数目；数量">
+			<exam article="《赤壁之战》" ref="众数虽多，甚未足量。" />
+		</sense>
+		<sense tag="数" vernacular="几；几个">
+			<exam article="《寡人之于国也》" ref="百亩之田，勿夺其时，数口之家可以无饥矣。" />
+		</sense>
+		<sense tag="名" vernacular="算术">
+			<exam article="《周礼·大司徒》" ref="三曰六艺：礼、乐、射、御、书、数。" />
+		</sense>
+		<sense tag="名" vernacular="方法；技艺；方术">
+			<exam article="《后汉书·王昌传》" ref="时赵谬王子林好奇数。" />
+		</sense>
+		<sense tag="名" vernacular="命运；定数">
+			<exam article="《六国论》" ref="则胜负之数，存亡之理，当与秦相较。" />
+		</sense>
+		<sense tag="名" vernacular="规律；法则">
+			<exam article="《荀子·天论》" ref="天有常道矣，地有常数矣。" />
+		</sense>
+	</pron>
+	<pron value="shǔ">
+		<sense tag="动" vernacular="计算；计数">
+			<exam article="《信陵君窃符救赵》" ref="请数公子行日。" />
+		</sense>
+		<sense tag="动" vernacular="数说；列举">
+			<exam article="《&lt;指南录&gt;后序》" ref="予自度不得脱，则直前诟虏帅失信，数吕师孟叔侄为逆。" />
+		</sense>
+	</pron>
+	<pron value="shuò">
+		<sense tag="副" vernacular="屡次；多次">
+			<exam article="《鸿门宴》" ref="范增数目项王。" />
+		</sense>
+	</pron>
+	<pron value="cù">
+		<sense tag="形" vernacular="密，与“疏”相对">
+			<exam article="《寡人之于国也》" ref="数罟不入洿池，鱼鳖不可胜食也。" />
+		</sense>
+	</pron>
+</character>

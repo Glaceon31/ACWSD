@@ -1,0 +1,17 @@
+<character value="彷">
+	<introduce>
+		<pinyin value="pang2" writing="páng" />
+		<pinyin value="fang3" writing="făng" />
+		<bushou value="彳" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="撇撇竖捺横折撇" />
+	</introduce>
+	<pron value="páng">
+		<sense vernacular="见“彷徬”" />
+	</pron>
+	<phrase value="彷徬">
+		<sense value="也写作“徬徨”" />
+		<sense value="徘徊；来回走动" />
+	</phrase>
+</character>

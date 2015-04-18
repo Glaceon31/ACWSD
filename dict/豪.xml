@@ -1,0 +1,30 @@
+<character value="豪">
+	<introduce>
+		<pinyin value="hao2" writing="háo" />
+		<bushou value="豕" />
+		<bushoustroke value="7" />
+		<stroke value="14" />
+		<order value="捺横竖折横捺折横撇折撇撇撇捺" />
+	</introduce>
+	<pron value="háo">
+		<sense tag="名" vernacular="豪猪脊背上长而尖硬的毛" />
+		<sense tag="名" vernacular="杰出的人才；豪杰">
+			<exam article="《赤壁之战》" ref="江表英豪咸归附之。" />
+		</sense>
+		<sense tag="形" vernacular="豪放；豪壮">
+			<exam article="《史记·魏公子列传》" ref="平原君之游，徒豪举耳，不求士也。" />
+		</sense>
+		<sense tag="形" vernacular="有势力">
+			<exam article="《西门豹治邺》" ref="三老、官属、豪长者、里父老皆会。" />
+		</sense>
+		<sense tag="形" vernacular="强悍；强暴">
+			<exam article="《教战守策》" ref="今天下屯聚之兵，骄豪而多怨。" />
+		</sense>
+		<sense tag="名" vernacular="强横的人；暴徒">
+			<exam article="《童区寄传》" ref="是儿少秦武阳二岁，而讨杀二豪，岂可近也。" />
+		</sense>
+		<sense tag="形" vernacular="阔绰；豪华">
+			<exam article="《梁书·贺琛传》" ref="相竞夸豪，积累如山岳，列肴同绮绣。" />
+		</sense>
+	</pron>
+</character>

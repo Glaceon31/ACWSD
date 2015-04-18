@@ -1,0 +1,26 @@
+<character value="楷">
+	<introduce>
+		<pinyin value="kai3" writing="kăi" />
+		<pinyin value="jie1" writing="jiē" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="横竖撇捺横折撇折撇竖折横横" />
+	</introduce>
+	<pron value="kǎi">
+		<sense tag="名" vernacular="法式；典范">
+			<exam article="《礼记·儒行》" ref="今世行之，后世以为楷。" />
+		</sense>
+		<sense tag="名" vernacular="楷书，现在通行的一种汉字字体">
+			<exam article="《尚书省郎官石记序》" ref="布此序独楷字，精劲严重，出于自然，如动容周旋中礼，非强无者。" />
+		</sense>
+	</pron>
+	<pron value="jiē">
+		<sense tag="名" vernacular="楷树，也叫黄连木">
+			<exam article="《酉阳杂俎续集》" ref="蜀中有木类柞……蜀人呼为楷木。" />
+		</sense>
+		<sense tag="形" vernacular="刚直">
+			<exam article="《人物志·体别》" ref="强楷坚劲，用在桢干，失在专固。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,20 @@
+<character value="缪">
+	<introduce>
+		<pinyin value="mou2" writing="móu" />
+		<pinyin value="miao4" writing="miào" />
+		<pinyin value="miu4" writing="miù" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="折折横折捺横折捺横撇捺撇撇撇" />
+	</introduce>
+	<pron value="móu">
+		<sense tag="名" vernacular="十捆麻">
+			<exam article="《说文·糸部》" ref="缪，枲之十絜也。" />
+		</sense>
+		<sense tag="形" vernacular="缠绵，见“绸缪”" />
+		<sense vernacular="Miào姓">
+			<exam article="《廉颇蔺相如列传》" ref="为赵宦者令缪贤舍人。" />
+		</sense>
+	</pron>
+</character>

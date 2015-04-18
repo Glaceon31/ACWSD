@@ -1,0 +1,23 @@
+<character value="械">
+	<introduce>
+		<pinyin value="xie4" writing="xiè" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横竖撇捺横横撇竖折撇捺" />
+	</introduce>
+	<pron value="xiè">
+		<sense tag="名" vernacular="器械">
+			<exam article="《公输》" ref="公输盘为楚造云梯之械。" />
+		</sense>
+		<sense tag="名" vernacular="军械；武器">
+			<exam article="《李愬雪夜入蔡州》" ref="得甲库，取器械。" />
+		</sense>
+		<sense tag="名" vernacular="手铐脚镣一类的刑具">
+			<exam article="《左忠毅公逸事》" ref="因模地上刑械作投击势。" />
+		</sense>
+		<sense tag="动" vernacular="戴上刑具">
+			<exam article="《狱中杂记》" ref="必械手足，置老监，俾困苦不可忍。" />
+		</sense>
+	</pron>
+</character>

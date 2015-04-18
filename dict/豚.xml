@@ -1,0 +1,17 @@
+<character value="豚">
+	<introduce>
+		<pinyin value="tun2" writing="tún" />
+		<bushou value="豕" />
+		<bushoustroke value="7" />
+		<stroke value="11" />
+		<order value="撇折横横横撇折撇撇撇捺" />
+	</introduce>
+	<pron value="tún">
+		<sense tag="名" vernacular="小猪；猪">
+			<exam article="《韩非子·外储说左下》" ref="郑县人卖豚。" />
+		</sense>
+		<sense tag="名" vernacular="指豚形的器物">
+			<exam article="《论衡·率性》" ref="未入孔门时，戴鸡佩豚，勇猛无礼。" />
+		</sense>
+	</pron>
+</character>

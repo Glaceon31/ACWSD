@@ -1,0 +1,67 @@
+<character value="解">
+	<introduce>
+		<pinyin value="jie3" writing="jiĕ" />
+		<pinyin value="jie4" writing="jiè" />
+		<pinyin value="xie4" writing="xiè" />
+		<bushou value="角" />
+		<bushoustroke value="7" />
+		<stroke value="13" />
+		<order value="撇折撇折横横竖折撇撇横横竖" />
+	</introduce>
+	<pron value="jiě">
+		<sense tag="动" vernacular="解剖；分割">
+			<exam article="《庖丁解牛》" ref="庖丁为文惠君解牛。" />
+		</sense>
+		<sense tag="动" vernacular="解开；解下">
+			<exam article="《公输》" ref="子墨子解带为城。" />
+		</sense>
+		<sense tag="动" vernacular="解除；消除">
+			<exam article="《荆轲刺秦王》" ref="今有一言，可以解燕国之患。" />
+		</sense>
+		<sense tag="动" vernacular="溶解；溶化">
+			<exam article="《满井游记》" ref="于时冰皮始解，波色乍明。" />
+		</sense>
+		<sense tag="动" vernacular="排解；化解">
+			<exam article="《师说》" ref="句读之不知，惑之不解。" />
+		</sense>
+		<sense tag="动" vernacular="解围；撤围">
+			<exam article="《信陵君窃符救赵》" ref="秦军解去，遂救邯郸。" />
+		</sense>
+		<sense tag="动" vernacular="解脱">
+			<exam article="《梅花岭记》" ref="谓颜太师以兵解。" />
+		</sense>
+		<sense tag="动" vernacular="缓解；和解">
+			<exam article="《触龙说赵太后》" ref="太后之色少解。" />
+		</sense>
+		<sense tag="动" vernacular="解释；解说">
+			<exam article="《隆中对》" ref="关羽、张飞等不悦，先主解之。" />
+		</sense>
+		<sense tag="动" vernacular="理解；懂得">
+			<exam article="《与妻书》" ref="家中诸母皆通文，有不解处，望请其指教。" />
+		</sense>
+		<sense tag="动" vernacular="能；合">
+			<exam article="《西施》" ref="西施若解倾吴国，越国亡来又是谁。" />
+		</sense>
+		<sense tag="名" vernacular="见解；见识">
+			<exam article="《南史·张邵传》" ref="融玄义无师法，而神解过人。" />
+		</sense>
+		<sense tag="动" vernacular="解便；解手">
+			<exam article="《练兵实记》" ref="遇夜即于厕中大小解。" />
+		</sense>
+		<sense tag="名" vernacular="文体的一种，用于释疑" />
+	</pron>
+	<pron value="jiè">
+		<sense tag="动" vernacular="遣；发遣">
+			<exam article="《宋史·举志》" ref="天下之士屏居山林，令监司守臣解送。" />
+		</sense>
+		<sense tag="动" vernacular="解送；押送">
+			<exam article="《水浒传》" ref="开封府公文只叫解活的去，却不曾教结果了他。" />
+		</sense>
+	</pron>
+	<pron value="xiè">
+		<sense vernacular="“懈”的古字">
+			<exam article="《诗经·大雅·烝民》" ref="夙夜匪解，以事一人。" />
+			<exam article="《论衡·福虚》" ref="宋人有好善行者，三世不解。" />
+		</sense>
+	</pron>
+</character>

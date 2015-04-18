@@ -1,0 +1,36 @@
+<character value="气">
+	<introduce>
+		<pinyin value="qi4" writing="qì" />
+		<bushou value="气" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="撇横横折" />
+	</introduce>
+	<pron value="qì">
+		<sense tag="名" vernacular="云气；空气">
+			<exam article="《鸿门宴》" ref="吾令人望其气，皆龙虎，成五采。" />
+			<exam article="《狱中杂记》" ref="屋极有窗以达气。" />
+		</sense>
+		<sense tag="名" vernacular="气候；天气">
+			<exam article="《采草药》" ref="此地气之不同也。" />
+		</sense>
+		<sense tag="名" vernacular="景象；景色">
+			<exam article="《饮酒》" ref="山气日夕佳，飞鸟相与还。" />
+		</sense>
+		<sense tag="名" vernacular="气息；呼吸">
+			<exam article="《陈情表》" ref="但以刘日薄西山，气息奄奄。" />
+		</sense>
+		<sense tag="名" vernacular="气味">
+			<exam article="《狱中杂记》" ref="矢溺皆闭其中，与饮食之气相薄。" />
+		</sense>
+		<sense tag="名" vernacular="中医指责的元气">
+			<exam article="《柳毅传》" ref="闻子之说，气血俱动。" />
+		</sense>
+		<sense tag="名" vernacular="气势；气概">
+			<exam article="《曹刿论战》" ref="夫战，勇气也。一鼓作气。" />
+		</sense>
+		<sense tag="名" vernacular="气节；志气">
+			<exam article="《出师表》" ref="诚宜开张圣听，以光先帝遗德，恢宏志士之气。" />
+		</sense>
+	</pron>
+</character>

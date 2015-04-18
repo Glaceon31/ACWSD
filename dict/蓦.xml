@@ -1,0 +1,20 @@
+<character value="蓦">
+	<introduce>
+		<pinyin value="mo4" writing="mò" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="横竖竖竖折横横横撇捺折折横" />
+	</introduce>
+	<pron value="mò">
+		<sense tag="动" vernacular="上马">
+			<exam article="《吴都赋》" ref="蓦六驳，追飞尘。" />
+		</sense>
+		<sense tag="动" vernacular="超越；越过">
+			<exam article="《伍子胥变文》" ref="今日登山蓦岭，粮食罄穷。" />
+		</sense>
+		<sense tag="副" vernacular="突然">
+			<exam article="《清玉案·元夕》" ref="众里寻他千百度，蓦然回首那人却在灯火阑珊处。" />
+		</sense>
+	</pron>
+</character>

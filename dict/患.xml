@@ -1,0 +1,34 @@
+<character value="患">
+	<introduce>
+		<pinyin value="huan4" writing="huàn" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="竖折横竖折横竖捺折捺捺" />
+	</introduce>
+	<pron value="huàn">
+		<sense tag="动" vernacular="忧虑；担心">
+			<exam article="《季氏将伐颛臾》" ref="不患寡而患不均。" />
+			<exam article="《廉颇蔺相如列传》" ref="欲勿予，即患秦兵之来。" />
+		</sense>
+		<sense tag="名" vernacular="忧患；灾祸">
+			<exam article="《殽之战》" ref="一日纵敌，数世之患也。" />
+			<exam article="《鱼我所欲也》" ref="则是则可以避患而不为也。" />
+		</sense>
+		<sense tag="名" vernacular="疾病">
+			<exam article="《魏书·裴骏传》" ref="患笃，世宗遣太医令驰驿就视，并赐御药。" />
+		</sense>
+		<sense tag="动" vernacular="危害；妨害">
+			<exam article="《谋攻》" ref="故君之所以患于军者三。" />
+		</sense>
+		<sense tag="名" vernacular="禁忌；忌讳">
+			<exam article="《赤壁之战》" ref="此数者用兵之患也。" />
+		</sense>
+	</pron>
+	<phrase value="患惙">
+		<sense value="病重" />
+	</phrase>
+	<phrase value="患毒">
+		<sense value="痛恨" />
+	</phrase>
+</character>

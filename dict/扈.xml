@@ -1,0 +1,23 @@
+<character value="扈">
+	<introduce>
+		<pinyin value="hu4" writing="hù" />
+		<bushou value="户" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="捺折横撇竖折横折竖横折" />
+	</introduce>
+	<pron value="hù">
+		<sense tag="动" vernacular="止；制止">
+			<exam article="《左传·昭公十七年》" ref="扈民无淫者也。" />
+		</sense>
+		<sense tag="动" vernacular="披">
+			<exam article="《离骚》" ref="扈江离与辟芷兮。" />
+		</sense>
+		<sense tag="名" vernacular="一种鸟">
+			<exam article="《诗经·小雅·小宛》" ref="交交桑扈。" />
+		</sense>
+		<sense tag="名" vernacular="皇帝出巡时的侍从、护卫人员">
+			<exam article="《上林赋》" ref="扈从横行。" />
+		</sense>
+	</pron>
+</character>

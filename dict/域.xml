@@ -1,0 +1,23 @@
+<character value="域">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖横横竖折横横折撇捺" />
+	</introduce>
+	<pron value="yù">
+		<sense tag="名" vernacular="邦国；封邑">
+			<exam article="《季氏将伐颛臾》" ref="夫颛臾，昔者先王以为东蒙主，且在邦域之中矣。" />
+		</sense>
+		<sense tag="名" vernacular="疆界；一定区域">
+			<exam article="《周礼·大司徒》" ref="周知九州之地域广轮之数。" />
+		</sense>
+		<sense tag="名" vernacular="坟地">
+			<exam article="《诗经·唐风·葛生》" ref="蔹蔓于域。" />
+		</sense>
+	</pron>
+	<phrase value="域兆">
+		<sense value="墓地" />
+	</phrase>
+</character>

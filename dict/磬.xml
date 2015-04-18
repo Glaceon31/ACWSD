@@ -1,0 +1,23 @@
+<character value="磬">
+	<introduce>
+		<pinyin value="qing4" writing="qìng" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="16" />
+		<order value="横竖横折竖横撇撇折折捺横撇竖折横" />
+	</introduce>
+	<pron value="qìng">
+		<sense tag="名" vernacular="古代的一种打击乐器，多用石或玉制成，状如曲尺">
+			<exam article="《石钟山记》" ref="今以钟磬置于水，虽大风浪不能鸣也。" />
+		</sense>
+		<sense tag="名" vernacular="和尚敲打的一种铜质钵状法器">
+			<exam article="《题破山寺后禅院》" ref="万籁此俱寂，但馀钟磬声。" />
+		</sense>
+	</pron>
+	<phrase value="磬控">
+		<sense value="善御马" />
+	</phrase>
+	<phrase value="磬折">
+		<sense value="腰弯如磬形，表示恭敬" />
+	</phrase>
+</character>

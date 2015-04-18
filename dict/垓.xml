@@ -1,0 +1,23 @@
+<character value="垓">
+	<introduce>
+		<pinyin value="gai1" writing="gāi" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横捺横折撇撇捺" />
+	</introduce>
+	<pron value="gāi">
+		<sense tag="名" vernacular="八极之内的广大土地">
+			<exam article="《大鸿胪箴》" ref="经通垓极。" />
+		</sense>
+		<sense tag="名" vernacular="界限">
+			<exam article="《卫尉箴》" ref="重垠累垓，以难不律。" />
+		</sense>
+		<sense tag="数" vernacular="古代万万为垓">
+			<exam article="《太平御览》" ref="十经谓之垓。" />
+		</sense>
+		<sense vernacular="通“陔”，台阶的层次">
+			<exam article="《史记·封禅书》" ref="坛三垓。" />
+		</sense>
+	</pron>
+</character>

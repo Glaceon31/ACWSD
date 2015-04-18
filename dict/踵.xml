@@ -1,0 +1,30 @@
+<character value="踵">
+	<introduce>
+		<pinyin value="zhong3" writing="zhŏng" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="16" />
+		<order value="竖折横竖横竖横撇横竖折横横竖横横" />
+	</introduce>
+	<pron value="zhǒng">
+		<sense tag="名" vernacular="脚后跟">
+			<exam article="《狱中杂记》" ref="生人与死者并踵顶而卧。" />
+		</sense>
+		<sense tag="动" vernacular="走到；踏至">
+			<exam article="《孟子·滕文公上》" ref="自楚之滕，踵门而告文公。" />
+		</sense>
+		<sense tag="动" vernacular="跟随">
+			<exam article="《汉书·武帝纪》" ref="各将五万骑，步兵踵军后数十万人。" />
+		</sense>
+		<sense tag="动" vernacular="继承；因袭">
+			<exam article="《汉书·刑法制》" ref="天下既定，踵秦而置材官于郡国，京师有南北军之屯。" />
+		</sense>
+	</pron>
+	<phrase value="踵见">
+		<sense value="接连往见" />
+	</phrase>
+	<phrase value="踵武">
+		<sense value="跟着别人的脚步走" />
+		<sense value="比喻继承前人的事业" />
+	</phrase>
+</character>

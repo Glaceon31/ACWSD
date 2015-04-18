@@ -1,0 +1,24 @@
+<character value="厌">
+	<introduce>
+		<pinyin value="yan4" writing="yàn" />
+		<bushou value="厂" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="横撇横撇捺捺" />
+	</introduce>
+	<pron value="yàn">
+		<sense tag="形" vernacular="通“餍”">
+			<exam article="《烛之武退秦师》" ref="夫晋，何厌之有？" />
+			<exam article="《六国论》" ref="然则诸侯之地有限，暴秦之欲无厌。" />
+		</sense>
+		<sense tag="动" vernacular="讨厌；厌恶">
+			<exam article="《少年中国说》" ref="老年人常厌事，少年人常喜事。" />
+		</sense>
+		<sense tag="形" vernacular="通“餍”">
+			<exam article="《老子·五十三章》" ref="厌饮食，财货有馀，是谓盗夸。" />
+		</sense>
+	</pron>
+	<phrase value="厌代">
+		<sense value="皇帝死亡" />
+	</phrase>
+</character>

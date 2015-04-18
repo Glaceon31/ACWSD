@@ -1,0 +1,17 @@
+<character value="粤">
+	<introduce>
+		<pinyin value="yue4" writing="yuè" />
+		<bushou value="米" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="撇竖折捺撇横竖撇捺横横折" />
+	</introduce>
+	<pron value="yuè">
+		<sense tag="助" vernacular="用于句首或句中">
+			<exam article="《史记·周本纪》" ref="粤詹雒伊，毋远天室。" />
+		</sense>
+		<sense tag="名" vernacular="古代民族名">
+			<exam article="《汉书·高帝纪》" ref="使与百粤杂处。" />
+		</sense>
+	</pron>
+</character>

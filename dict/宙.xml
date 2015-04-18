@@ -1,0 +1,14 @@
+<character value="宙">
+	<introduce>
+		<pinyin value="zhou4" writing="zhòu" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺折竖折横竖横" />
+	</introduce>
+	<pron value="zhòu">
+		<sense tag="名" vernacular="古往今来，指所有的时间">
+			<exam article="《庄子·庚桑楚》" ref="有长而无本剽者宙也。" />
+		</sense>
+	</pron>
+</character>

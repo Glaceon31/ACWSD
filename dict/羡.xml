@@ -1,0 +1,28 @@
+<character value="羡">
+	<introduce>
+		<pinyin value="xian4" writing="xiàn" />
+		<bushou value="八" />
+		<bushoustroke value="2" />
+		<stroke value="12" />
+		<order value="捺撇横横竖横捺横撇折撇捺" />
+	</introduce>
+	<pron value="xiàn">
+		<sense tag="动" vernacular="羡慕">
+			<exam article="《淮南子·说林》" ref="临河而羡鱼，不如归家结网。" />
+		</sense>
+		<sense tag="形" vernacular="剩余；盈余">
+			<exam article="《管子·国蓄》" ref="钧羡不足。" />
+		</sense>
+		<sense tag="动" vernacular="超过">
+			<exam article="《上林赋》" ref="功羡于五帝。" />
+		</sense>
+	</pron>
+	<pron value="yán">
+		<sense tag="动" vernacular="通“延”，邀请">
+			<exam article="《东京赋》" ref="乃羡公侯卿士，登自东除。" />
+		</sense>
+		<sense tag="名" vernacular="通“埏”，墓道">
+			<exam article="《史记·秦始皇本纪》" ref="闭中羡，下外羡门。" />
+		</sense>
+	</pron>
+</character>

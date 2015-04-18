@@ -1,0 +1,43 @@
+<character value="怀">
+	<introduce>
+		<pinyin value="huai2" writing="huái" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺竖横撇竖捺" />
+	</introduce>
+	<pron value="huái">
+		<sense tag="动" vernacular="思念；怀念">
+			<exam article="《归去来兮辞》" ref="怀良辰以孤往，或植杖而耘耔。" />
+			<exam article="《岳阳楼记》" ref="则有去国怀乡，忧谗畏讥。" />
+		</sense>
+		<sense tag="名" vernacular="心意；心情">
+			<exam article="《孔雀东南飞》" ref="感君区区怀。" />
+			<exam article="《扬州慢》" ref="予怀怆然，感慨今昔。" />
+		</sense>
+		<sense tag="名" vernacular="胸怀；情绪">
+			<exam article="《兰亭集序》" ref="所以游目骋怀，足以极视听之娱。" />
+		</sense>
+		<sense tag="名" vernacular="心">
+			<exam article="《孔雀东南飞》" ref="恐不任不我意，逆以煎我怀。" />
+		</sense>
+		<sense tag="动" vernacular="心中藏着">
+			<exam article="《赤壁之战》" ref="外托服从之名而内怀犹豫之计。" />
+		</sense>
+		<sense tag="名" vernacular="胸前">
+			<exam article="《项脊轩志》" ref="汝秭在吾怀，呱呱而泣。" />
+		</sense>
+		<sense tag="动" vernacular="抱着；揣着">
+			<exam article="《廉颇蔺相如列传》" ref="乃使从者衣褐，怀其璧。" />
+		</sense>
+		<sense tag="动" vernacular="关怀；安抚">
+			<exam article="《五蠹》" ref="行仁义而怀西戎，遂王天下。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……服；使……归顺">
+			<exam article="《论积贮疏》" ref="怀敌附远，何招而不致？" />
+		</sense>
+		<sense tag="动" vernacular="亲附；归向">
+			<exam article="《叔向贺贫》" ref="诸侯亲之，戎狄怀之，以正晋国。" />
+		</sense>
+	</pron>
+</character>

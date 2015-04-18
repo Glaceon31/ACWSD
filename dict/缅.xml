@@ -1,0 +1,20 @@
+<character value="缅">
+	<introduce>
+		<pinyin value="mian3" writing="miăn" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折折横横撇竖折竖竖横横横" />
+	</introduce>
+	<pron value="miǎn">
+		<sense tag="名" vernacular="细丝">
+			<exam article="《说文解字·糸部》" ref="缅，微丝也。" />
+		</sense>
+		<sense tag="形" vernacular="遥远">
+			<exam article="《感士不遇赋》" ref="苍冥遐缅，人事无已。" />
+		</sense>
+		<sense tag="形" vernacular="隐而不明">
+			<exam article="《三国志·吴书·步骘传》" ref="至于远近士人，先后之宜，犹或缅焉，未之能详。" />
+		</sense>
+	</pron>
+</character>

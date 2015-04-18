@@ -1,0 +1,17 @@
+<character value="痕">
+	<introduce>
+		<pinyin value="hen2" writing="hén" />
+		<bushou value="疒" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="捺横撇捺横折横横折撇捺" />
+	</introduce>
+	<pron value="hén">
+		<sense tag="名" vernacular="伤疤">
+			<exam article="《胡笳十八拍》" ref="沙场白骨兮;刀痕箭瘢。" />
+		</sense>
+	</pron>
+	<phrase value="痕废">
+		<sense value="以事涉嫌嶷而罢免" />
+	</phrase>
+</character>

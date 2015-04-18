@@ -1,0 +1,24 @@
+<character value="憯">
+	<introduce>
+		<pinyin value="can3" writing="căn" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="捺捺竖横折撇折横折撇折竖折横横" />
+	</introduce>
+	<pron value="cǎn">
+		<sense tag="形" vernacular="痛；惨痛">
+			<exam article="《韩非子·解老》" ref="苦痛杂于肠胃之间，则伤人也憯。" />
+		</sense>
+		<sense tag="副" vernacular="乃；竟">
+			<exam article="《诗经·小雅·十月之交》" ref="哀今之人，胡憯莫惩。" />
+		</sense>
+	</pron>
+	<phrase value="憯憯">
+		<sense value="忧愁不安的样子" />
+	</phrase>
+	<phrase value="憯懍">
+		<sense value="1" />
+		<sense value="哀伤畏惧" />
+	</phrase>
+</character>

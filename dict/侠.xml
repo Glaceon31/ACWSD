@@ -1,0 +1,23 @@
+<character value="侠">
+	<introduce>
+		<pinyin value="xia2" writing="xiá" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇竖横捺撇横撇捺" />
+	</introduce>
+	<pron value="xiá">
+		<sense tag="名" vernacular="侠士；侠客；仗义勇为的人或争强好斗的人">
+			<exam article="《柳敬亭传》" ref="其豪猾大侠、杀人亡命、流离遇合、破家失国之事。" />
+		</sense>
+		<sense tag="形" vernacular="侠义；好打抱不平或任气逞强">
+			<exam article="《汉书·朱博传》" ref="稍迁为功曹，伉侠好交。" />
+		</sense>
+	</pron>
+	<phrase value="侠骨">
+		<sense value="旧指勇武仗义的性格或气质" />
+	</phrase>
+	<phrase value="侠客">
+		<sense value="指人之难，出言必信，见义勇为的人" />
+	</phrase>
+</character>

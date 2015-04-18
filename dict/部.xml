@@ -1,0 +1,33 @@
+<character value="部">
+	<introduce>
+		<pinyin value="bu4" writing="bù" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺横捺撇横竖折横折竖" />
+	</introduce>
+	<pron value="bù">
+		<sense tag="动" vernacular="率领">
+			<exam article="《群英会蒋干中计》" ref="瑜自部诸将接应。" />
+		</sense>
+		<sense tag="量" vernacular="军队编制单位">
+			<exam article="《失街亭》" ref="某为前部,理合当前破敌。" />
+		</sense>
+		<sense tag="名" vernacular="部属">
+			<exam article="《赤壁之战》" ref="瑜部将黄盖。" />
+		</sense>
+		<sense tag="名" vernacular="门类">
+			<exam article="《琵琶行》" ref="名属教坊笫一部。" />
+		</sense>
+		<sense tag="名" vernacular="官府;衙门">
+			<exam article="《孔雀东南飞》" ref="还部白府君。" />
+		</sense>
+		<sense tag="名" vernacular="部门" />
+		<sense tag="量" vernacular="用于书籍">
+			<exam article="《〈黄花冈七十二烈士事略〉序》" ref="则此一部开国血史可传也而不朽。" />
+		</sense>
+	</pron>
+	<phrase value="部曲">
+		<sense value="本为军队的编制，后用来称号私人军队" />
+	</phrase>
+</character>

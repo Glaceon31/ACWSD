@@ -1,0 +1,30 @@
+<character value="办">
+	<introduce>
+		<pinyin value="ban4" writing="bàn" />
+		<bushou value="力" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="折撇捺捺" />
+	</introduce>
+	<pron value="bàn">
+		<sense tag="动" vernacular="办理;治理">
+			<exam article="《史记·项羽本纪》" ref="项粱常为主办。" />
+		</sense>
+		<sense tag="动" vernacular="处罚;惩戒">
+			<exam article="《三国志·蜀书·费祎传》" ref="君信可人,必能办贼者也。" />
+		</sense>
+		<sense tag="动" vernacular="做成;具备">
+			<exam article="《孤儿行》" ref="大兄言办饭,大嫂言视马。" />
+			<exam article="《赤壁之战》" ref="船,粮,战俱办。" />
+		</sense>
+		<sense tag="动" vernacular="对仗">
+			<exam article="《赤壁之战》" ref="卿能办之者诚决。" />
+		</sense>
+		<sense tag="动" vernacular="创设">
+			<exam article="《冯婉贞》" ref="是年谢庄办团,以三保勇而多艺,推为长。" />
+		</sense>
+		<sense tag="动" vernacular="置;筹措">
+			<exam article="《乐府诗集·陇西行》" ref="促令办粗饭，慎莫使稽留。" />
+		</sense>
+	</pron>
+</character>

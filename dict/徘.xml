@@ -1,0 +1,16 @@
+<character value="徘">
+	<introduce>
+		<pinyin value="pai2" writing="pái" />
+		<bushou value="彳" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="撇撇竖竖横横横竖横横横" />
+	</introduce>
+	<pron value="pái">
+		<sense vernacular="见“徘徊”" />
+	</pron>
+	<phrase value="徘徊">
+		<sense value="来回地走动" />
+		<sense value="犹豫不决；心绪不定" />
+	</phrase>
+</character>

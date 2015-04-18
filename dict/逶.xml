@@ -1,0 +1,15 @@
+<character value="逶">
+	<introduce>
+		<pinyin value="wei1" writing="wēi" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="撇横竖撇捺折撇横捺折捺" />
+	</introduce>
+	<pron value="wēi">
+		<sense vernacular="见“逶迤”" />
+	</pron>
+	<phrase value="逶迤">
+		<sense value="弯曲而长的样子" />
+	</phrase>
+</character>

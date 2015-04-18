@@ -1,0 +1,24 @@
+<character value="兆">
+	<introduce>
+		<pinyin value="zhao4" writing="zhào" />
+		<bushou value="儿" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇捺横折撇捺" />
+	</introduce>
+	<pron value="zhào">
+		<sense tag="名" vernacular="古代占卜时，占卜者观看龟甲烧灼形成的裂纹，用来判断吉凶，这种裂纹就叫兆">
+			<exam article="《史记·文帝本纪》" ref="卜之龟，卦兆得大横。" />
+		</sense>
+		<sense tag="动" vernacular="开始">
+			<exam article="《左传·哀公元年》" ref="能布其德，而兆其谋。" />
+		</sense>
+		<sense tag="名" vernacular="祭坛或墓地的界域">
+			<exam article="《左传·哀公二年》" ref="素车朴马，无入于兆。" />
+		</sense>
+		<sense tag="数" vernacular="古代以百万或万亿为兆，常用来表示多">
+			<exam article="《尚书·吕刑》" ref="兆民赖之。" />
+			<exam article="《九章·惜诵》" ref="又众兆之所雠。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="纻">
+	<introduce>
+		<pinyin value="zhu4" writing="zhù" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折折横捺捺折横" />
+	</introduce>
+	<pron value="zhù">
+		<sense tag="名" vernacular="通“苎”，苎麻">
+			<exam article="《诗经·陈风·东门之池》" ref="东门之池，可以沤纻。" />
+		</sense>
+		<sense tag="名" vernacular="苎麻织砀布">
+			<exam article="《吴都赋》" ref="纻衣絺服，杂沓從萃。" />
+		</sense>
+	</pron>
+</character>

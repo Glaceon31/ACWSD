@@ -1,0 +1,17 @@
+<character value="慰">
+	<introduce>
+		<pinyin value="wei4" writing="wèi" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="15" />
+		<order value="折横撇横横竖撇捺横竖捺捺折捺捺" />
+	</introduce>
+	<pron value="wèi">
+		<sense tag="动" vernacular="安慰">
+			<exam article="《促织》" ref="半夜复苏，夫妻心稍慰。" />
+		</sense>
+		<sense tag="动" vernacular="慰问">
+			<exam article="《赤壁之战》" ref="肃请奉命吊表二子，并慰劳其军中用事者。" />
+		</sense>
+	</pron>
+</character>

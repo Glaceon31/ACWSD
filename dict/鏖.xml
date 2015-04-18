@@ -1,0 +1,28 @@
+<character value="鏖">
+	<introduce>
+		<pinyin value="ao2" writing="áo" />
+		<bushou value="金" />
+		<bushoustroke value="8" />
+		<stroke value="19" />
+		<order value="捺横撇折竖竖横横折撇折撇捺横横竖捺撇横" />
+	</introduce>
+	<pron value="áo">
+		<sense tag="动" vernacular="激战,苦战">
+			<exam article="《汉书·霍去病传》" ref="合短兵,鏖皋兰下。" />
+		</sense>
+		<sense tag="形" vernacular="喧扰">
+			<exam article="《仁亭》" ref="市声鏖午枕,常以此心观。" />
+		</sense>
+		<sense tag="动" vernacular="通“熬”,久煮">
+			<exam article="《老饕赋》" ref="久蒸暴而日燥,百上下而汤鏖。" />
+		</sense>
+	</pron>
+	<phrase value="鏖糟">
+		<sense value="1" />
+		<sense value="拼死杀敌" />
+		<sense value="2" />
+		<sense value="固执任性,不听从别人的意见" />
+		<sense value="3" />
+		<sense value="肮脏,不干净" />
+	</phrase>
+</character>

@@ -1,0 +1,46 @@
+<character value="阿">
+	<introduce>
+		<pinyin value="a1" writing="ā" />
+		<pinyin value="e1" writing="ē" />
+		<pinyin value="a5" writing="a" />
+		<pinyin value="a2" writing="á" />
+		<pinyin value="a4" writing="à" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="折竖横竖折横竖" />
+	</introduce>
+	<pron value="ā">
+		<sense vernacular="词头，多用在亲属名称或人名的前面，盛行于魏晋以后">
+			<exam article="《孔雀东南飞》" ref="阿母谓阿女：‘适得府君书，明日来迎汝。’" />
+			<exam article="《颜氏家训·风操》" ref="梁武小名阿练，子孙呼练为绢。" />
+		</sense>
+	</pron>
+	<pron value="ē">
+		<sense vernacular="〈名〉山陵；大丘">
+			<exam article="《滕王阁序》" ref="访风景于崇阿。" />
+		</sense>
+		<sense vernacular="〈名〉山湾">
+			<exam article="《山鬼》" ref="若有人兮山之阿。" />
+		</sense>
+		<sense vernacular="〈名〉屋角翘起来檐">
+			<exam article="《古诗十九首·西北有高楼》" ref="阿阁三重阶。" />
+		</sense>
+		<sense vernacular="〈动〉曲从；迎合">
+			<exam article="《韩非子·有度》" ref="法不阿贵，绳不挠曲。" />
+		</sense>
+		<sense vernacular="〈动〉偏私；袒护">
+			<exam article="《离骚》" ref="皇天无阿私兮。" />
+			<exam article="《后汉书·文苑传下》" ref="苟失其道，则兄弟不阿。" />
+		</sense>
+		<sense vernacular="通“婀”">
+			<exam article="《诗经·小雅·隰桑》" ref="隰桑有阿，其叶有难。" />
+		</sense>
+		<sense vernacular="hē㈢通“呵”">
+			<exam article="《老子·二十章》" ref="唯之与阿，相去几何。" />
+		</sense>
+	</pron>
+	<phrase value="阿谀">
+		<sense value="ēyú迎合别人的心意，说奉承话" />
+	</phrase>
+</character>

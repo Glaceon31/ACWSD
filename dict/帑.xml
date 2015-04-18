@@ -1,0 +1,19 @@
+<character value="帑">
+	<introduce>
+		<pinyin value="tang3" writing="tăng" />
+		<bushou value="巾" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折撇横折捺竖折竖" />
+	</introduce>
+	<pron value="tǎng">
+		<sense tag="名" vernacular="国家收藏钱财的仓库">
+			<exam article="《后汉书·郑弘传》" ref="人食不足，而帑藏殷积。" />
+		</sense>
+	</pron>
+	<pron value="nú">
+		<sense vernacular="通“孥”">
+			<exam article="《诗经·小雅·常棣》" ref="乐尔妻帑。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,47 @@
+<character value="播">
+	<introduce>
+		<pinyin value="bo1" writing="bō" />
+		<pinyin value="bo4" writing="bò" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="横竖横撇捺撇横竖撇捺竖折横竖横" />
+	</introduce>
+	<pron value="bō">
+		<sense tag="动" vernacular="播种，下种">
+			<exam article="《汉书·艺文志》" ref="播百谷，劝耕桑，以足衣食。" />
+		</sense>
+		<sense tag="动" vernacular="分布">
+			<exam article="《尚书·禹贡》" ref="又北，播为九河，同为逆河。" />
+		</sense>
+		<sense tag="动" vernacular="传播，传扬">
+			<exam article="《后汉书·承宫传》" ref="朝臣惮其节，名播匈奴。" />
+		</sense>
+		<sense tag="动" vernacular="表现">
+			<exam article="《国语·晋语三》" ref="夫人美于中，必播于外。" />
+		</sense>
+		<sense tag="动" vernacular="迁徙；流亡">
+			<exam article="《宦者传》" ref="一身既毙，而妻子远播。" />
+		</sense>
+		<sense tag="动" vernacular="背弃；舍弃">
+			<exam article="《楚辞·九叹·思古》" ref="播规榘以背度兮。" />
+		</sense>
+		<sense tag="动" vernacular="放纵；放">
+			<exam article="《国语·周语下》" ref="播其淫心，称遂共工之过。" />
+		</sense>
+	</pron>
+	<pron value="bǒ">
+		<sense vernacular="通“簸”，摇；扬">
+			<exam article="《庄子·人间世》" ref="鼓荚播精，足以食十人。" />
+		</sense>
+	</pron>
+	<phrase value="播荡">
+		<sense value="流亡，流离失所" />
+	</phrase>
+	<phrase value="播骨">
+		<sense value="骨骼散置" />
+	</phrase>
+	<phrase value="播越">
+		<sense value="流亡" />
+	</phrase>
+</character>

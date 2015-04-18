@@ -1,0 +1,34 @@
+<character value="详">
+	<introduce>
+		<pinyin value="xiang2" writing="xiáng" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺折捺撇横横横竖" />
+	</introduce>
+	<pron value="xiáng">
+		<sense tag="形" vernacular="详细；详尽">
+			<exam article="《原毁》" ref="其责人也详，其待己也廉。" />
+		</sense>
+		<sense tag="动" vernacular="弄清楚；详细地知道">
+			<exam article="《孔雀东南飞》" ref="果不如先愿，又非君所详。" />
+		</sense>
+		<sense tag="形" vernacular="安详">
+			<exam article="《神女赋》" ref="性沉详而不烦。" />
+		</sense>
+		<sense tag="动" vernacular="旧时下级把案情向上级报告请示">
+			<exam article="《葫芦僧判断葫芦案》" ref="一到任就有件人命官司详至案下。" />
+		</sense>
+	</pron>
+	<pron value="yáng">
+		<sense tag="动" vernacular="通“徉”">
+			<exam article="《史记·项羽本记》" ref="见使者，详惊愕。" />
+		</sense>
+	</pron>
+	<phrase value="详平">
+		<sense value="周密公平" />
+	</phrase>
+	<phrase value="详练">
+		<sense value="详审，熟习" />
+	</phrase>
+</character>

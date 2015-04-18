@@ -1,0 +1,87 @@
+<character value="出">
+	<introduce>
+		<pinyin value="chu1" writing="chū" />
+		<bushou value="凵" />
+		<bushoustroke value="2" />
+		<stroke value="5" />
+		<order value="折竖竖折竖" />
+	</introduce>
+	<pron value="chū">
+		<sense tag="动" vernacular="由内向外走，与“入”相对">
+			<exam article="《国殇》" ref="出不入兮往不反。" />
+			<exam article="《生于忧患，死于安乐》" ref="入则无法家拂士，出则无敌国外患者，国恒亡。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……出来">
+			<exam article="《中山狼传》" ref="先生举手出狼。" />
+		</sense>
+		<sense tag="动" vernacular="付出；支付">
+			<exam article="《礼·王制》" ref="量入以为出。" />
+		</sense>
+		<sense tag="动" vernacular="出发">
+			<exam article="《殽之战》" ref="吾见师出，而不见其入也。" />
+			<exam article="《触龙说赵太后》" ref="必以长安君为质，兵乃出。" />
+		</sense>
+		<sense tag="动" vernacular="脱离，离开">
+			<exam article="《梅花岭记》" ref="其气浩然，常留天地之间，何必出世入世之面目。" />
+			<exam article="《红楼梦》" ref="记得来了一个癞头和尚，说要化我去出家。" />
+		</sense>
+		<sense tag="动" vernacular="离京为官，外放，外迁">
+			<exam article="《张衡传》" ref="永和初，出为河间相。" />
+			<exam article="《琵琶行》" ref="予出官二年，恬然自安。" />
+		</sense>
+		<sense tag="动" vernacular="发出，发布">
+			<exam article="《屈原列传》" ref="每一令出，平伐其功。" />
+		</sense>
+		<sense tag="动" vernacular="出产">
+			<exam article="《捕蛇者说》" ref="殚其地之出，竭其庐之入。" />
+		</sense>
+		<sense tag="动" vernacular="出现，发现">
+			<exam article="《教战守策》" ref="战者，必然之势也。……不出于西，则出于北。" />
+			<exam article="《醉翁亭记》" ref="……水落而石出者，山间之四时也。" />
+		</sense>
+		<sense tag="动" vernacular="超出，超过">
+			<exam article="《师说》" ref="古之圣人，其出人也远矣。" />
+			<exam article="《冯婉贞》" ref="敌出不意，大惊扰。" />
+		</sense>
+		<sense tag="名" vernacular="花瓣">
+			<exam article="《述异记》" ref="花杂五色，六出。" />
+		</sense>
+		<sense tag="名" vernacular="古代戏曲的一个大段落叫一出" />
+	</pron>
+	<phrase value="出尘">
+		<sense value="1" />
+		<sense value="超出尘俗" />
+	</phrase>
+	<phrase value="出贷">
+		<sense value="出钱" />
+	</phrase>
+	<phrase value="出閤">
+		<sense value="1" />
+		<sense value="皇子出就封国" />
+	</phrase>
+	<phrase value="出官">
+		<sense value="京官外调" />
+	</phrase>
+	<phrase value="出降">
+		<sense value="1" />
+		<sense value="公主下嫁" />
+		<sense value="2" />
+		<sense value="指宫女出嫁" />
+	</phrase>
+	<phrase value="出没">
+		<sense value="1" />
+		<sense value="隐现" />
+		<sense value="2" />
+		<sense value="出入，不一致，不相符" />
+	</phrase>
+	<phrase value="出妻">
+		<sense value="遗弃妻子" />
+	</phrase>
+	<phrase value="出首">
+		<sense value="1" />
+		<sense value="自首" />
+	</phrase>
+	<phrase value="出赘">
+		<sense value="旧时指男子到女家成婚，成为女家的一员" />
+	</phrase>
+</character>

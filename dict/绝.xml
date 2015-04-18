@@ -1,0 +1,50 @@
+<character value="绝">
+	<introduce>
+		<pinyin value="jue2" writing="jué" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折折横撇折折竖横折" />
+	</introduce>
+	<pron value="jué">
+		<sense tag="动" vernacular="断；断绝">
+			<exam article="《共工头触不周山》" ref="天柱折，地维绝。" />
+			<exam article="《荆轲刺秦王》" ref="秦王惊，自引而起，绝袖。" />
+		</sense>
+		<sense tag="动" vernacular="隔绝；隔断">
+			<exam article="《三峡》" ref="至于夏水襄陵，沿溯阻绝。" />
+		</sense>
+		<sense tag="形" vernacular="隔绝的；封闭的《桃花源记》：“率妻子邑人来此绝境">
+			<exam article="《桃花源记》" ref="率妻子邑人来此绝境。" />
+		</sense>
+		<sense tag="形" vernacular="极远的">
+			<exam article="《班超告老归国》" ref="班超久在绝域，年老思土。" />
+		</sense>
+		<sense tag="动" vernacular="绝交；断绝往来">
+			<exam article="《屈原列传》" ref="楚怀王贪而信张仪，遂绝齐。" />
+		</sense>
+		<sense tag="动" vernacular="停止；止歇">
+			<exam article="《与朱元思书》" ref="蝉则千转不穷，猿则百叫无绝。" />
+			<exam article="《口技》" ref="忽然抚尺一下，群响毕绝。" />
+		</sense>
+		<sense tag="动" vernacular="绝命；死">
+			<exam article="《孔雀东南飞》" ref="我命绝今日，魂去尸长留。" />
+		</sense>
+		<sense tag="动" vernacular="横渡">
+			<exam article="《劝学》" ref="非能水也，而绝江河。" />
+		</sense>
+		<sense tag="名" vernacular="旧诗体裁之一">
+			<exam article="《西厢记》" ref="我且高吟一绝，看他则甚。" />
+		</sense>
+		<sense tag="形" vernacular="到极点的；不能超越的">
+			<exam article="《与朱元思书》" ref="奇山异水，天下独绝。" />
+		</sense>
+		<sense tag="副" vernacular="">
+			<exam article="《核舟记》" ref="佛印绝类弥勒。" />
+			<exam article="《游黄山记》" ref="众壑纵横，真黄山绝胜处。" />
+		</sense>
+		<sense tag="副" vernacular="绝对；完全">
+			<exam article="《促织》" ref="而心目力俱穷，绝无踪响。" />
+		</sense>
+	</pron>
+</character>

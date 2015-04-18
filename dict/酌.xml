@@ -1,0 +1,38 @@
+<character value="酌">
+	<introduce>
+		<pinyin value="zhuo2" writing="zhuó" />
+		<bushou value="酉" />
+		<bushoustroke value="7" />
+		<stroke value="10" />
+		<order value="横竖折撇折横横撇折捺" />
+	</introduce>
+	<pron value="zhuó">
+		<sense tag="动" vernacular="饮酒">
+			<exam article="《归去来兮辞》" ref="引壶觞以自酌。" />
+		</sense>
+		<sense tag="动为动" vernacular="为……斟酒">
+			<exam article="《聊斋志异·青凤》" ref="叟乃酌客。" />
+		</sense>
+		<sense tag="动" vernacular="喝；饮">
+			<exam article="《滕王阁序》" ref="酌贪泉而觉爽，处涸辙以犹欢。" />
+		</sense>
+		<sense tag="动" vernacular="倒（浆液）">
+			<exam article="《卖油翁》" ref="以我酌油知之。" />
+		</sense>
+		<sense tag="名" vernacular="酒杯">
+			<exam article="《招魂》" ref="华酌既陈，有琼浆些。" />
+		</sense>
+		<sense tag="动" vernacular="经过衡量决定取舍">
+			<exam article="《左传·成公六年》" ref="子为大政，将酌于民者也。" />
+		</sense>
+		<sense tag="动" vernacular="取">
+			<exam article="《淮南子·本经》" ref="酌焉而不竭。" />
+		</sense>
+	</pron>
+	<phrase value="酌量">
+		<sense value="考虑；估量" />
+	</phrase>
+	<phrase value="酌中">
+		<sense value="参考几种意见定出可行的办法" />
+	</phrase>
+</character>

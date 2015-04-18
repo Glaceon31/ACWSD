@@ -1,0 +1,15 @@
+<character value="嗔">
+	<introduce>
+		<pinyin value="chen1" writing="chēn" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="竖折横横竖竖折横横横横撇捺" />
+	</introduce>
+	<pron value="chēn">
+		<sense tag="动" vernacular="生气；发怒">
+			<exam article="《丽人行》" ref="慎莫近前丞相嗔。" />
+			<exam article="《智取生辰纲》" ref="杨志也嗔道：‘你两个好不晓事……’" />
+		</sense>
+	</pron>
+</character>

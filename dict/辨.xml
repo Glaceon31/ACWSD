@@ -1,0 +1,21 @@
+<character value="辨">
+	<introduce>
+		<pinyin value="bian4" writing="biàn" />
+		<bushou value="辛" />
+		<bushoustroke value="7" />
+		<stroke value="16" />
+		<order value="捺横捺撇横横撇捺撇捺横捺撇横横竖" />
+	</introduce>
+	<pron value="biàn">
+		<sense tag="动" vernacular="分别；辨别">
+			<exam article="《孟子·鱼我所欲也》" ref="万钟不辨礼义而受之。" />
+			<exam article="《木兰诗》" ref="又兔傍地走，安能辨我是雄雌。" />
+		</sense>
+		<sense tag="动" vernacular="通“辩”，辩论；申辩">
+			<exam article="《答司马谏议书》" ref="故略上报，不复一一自辨。" />
+		</sense>
+		<sense vernacular="bàn同“辦”，治理">
+			<exam article="《荀子·议兵》" ref="城郭不辨，沟池不抇。" />
+		</sense>
+	</pron>
+</character>

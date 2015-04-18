@@ -1,0 +1,27 @@
+<character value="营">
+	<introduce>
+		<pinyin value="ying2" writing="yíng" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖竖捺折竖折横竖折横" />
+	</introduce>
+	<pron value="yíng">
+		<sense tag="名" vernacular="军营">
+			<exam article="《出师表》" ref="愚以为营中之事，悉以咨之。" />
+		</sense>
+		<sense tag="动" vernacular="经营">
+			<exam article="《卖炭翁》" ref="卖炭得钱何所营?身上衣裳口中食。" />
+		</sense>
+		<sense tag="动" vernacular="谋求">
+			<exam article="《促织》" ref="百计营谋不能脱。" />
+		</sense>
+		<sense tag="动" vernacular="建造">
+			<exam article="《过小孤山大孤山》" ref="张魏公自湖湘还，尝加营葺。" />
+		</sense>
+	</pron>
+	<phrase value="营生">
+		<sense value="职业" />
+		<sense value="保养身体" />
+	</phrase>
+</character>

@@ -1,0 +1,18 @@
+<character value="泚">
+	<introduce>
+		<pinyin value="ci3" writing="cĭ" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺横竖横竖横撇折" />
+	</introduce>
+	<pron value="cǐ">
+		<sense tag="形" vernacular="清澈的样子" />
+		<sense tag="形" vernacular="汗水流出的样子">
+			<exam article="《蜜酒歌》" ref="六月田夫汗流泚。" />
+		</sense>
+	</pron>
+	<phrase value="泚笔">
+		<sense value="用笔蘸墨" />
+	</phrase>
+</character>

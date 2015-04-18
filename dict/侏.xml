@@ -1,0 +1,18 @@
+<character value="侏">
+	<introduce>
+		<pinyin value="zhu1" writing="zhū" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇竖撇横横竖撇捺" />
+	</introduce>
+	<pron value="zhū">
+		<sense tag="形" vernacular="矮小">
+			<exam article="《论衡·齐世》" ref="安得伛侏之人乎？" />
+		</sense>
+	</pron>
+	<phrase value="侏儒">
+		<sense value="身体短小的人，又写作“朱儒”" />
+		<sense value="特指充当倡优、乐师的侏儒" />
+	</phrase>
+</character>

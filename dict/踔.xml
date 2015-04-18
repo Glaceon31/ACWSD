@@ -1,0 +1,25 @@
+<character value="踔">
+	<introduce>
+		<pinyin value="chuo1" writing="chuō" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="15" />
+		<order value="竖折横竖横竖横竖横竖折横横横竖" />
+	</introduce>
+	<pron value="chuō">
+		<sense tag="动" vernacular="跳、腾跃">
+			<exam article="《史记·司马相如列传》" ref="捷垂条，踔稀间。" />
+		</sense>
+		<sense tag="动" vernacular="踰越">
+			<exam article="《后汉书·蔡邕传》" ref="踔宇宙而遗俗兮，眇翩翩而独征。" />
+		</sense>
+		<sense tag="形" vernacular="卓然特立" />
+		<sense vernacular="diào路远" />
+	</pron>
+	<phrase value="踔绝">
+		<sense value="卓越、高超之极" />
+	</phrase>
+	<phrase value="踔远">
+		<sense value="辽远" />
+	</phrase>
+</character>

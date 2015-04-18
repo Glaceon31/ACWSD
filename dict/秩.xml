@@ -1,0 +1,23 @@
+<character value="秩">
+	<introduce>
+		<pinyin value="zhi4" writing="zhì" />
+		<bushou value="禾" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="撇横竖撇捺撇横横撇捺" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="名" vernacular="官吏的俸禄">
+			<exam article="《荀子·王霸》" ref="重其官秩。" />
+		</sense>
+		<sense tag="名" vernacular="次序">
+			<exam article="《汉书·谷永传》" ref="贱者咸得秩进。" />
+		</sense>
+		<sense tag="名" vernacular="常态">
+			<exam article="《诗经·小雅·宾之初筵》" ref="是曰既醉，不知其秩。" />
+		</sense>
+		<sense tag="量" vernacular="白居易《思旧》：“已开第七秩">
+			<exam article="《思旧》" ref="已开第七秩。" />
+		</sense>
+	</pron>
+</character>

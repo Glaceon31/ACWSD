@@ -1,0 +1,22 @@
+<character value="矗">
+	<introduce>
+		<pinyin value="chu4" writing="chù" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="24" />
+		<order value="横竖竖折横横横横横竖竖折横横横横横竖竖折横横横横" />
+	</introduce>
+	<pron value="chù">
+		<sense tag="形" vernacular="直通">
+			<exam article="《山居赋》" ref="曲术周乎前后，直陌矗其东西。" />
+		</sense>
+		<sense tag="形" vernacular="直率" />
+		<sense tag="形" vernacular="直立，高耸" />
+		<sense tag="形" vernacular="齐，齐平">
+			<exam article="《芜城赋》" ref="若断岸，矗似长云。" />
+		</sense>
+	</pron>
+	<phrase value="矗矗">
+		<sense value="形容高峻" />
+	</phrase>
+</character>

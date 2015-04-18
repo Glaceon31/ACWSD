@@ -1,0 +1,18 @@
+<character value="絜">
+	<introduce>
+		<pinyin value="xie2" writing="xié" />
+		<pinyin value="jie2" writing="jié" />
+		<bushou value="糸" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="横横横竖折撇折折捺竖撇捺" />
+	</introduce>
+	<pron value="xié">
+		<sense tag="动" vernacular="约束；拴套">
+			<exam article="《五蠹》" ref="一日身死，子孙累世絜驾。" />
+		</sense>
+		<sense tag="动" vernacular="丈量；衡量">
+			<exam article="《过秦论》" ref="试使山东国与陈涉度长絜大，比权量力，则不可同年而语矣。" />
+		</sense>
+	</pron>
+</character>

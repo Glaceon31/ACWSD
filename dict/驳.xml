@@ -1,0 +1,23 @@
+<character value="驳">
+	<introduce>
+		<pinyin value="bo2" writing="bó" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折折横撇捺撇捺" />
+	</introduce>
+	<pron value="bó">
+		<sense tag="形" vernacular="马的毛色不纯,后泛指颜色不纯">
+			<exam article="《汉书·梅福传》" ref="一色成体谓之醇,白黑杂合谓之驳。" />
+		</sense>
+		<sense tag="形" vernacular="混杂;杂糅">
+			<exam article="《文心雕龙·杂文》" ref="或理粹而辞驳。" />
+		</sense>
+		<sense tag="动" vernacular="辩驳;论证是非">
+			<exam article="《旧唐书·王世充传》" ref="或有驳难之者世充利口饰非。" />
+		</sense>
+		<sense tag="名" vernacular="传说中的猛兽名">
+			<exam article="《管子·小问》" ref="驳食虎豹,故虎疑焉。" />
+		</sense>
+	</pron>
+</character>

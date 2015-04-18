@@ -1,0 +1,26 @@
+<character value="随">
+	<introduce>
+		<pinyin value="sui2" writing="suí" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="折竖横撇竖折横横捺折捺" />
+	</introduce>
+	<pron value="suí">
+		<sense tag="动" vernacular="跟随；跟从">
+			<exam article="《桃花源记》" ref="太守即遣人随其往，寻向所志，遂迷，不复得路。" />
+		</sense>
+		<sense tag="动" vernacular="沿着；顺着">
+			<exam article="《孔雀东南飞》" ref="四角龙子幡，婀娜随风转。" />
+		</sense>
+		<sense tag="动" vernacular="听凭；任随">
+			<exam article="《史记·魏世家》" ref="随安陵氏而亡之。" />
+		</sense>
+		<sense tag="副" vernacular="随即；接着">
+			<exam article="《狱中杂记》" ref="染此者十不一二，或随有瘳。" />
+		</sense>
+	</pron>
+	<phrase value="随辈">
+		<sense value="随同众人" />
+	</phrase>
+</character>

@@ -1,0 +1,21 @@
+<character value="纨">
+	<introduce>
+		<pinyin value="wan2" writing="wán" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折折横撇折捺" />
+	</introduce>
+	<pron value="wán">
+		<sense tag="名" vernacular="很细密的白色丝织品">
+			<exam article="《孔雀东南飞》" ref="腰若流纨素，耳著明月珰。" />
+		</sense>
+	</pron>
+	<phrase value="纨绔">
+		<sense value="同“纨袴”" />
+		<sense value="细绢制成的裤子，常用来富家子弟，如“纨绔少年”" />
+	</phrase>
+	<phrase value="纨素">
+		<sense value="精致洁白的细绢" />
+	</phrase>
+</character>

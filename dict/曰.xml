@@ -1,0 +1,26 @@
+<character value="曰">
+	<introduce>
+		<pinyin value="yue1" writing="yuē" />
+		<bushou value="曰" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="竖折横横" />
+	</introduce>
+	<pron value="yuē">
+		<sense tag="动" vernacular="说">
+			<exam article="《劝学》" ref="君子曰：学不可以已。" />
+		</sense>
+		<sense tag="动" vernacular="称为">
+			<exam article="《赵威后问齐使》" ref="齐有处士曰钟离子。" />
+		</sense>
+		<sense tag="动" vernacular="是，举例时用">
+			<exam article="《五人墓碑记》" ref="按诸五人，曰颜佩伟，杨念如……" />
+		</sense>
+		<sense tag="动" vernacular="为">
+			<exam article="《出师表》" ref="先帝称之曰能。" />
+		</sense>
+		<sense tag="助" vernacular="用于句首">
+			<exam article="《诗经·七月》" ref="曰为改岁，入此室处。" />
+		</sense>
+	</pron>
+</character>

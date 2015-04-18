@@ -1,0 +1,17 @@
+<character value="胫">
+	<introduce>
+		<pinyin value="jing4" writing="jìng" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="撇折横横折捺横竖横" />
+	</introduce>
+	<pron value="jìng">
+		<sense tag="名" vernacular="人的小腿">
+			<exam article="《五蠹》" ref="股无胈，胫不生毛。" />
+		</sense>
+		<sense tag="名" vernacular="泛指腿">
+			<exam article="《促织》" ref="形若土狗，梅花翅，方首，长胫。" />
+		</sense>
+	</pron>
+</character>

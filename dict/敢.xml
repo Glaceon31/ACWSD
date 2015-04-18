@@ -1,0 +1,29 @@
+<character value="敢">
+	<introduce>
+		<pinyin value="gan3" writing="găn" />
+		<bushou value="攵" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="折横竖竖横横横撇横撇捺" />
+	</introduce>
+	<pron value="gǎn">
+		<sense tag="形" vernacular="有勇气；有胆量">
+			<exam article="《信陵君窍符救赵》" ref="吾攻赵；旦暮且下，而诸侯敢救者，已拔赵，必移兵先击之。" />
+			<exam article="《失街亭》" ref="谁敢引兵去守街亭。" />
+		</sense>
+		<sense tag="动" vernacular="敢于">
+			<exam article="《阿房宫赋》" ref="使天下之人，不敢言怒。" />
+		</sense>
+		<sense vernacular="谦辞，表示冒昧请求的意思">
+			<exam article="《殽之战》" ref="寡君闻吾子将步师出于敝邑，敢犒从者。" />
+			<exam article="《滕王阁序》" ref="敢竭鄙怀，恭疏短引。" />
+		</sense>
+		<sense tag="副" vernacular="岂敢">
+			<exam article="《孔雀东南飞》" ref="奉事循公姥，进止敢自专？" />
+			<exam article="《中山狼传》" ref="敢不努力以效龟蛇之诚？" />
+		</sense>
+		<sense tag="副" vernacular="莫非；大约">
+			<exam article="《窦娥冤》第一折：“你敢是不肯，故意将钱钞哄我？”《水浒传》" ref="你子母二位敢未打火。" />
+		</sense>
+	</pron>
+</character>

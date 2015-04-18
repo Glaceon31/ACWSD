@@ -1,0 +1,22 @@
+<character value="概">
+	<introduce>
+		<pinyin value="gai4" writing="gài" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="横竖撇捺折横横折捺横折撇折" />
+	</introduce>
+	<pron value="gài">
+		<sense tag="名" vernacular="量米粟时刮平头斛用的木板">
+			<exam article="《韩非子·外储说左上》" ref="概者，平量也。" />
+		</sense>
+		<sense tag="副" vernacular="大略；大体">
+			<exam article="《史记·伯夷列传》" ref="其文辞不少概见。" />
+		</sense>
+		<sense tag="名" vernacular="节操；风度">
+			<exam article="《后汉书·周黄徐姜申屠列传》" ref="若二三子谓识去就之概。" />
+			<exam article="《晋书·桓温传》" ref="温豪爽有风概。" />
+		</sense>
+		<sense tag="名" vernacular="景象；状况（后起意义）" />
+	</pron>
+</character>

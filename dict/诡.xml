@@ -1,0 +1,26 @@
+<character value="诡">
+	<introduce>
+		<pinyin value="gui3" writing="guĭ" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺折撇折横撇折折" />
+	</introduce>
+	<pron value="guǐ">
+		<sense tag="动" vernacular="要求；责成">
+			<exam article="《汉书·京房传》" ref="今臣得出守郡，自诡效力，恐未效而死。" />
+		</sense>
+		<sense tag="形" vernacular="欺诈；狡诈">
+			<exam article="《屈原列传》" ref="而设诡辩于怀王之宠姬郑袖。" />
+		</sense>
+		<sense tag="形" vernacular="奇怪；异常">
+			<exam article="《新唐书·吐蕃传》" ref="上宝器数百具，制治诡殊。" />
+		</sense>
+		<sense tag="动" vernacular="违背；不符">
+			<exam article="《吕氏春秋·淫辞》" ref="言行相诡，不祥莫大焉。" />
+		</sense>
+		<sense tag="动" vernacular="隐蔽">
+			<exam article="《&lt;指南录&gt;后序》" ref="不得已，变姓名，诡踪迹。" />
+		</sense>
+	</pron>
+</character>

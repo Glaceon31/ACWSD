@@ -1,0 +1,38 @@
+<character value="达">
+	<introduce>
+		<pinyin value="da2" writing="dá" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="横撇捺捺折捺" />
+	</introduce>
+	<pron value="dá">
+		<sense tag="形" vernacular="通畅">
+			<exam article="《送东阳马生序》" ref="撰长书以为贽，辞甚畅达。" />
+		</sense>
+		<sense tag="形使动" vernacular="使……通畅">
+			<exam article="《狱中杂记》" ref="屋极有窗以达气。" />
+		</sense>
+		<sense tag="动" vernacular="到；到达">
+			<exam article="《愚公移山》" ref="指通豫南，达达于汉阴。" />
+			<exam article="《促织》" ref="自昏达曙，目不交睫。" />
+		</sense>
+		<sense tag="动" vernacular="传达；送到">
+			<exam article="《柳毅传》" ref="时有宦人密侍君者，君以书授之，命达宫中。" />
+		</sense>
+		<sense tag="动" vernacular="通晓，明白">
+			<exam article="《张中丞传后叙》" ref="其亦不达于理矣。" />
+			<exam article="《滕王阁序》" ref="所赖君子见几，达人知命。" />
+		</sense>
+		<sense tag="形" vernacular="豁达；心怀宽阔">
+			<exam article="《汉书·高帝纪》" ref="高祖不修文学，而性明达。" />
+		</sense>
+		<sense tag="形" vernacular="显达；显贵">
+			<exam article="《出师表》" ref="苟全性命于乱世，不求闻达于诸候。" />
+			<exam article="《陈情表》" ref="本图宦达，不矜名节。" />
+		</sense>
+		<sense tag="名" vernacular="有道德、学有问的人">
+			<exam article="《送东阳马生序》" ref="尝趋百里外从乡之先达执经叩问。" />
+		</sense>
+	</pron>
+</character>

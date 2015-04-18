@@ -1,0 +1,31 @@
+<character value="衡">
+	<introduce>
+		<pinyin value="heng2" writing="héng" />
+		<bushou value="行" />
+		<bushoustroke value="6" />
+		<stroke value="16" />
+		<order value="撇撇竖撇折竖折横竖横横撇捺横横竖" />
+	</introduce>
+	<pron value="héng">
+		<sense tag="名" vernacular="绑在牛角上以防触人的横木，车辕上的横木">
+			<exam article="《论语·卫灵公》" ref="在舆，则见其倚于衡也。" />
+		</sense>
+		<sense tag="名" vernacular="秤杆；秤">
+			<exam article="《尚书·舜典》" ref="协时月正日，同律度量衡。" />
+		</sense>
+		<sense tag="动" vernacular="匹敌；对抗">
+			<exam article="《赤壁之战》" ref="若能以吴越之众与中国抗衡，不如早与之绝。" />
+		</sense>
+		<sense tag="形" vernacular="通“横”">
+			<exam article="《论积贮疏》" ref="有勇力者聚徒而衡击。" />
+			<exam article="《过秦论》" ref="外连衡而斗诸侯。" />
+		</sense>
+	</pron>
+	<phrase value="衡人">
+		<sense value="以连衡计策从事游说的人，即战国时张仪之流" />
+	</phrase>
+	<phrase value="衡宇">
+		<sense value="指简陋的房屋" />
+		<sense value="宫室庙宇的通称" />
+	</phrase>
+</character>

@@ -1,0 +1,29 @@
+<character value="褚">
+	<introduce>
+		<pinyin value="chu3" writing="chŭ" />
+		<pinyin value="zhu3" writing="zhŭ" />
+		<bushou value="衤" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="捺折竖撇捺横竖横撇竖折横横" />
+	</introduce>
+	<pron value="zhǔ">
+		<sense tag="名" vernacular="袋子">
+			<exam article="《庄子·至乐》" ref="褚小者不可以怀大，绠短者不可以汲深。" />
+		</sense>
+		<sense tag="名" vernacular="用丝绵装的衣服">
+			<exam article="《汉书·南粤王赵佗传》" ref="上褚五十衣，中褚三十衣，下褚二十衣遗王。" />
+		</sense>
+		<sense tag="名" vernacular="覆盖棺材的红布">
+			<exam article="《礼记·檀弓上》" ref="子张之丧，公明仪为志焉。褚幕丹质，蚁结于隅。" />
+		</sense>
+	</pron>
+	<pron value="chǔ">
+		<sense tag="动" vernacular="通“储”">
+			<exam article="《左传·襄公三十年》" ref="取我衣冠而褚之。" />
+		</sense>
+	</pron>
+	<pron value="zhě">
+		<sense tag="名" vernacular="兵卒" />
+	</pron>
+</character>

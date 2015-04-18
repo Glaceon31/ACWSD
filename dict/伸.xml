@@ -1,0 +1,17 @@
+<character value="伸">
+	<introduce>
+		<pinyin value="shen1" writing="shēn" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇竖竖折横横竖" />
+	</introduce>
+	<pron value="shēn">
+		<sense tag="动" vernacular="伸展；伸直">
+			<exam article="《口技》" ref="满座宾客无不伸颈，侧目，微笑。默叹，以为妙绝。" />
+		</sense>
+		<sense tag="动" vernacular="同“申”">
+			<exam article="《兵车行》" ref="长者虽有问，役夫敢伸恨？" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="骁">
+	<introduce>
+		<pinyin value="xiao1" writing="xiāo" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折折横横折撇横撇折" />
+	</introduce>
+	<pron value="xiāo">
+		<sense tag="名" vernacular="好马">
+			<exam article="《赭白马赋》" ref="料武艺，品骁腾。" />
+		</sense>
+	</pron>
+</character>

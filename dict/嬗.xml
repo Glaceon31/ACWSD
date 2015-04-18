@@ -1,0 +1,17 @@
+<character value="嬗">
+	<introduce>
+		<pinyin value="shan4" writing="shàn" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="折撇横捺横竖折竖折横横竖折横横横" />
+	</introduce>
+	<pron value="shàn">
+		<sense tag="动" vernacular="通“禅”">
+			<exam article="《汉书·律历志下》" ref="尧嬗以天下。" />
+		</sense>
+		<sense tag="动" vernacular="变迁，更替">
+			<exam article="《汉书·贾谊传》" ref="形气转续，变化而嬗。" />
+		</sense>
+	</pron>
+</character>

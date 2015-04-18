@@ -1,0 +1,17 @@
+<character value="库">
+	<introduce>
+		<pinyin value="ku4" writing="kù" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺横撇横折横竖" />
+	</introduce>
+	<pron value="kù">
+		<sense tag="名" vernacular="存放兵甲战车的地方">
+			<exam article="《左传·昭公十八年》" ref="使府人、库人各儆其事。" />
+		</sense>
+		<sense tag="名" vernacular="存放物品的地方">
+			<exam article="《宋史·艺文志》" ref="太宗分三馆书万余卷，别为书库。" />
+		</sense>
+	</pron>
+</character>

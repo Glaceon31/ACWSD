@@ -1,0 +1,17 @@
+<character value="邕">
+	<introduce>
+		<pinyin value="yong1" writing="yōng" />
+		<bushou value="邑" />
+		<bushoustroke value="7" />
+		<stroke value="10" />
+		<order value="折折折竖折横折竖横折" />
+	</introduce>
+	<pron value="yōng">
+		<sense tag="形" vernacular="通“雍”和协；和睦">
+			<exam article="《七命》" ref="六合时邕，巍巍荡荡。" />
+		</sense>
+		<sense tag="动" vernacular="通“壅”，堵塞">
+			<exam article="《汉书·王莽传中》" ref="长平馆四岸崩，邕泾水不流。" />
+		</sense>
+	</pron>
+</character>

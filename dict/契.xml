@@ -1,0 +1,26 @@
+<character value="契">
+	<introduce>
+		<pinyin value="qi4" writing="qì" />
+		<pinyin value="xie4" writing="xiè" />
+		<pinyin value="qie4" writing="qiè" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横横横竖折撇横撇捺" />
+	</introduce>
+	<pron value="qì">
+		<sense tag="动" vernacular="通“锲”">
+			<exam article="《察今》" ref="其剑自舟中坠于水，遽契其舟。" />
+		</sense>
+		<sense tag="名" vernacular="契约；符契">
+			<exam article="《荆轲刺秦王》" ref="必得约契以报太子也。" />
+		</sense>
+		<sense tag="动" vernacular="吻合；投合">
+			<exam article="《兰亭集序》" ref="每览昔人兴感之由，若合一契。" />
+		</sense>
+	</pron>
+	<phrase value="契勘">
+		<sense value="宋代公文书用语" />
+		<sense value="按查，考订，审核" />
+	</phrase>
+</character>

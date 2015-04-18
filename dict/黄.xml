@@ -1,0 +1,44 @@
+<character value="黄">
+	<introduce>
+		<pinyin value="huang2" writing="huáng" />
+		<bushou value="黄" />
+		<bushoustroke value="11" />
+		<stroke value="11" />
+		<order value="横竖竖横竖折横竖横撇捺" />
+	</introduce>
+	<pron value="huáng">
+		<sense tag="名" vernacular="黄色">
+			<exam article="《桃花源记》" ref="黄发垂髫，并怡然自得。" />
+		</sense>
+		<sense tag="名" vernacular="黄帝的简称">
+			<exam article="《史记·韩非列传》" ref="归本于黄老。" />
+		</sense>
+		<sense tag="名" vernacular="古代指三岁以下的幼儿">
+			<exam article="《旧唐书·食货志》" ref="男女始生者为黄，四岁为小十六为中，二十一为丁，六十为老。" />
+		</sense>
+		<sense tag="形" vernacular="比喻事情落空">
+			<exam article="《红楼梦》" ref="又怕闹黄了宝蟾之事。" />
+		</sense>
+	</pron>
+	<phrase value="黄榜">
+		<sense value="皇帝的文告" />
+		<sense value="因用黄纸书写而名" />
+		<sense value="殿试后，朝廷发布的榜文也称为黄榜" />
+	</phrase>
+	<phrase value="黄发">
+		<sense value="黄灵高寿的象征，因以指老人" />
+	</phrase>
+	<phrase value="黄封">
+		<sense value="宫廷酿造的酒" />
+		<sense value="因用黄罗帕封而名" />
+		<sense value="也用以泛指美酒" />
+	</phrase>
+	<phrase value="黄冠">
+		<sense value="道士的巾冠，因以为道士的别称" />
+	</phrase>
+	<phrase value="黄泉">
+		<sense value="地下水" />
+		<sense value="墓穴" />
+		<sense value="迷信说法的阴间" />
+	</phrase>
+</character>

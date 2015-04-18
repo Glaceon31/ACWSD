@@ -1,0 +1,21 @@
+<character value="往">
+	<introduce>
+		<pinyin value="wang3" writing="wăng" />
+		<pinyin value="wang4" writing="wàng" />
+		<bushou value="彳" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇撇竖捺横横竖横" />
+	</introduce>
+	<pron value="wǎng">
+		<sense tag="动" vernacular="去；到……去">
+			<exam article="《论语》" ref="譬如平地，虽覆一篑，进，吾往也。" />
+		</sense>
+		<sense tag="副" vernacular="过去；从前">
+			<exam article="《归去来兮辞》" ref="悟已往之不见，知来者之可追。" />
+		</sense>
+		<sense tag="副" vernacular="以后；将来">
+			<exam article="《孔雀东南飞》" ref="其往欲何云。" />
+		</sense>
+	</pron>
+</character>

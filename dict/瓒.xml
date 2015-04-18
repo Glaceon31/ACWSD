@@ -1,0 +1,14 @@
+<character value="瓒">
+	<introduce>
+		<pinyin value="zan4" writing="zàn" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="20" />
+		<order value="横横竖横撇横竖横撇折撇横竖横撇折竖折撇捺" />
+	</introduce>
+	<pron value="zàn">
+		<sense tag="名" vernacular="玉勺，古代祭祀时舀酒用的器具">
+			<exam article="《诗经·大雅·旱麓》" ref="瑟彼玉瓒。" />
+		</sense>
+	</pron>
+</character>

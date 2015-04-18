@@ -1,0 +1,26 @@
+<character value="歌">
+	<introduce>
+		<pinyin value="ge1" writing="gē" />
+		<bushou value="欠" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="横竖折横竖横竖折横竖撇折撇捺" />
+	</introduce>
+	<pron value="gē">
+		<sense tag="动" vernacular="唱；唱歌">
+			<exam article="《垓下之战》" ref="歌数阕，美人和之。" />
+			<exam article="《醉翁亭记》" ref="负者歌于途，行者休于树。" />
+		</sense>
+		<sense tag="名" vernacular="歌曲；合乐能唱的诗">
+			<exam article="《前赤壁赋》" ref="倚歌而和之。" />
+			<exam article="《岳慢楼记》" ref="渔歌互答，此乐何极！" />
+		</sense>
+		<sense tag="动" vernacular="作歌；吟诵">
+			<exam article="《观沧海》" ref="幸甚至哉，歌以咏志。" />
+			<exam article="《琵琶行》" ref="因为长句，歌以赠之。" />
+		</sense>
+	</pron>
+	<phrase value="歌钟">
+		<sense value="即编钟，一种铜制的打击乐器" />
+	</phrase>
+</character>

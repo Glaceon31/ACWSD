@@ -1,0 +1,26 @@
+<character value="痛">
+	<introduce>
+		<pinyin value="tong4" writing="tòng" />
+		<bushou value="疒" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="捺横撇捺横折捺竖折横横竖" />
+	</introduce>
+	<pron value="tòng">
+		<sense tag="形" vernacular="疼痛">
+			<exam article="《扁鹊见蔡桓公》" ref="居五日，桓侯体痛。" />
+		</sense>
+		<sense tag="形" vernacular="悲痛；悲哀">
+			<exam article="《&lt;指南录&gt;后序》" ref="痛定思痛，痛何如哉。" />
+		</sense>
+		<sense tag="形" vernacular="痛心">
+			<exam article="《出师表》" ref="未尝不叹息痛恨于桓灵也。" />
+		</sense>
+		<sense tag="形" vernacular="痛恨；怨恨">
+			<exam article="《五人墓碑记》" ref="吴之民方痛心焉，于是乘其厉声以呵。" />
+		</sense>
+		<sense tag="副" vernacular="痛快地；尽情地">
+			<exam article="《鲁提辖拳打镇关西》" ref="俺只指望痛打这厮一顿。" />
+		</sense>
+	</pron>
+</character>

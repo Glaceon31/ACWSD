@@ -1,0 +1,15 @@
+<character value="垞">
+	<introduce>
+		<pinyin value="cha2" writing="chá" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横捺捺折撇横折" />
+	</introduce>
+	<pron value="chá">
+		<sense vernacular="土丘" />
+		<sense vernacular="古邑名">
+			<exam article="《水经注·泗水》" ref="泗水又径留县而南垞，径垞城东。" />
+		</sense>
+	</pron>
+</character>

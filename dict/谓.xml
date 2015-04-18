@@ -1,0 +1,26 @@
+<character value="谓">
+	<introduce>
+		<pinyin value="wei4" writing="wèi" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="捺折竖折横竖横竖折横横" />
+	</introduce>
+	<pron value="wèi">
+		<sense tag="动" vernacular="告诉；对……说">
+			<exam article="《鸿门宴》" ref="请往谓项王，言沛公不敢项王也。" />
+		</sense>
+		<sense tag="动" vernacular="说">
+			<exam article="《石钟山记》" ref="因得观所谓石钟山者。" />
+		</sense>
+		<sense tag="动" vernacular="叫做；称为">
+			<exam article="《游褒禅山记》" ref="褒禅山亦谓之华山。" />
+		</sense>
+		<sense tag="动" vernacular="以为；认为">
+			<exam article="《赤壁之战》" ref="愚谓大计不如迎之。" />
+		</sense>
+		<sense tag="动" vernacular="是；说的是">
+			<exam article="《醉翁亭记》" ref="太守谓谁？" />
+		</sense>
+	</pron>
+</character>

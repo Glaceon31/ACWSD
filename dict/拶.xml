@@ -1,0 +1,18 @@
+<character value="拶">
+	<introduce>
+		<pinyin value="zan3" writing="zăn" />
+		<pinyin value="za1" writing="zā" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横折折折撇折捺" />
+	</introduce>
+	<pron value="zā">
+		<sense tag="动" vernacular="压紧">
+			<exam article="《辛卯年雪》" ref="崩腾相排拶，龙凤交横飞。" />
+		</sense>
+		<sense vernacular="zǎn旧时一种夹手指的酷刑，也指夹手指的刑具">
+			<exam article="《二刻拍案惊奇》" ref="就用严刑拷他，讨拶来拶指。" />
+		</sense>
+	</pron>
+</character>

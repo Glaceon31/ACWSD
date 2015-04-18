@@ -1,0 +1,17 @@
+<character value="凯">
+	<introduce>
+		<pinyin value="kai3" writing="kăi" />
+		<bushou value="几" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="竖折竖折横折撇折" />
+	</introduce>
+	<pron value="kǎi">
+		<sense tag="名" vernacular="军队得胜后奏的庆功乐曲">
+			<exam article="《破阵曲》" ref="六军张凯声如雷。" />
+		</sense>
+	</pron>
+	<phrase value="凯风">
+		<sense value="和风" />
+	</phrase>
+</character>

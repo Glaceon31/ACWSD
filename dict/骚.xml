@@ -1,0 +1,26 @@
+<character value="骚">
+	<introduce>
+		<pinyin value="sao1" writing="sāo" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折折横折捺捺竖折横竖横捺" />
+	</introduce>
+	<pron value="sāo">
+		<sense tag="动" vernacular="动乱；扰乱">
+			<exam article="《答韦中立论师道书》" ref="岂可使呶呶者早暮咈吾耳，骚吾心。" />
+		</sense>
+		<sense tag="名" vernacular="忧愁">
+			<exam article="《屈原列传》" ref="离骚者，犹离忧也。" />
+		</sense>
+		<sense tag="名" vernacular="《离骚》的简称" />
+	</pron>
+	<phrase value="骚人">
+		<sense value="骚体诗人；诗人；文人" />
+	</phrase>
+	<phrase value="骚骚">
+		<sense value="急迫的样子" />
+		<sense value="愁思的样子" />
+		<sense value="风猛的样子" />
+	</phrase>
+</character>

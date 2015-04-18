@@ -1,0 +1,14 @@
+<character value="隈">
+	<introduce>
+		<pinyin value="wei1" writing="wēi" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="折竖竖折横竖横横折撇捺" />
+	</introduce>
+	<pron value="wēi">
+		<sense tag="名" vernacular="山或水弯曲的地方">
+			<exam article="《管子·形势》" ref="大山之隈。" />
+		</sense>
+	</pron>
+</character>

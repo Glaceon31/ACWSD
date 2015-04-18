@@ -1,0 +1,18 @@
+<character value="秣">
+	<introduce>
+		<pinyin value="mo4" writing="mò" />
+		<bushou value="禾" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="撇横竖撇捺横横竖撇捺" />
+	</introduce>
+	<pron value="mò">
+		<sense tag="名" vernacular="喂马的饲料">
+			<exam article="《敬简王明府》" ref="骥病思偏秣，鹰秋怕苦笼。" />
+		</sense>
+		<sense tag="动" vernacular="喂牲口">
+			<exam article="《诗经·汉广》" ref="之子于归，言秣其马。" />
+			<exam article="《殽之战》" ref="郑穆公使视客馆，则束载、厉兵、秣马矣。" />
+		</sense>
+	</pron>
+</character>

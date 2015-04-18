@@ -1,0 +1,30 @@
+<character value="倚">
+	<introduce>
+		<pinyin value="yi3" writing="yĭ" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="撇竖横撇捺横竖折横竖" />
+	</introduce>
+	<pron value="yǐ">
+		<sense tag="动" vernacular="靠着">
+			<exam article="《归去来辞》" ref="倚南窗以寄傲，审容膝之易安。" />
+		</sense>
+		<sense tag="动" vernacular="拄着">
+			<exam article="《茅屋为秋风所破歌》" ref="归来倚杖自叹息。" />
+		</sense>
+		<sense tag="动" vernacular="随着；依照">
+			<exam article="《赤壁赋》" ref="客有吹洞箫者，倚歌而和之。" />
+		</sense>
+	</pron>
+	<phrase value="倚傍">
+		<sense value="取法" />
+	</phrase>
+	<phrase value="倚阁">
+		<sense value="暂停" />
+		<sense value="阁，通“搁”" />
+	</phrase>
+	<phrase value="倚重">
+		<sense value="重视信赖" />
+	</phrase>
+</character>

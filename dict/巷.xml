@@ -1,0 +1,18 @@
+<character value="巷">
+	<introduce>
+		<pinyin value="xiang4" writing="xiàng" />
+		<pinyin value="hang4" writing="hàng" />
+		<bushou value="巳" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖竖横撇捺折横折" />
+	</introduce>
+	<pron value="xiàng">
+		<sense tag="名" vernacular="里中的道路">
+			<exam article="《诗经·郑风·叔于田》" ref="叔于田，巷无居人。" />
+		</sense>
+	</pron>
+	<phrase value="巷伯">
+		<sense value="宦官" />
+	</phrase>
+</character>

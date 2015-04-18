@@ -1,0 +1,23 @@
+<character value="肃">
+	<introduce>
+		<pinyin value="su4" writing="sù" />
+		<bushou value="聿" />
+		<bushoustroke value="6" />
+		<stroke value="8" />
+		<order value="折横横竖撇竖撇捺" />
+	</introduce>
+	<pron value="sù">
+		<sense tag="形" vernacular="恭敬">
+			<exam article="《左传·僖公二十三年》" ref="其从者肃而宽。" />
+		</sense>
+		<sense tag="动" vernacular="深深地作揖">
+			<exam article="《左传·成公十六年》" ref="三肃使者而退。" />
+		</sense>
+		<sense tag="形" vernacular="严肃">
+			<exam article="《三国志·蜀书·诸葛亮传》" ref="赏罚肃而号令明。" />
+		</sense>
+		<sense tag="动" vernacular="收敛；萎缩">
+			<exam article="《杂诗》" ref="天高万物肃。" />
+		</sense>
+	</pron>
+</character>

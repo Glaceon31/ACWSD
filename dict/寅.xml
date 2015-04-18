@@ -1,0 +1,15 @@
+<character value="寅">
+	<introduce>
+		<pinyin value="yin2" writing="yín" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺折横竖折横竖横撇捺" />
+	</introduce>
+	<pron value="yín">
+		<sense tag="形" vernacular="敬">
+			<exam article="《尚书·无逸》" ref="严恭寅畏。" />
+		</sense>
+		<sense tag="名" vernacular="地支的第三位" />
+	</pron>
+</character>

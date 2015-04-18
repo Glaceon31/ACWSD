@@ -1,0 +1,24 @@
+<character value="涓">
+	<introduce>
+		<pinyin value="juan1" writing="juān" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横竖折横竖折横横" />
+	</introduce>
+	<pron value="juān">
+		<sense tag="名" vernacular="细小的水流">
+			<exam article="《后汉书·周纭传》" ref="涓流虽寡，浸成江河。" />
+		</sense>
+		<sense tag="动" vernacular="除去；清除">
+			<exam article="《汉书·礼东志》" ref="涓选休成。" />
+		</sense>
+		<sense tag="动" vernacular="选择">
+			<exam article="《魏都赋》" ref="涓吉日。" />
+		</sense>
+	</pron>
+	<phrase value="涓埃">
+		<sense value="滴水轻尘，比喻微小的贡献" />
+		<sense value="涓毫】滴水毫毛，比喻微小之利" />
+	</phrase>
+</character>

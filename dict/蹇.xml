@@ -1,0 +1,32 @@
+<character value="蹇">
+	<introduce>
+		<pinyin value="jian3" writing="jiăn" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="17" />
+		<order value="捺捺折横横竖竖横撇捺竖折横竖横撇捺" />
+	</introduce>
+	<pron value="jiǎn">
+		<sense tag="形" vernacular="跛，行动迟缓">
+			<exam article="《七谏·谬谏》" ref="驾蹇驴而无策兮，又何路之能极。" />
+		</sense>
+		<sense tag="名" vernacular="特指劣马或跛驴">
+			<exam article="《唐城馆中早发寄杨使君》" ref="策蹇赴前程" />
+		</sense>
+		<sense tag="形" vernacular="困苦；不顺利">
+			<exam article="《九章·哀郢》" ref="蹇侘傺而含感。" />
+		</sense>
+		<sense tag="句首语气词" vernacular="通“謇”">
+			<exam article="《九章·湘君》" ref="君不行兮夷犹，蹇谁留兮中州。" />
+		</sense>
+		<sense tag="形" vernacular="通“謇”">
+			<exam article="《谢滕王集序启》" ref="言辞蹇吃，更甚扬雄。" />
+		</sense>
+	</pron>
+	<phrase value="蹇步">
+		<sense value="行路艰难" />
+	</phrase>
+	<phrase value="蹇涩">
+		<sense value="言语艰涩不顺" />
+	</phrase>
+</character>

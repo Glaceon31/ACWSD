@@ -1,0 +1,20 @@
+<character value="躬">
+	<introduce>
+		<pinyin value="gong1" writing="gōng" />
+		<bushou value="身" />
+		<bushoustroke value="7" />
+		<stroke value="10" />
+		<order value="撇竖折横横横撇折横折" />
+	</introduce>
+	<pron value="gōng">
+		<sense tag="名" vernacular="身体">
+			<exam article="《中山狼传》" ref="我鞠躬不敢息。" />
+		</sense>
+		<sense tag="代" vernacular="自身；自己">
+			<exam article="《诗经·氓》" ref="静言思之，躬自悼矣。" />
+		</sense>
+		<sense tag="副" vernacular="亲自">
+			<exam article="《出师表》" ref="臣本布衣，躬耕于南阳。" />
+		</sense>
+	</pron>
+</character>

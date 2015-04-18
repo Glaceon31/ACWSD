@@ -1,0 +1,28 @@
+<character value="颜">
+	<introduce>
+		<pinyin value="yan2" writing="yán" />
+		<bushou value="页" />
+		<bushoustroke value="6" />
+		<stroke value="15" />
+		<order value="捺横捺撇横撇撇撇撇横撇竖折撇捺" />
+	</introduce>
+	<pron value="yán">
+		<sense tag="名" vernacular="前额">
+			<exam article="《素问·刺热论》" ref="心热病者颜先赤。" />
+		</sense>
+		<sense tag="名" vernacular="面；脸">
+			<exam article="《醉翁亭记》" ref="苍颜白发。" />
+		</sense>
+		<sense tag="名" vernacular="脸色">
+			<exam article="《茅屋为秋风所破歌》" ref="大庇天下寒士俱欢颜。" />
+		</sense>
+	</pron>
+	<phrase value="颜行">
+		<sense value="前列；前行" />
+	</phrase>
+	<phrase value="颜色">
+		<sense value="面容；脸色" />
+		<sense value="容颜，多指妇女的容貌" />
+		<sense value="色彩" />
+	</phrase>
+</character>

@@ -1,0 +1,27 @@
+<character value="喜">
+	<introduce>
+		<pinyin value="xi3" writing="xĭ" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖横竖折横捺撇横竖折横" />
+	</introduce>
+	<pron value="xǐ">
+		<sense tag="形" vernacular="喜悦；欢喜">
+			<exam article="《闻官军收复河南河北》" ref="却看妻子愁何在，漫卷诗书喜欲狂。" />
+		</sense>
+		<sense tag="动" vernacular="喜爱；喜好">
+			<exam article="《信陵君窃符救赵》" ref="公子喜士，名闻天下。" />
+		</sense>
+		<sense tag="名" vernacular="喜事；吉庆的事情；令人高兴的事">
+			<exam article="《国语·鲁语》" ref="固庆其喜而吊其忧。" />
+		</sense>
+		<sense tag="名" vernacular="专指妇女怀孕；身孕">
+			<exam article="《红楼梦》" ref="叫大夫瞧了，又说并不是喜。" />
+		</sense>
+	</pron>
+	<phrase value="喜蛛">
+		<sense value="蜘蛛" />
+		<sense value="古人认为出现蜘蛛是喜事来临的预兆，所以称蜘蛛为喜蛛" />
+	</phrase>
+</character>

@@ -1,0 +1,15 @@
+<character value="千">
+	<introduce>
+		<pinyin value="qian1" writing="qiān" />
+		<bushou value="十" />
+		<bushoustroke value="2" />
+		<stroke value="3" />
+		<order value="撇横竖" />
+	</introduce>
+	<pron value="qiān">
+		<sense tag="数" vernacular="千" />
+		<sense tag="数" vernacular="形容数量很大">
+			<exam article="《黄鹤楼》" ref="黄鹤一去不复返，白云千载空悠悠。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,12 @@
+<character value="惚">
+	<introduce>
+		<pinyin value="hu1" writing="hū" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺竖撇折撇撇捺折捺捺" />
+	</introduce>
+	<pron value="hū">
+		<sense vernacular="见“恍”〔恍惚〕" />
+	</pron>
+</character>

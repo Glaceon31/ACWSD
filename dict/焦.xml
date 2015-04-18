@@ -1,0 +1,29 @@
+<character value="焦">
+	<introduce>
+		<pinyin value="jiao1" writing="jiāo" />
+		<bushou value="灬" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="撇竖捺横横横竖横捺捺捺捺" />
+	</introduce>
+	<pron value="jiāo">
+		<sense tag="动" vernacular="烧焦；烧伤">
+			<exam article="《阿房宫赋》" ref="楚人一炬，可怜焦土。" />
+		</sense>
+		<sense tag="形" vernacular="干燥；干渴">
+			<exam article="《茅屋为秋风所破歌》" ref="唇焦口燥呼不得。" />
+		</sense>
+		<sense tag="形" vernacular="枯萎；干枯">
+			<exam article="《智取生辰纲》" ref="赤日炎炎似火烧，野田禾稻半枯焦。" />
+		</sense>
+		<sense tag="名" vernacular="焦味；糊味">
+			<exam article="《礼记·月令》" ref="其味苦，其臭焦。" />
+		</sense>
+		<sense tag="名" vernacular="黑黄色">
+			<exam article="《真诰·运象》" ref="心悲则画焦。" />
+		</sense>
+		<sense tag="动" vernacular="焦急；焦躁">
+			<exam article="《西厢记》" ref="添香的行者心焦。" />
+		</sense>
+	</pron>
+</character>

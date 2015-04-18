@@ -1,0 +1,17 @@
+<character value="阕">
+	<introduce>
+		<pinyin value="que4" writing="què" />
+		<bushou value="门" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺竖折折捺撇撇捺横横撇捺" />
+	</introduce>
+	<pron value="què">
+		<sense tag="动" vernacular="止息">
+			<exam article="《诗经·小雅·节南山》" ref="俾民心阕。" />
+		</sense>
+		<sense tag="量" vernacular="乐曲每一次终止为一阕">
+			<exam article="《史记·留侯世家》" ref="歌数阕。" />
+		</sense>
+	</pron>
+</character>

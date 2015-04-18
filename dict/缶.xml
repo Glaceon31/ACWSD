@@ -1,0 +1,17 @@
+<character value="缶">
+	<introduce>
+		<pinyin value="fou3" writing="fŏu" />
+		<bushou value="缶" />
+		<bushoustroke value="6" />
+		<stroke value="6" />
+		<order value="撇横横竖折竖" />
+	</introduce>
+	<pron value="fǒu">
+		<sense tag="名" vernacular="大腹小口的圆形瓦器">
+			<exam article="《捕蛇者说》" ref="视其缶，而吾蛇尚存。" />
+		</sense>
+		<sense tag="名" vernacular="瓦制的打击乐器">
+			<exam article="《廉颇蔺相如列传》" ref="请奉盆缶秦王，以相娱乐。" />
+		</sense>
+	</pron>
+</character>

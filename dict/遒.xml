@@ -1,0 +1,17 @@
+<character value="遒">
+	<introduce>
+		<pinyin value="qiu2" writing="qiú" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺撇横竖折撇折横横捺折捺" />
+	</introduce>
+	<pron value="qiú">
+		<sense tag="动" vernacular="迫近">
+			<exam article="《楚辞·招魂》" ref="分曹并进，遒相迫些。" />
+		</sense>
+		<sense tag="形" vernacular="刚劲，有力">
+			<exam article="《上浔阳还都道中》诗：“猎猎晚风遒。”刘峻《广绝交论》" ref="遒文丽藻" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="勇">
+	<introduce>
+		<pinyin value="yong3" writing="yŏng" />
+		<bushou value="力" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="折捺竖折横横竖折撇" />
+	</introduce>
+	<pron value="yǒng">
+		<sense tag="形" vernacular="勇敢">
+			<exam article="《冯婉贞》" ref="以三保勇而多艺，推为长。" />
+		</sense>
+		<sense tag="形" vernacular="旺盛">
+			<exam article="《游黄山记》" ref="遇游僧澄源至，兴甚勇。" />
+		</sense>
+	</pron>
+</character>

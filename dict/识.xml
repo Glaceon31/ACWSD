@@ -1,0 +1,33 @@
+<character value="识">
+	<introduce>
+		<pinyin value="shi1" writing="shī" />
+		<pinyin value="zhi4" writing="zhì" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺折竖折横撇捺" />
+	</introduce>
+	<pron value="shí">
+		<sense tag="动" vernacular="知道；懂得">
+			<exam article="《谋攻》" ref="识众寡之用者胜。" />
+			<exam article="《石钟山记》" ref="汝识之乎？" />
+		</sense>
+		<sense tag="动" vernacular="认识">
+			<exam article="《回乡偶书》" ref="儿童相见不相识。" />
+		</sense>
+		<sense tag="动" vernacular="识别；辨认">
+			<exam article="《采草药》" ref="八月苗未枯，采掇者易辨识耳。" />
+		</sense>
+		<sense tag="名" vernacular="知识；见识">
+			<exam article="《东京赋》" ref="鄙夫寡识。" />
+		</sense>
+	</pron>
+	<pron value="zhì">
+		<sense tag="动" vernacular="通“志”">
+			<exam article="《论语》" ref="默而识之。" />
+		</sense>
+		<sense tag="名" vernacular="通“帜”">
+			<exam article="《记王忠肃公翱事》" ref="公拆袄，出珠授之，封识宛然。" />
+		</sense>
+	</pron>
+</character>

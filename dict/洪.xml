@@ -1,0 +1,27 @@
+<character value="洪">
+	<introduce>
+		<pinyin value="hong2" writing="hóng" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺横横竖竖横撇捺" />
+	</introduce>
+	<pron value="hóng">
+		<sense tag="名" vernacular="大水">
+			<exam article="《天问》" ref="洪泉极深,何以寘之。" />
+		</sense>
+		<sense tag="形" vernacular="大">
+			<exam article="《观沧海》" ref="秋风萧瑟,洪波涌起。" />
+			<exam article="《石钟山记》" ref="水石相搏,声如洪钟。" />
+		</sense>
+	</pron>
+	<phrase value="洪笔">
+		<sense value="大手笔,比喻擅长写文章" />
+	</phrase>
+	<phrase value="洪化">
+		<sense value="宏大的教化" />
+	</phrase>
+	<phrase value="洪烈">
+		<sense value="盛大的功业" />
+	</phrase>
+</character>

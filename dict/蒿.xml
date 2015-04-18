@@ -1,0 +1,24 @@
+<character value="蒿">
+	<introduce>
+		<pinyin value="hao1" writing="hāo" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="横竖竖捺横竖折横竖折竖折横" />
+	</introduce>
+	<pron value="hāo">
+		<sense tag="名" vernacular="草名，艾类">
+			<exam article="《诗经·小雅·鹿鸣》" ref="呦呦鹿鸣，食野之蒿。" />
+		</sense>
+		<sense tag="动" vernacular="消耗、损耗">
+			<exam article="《国语·楚语上》" ref="使民蒿焉忘其安乐。" />
+		</sense>
+		<sense tag="形" vernacular="气蒸的样子" />
+	</pron>
+	<phrase value="蒿里">
+		<sense value="墓地" />
+	</phrase>
+	<phrase value="蒿目">
+		<sense value="举目远眺" />
+	</phrase>
+</character>

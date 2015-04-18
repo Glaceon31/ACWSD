@@ -1,0 +1,35 @@
+<character value="昧">
+	<introduce>
+		<pinyin value="mei4" writing="mèi" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="竖折横横横横竖撇捺" />
+	</introduce>
+	<pron value="mèi">
+		<sense tag="形" vernacular="暗；昏暗">
+			<exam article="《离骚》" ref="路幽昧以险隘。" />
+		</sense>
+		<sense tag="形使动" vernacular="使……不明">
+			<exam article="《左忠毅公逸事》" ref="汝复轻身而昧大义。" />
+		</sense>
+		<sense tag="形" vernacular="愚昧；糊涂">
+			<exam article="《柳毅传》" ref="水府幽深，寡人暗昧，夫子不远千里，将有为乎？" />
+		</sense>
+		<sense tag="动" vernacular="隐蔽；欺瞒">
+			<exam article="《荀子·大略》" ref="蔽公者谓之昧。" />
+		</sense>
+		<sense tag="动" vernacular="冒；冒犯">
+			<exam article="《战国策·齐策》" ref="臣昧死，望大王。" />
+		</sense>
+	</pron>
+	<phrase value="昧旦">
+		<sense value="黎明；拂晓" />
+	</phrase>
+	<phrase value="昧昧">
+		<sense value="昏暗的样子" />
+		<sense value="模糊；难以分辨" />
+		<sense value="深思的样子" />
+		<sense value="纯厚浑朴的样子" />
+	</phrase>
+</character>

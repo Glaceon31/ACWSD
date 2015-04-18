@@ -1,0 +1,27 @@
+<character value="泰">
+	<introduce>
+		<pinyin value="tai4" writing="tài" />
+		<bushou value="水" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横横横撇捺竖捺横撇捺" />
+	</introduce>
+	<pron value="tài">
+		<sense tag="名" vernacular="">
+			<exam article="《易经》六十四卦之一，象天地相交、通顺，与“否”相对，表示亨通、幸运等。《孔雀东南飞》" ref="先嫁得府史，后嫁得郎君，否泰如天地，足以荣汝身。" />
+		</sense>
+		<sense tag="形" vernacular="大方；不吝啬">
+			<exam article="《荀子·议兵》" ref="凡虑事欲孰而用才欲泰。" />
+		</sense>
+		<sense tag="形" vernacular="骄纵；奢侈">
+			<exam article="《叔向贺贫》" ref="及恒子，骄泰奢侈。" />
+		</sense>
+		<sense tag="形" vernacular="大">
+			<exam article="《汉书·食货志》" ref="收泰半之赋。" />
+		</sense>
+		<sense tag="形" vernacular="通“太”">
+			<exam article="《淮南子··原道》" ref="泰古二皇。" />
+		</sense>
+	</pron>
+	<phrase value="泰山北斗" />
+</character>

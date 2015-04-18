@@ -1,0 +1,25 @@
+<character value="嗤">
+	<introduce>
+		<pinyin value="chi1" writing="chī" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="竖折横折竖竖横竖折横竖横捺" />
+	</introduce>
+	<pron value="chī">
+		<sense tag="动" vernacular="讥笑">
+			<exam article="《训俭示康》" ref="人皆嗤吾固陋，吾不以为病。" />
+			<exam article="《甘藷疏序》" ref="或嗤笑之。" />
+		</sense>
+	</pron>
+	<phrase value="嗤嗤">
+		<sense value="1" />
+		<sense value="讥笑" />
+	</phrase>
+	<phrase value="嗤鄙">
+		<sense value="讥笑轻视" />
+	</phrase>
+	<phrase value="嗤诋">
+		<sense value="讥笑嘲骂" />
+	</phrase>
+</character>

@@ -1,0 +1,36 @@
+<character value="给">
+	<introduce>
+		<pinyin value="ji3" writing="jĭ" />
+		<pinyin value="gei3" writing="gĕi" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折折横撇捺横竖折横" />
+	</introduce>
+	<pron value="jǐ">
+		<sense tag="形" vernacular="充足；充裕">
+			<exam article="《史记·扁鹊仓公列传》" ref="其家给富。" />
+			<exam article="《西门豹治邺》" ref="至今皆得水利，民人以给足富。" />
+		</sense>
+		<sense tag="动" vernacular="供应；供给">
+			<exam article="《冯谖客孟尝君》" ref="孟尝君使人给其食用，无使乏。" />
+		</sense>
+		<sense tag="动" vernacular="赐给；给予">
+			<exam article="《吕氏春秋·权勋》" ref="若残竖子之类，恶能给若金？" />
+			<exam article="《墨子·号令》" ref="伤甚者令归治病，家善养。予医给药，赐酒日二升、肉二斤。" />
+		</sense>
+		<sense tag="形" vernacular="（口齿）伶俐，能言善辩">
+			<exam article="《论语·公治长》" ref="御人以口给，屡憎于人。" />
+		</sense>
+	</pron>
+	<phrase value="给复">
+		<sense value="免除徭役" />
+	</phrase>
+	<phrase value="给事">
+		<sense value="处事" />
+		<sense value="供职" />
+		<sense value="给事中的省称" />
+		<sense value="给事中，官名" />
+		<sense value="秦汉为列侯、将军、谒者等的加官" />
+	</phrase>
+</character>

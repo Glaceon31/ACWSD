@@ -1,0 +1,23 @@
+<character value="毕">
+	<introduce>
+		<pinyin value="bi4" writing="bì" />
+		<bushou value="比" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="横折撇折横竖" />
+	</introduce>
+	<pron value="bì">
+		<sense tag="名" vernacular="">
+			<exam article="《庄子·胠箧》" ref="夫弓驽毕弋机毕之知多,则鸟乱于上矣。" />
+		</sense>
+		<sense tag="动" vernacular="完毕;结束">
+			<exam article="《廉颇蔺相如列传》" ref="度道里会遇之礼毕,还,不过三十日。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……完毕;使……结束">
+			<exam article="《廉颇蔺相如列传》" ref="毕礼而归之。" />
+		</sense>
+		<sense tag="副" vernacular="都,全部">
+			<exam article="《论积贮疏》" ref="政治未毕通也,远方之能疑者,并举而争起矣。" />
+		</sense>
+	</pron>
+</character>

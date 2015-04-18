@@ -1,0 +1,14 @@
+<character value="甿">
+	<introduce>
+		<pinyin value="meng2" writing="méng" />
+		<bushou value="田" />
+		<bushoustroke value="5" />
+		<stroke value="8" />
+		<order value="竖折横竖横捺横折" />
+	</introduce>
+	<pron value="méng">
+		<sense tag="名" vernacular="古指农村居住的人">
+			<exam article="《过秦论》" ref="然陈涉翁牖绳枢之了，甿隶之人，而迁徙之徒也。" />
+		</sense>
+	</pron>
+</character>

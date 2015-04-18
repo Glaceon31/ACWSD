@@ -1,0 +1,23 @@
+<character value="袖">
+	<introduce>
+		<pinyin value="xiu4" writing="xiù" />
+		<bushou value="衤" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="捺折竖撇捺竖折横竖横" />
+	</introduce>
+	<pron value="xiù">
+		<sense tag="名" vernacular="衣袖">
+			<exam article="《柳毅传》" ref="以袖掩面而泣。" />
+		</sense>
+		<sense tag="动" vernacular="袖里藏着">
+			<exam article="《信陵君窃符救赵》" ref="朱亥袖四十斤铁椎椎杀晋鄙。" />
+		</sense>
+	</pron>
+	<phrase value="袖刃">
+		<sense value="暗藏武器于袖中" />
+	</phrase>
+	<phrase value="袖手">
+		<sense value="缩手于袖，表示不参与其事" />
+	</phrase>
+</character>

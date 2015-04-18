@@ -1,0 +1,17 @@
+<character value="睇">
+	<introduce>
+		<pinyin value="di4" writing="dì" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="竖折横横横捺撇折横折竖撇" />
+	</introduce>
+	<pron value="dì">
+		<sense tag="动" vernacular="斜视">
+			<exam article="《楚辞·九歌·山鬼》" ref="既含睇兮又宜笑，子慕予兮善窈窕。" />
+		</sense>
+	</pron>
+	<phrase value="睇眄">
+		<sense value="流观；环视" />
+	</phrase>
+</character>

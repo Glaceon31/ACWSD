@@ -1,0 +1,15 @@
+<character value="忝">
+	<introduce>
+		<pinyin value="tian3" writing="tiăn" />
+		<bushou value="小" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横横撇捺竖捺捺捺" />
+	</introduce>
+	<pron value="tiǎn">
+		<sense tag="动" vernacular="辱">
+			<exam article="《汉书·叙传下》" ref="陵不引决，忝世灭姓。" />
+			<exam article="《训俭示康》" ref="二十忝列科名。" />
+		</sense>
+	</pron>
+</character>

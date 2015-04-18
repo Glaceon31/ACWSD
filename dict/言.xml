@@ -1,0 +1,40 @@
+<character value="言">
+	<introduce>
+		<pinyin value="yan2" writing="yán" />
+		<bushou value="言" />
+		<bushoustroke value="7" />
+		<stroke value="7" />
+		<order value="捺横横横竖折横" />
+	</introduce>
+	<pron value="yán">
+		<sense tag="动" vernacular="说；谈论">
+			<exam article="《桃花源记》" ref="此人一一为具言所闻。" />
+			<exam article="《邵公谏厉王弭谤》" ref="吾能弭谤矣，乃不敢言。" />
+		</sense>
+		<sense tag="名" vernacular="言语；言论">
+			<exam article="《鸿门宴》" ref="至军中，具以沛公言报项王。" />
+			<exam article="《邵公谏厉王弭谤》" ref="王不听，于国人莫敢出言，三年，乃流王于彘。" />
+		</sense>
+		<sense tag="名" vernacular="一字为一言">
+			<exam article="《琵琶行》" ref="因为长句，歌以赠之，凡六百一十六言。" />
+		</sense>
+		<sense tag="名" vernacular="一句为言">
+			<exam article="《信陵君窃符救赵》" ref="今吾且死，而侯生曾无一言半辞送我，我岂有所失哉？" />
+		</sense>
+		<sense tag="名" vernacular="著作；书籍">
+			<exam article="《过秦论》" ref="焚百家之言，以愚黔首。" />
+		</sense>
+		<sense tag="助" vernacular="无实在意义">
+			<exam article="《归去来辞》" ref="世与我相违，复驾言兮焉求？" />
+		</sense>
+		<sense vernacular="词缀，多用于动词之前">
+			<exam article="《左传·僖公九年》" ref="既盟之后，言归于好。" />
+		</sense>
+	</pron>
+	<phrase value="言瑞">
+		<sense value="守信之言" />
+	</phrase>
+	<phrase value="言重">
+		<sense value="出言慎重" />
+	</phrase>
+</character>

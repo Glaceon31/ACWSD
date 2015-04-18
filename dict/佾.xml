@@ -1,0 +1,14 @@
+<character value="佾">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇竖撇捺竖折横横" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="名" vernacular="古代乐舞的行列，一行八人叫一佾">
+			<exam article="《谷梁传·隐公五年》" ref="天子八佾，诸公六佾，诸侯四佾。" />
+		</sense>
+	</pron>
+</character>

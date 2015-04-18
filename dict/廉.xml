@@ -1,0 +1,46 @@
+<character value="廉">
+	<introduce>
+		<pinyin value="lian2" writing="lián" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="捺横撇捺撇横折横横竖竖撇捺" />
+	</introduce>
+	<pron value="lián">
+		<sense tag="名" vernacular="堂屋的侧边">
+			<exam article="《仪礼·乡饮酒》" ref="设席于堂廉东上。" />
+		</sense>
+		<sense tag="形" vernacular="正直；方正">
+			<exam article="《屈原列传》" ref="其行廉，故死而不容。" />
+		</sense>
+		<sense tag="形" vernacular="廉洁，与“贪”相对">
+			<exam article="《论衡·本性》" ref="故贪者能言廉，乱者能言治。" />
+		</sense>
+		<sense tag="形" vernacular="少">
+			<exam article="《原毁》" ref="其责人也详，其待己也廉。" />
+		</sense>
+		<sense tag="动" vernacular="考察；查访；侦察">
+			<exam article="《海瑞传》" ref="令巡按御史廉察之。" />
+		</sense>
+		<sense tag="形" vernacular="便宜；价格低">
+			<exam article="《黄冈竹楼记》" ref="以其价廉而工省也。" />
+		</sense>
+	</pron>
+	<phrase value="廉按">
+		<sense value="查访；追究" />
+	</phrase>
+	<phrase value="廉白">
+		<sense value="廉洁清白" />
+	</phrase>
+	<phrase value="廉悍">
+		<sense value="峻峭猛烈" />
+	</phrase>
+	<phrase value="廉纤">
+		<sense value="雨细的样子" />
+		<sense value="细雨" />
+	</phrase>
+	<phrase value="廉隅">
+		<sense value="棱角" />
+		<sense value="比喻人的行为、品性端方不苟" />
+	</phrase>
+</character>

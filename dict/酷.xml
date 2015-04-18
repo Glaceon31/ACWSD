@@ -1,0 +1,18 @@
+<character value="酷">
+	<introduce>
+		<pinyin value="ku4" writing="kù" />
+		<bushou value="酉" />
+		<bushoustroke value="7" />
+		<stroke value="14" />
+		<order value="横竖折撇折横横撇横竖横竖折横" />
+	</introduce>
+	<pron value="kù">
+		<sense tag="形" vernacular="酒味浓；香气浓">
+			<exam article="《上林赋》" ref="芬香沤郁，酷烈淑郁。" />
+			<exam article="《病中书怀呈友人》" ref="蕊多劳蝶翅，香酷坠蜂须。" />
+		</sense>
+		<sense tag="形" vernacular="残酷；暴虐">
+			<exam article="《贤良文学对策》" ref="刑罚暴酷，轻绝人命。" />
+		</sense>
+	</pron>
+</character>

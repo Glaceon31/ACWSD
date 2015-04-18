@@ -1,0 +1,23 @@
+<character value="枕">
+	<introduce>
+		<pinyin value="zhen3" writing="zhĕn" />
+		<pinyin value="zhen4" writing="zhèn" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横竖撇捺捺折撇折" />
+	</introduce>
+	<pron value="zhěn">
+		<sense tag="名" vernacular="枕头">
+			<exam article="《梦游天姥吟留别》" ref="惟觉时之枕席，失向来之烟霞。" />
+		</sense>
+	</pron>
+	<pron value="zhèn">
+		<sense tag="动" vernacular="将头放在枕头等物上">
+			<exam article="《赤壁赋》" ref="相与枕藉乎舟中。" />
+		</sense>
+		<sense tag="动" vernacular="临近；挨着">
+			<exam article="《汉书·严助传》" ref="北枕大江。" />
+		</sense>
+	</pron>
+</character>

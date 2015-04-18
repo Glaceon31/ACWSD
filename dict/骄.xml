@@ -1,0 +1,26 @@
+<character value="骄">
+	<introduce>
+		<pinyin value="jiao1" writing="jiāo" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折折横撇横撇捺撇竖" />
+	</introduce>
+	<pron value="jiāo">
+		<sense tag="形" vernacular="(马)高大健壮">
+			<exam article="《诗经·卫风·硕人》" ref="四牡有骄。" />
+		</sense>
+		<sense tag="形" vernacular="旺盛；强烈">
+			<exam article="《孤桐》" ref="岁老根弥壮，阳骄叶更阴。" />
+		</sense>
+		<sense tag="形" vernacular="高傲；自大">
+			<exam article="《张衡传》" ref="时国王骄奢，不遵典宪。" />
+		</sense>
+		<sense tag="动" vernacular="对……傲慢无礼；傲慢对待">
+			<exam article="《信陵君窃符救赵》" ref="不敢以其富贵骄士。" />
+		</sense>
+		<sense tag="动" vernacular="宠爱；娇惯">
+			<exam article="《与山巨源绝交书》" ref="少加孤露，母兄见骄。" />
+		</sense>
+	</pron>
+</character>

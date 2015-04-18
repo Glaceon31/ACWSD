@@ -1,0 +1,20 @@
+<character value="妻">
+	<introduce>
+		<pinyin value="qi1" writing="qī" />
+		<pinyin value="qi4" writing="qì" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横折横横竖折撇横" />
+	</introduce>
+	<pron value="qī">
+		<sense tag="名" vernacular="妻子；男子的配偶">
+			<exam article="《邹忌讽齐王纳谏》" ref="吾妻之美我者，私我也。" />
+		</sense>
+	</pron>
+	<pron value="qì">
+		<sense tag="动" vernacular="以女嫁人">
+			<exam article="《三国志·魏书·荀彧传》" ref="太祖以女妻彧长子辉。" />
+		</sense>
+	</pron>
+</character>

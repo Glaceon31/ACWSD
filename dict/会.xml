@@ -1,0 +1,55 @@
+<character value="会">
+	<introduce>
+		<pinyin value="hui4" writing="huì" />
+		<pinyin value="kuai4" writing="kuài" />
+		<bushou value="人" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇捺横横折捺" />
+	</introduce>
+	<pron value="huì">
+		<sense tag="动" vernacular="会合；聚集">
+			<exam article="《陈涉世家》" ref="号令召三老、豪杰与皆来会计事。" />
+			<exam article="《岳阳楼记》" ref="迁客骚人，多会于此。" />
+		</sense>
+		<sense tag="动" vernacular="会盟；宴会">
+			<exam article="《廉颇蔺相如列传》" ref="王许之，遂与秦王会渑池。" />
+			<exam article="《信陵君窃符救赵》" ref="公子于是乃置酒大会宾客。" />
+		</sense>
+		<sense tag="名" vernacular="机会；时机">
+			<exam article="《&lt;指南录&gt;后序》" ref="中兴机会，庶几在此。" />
+		</sense>
+		<sense tag="名" vernacular="节奏">
+			<exam article="《庖丁解牛》" ref="乃中《经首》之会。" />
+		</sense>
+		<sense tag="动" vernacular="领会；理解">
+			<exam article="《五柳先生传》" ref="好读书，不求甚解，每有会意，便欣然忘食。" />
+		</sense>
+		<sense tag="副" vernacular="适逢；恰巧遇上">
+			<exam article="《陈涉世家》" ref="会天大雨，道不通，度已失期。" />
+		</sense>
+		<sense tag="动" vernacular="能">
+			<exam article="《林黛玉进贾府》" ref="我自来是如此，从会饮食时便吃药。" />
+		</sense>
+		<sense tag="副" vernacular="当然；必定">
+			<exam article="《孔雀东南飞》" ref="吾已失恩义，会不相从许。" />
+			<exam article="《行路难》" ref="长风破浪会有时。" />
+		</sense>
+		<sense tag="副" vernacular="将要">
+			<exam article="《江城子·密州出猎》" ref="会挽雕弓如满月，西北望，射天狼。" />
+		</sense>
+	</pron>
+	<pron value="kuài">
+		<sense tag="动" vernacular="算帐；结帐">
+			<exam article="《冯谖客孟尝君》" ref="谁习计会，能为文收责于薛者乎？" />
+		</sense>
+		<sense tag="名" vernacular="帽子上缀结采玉的缝隙叫会，作朝及蔽膝的领缝也叫会" />
+	</pron>
+	<phrase value="会圣">
+		<sense value="有超人本领" />
+	</phrase>
+	<phrase value="会子">
+		<sense value="宋代发行的一种纸币" />
+		<sense value="约会的帖子" />
+	</phrase>
+</character>

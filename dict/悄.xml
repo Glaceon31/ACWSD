@@ -1,0 +1,18 @@
+<character value="悄">
+	<introduce>
+		<pinyin value="qiao3" writing="qiăo" />
+		<pinyin value="qiao1" writing="qiāo" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺竖竖捺撇竖折横横" />
+	</introduce>
+	<pron value="qiǎo">
+		<sense tag="形" vernacular="忧愁忧伤的样子">
+			<exam article="《普天乐·别怀》" ref="故人疏，忧心悄。" />
+		</sense>
+		<sense tag="形" vernacular="寂静；安静">
+			<exam article="《琵琶行》" ref="东船西舫悄无言，唯见江心秋月白。" />
+		</sense>
+	</pron>
+</character>

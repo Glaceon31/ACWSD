@@ -1,0 +1,17 @@
+<character value="诺">
+	<introduce>
+		<pinyin value="nuo4" writing="nuò" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺折横竖竖横撇竖折横" />
+	</introduce>
+	<pron value="nuò">
+		<sense tag="叹" vernacular="应答的声音，表示同意">
+			<exam article="《触龙说赵太后》" ref="太后曰：‘诺，恣君之所使之。’" />
+		</sense>
+		<sense tag="动" vernacular="应答；应允">
+			<exam article="《信陵君窃符救赵》" ref="公子诚一开口请如姬，如姬必许诺。" />
+		</sense>
+	</pron>
+</character>

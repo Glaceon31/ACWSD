@@ -1,0 +1,18 @@
+<character value="赡">
+	<introduce>
+		<pinyin value="shan4" writing="shàn" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="17" />
+		<order value="竖折撇捺撇折横撇撇捺捺横横横竖折横" />
+	</introduce>
+	<pron value="shàn">
+		<sense tag="动" vernacular="供给；供养">
+			<exam article="《笑话四则·汉世老人》" ref="我倾家赡君，慎勿他说，复相效而来。" />
+			<exam article="《晋书·羊祜传》" ref="禄俸所资，皆以赡给九族，赏赐军士。" />
+		</sense>
+		<sense tag="形" vernacular="足；够">
+			<exam article="《齐桓晋文之事》" ref="此惟救死而恐不赡，奚暇治礼义哉？" />
+		</sense>
+	</pron>
+</character>

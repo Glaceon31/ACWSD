@@ -1,0 +1,35 @@
+<character value="且">
+	<introduce>
+		<pinyin value="qie3" writing="qiĕ" />
+		<pinyin value="ju1" writing="jū" />
+		<bushou value="一" />
+		<bushoustroke value="1" />
+		<stroke value="5" />
+		<order value="竖折横横横" />
+	</introduce>
+	<pron value="qiě">
+		<sense tag="副" vernacular="将要；将近">
+			<exam article="《游褒禅山记》" ref="不出，火且尽。" />
+		</sense>
+		<sense tag="副" vernacular="暂且；姑且">
+			<exam article="《梦游天姥吟留别》" ref="且放白鹿青崖间。" />
+		</sense>
+		<sense tag="副" vernacular="尚；尚且">
+			<exam article="《鸿门宴》" ref="臣死且不避，卮酒安足辞？" />
+		</sense>
+		<sense tag="连" vernacular="又；一边……一边">
+			<exam article="《伐檀》" ref="河水清且涟漪。" />
+			<exam article="《中山狼传》" ref="先生仓卒以手搏之，且搏且却。" />
+		</sense>
+		<sense tag="连" vernacular="而且；况且；并且">
+			<exam article="《烛之武退秦师》" ref="且君尝为晋君赐矣。" />
+			<exam article="《赤壁之战》" ref="彼所将中国人不过十五六万人，且久已疲矣。" />
+		</sense>
+		<sense tag="连" vernacular="即使；即或">
+			<exam article="《廉颇蔺相如列传》" ref="且庸人尚羞之，况于将相乎？" />
+		</sense>
+		<sense tag="连" vernacular="或者；还是">
+			<exam article="《史记·李将军列传》" ref="岂吾相不当侯也？且固命也？。" />
+		</sense>
+	</pron>
+</character>

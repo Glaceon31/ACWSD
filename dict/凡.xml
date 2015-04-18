@@ -1,0 +1,31 @@
+<character value="凡">
+	<introduce>
+		<pinyin value="fan2" writing="fán" />
+		<bushou value="几" />
+		<bushoustroke value="2" />
+		<stroke value="3" />
+		<order value="撇折捺" />
+	</introduce>
+	<pron value="fán">
+		<sense tag="形" vernacular="平常；平庸">
+			<exam article="《赤壁之战》" ref="巨是凡人，偏在远郡。" />
+		</sense>
+		<sense tag="名" vernacular="人世间；尘世">
+			<exam article="《携仙箓》" ref="仙凡路阻两难留。" />
+		</sense>
+		<sense tag="副" vernacular="凡是，表示概括">
+			<exam article="《察今》" ref="凡先王之法有要于时者。" />
+		</sense>
+		<sense tag="名" vernacular="大概；大略">
+			<exam article="《汉书·扬雄传》" ref="仆尝倦谈，不能一二其详，请略举凡。" />
+		</sense>
+		<sense tag="动" vernacular="总共；总计，表示总合">
+			<exam article="《琵琶行》" ref="凡六百一十六言。" />
+			<exam article="《出师表》" ref="由是先主遂诣亮，凡三往，乃见。" />
+		</sense>
+	</pron>
+	<phrase value="凡鸟">
+		<sense value="1" />
+		<sense value="家禽，比喻普通平常" />
+	</phrase>
+</character>

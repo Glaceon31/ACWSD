@@ -1,0 +1,18 @@
+<character value="尉">
+	<introduce>
+		<pinyin value="wei4" writing="wèi" />
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="寸" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="折横撇横横竖撇捺横竖捺" />
+	</introduce>
+	<pron value="wèi">
+		<sense tag="名" vernacular="古代的武官">
+			<exam article="《陈涉世家》" ref="广起，夺而杀尉。" />
+		</sense>
+		<sense tag="动" vernacular="通“慰”，安慰">
+			<exam article="《汉书·韩安国传》" ref="以尉士大夫心。" />
+		</sense>
+	</pron>
+</character>

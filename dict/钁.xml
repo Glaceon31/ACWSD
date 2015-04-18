@@ -1,0 +1,17 @@
+<character value="钁">
+	<introduce>
+		<pinyin value="jue2" writing="jué" />
+		<bushou value="釒" />
+		<bushoustroke value="8" />
+		<stroke value="28" />
+		<order value="撇捺横横竖捺撇横竖折横横横竖折横横横撇竖捺横横横竖横折捺" />
+	</introduce>
+	<pron value="jué">
+		<sense tag="名" vernacular="镢头；大锄头">
+			<exam article="《论衡·率性》" ref="以钁锸凿地。" />
+		</sense>
+		<sense tag="动" vernacular="挖；掘；刨">
+			<exam article="《李愬雪夜入蔡州》" ref="李祐、李忠义钁其城为坎以先登。" />
+		</sense>
+	</pron>
+</character>

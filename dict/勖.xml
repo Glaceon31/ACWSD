@@ -1,0 +1,15 @@
+<character value="勖">
+	<introduce>
+		<pinyin value="xu4" writing="xù" />
+		<bushou value="力" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="竖折横横竖折横横横折撇" />
+	</introduce>
+	<pron value="xù">
+		<sense tag="动" vernacular="勉力；勉励">
+			<exam article="《诗经·邶风·燕燕》" ref="先君之思，以勖寡人。" />
+			<exam article="《三国志·吴书·吴主传》" ref="以勖相我国家。" />
+		</sense>
+	</pron>
+</character>

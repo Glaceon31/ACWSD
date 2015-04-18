@@ -1,0 +1,29 @@
+<character value="勾">
+	<introduce>
+		<pinyin value="gou1" writing="gōu" />
+		<pinyin value="gou4" writing="gòu" />
+		<bushou value="勹" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="撇折折捺" />
+	</introduce>
+	<pron value="gōu">
+		<sense tag="动" vernacular="用笔打勾，涂去">
+			<exam article="《跋司马公倚几铭》" ref="勾注涂改甚多。" />
+		</sense>
+		<sense tag="动" vernacular="逗留">
+			<exam article="《花楼望雪命宴赋诗》" ref="勾醉客夜徘徊。" />
+		</sense>
+		<sense tag="名" vernacular="不等腰直角三角形的较短的边" />
+		<sense tag="动" vernacular="逮捕；捉拿" />
+		<sense tag="动" vernacular="勾起；引起">
+			<exam article="《小令·醉太平》" ref="数枝黄菊勾诗兴，一川红叶迷仙径。" />
+		</sense>
+	</pron>
+	<pron value="gòu">
+		<sense tag="动" vernacular="通“彀”，张满弓" />
+		<sense vernacular="通“够”">
+			<exam article="《满园花》" ref="从今后，休道共我，梦见也，不能得勾。" />
+		</sense>
+	</pron>
+</character>

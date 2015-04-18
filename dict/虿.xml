@@ -1,0 +1,15 @@
+<character value="虿">
+	<introduce>
+		<pinyin value="chai4" writing="chài" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="9" />
+		<order value="横折撇竖折横竖横捺" />
+	</introduce>
+	<pron value="chài">
+		<sense tag="名" vernacular="蝎子一类毒虫" />
+		<sense tag="形" vernacular="形容女子的鬈发">
+			<exam article="《清人怨戏效徐庾慢体》" ref="晚风斜虿发，逸艳照窗笼。" />
+		</sense>
+	</pron>
+</character>

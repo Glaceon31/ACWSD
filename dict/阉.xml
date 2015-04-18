@@ -1,0 +1,15 @@
+<character value="阉">
+	<introduce>
+		<pinyin value="yan1" writing="yān" />
+		<bushou value="门" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺竖折横撇捺竖折横横折" />
+	</introduce>
+	<pron value="yān">
+		<sense tag="动" vernacular="阉割，割去男子生殖器" />
+		<sense tag="名" vernacular="宦官">
+			<exam article="《左忠毅公逸事》" ref="逆阉防伺其甚严，虽家仆不得近。" />
+		</sense>
+	</pron>
+</character>

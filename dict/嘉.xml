@@ -1,0 +1,33 @@
+<character value="嘉">
+	<introduce>
+		<pinyin value="jia1" writing="jiā" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="横竖横竖折横捺撇横折撇竖折横" />
+	</introduce>
+	<pron value="jiā">
+		<sense tag="形" vernacular="美好；美好的">
+			<exam article="《愚溪诗序》" ref="嘉木异石错置，皆山水之奇者。" />
+		</sense>
+		<sense tag="动" vernacular="赞美；嘉奖">
+			<exam article="《师说》" ref="余嘉其能行古道，作《师说》以贻之。" />
+		</sense>
+		<sense tag="动" vernacular="感激；感谢">
+			<exam article="《叔向贺贫》" ref="非起也敢专承之，其自桓叔以下，嘉吾子之赐。" />
+		</sense>
+		<sense tag="动" vernacular="欢乐；高兴；喜悦">
+			<exam article="《促织》" ref="上大嘉悦，诏赐抚臣名马衣缎。" />
+		</sense>
+	</pron>
+	<phrase value="嘉惠">
+		<sense value="对他人所给予的恩惠的敬称" />
+	</phrase>
+	<phrase value="嘉玉">
+		<sense value="祭祀用的玉" />
+	</phrase>
+	<phrase value="嘉乐">
+		<sense value="古代钟鼓之乐" />
+		<sense value="嘉美喜乐" />
+	</phrase>
+</character>

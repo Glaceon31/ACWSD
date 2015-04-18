@@ -1,0 +1,21 @@
+<character value="俾">
+	<introduce>
+		<pinyin value="bi3" writing="bĭ" />
+		<pinyin value="bei1" writing="bēi" />
+		<pinyin value="bi4" writing="bì" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="撇竖撇竖折横横撇横竖" />
+	</introduce>
+	<pron value="bǐ">
+		<sense tag="动" vernacular="使">
+			<exam article="《狱中杂记》" ref="置老监，俾困苦不可忍。" />
+		</sense>
+	</pron>
+	<pron value="bì">
+		<sense tag="名" vernacular="同“裨”，益处；裨益">
+			<exam article="《送高判官从军赴河西序》" ref="谋夫起予，哲士俾我。" />
+		</sense>
+	</pron>
+</character>

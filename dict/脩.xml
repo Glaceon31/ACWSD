@@ -1,0 +1,29 @@
+<character value="脩">
+	<introduce>
+		<pinyin value="xiu1" writing="xiū" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="撇竖竖撇折捺竖折横横" />
+	</introduce>
+	<pron value="xiū">
+		<sense tag="名" vernacular="干肉">
+			<exam article="《周礼·天官·膳夫》" ref="凡肉脩之颁赐，皆掌之。" />
+		</sense>
+		<sense tag="动" vernacular="通“修”">
+			<exam article="《楚辞·九辩》" ref="今脩饰而窥镜兮。" />
+		</sense>
+		<sense tag="动" vernacular="通“修”">
+			<exam article="《三国志·吴书·吕蒙传》" ref="蒙少不脩书传。" />
+		</sense>
+		<sense tag="动" vernacular="通“修”">
+			<exam article="《草庐对》" ref="内脩政理。" />
+		</sense>
+		<sense tag="形" vernacular="通“修”">
+			<exam article="《战国策·齐策一》" ref="邹忌脩八尺有余。" />
+		</sense>
+		<sense tag="形" vernacular="通“修”">
+			<exam article="《离骚》" ref="恐脩名之不立。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,21 @@
+<character value="棹">
+	<introduce>
+		<pinyin value="zhao4" writing="zhào" />
+		<pinyin value="zhuo1" writing="zhuō" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖撇捺竖横竖折横横横竖" />
+	</introduce>
+	<pron value="zhào">
+		<sense tag="名" vernacular="划船用长浆">
+			<exam article="《湘君》" ref="桂棹兮兰枻。" />
+		</sense>
+		<sense tag="名" vernacular="船">
+			<exam article="《答柳州食虾蟆诗》" ref="哀哉思虑深，未见许回棹。" />
+		</sense>
+		<sense tag="动" vernacular="用浆划船">
+			<exam article="《归去来兮辞》" ref="或命巾车，或棹孤舟。" />
+		</sense>
+	</pron>
+</character>

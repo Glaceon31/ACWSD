@@ -1,0 +1,13 @@
+<character value="斠">
+	<introduce>
+		<pinyin value="jiao4" writing="jiào" />
+		<bushou value="斗" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="横横竖竖横竖折竖横横捺捺横竖" />
+	</introduce>
+	<pron value="jiào">
+		<sense tag="名" vernacular="古代量谷物时刮平斗斛的器具" />
+		<sense tag="动" vernacular="通“校”，校正" />
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="蔌">
+	<introduce>
+		<pinyin value="su4" writing="sù" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="横竖竖横竖折横竖撇捺撇折撇捺" />
+	</introduce>
+	<pron value="sù">
+		<sense tag="名" vernacular="蔬菜的总称">
+			<exam article="《醉翁亭记》" ref="山肴野蔌，杂然而前陈者，太守宴也。" />
+		</sense>
+	</pron>
+</character>

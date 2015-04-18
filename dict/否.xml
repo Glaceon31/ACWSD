@@ -1,0 +1,28 @@
+<character value="否">
+	<introduce>
+		<pinyin value="fou3" writing="fŏu" />
+		<pinyin value="pi3" writing="pĭ" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横撇竖捺竖折横" />
+	</introduce>
+	<pron value="fǒu">
+		<sense tag="动" vernacular="肯定否定对举时表示否定的一方面">
+			<exam article="《柳毅传》" ref="是何可否之谓乎？" />
+			<exam article="《登泰山记》" ref="回视日观以西峰，或得日或否。" />
+		</sense>
+		<sense tag="动" vernacular="用于答话，表示不同意，相当于“不”，不是这样">
+			<exam article="《齐桓晋文之事》" ref="否，吾不为是也。" />
+		</sense>
+		<sense tag="助" vernacular="用在句末，表询问">
+			<exam article="《永遇乐·京口北固亭怀古》" ref="凭谁问：廉颇老矣，尚能否？" />
+			<exam article="《如梦令》" ref="知否，知？应是绿肥红瘦。" />
+		</sense>
+	</pron>
+	<pron value="pǐ">
+		<sense tag="形" vernacular="恶；坏">
+			<exam article="《出师表》" ref="陟罚臧否，不宜异同。" />
+		</sense>
+	</pron>
+</character>

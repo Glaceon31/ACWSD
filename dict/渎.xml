@@ -1,0 +1,28 @@
+<character value="渎">
+	<introduce>
+		<pinyin value="du2" writing="dú" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺横横竖折捺捺横撇捺" />
+	</introduce>
+	<pron value="dú">
+		<sense tag="名" vernacular="小水沟；小水渠">
+			<exam article="《论语·宪问》" ref="自经于沟渎而莫之知也。" />
+		</sense>
+		<sense tag="名" vernacular="河流；水道；沟渠">
+			<exam article="《五蠹》" ref="天下大水而鲧禹决渎。" />
+		</sense>
+		<sense tag="动" vernacular="轻慢；亵渎">
+			<exam article="《左传·成公十六年》" ref="渎齐盟而食话言" />
+		</sense>
+	</pron>
+	<pron value="dòu">
+		<sense vernacular="通“窦”">
+			<exam article="《左传·襄公三十年》" ref="晨自墓门之渎入。" />
+		</sense>
+	</pron>
+	<phrase value="渎货">
+		<sense value="贪财" />
+	</phrase>
+</character>

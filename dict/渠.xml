@@ -1,0 +1,21 @@
+<character value="渠">
+	<introduce>
+		<pinyin value="qu2" writing="qú" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺横横折横折横竖撇捺" />
+	</introduce>
+	<pron value="qú">
+		<sense tag="名" vernacular="（人工开凿的）沟渠">
+			<exam article="《西门豹治邺》" ref="西门豹即发民凿十二渠。" />
+		</sense>
+		<sense tag="代" vernacular="第三人称代词，他">
+			<exam article="《孔雀东南飞》" ref="虽与府吏要，渠会永无缘。" />
+		</sense>
+		<sense tag="形" vernacular="大" />
+		<sense vernacular="通“遽”">
+			<exam article="《管子·地数》" ref="夫水激而流渠。" />
+		</sense>
+	</pron>
+</character>

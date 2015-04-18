@@ -1,0 +1,35 @@
+<character value="穷">
+	<introduce>
+		<pinyin value="qiong2" writing="qióng" />
+		<bushou value="穴" />
+		<bushoustroke value="5" />
+		<stroke value="7" />
+		<order value="捺捺折撇捺折撇" />
+	</introduce>
+	<pron value="qióng">
+		<sense tag="形" vernacular="走投无路，处境困窘">
+			<exam article="《〈指南录〉后序》" ref="穷饿无聊，追购双急。" />
+		</sense>
+		<sense tag="形" vernacular="不得志；不显贵">
+			<exam article="《涉江》" ref="吾不能变心以从俗兮，固将愁苦而终穷。" />
+			<exam article="《荆轲刺秦王》" ref="樊将军以穷困来归丹。" />
+		</sense>
+		<sense tag="动" vernacular="穷尽；用尽">
+			<exam article="《赤壁赋》" ref="哀吾生之须臾，羡长江之无穷。" />
+			<exam article="《促织》" ref="而心目耳力俱穷绝无踪响。" />
+		</sense>
+		<sense tag="动" vernacular="走到尽头；寻究到底">
+			<exam article="《桃花源记》" ref="复前行，欲穷其林。" />
+		</sense>
+		<sense tag="形" vernacular="贫困；贫乏">
+			<exam article="《杜十娘怒沉百宝箱》" ref="倒替你这小贱人白白养着穷汉，教我衣食从何处来？" />
+			<exam article="《鱼我所欲也》" ref="为宫室之美，妻妾之奉，所识穷乏者得我欤？" />
+		</sense>
+		<sense tag="名" vernacular="贫困的人">
+			<exam article="《赵威后问齐使》" ref="振困穷，外不足。" />
+		</sense>
+		<sense tag="副" vernacular="彻底；到头">
+			<exam article="《察变》" ref="实则今兹所见，乃自不可穷诘之变动而来。" />
+		</sense>
+	</pron>
+</character>

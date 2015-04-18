@@ -1,0 +1,31 @@
+<character value="荷">
+	<introduce>
+		<pinyin value="he2" writing="hé" />
+		<pinyin value="he4" writing="hè" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖竖撇竖横竖折横竖" />
+	</introduce>
+	<pron value="hé">
+		<sense tag="名" vernacular="荷花；莲">
+			<exam article="《晓出净慈寺送林子方》" ref="映日荷花别样红。" />
+		</sense>
+	</pron>
+	<pron value="hè">
+		<sense tag="动" vernacular="背，扛，挑">
+			<exam article="《愚公移山》" ref="遂率孙子荷担者三夫。" />
+			<exam article="《归田园居》" ref="戴月荷锄归。" />
+		</sense>
+		<sense tag="动" vernacular="担任；担负">
+			<exam article="《东京赋》" ref="荷天下之重任。" />
+		</sense>
+		<sense tag="动" vernacular="承受恩惠">
+			<exam article="《西游记》" ref="至期千乞仙从过临一叙，是荷。" />
+		</sense>
+	</pron>
+	<phrase value="荷校">
+		<sense value="以枷加颈" />
+		<sense value="校，枷" />
+	</phrase>
+</character>

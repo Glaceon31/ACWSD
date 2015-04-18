@@ -1,0 +1,28 @@
+<character value="梦">
+	<introduce>
+		<pinyin value="meng4" writing="mèng" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横竖撇捺横竖撇捺撇折捺" />
+	</introduce>
+	<pron value="mèng">
+		<sense tag="名" vernacular="睡眠中的幻象">
+			<exam article="《望江南》" ref="多少恨，昨夜梦魂中，还似旧时游上苑。" />
+		</sense>
+		<sense tag="名" vernacular="湖名，即云梦泽的江南部分">
+			<exam article="《梦溪笔谈·辩证二》" ref="亦以谓江南为梦，江北为云。" />
+		</sense>
+		<sense tag="名" vernacular="泛指云梦泽或湖沼">
+			<exam article="《与诸子登岘山》" ref="水落鱼梁浅，天寒梦泽深。" />
+		</sense>
+		<sense tag="动" vernacular="做梦；梦见">
+			<exam article="《后汉书·灵帝宋皇后纪》" ref="昔晋侯失刑，亦梦大厉被发属地。" />
+		</sense>
+	</pron>
+	<phrase value="梦蝶">
+		<sense value="《庄子·齐物论》：“昔者庄周梦为蝴蝶，栩栩然蝴蝶也" />
+		<sense value="自喻适志与，不知周也；俄然觉，则蘧蘧然周也" />
+		<sense value="”后因以“梦蝶”表示人生变幻莫测" />
+	</phrase>
+</character>

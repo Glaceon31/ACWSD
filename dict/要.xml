@@ -1,0 +1,35 @@
+<character value="要">
+	<introduce>
+		<pinyin value="yao4" writing="yào" />
+		<pinyin value="yao1" writing="yāo" />
+		<bushou value="覀" />
+		<bushoustroke value="6" />
+		<stroke value="9" />
+		<order value="横竖折竖竖横折撇横" />
+	</introduce>
+	<pron value="yāo">
+		<sense tag="名" vernacular="人体的腰部，这个意义后来写作“腰”">
+			<exam article="《荀子·礼论》" ref="量要而带之。" />
+		</sense>
+		<sense tag="动" vernacular="通“邀”">
+			<exam article="《桃花源记》" ref="便要还家，设酒杀鸡作食。" />
+		</sense>
+		<sense tag="动" vernacular="中途拦截">
+			<exam article="《书博鸡者事》" ref="豪民子闻难，鸠宗族僮奴百许人，欲要篡以归。" />
+		</sense>
+		<sense tag="动" vernacular="相约">
+			<exam article="《孙雀东南飞》" ref="虽与府吏要，渠会永无缘。" />
+		</sense>
+		<sense tag="动" vernacular="威胁">
+			<exam article="《狱中杂记》" ref="惟大辟无可要，然犹质其首。" />
+		</sense>
+	</pron>
+	<pron value="yào">
+		<sense tag="形" vernacular="重要">
+			<exam article="《冯婉贞》" ref="筑石寨土堡于要隘。" />
+		</sense>
+		<sense tag="动" vernacular="想要">
+			<exam article="《石灰吟》" ref="要留清白在人间。" />
+		</sense>
+	</pron>
+</character>

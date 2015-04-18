@@ -1,0 +1,18 @@
+<character value="毂">
+	<introduce>
+		<pinyin value="gu3" writing="gŭ" />
+		<pinyin value="gu1" writing="gū" />
+		<bushou value="殳" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="横竖横捺折横折竖横撇折折捺" />
+	</introduce>
+	<pron value="gǔ">
+		<sense tag="名" vernacular="车轮中心外承轴内穿轴的圆木">
+			<exam article="《国殇》" ref="车错毂兮短兵接。" />
+		</sense>
+		<sense tag="名" vernacular="车子">
+			<exam article="《与陈伯之书》" ref="朱轮华毂，拥旄万里，何其壮也。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,14 @@
+<character value="斲">
+	<introduce>
+		<pinyin value="zhuo2" writing="zhuó" />
+		<bushou value="斤" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="折折横折折横折横竖横撇撇横竖" />
+	</introduce>
+	<pron value="zhuó">
+		<sense tag="动" vernacular="吹；削">
+			<exam article="《荀子·王制》" ref="农夫不斲削、不陶冶而足械用。" />
+		</sense>
+	</pron>
+</character>

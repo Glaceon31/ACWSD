@@ -1,0 +1,31 @@
+<character value="边">
+	<introduce>
+		<pinyin value="bian1" writing="biān" />
+		<pinyin value="bian5" writing="bian" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="折撇捺折捺" />
+	</introduce>
+	<pron value="biān">
+		<sense tag="名" vernacular="边界;边疆">
+			<exam article="《论积贮疏》" ref="卒然边境有急。" />
+		</sense>
+		<sense tag="名" vernacular="边缘">
+			<exam article="《过故人庄》" ref="绿树村边合,青山郭外斜。" />
+		</sense>
+		<sense tag="名" vernacular="近旁;旁边">
+			<exam article="《木兰诗》" ref="暮宿黄河边。" />
+			<exam article="《念奴娇·赤壁怀古》" ref="故垒西边,人道是,三国周郎赤壁。" />
+		</sense>
+		<sense tag="名" vernacular="边际,尽头">
+			<exam article="《登高》" ref="无边落木萧萧下。" />
+		</sense>
+		<sense tag="名" vernacular="方">
+			<exam article="《竹枝词》" ref="东边日出西边雨。" />
+		</sense>
+	</pron>
+	<phrase value="边幅">
+		<sense value="布帛的辽沿,借喻人的衣着仪表" />
+	</phrase>
+</character>

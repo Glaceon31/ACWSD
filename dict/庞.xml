@@ -1,0 +1,21 @@
+<character value="庞">
+	<introduce>
+		<pinyin value="pang2" writing="páng" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺横撇横撇折撇捺" />
+	</introduce>
+	<pron value="páng">
+		<sense tag="形" vernacular="高大的房屋" />
+		<sense tag="形" vernacular="多而杂乱">
+			<exam article="《旧唐书·李勉传》" ref="汴州水陆所凑，邑居庞杂。" />
+		</sense>
+		<sense tag="名" vernacular="脸盘">
+			<exam article="《林黛玉进贾府》" ref="身体面庞虽怯弱不胜，却有效段自然的风流态度。" />
+		</sense>
+	</pron>
+	<phrase value="庞鸿">
+		<sense value="古以天体未成前，宇宙浑然一体，称为庞鸿" />
+	</phrase>
+</character>

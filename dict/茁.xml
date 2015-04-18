@@ -1,0 +1,14 @@
+<character value="茁">
+	<introduce>
+		<pinyin value="zhuo2" writing="zhuó" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖竖折竖竖折竖" />
+	</introduce>
+	<pron value="zhuó">
+		<sense tag="形" vernacular="植物才生长出来的样子">
+			<exam article="《诗经·召南·驺虞》" ref="彼茁者葭。" />
+		</sense>
+	</pron>
+</character>

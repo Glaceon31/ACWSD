@@ -1,0 +1,32 @@
+<character value="守">
+	<introduce>
+		<pinyin value="shou3" writing="shŏu" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="捺捺折横竖捺" />
+	</introduce>
+	<pron value="shǒu">
+		<sense tag="动" vernacular="防守；守卫">
+			<exam article="《过秦论》" ref="乃使蒙田北筑长城而守藩篱。" />
+		</sense>
+		<sense tag="动" vernacular="守候；看守">
+			<exam article="《五蠹》" ref="守株，冀复得兔。" />
+		</sense>
+		<sense tag="动" vernacular="守住；保持">
+			<exam article="《谏太宗十思疏》" ref="岂取之易守之难乎？" />
+		</sense>
+		<sense tag="动" vernacular="遵守；奉行">
+			<exam article="《察今》" ref="守法而弗变则悖。" />
+		</sense>
+		<sense tag="动" vernacular="在不利的情况下坚持按自己的理想道德处世">
+			<exam article="《芋老人传》" ref="村南有夫妇守贫者。" />
+		</sense>
+		<sense tag="名" vernacular="操守；节操">
+			<exam article="《易·系辞》" ref="失其守者辞守屈。" />
+		</sense>
+		<sense tag="名" vernacular="官名，也称太守，秦朝郡的最高长官">
+			<exam article="《雁荡山》" ref="谢灵运为永嘉守。" />
+		</sense>
+	</pron>
+</character>

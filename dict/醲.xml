@@ -1,0 +1,14 @@
+<character value="醲">
+	<introduce>
+		<pinyin value="nong2" writing="nóng" />
+		<bushou value="酉" />
+		<bushoustroke value="7" />
+		<stroke value="20" />
+		<order value="横竖折撇折横横竖折横竖竖横横撇横横折撇捺" />
+	</introduce>
+	<pron value="nóng">
+		<sense tag="名" vernacular="味厚的酒">
+			<exam article="《淮南子·主术》" ref="肥醲甘脆，非不美也。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,23 @@
+<character value="巴">
+	<introduce>
+		<pinyin value="ba1" writing="bā" />
+		<bushou value="巳" />
+		<bushoustroke value="3" />
+		<stroke value="4" />
+		<order value="折竖横折" />
+	</introduce>
+	<pron value="bā">
+		<sense tag="名" vernacular="一种大蛇,篆体巴字似蛇形">
+			<exam article="《山海经·海内南经》" ref="巴蛇食泉,三岁而其骨。" />
+		</sense>
+		<sense tag="名" vernacular="古国名">
+			<exam article="《过秦论》" ref="西举巴蜀。" />
+		</sense>
+		<sense tag="动" vernacular="热切盼望">
+			<exam article="《智取生辰纲》" ref="巴到东京时,我自赏你。" />
+		</sense>
+		<sense tag="动" vernacular="紧贴;靠近">
+			<exam article="《孙吾空三打白骨精》" ref="前不巴村,后不靠店。" />
+		</sense>
+	</pron>
+</character>

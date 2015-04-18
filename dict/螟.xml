@@ -1,0 +1,13 @@
+<character value="螟">
+	<introduce>
+		<pinyin value="ming2" writing="míng" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="16" />
+		<order value="竖折横竖横捺捺折竖折横横捺横撇捺" />
+	</introduce>
+	<pron value="míng">
+		<sense vernacular="〔螟虫〕螟蛾的幼虫，有许多种，如“三化螟”、“玉米螟”等" />
+		<sense vernacular="〔螟蛉〕a" />
+	</pron>
+</character>

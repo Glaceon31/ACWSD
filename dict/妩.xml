@@ -1,0 +1,15 @@
+<character value="妩">
+	<introduce>
+		<pinyin value="wu3" writing="wŭ" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折撇横横横撇折" />
+	</introduce>
+	<pron value="wǔ">
+		<sense vernacular="见“妩媚”" />
+	</pron>
+	<phrase value="妩媚">
+		<sense value="形容姿态美好可爱" />
+	</phrase>
+</character>

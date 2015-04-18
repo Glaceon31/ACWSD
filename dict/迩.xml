@@ -1,0 +1,22 @@
+<character value="迩">
+	<introduce>
+		<pinyin value="er3" writing="ĕr" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇折竖撇捺捺折捺" />
+	</introduce>
+	<pron value="ěr">
+		<sense tag="形" vernacular="近">
+			<exam article="《屈原列传》" ref="其称文小而其指极大，举类迩而见义远。" />
+			<exam article="《冯婉贞》" ref="既而敌行益迩。" />
+		</sense>
+		<sense tag="动" vernacular="亲切；接近">
+			<exam article="《尚书·仲虺之诰》" ref="惟王不迩声色，不殖货利。" />
+			<exam article="《释言》" ref="公正则不迩谗邪。" />
+		</sense>
+		<sense tag="形" vernacular="浅近">
+			<exam article="《问说》" ref="舜以天子而询于匹夫，以大知而察及迩言。" />
+		</sense>
+	</pron>
+</character>

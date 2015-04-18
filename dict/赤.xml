@@ -1,0 +1,50 @@
+<character value="赤">
+	<introduce>
+		<pinyin value="chi4" writing="chì" />
+		<bushou value="赤" />
+		<bushoustroke value="7" />
+		<stroke value="7" />
+		<order value="横竖横撇竖撇捺" />
+	</introduce>
+	<pron value="chì">
+		<sense tag="形" vernacular="本为火红色，后泛指红色">
+			<exam article="《登泰山记》" ref="日上，正赤如丹。" />
+		</sense>
+		<sense tag="形" vernacular="至诚；真纯">
+			<exam article="《与韩荆州书》" ref="知君侯推赤心于诸贤腹中。" />
+		</sense>
+		<sense tag="形" vernacular="空；徒" />
+		<sense tag="形" vernacular="光；裸露">
+			<exam article="《智取生辰纲》" ref="六个人脱得赤条条的。" />
+		</sense>
+	</pron>
+	<phrase value="赤壁">
+		<sense value="1" />
+		<sense value="地名" />
+		<sense value="有三处，都在今湖北省" />
+		<sense value="2" />
+		<sense value="水名" />
+		<sense value="在今山西省安泽县南" />
+	</phrase>
+	<phrase value="赤地">
+		<sense value="指旱灾、虫灾严重时，遍地不生庄稼" />
+	</phrase>
+	<phrase value="赤立">
+		<sense value="空无所有的样子" />
+	</phrase>
+	<phrase value="赤舌">
+		<sense value="谗言，口舌是非" />
+	</phrase>
+	<phrase value="赤县">
+		<sense value="1" />
+		<sense value="“赤县神州”的简称" />
+		<sense value="指中国" />
+	</phrase>
+	<phrase value="赤衣">
+		<sense value="原指罪犯穿的衣服，后泛指罪犯" />
+	</phrase>
+	<phrase value="赤子">
+		<sense value="1" />
+		<sense value="初生的婴儿" />
+	</phrase>
+</character>

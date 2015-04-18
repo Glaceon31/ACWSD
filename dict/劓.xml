@@ -1,0 +1,14 @@
+<character value="劓">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="16" />
+		<order value="撇竖折横横横竖折横竖横横撇竖竖竖" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="动" vernacular="割掉鼻子，古代的一种刑罚">
+			<exam article="《韩非子·内储说下》" ref="王怒曰：‘劓之。’" />
+		</sense>
+	</pron>
+</character>

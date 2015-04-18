@@ -1,0 +1,14 @@
+<character value="搢">
+	<introduce>
+		<pinyin value="jin4" writing="jìn" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="横竖横横竖竖捺撇横竖折横横" />
+	</introduce>
+	<pron value="jìn">
+		<sense tag="动" vernacular="插">
+			<exam article="《商君书·赏刑》" ref="搢笏，作为乐。" />
+		</sense>
+	</pron>
+</character>

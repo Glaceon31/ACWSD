@@ -1,0 +1,21 @@
+<character value="隮">
+	<introduce>
+		<pinyin value="ji1" writing="jī" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="16" />
+		<order value="折竖捺横捺撇竖折撇撇折捺撇竖横横" />
+	</introduce>
+	<pron value="jī">
+		<sense tag="动" vernacular="登上">
+			<exam article="《尚书·顾命》" ref="王麻冕黼裳，由宾阶隮。" />
+		</sense>
+		<sense tag="动" vernacular="升起">
+			<exam article="《诗经·鄘风·蝃蝀》" ref="朝隮于西，崇朝其雨。" />
+		</sense>
+		<sense tag="动" vernacular="坠落">
+			<exam article="《尚书·微子》" ref="王子弗出，我乃颠隮。" />
+			<exam article="《送秦光禄北征》" ref="太常犹旧宠，光禄是新隮。" />
+		</sense>
+	</pron>
+</character>

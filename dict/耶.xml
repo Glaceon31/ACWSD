@@ -1,0 +1,21 @@
+<character value="耶">
+	<introduce>
+		<pinyin value="ye1" writing="yē" />
+		<pinyin value="ye2" writing="yé" />
+		<bushou value="耳" />
+		<bushoustroke value="6" />
+		<stroke value="8" />
+		<order value="横竖竖横横横折竖" />
+	</introduce>
+	<pron value="yē">
+		<sense tag="语助" vernacular="用于句末，又写作“邪”">
+			<exam article="《岳阳楼记》" ref="然则何时而乐耶？" />
+			<exam article="《捕蛇者说》" ref="又安敢毒耶？" />
+			<exam article="《促织》" ref="得无教我猎虫所耶？" />
+			<exam article="《梅花岭记》" ref="审知故扬州阁部史公果死耶，抑未死耶？" />
+		</sense>
+		<sense tag="名" vernacular="通“爷”">
+			<exam article="《兵车行》" ref="耶娘妻子走相送，尘埃不见咸阳桥。" />
+		</sense>
+	</pron>
+</character>

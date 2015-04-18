@@ -1,0 +1,17 @@
+<character value="缛">
+	<introduce>
+		<pinyin value="ru4" writing="rù" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="折折横横撇横横折撇捺横竖捺" />
+	</introduce>
+	<pron value="rù">
+		<sense tag="名" vernacular="繁密的彩色装饰">
+			<exam article="《西京赋》" ref="其馆室次舍，采饰纤缛。" />
+		</sense>
+		<sense tag="名" vernacular="通“褥”，褥子">
+			<exam article="《雪赋》" ref="援绮衾兮坐芳缛。" />
+		</sense>
+	</pron>
+</character>

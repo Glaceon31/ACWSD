@@ -1,0 +1,16 @@
+<character value="俟">
+	<introduce>
+		<pinyin value="si4" writing="sì" />
+		<pinyin value="qi2" writing="qí" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="撇竖折捺撇横横撇捺" />
+	</introduce>
+	<pron value="sì">
+		<sense tag="动" vernacular="等待">
+			<exam article="《登楼赋》" ref="惟日月之逾迈兮，俟河清其未极。" />
+			<exam article="《送东阳马生序》" ref="俟其欣悦，则又请焉。" />
+		</sense>
+	</pron>
+</character>

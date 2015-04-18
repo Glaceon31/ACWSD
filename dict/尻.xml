@@ -1,0 +1,14 @@
+<character value="尻">
+	<introduce>
+		<pinyin value="kao1" writing="kāo" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="折横撇撇折" />
+	</introduce>
+	<pron value="kāo">
+		<sense tag="名" vernacular="臀部">
+			<exam article="《狼》" ref="身已半入，止露尻尾。" />
+		</sense>
+	</pron>
+</character>

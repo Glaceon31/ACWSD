@@ -1,0 +1,14 @@
+<character value="轼">
+	<introduce>
+		<pinyin value="shi4" writing="shì" />
+		<bushou value="车" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横折竖横横横竖横折捺" />
+	</introduce>
+	<pron value="shì">
+		<sense tag="名" vernacular="古代车箱前面作扶手的横木">
+			<exam article="《曹刿论战》" ref="下视其辙，登轼而望之。" />
+		</sense>
+	</pron>
+</character>

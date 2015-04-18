@@ -1,0 +1,20 @@
+<character value="岩">
+	<introduce>
+		<pinyin value="yan2" writing="yán" />
+		<bushou value="山" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="竖折竖横撇竖折横" />
+	</introduce>
+	<pron value="yán">
+		<sense tag="名" vernacular="高峻的山崖">
+			<exam article="《梦游天姥吟留别》" ref="千岩万转路不定。" />
+		</sense>
+		<sense tag="名" vernacular="岩石">
+			<exam article="《小石潭记》" ref="卷石底以出，为坻，为屿，为嵁，为岩。" />
+		</sense>
+		<sense tag="名" vernacular="山中洞穴">
+			<exam article="《西枝村寻置草堂地夜宿赞公土室》" ref="盛论岩中趣。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,30 @@
+<character value="拚">
+	<introduce>
+		<pinyin value="pan4" writing="pàn" />
+		<pinyin value="pin1" writing="pīn" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横折捺横撇竖" />
+	</introduce>
+	<pron value="biàn">
+		<sense tag="动" vernacular="拍手；用手拍打">
+			<exam article="《吴都赋》" ref="翘关扛鼎，拚射壶博。" />
+		</sense>
+	</pron>
+	<pron value="fèn">
+		<sense tag="动" vernacular="扫除">
+			<exam article="《礼记·少仪》" ref="扫席前曰拚。" />
+		</sense>
+	</pron>
+	<pron value="fān">
+		<sense tag="动" vernacular="通“翻”">
+			<exam article="《诗经·周颂·小毖》" ref="肇允彼桃虫，拚飞维鸟。" />
+		</sense>
+	</pron>
+	<pron value="pīn">
+		<sense tag="动" vernacular="舍弃；不顾惜一切">
+			<exam article="《鹧鸪天》" ref="当年拚却醉颜红。" />
+		</sense>
+	</pron>
+</character>

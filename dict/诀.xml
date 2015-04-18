@@ -1,0 +1,22 @@
+<character value="诀">
+	<introduce>
+		<pinyin value="jue2" writing="jué" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺折折横撇捺" />
+	</introduce>
+	<pron value="jué">
+		<sense tag="动" vernacular="辞别；告别">
+			<exam article="《廉颇蔺相如列传》" ref="廉颇送至境，与王诀。" />
+			<exam article="《明史·海瑞传》" ref="市一棺，诀妻子，待罪于朝。" />
+		</sense>
+		<sense tag="动" vernacular="特指永诀">
+			<exam article="《祭妹文》" ref="早知诀汝，则予岂肯远游。" />
+		</sense>
+		<sense tag="名" vernacular="诀窍；高明的方法">
+			<exam article="《列子·说符》" ref="卫人有善数者，临死以诀喻其子。" />
+			<exam article="《魏书·释老志》" ref="大禹闻长生之诀。" />
+		</sense>
+	</pron>
+</character>

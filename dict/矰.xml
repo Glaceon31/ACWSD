@@ -1,0 +1,14 @@
+<character value="矰">
+	<introduce>
+		<pinyin value="zeng1" writing="zēng" />
+		<bushou value="矢" />
+		<bushoustroke value="5" />
+		<stroke value="17" />
+		<order value="撇横横撇捺捺撇竖折竖捺撇横竖折横横" />
+	</introduce>
+	<pron value="zēng">
+		<sense tag="名" vernacular="一种丝绳系住用来射鸟的短箭">
+			<exam article="《庄子·应帝王》" ref="鸟高飞以避矰弋之害。" />
+		</sense>
+	</pron>
+</character>

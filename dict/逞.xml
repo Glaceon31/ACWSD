@@ -1,0 +1,33 @@
+<character value="逞">
+	<introduce>
+		<pinyin value="cheng3" writing="chĕng" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="竖折横横横竖横捺折捺" />
+	</introduce>
+	<pron value="chěng">
+		<sense tag="动" vernacular="快心，称意">
+			<exam article="《左传·隐公十一年》" ref="鬼神实不逞于许君，而假手于我寡人。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……快慰；使……满足">
+			<exam article="《殽之战》" ref="以逞寡君之志。" />
+		</sense>
+		<sense tag="动" vernacular="达到目的；得逞">
+			<exam article="《左传·隐公九年》" ref="后者不救，则无断矣，乃可以逞。" />
+		</sense>
+		<sense tag="动" vernacular="舒展；显露">
+			<exam article="《论语·乡党》" ref="逞颜色，怡怡如也。" />
+		</sense>
+		<sense tag="动" vernacular="放任；放肆">
+			<exam article="《三戒序》" ref="……而乘物以逞。" />
+		</sense>
+		<sense tag="动" vernacular="炫耀；卖弄" />
+	</pron>
+	<phrase value="逞辩">
+		<sense value="卖弄口舌" />
+	</phrase>
+	<phrase value="逞能">
+		<sense value="显示自己的才干" />
+	</phrase>
+</character>

@@ -1,0 +1,51 @@
+<character value="敦">
+	<introduce>
+		<pinyin value="dun1" writing="dūn" />
+		<pinyin value="dui4" writing="duì" />
+		<bushou value="攵" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="捺横竖折横折竖横撇横撇捺" />
+	</introduce>
+	<pron value="dūn">
+		<sense vernacular="厚">
+			<exam article="《国语·周语上》" ref="夫民之大事在农，……敦庞纯固，于是乎成。" />
+			<exam article="《荀子·儒效》" ref="知之而不行，虽敦必困。" />
+		</sense>
+		<sense tag="动" vernacular="敦促；督促">
+			<exam article="《晋书·谢安传》" ref="累下郡县敦逼，不得已赴召。" />
+		</sense>
+	</pron>
+	<pron value="tún">
+		<sense vernacular="通“屯”">
+			<exam article="《甘泉赋》" ref="敦万骑于中营兮，方玉车之千乘。" />
+		</sense>
+		<sense vernacular="duì古时盛黍稷的器具">
+			<exam article="《礼记·明堂位》" ref="有虞氏之两敦。" />
+		</sense>
+	</pron>
+	<pron value="diāo">
+		<sense vernacular="通“雕”">
+			<exam article="《诗经·大雅·行苇》" ref="敦弓既坚，四鍭既钧。" />
+		</sense>
+	</pron>
+	<pron value="tuán">
+		<sense vernacular="团；园">
+			<exam article="《诗经·豳风·东山》" ref="有敦瓜苦，烝在栗薪。" />
+		</sense>
+		<sense tag="形" vernacular="聚拢的样子">
+			<exam article="《诗经·大雅·行苇》" ref="敦彼行苇，牛羊勿践履。" />
+		</sense>
+	</pron>
+	<phrase value="敦本">
+		<sense value="注重根本" />
+		<sense value="本，指农业" />
+	</phrase>
+	<phrase value="敦庞">
+		<sense value="富足" />
+		<sense value="敦厚、淳朴" />
+	</phrase>
+	<phrase value="敦序">
+		<sense value="分其次序而亲重之" />
+	</phrase>
+</character>

@@ -1,0 +1,22 @@
+<character value="陆">
+	<introduce>
+		<pinyin value="lu4" writing="lù" />
+		<pinyin value="liu4" writing="liù" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="折竖横横竖折竖" />
+	</introduce>
+	<pron value="lù">
+		<sense tag="名" vernacular="陆地；高而平的地">
+			<exam article="《周礼·考工记》" ref="作车以行陆，作船以行水。" />
+		</sense>
+		<sense tag="名" vernacular="道路；陆路">
+			<exam article="《赤壁之战》" ref="刘备、周瑜水陆并进，追操至南郡。" />
+		</sense>
+	</pron>
+	<phrase value="陆海潘江">
+		<sense value="“陆”指陆机，“潘”指潘岳" />
+		<sense value="后用以形容有文才的人" />
+	</phrase>
+</character>

@@ -1,0 +1,24 @@
+<character value="扃">
+	<introduce>
+		<pinyin value="jiong1" writing="jiōng" />
+		<bushou value="户" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="捺折横撇竖折竖折横" />
+	</introduce>
+	<pron value="jiōng">
+		<sense tag="名" vernacular="门闩">
+			<exam article="《游悟真寺》" ref="门户无扃关。" />
+		</sense>
+		<sense tag="名" vernacular="泛指门窗箱柜等上的闩栓销钮等">
+			<exam article="《原君》" ref="摄缄滕，固扃鐍。" />
+		</sense>
+		<sense tag="动" vernacular="闩上；关上">
+			<exam article="《项脊轩志》" ref="余扃牖而居。" />
+		</sense>
+		<sense tag="名" vernacular="门户；门扇">
+			<exam article="《北山移文》" ref="或假步于山扃。" />
+			<exam article="《长恨歌》" ref="金阙西厢扣玉扃，转教小玉报双成。" />
+		</sense>
+	</pron>
+</character>

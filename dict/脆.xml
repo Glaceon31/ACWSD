@@ -1,0 +1,37 @@
+<character value="脆">
+	<introduce>
+		<pinyin value="cui4" writing="cuì" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="撇折横横撇折横撇折折" />
+	</introduce>
+	<pron value="cuì">
+		<sense tag="形" vernacular="脆弱；易折易碎">
+			<exam article="《教战守策》" ref="今者治平之日久，天下之人骄惰脆弱，如妇人孺子不出于闺门。" />
+			<exam article="《陈州粜米》" ref="你正是饿狼口里夺脆骨。" />
+		</sense>
+		<sense tag="形" vernacular="食物脆嫩、松脆">
+			<exam article="《七发》" ref="甘脆肥脓，命曰腐肠之药。" />
+		</sense>
+		<sense tag="形" vernacular="轻">
+			<exam article="《后汉书·许荆传》" ref="风俗脆薄。" />
+		</sense>
+		<sense tag="形" vernacular="声音清脆">
+			<exam article="《木兰花慢》" ref="风暖繁弦脆管，万家竞奏新声。" />
+		</sense>
+		<sense tag="形" vernacular="干脆；爽快利索">
+			<exam article="《绍兴采石大战始末》" ref="今日饶我也得由你辈，杀我也得由你辈，不若早早快脆。" />
+		</sense>
+	</pron>
+	<phrase value="脆薄">
+		<sense value="犹“轻薄”" />
+		<sense value="轻浮刻薄" />
+	</phrase>
+	<phrase value="脆怯">
+		<sense value="懦弱胆怯" />
+	</phrase>
+	<phrase value="脆弱">
+		<sense value="不坚强，经不起挫折失败" />
+	</phrase>
+</character>

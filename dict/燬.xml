@@ -1,0 +1,18 @@
+<character value="燬">
+	<introduce>
+		<pinyin value="hui3" writing="huĭ" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="17" />
+		<order value="捺撇撇捺撇竖横折横横横竖横撇折折捺" />
+	</introduce>
+	<pron value="huǐ">
+		<sense tag="名" vernacular="烈火">
+			<exam article="《诗经·周南·汝坟》" ref="虽则如燬，父母孔迩。" />
+			<exam article="《种莴苣》" ref="枯旱于其中，炎方惨如燬。" />
+		</sense>
+		<sense tag="动" vernacular="燃烧">
+			<exam article="《晋书·温峤传》" ref="峤遂燬犀角而照之。" />
+		</sense>
+	</pron>
+</character>

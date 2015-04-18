@@ -1,0 +1,20 @@
+<character value="虐">
+	<introduce>
+		<pinyin value="nue4" writing="nüè" />
+		<bushou value="虍" />
+		<bushoustroke value="6" />
+		<stroke value="9" />
+		<order value="竖横折撇横折横折横" />
+	</introduce>
+	<pron value="nüè">
+		<sense tag="动" vernacular="残暴">
+			<exam article="《尚书·汤诰》" ref="夏王灭德作威，以敷虐于尔万方百姓。" />
+		</sense>
+		<sense tag="动" vernacular="虐待；残害">
+			<exam article="《与妻书》" ref="奸官污吏虐民可以。" />
+		</sense>
+		<sense tag="名" vernacular="灾祸">
+			<exam article="《左传·襄公十三年》" ref="是以上下无礼，乱虐并生，由争善也。" />
+		</sense>
+	</pron>
+</character>

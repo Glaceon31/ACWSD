@@ -1,0 +1,23 @@
+<character value="忠">
+	<introduce>
+		<pinyin value="zhong1" writing="zhōng" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="竖折横竖捺折捺捺" />
+	</introduce>
+	<pron value="zhōng">
+		<sense tag="动" vernacular="尽心竭力做好分内的事">
+			<exam article="《论语·学而》" ref="为人谋而不忠乎？" />
+		</sense>
+		<sense tag="形" vernacular="忠贞；忠实">
+			<exam article="《出师表》" ref="此四君者，皆良实，志虑忠纯。" />
+		</sense>
+		<sense tag="名" vernacular="忠诚的人">
+			<exam article="《涉江》" ref="忠不必用兮，贤不必以。" />
+		</sense>
+	</pron>
+	<phrase value="忠义">
+		<sense value="忠贞节义" />
+	</phrase>
+</character>

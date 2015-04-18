@@ -1,0 +1,34 @@
+<character value="抚">
+	<introduce>
+		<pinyin value="fu3" writing="fŭ" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横横横撇折" />
+	</introduce>
+	<pron value="fǔ">
+		<sense tag="动" vernacular="抚摸">
+			<exam article="《归去来兮辞》" ref="景翳翳以将入，抚孤松而盘桓。" />
+		</sense>
+		<sense tag="动" vernacular="拍；轻击">
+			<exam article="《口技》" ref="妇抚儿乳。" />
+		</sense>
+		<sense tag="动" vernacular="拨弄；弹奏">
+			<exam article="《送李十一尉临溪》" ref="回轸抚商调，越溪澄碧林。" />
+		</sense>
+		<sense tag="动" vernacular="按；握">
+			<exam article="《左传·襄公二十三年》" ref="右抚剑，左援带。" />
+		</sense>
+		<sense tag="动" vernacular="抚慰；安抚">
+			<exam article="《齐桓晋文之事》" ref="莅中国而抚四夷。" />
+			<exam article="《赤壁之战》" ref="及说备使抚表众。" />
+		</sense>
+		<sense tag="动" vernacular="抚养；对待">
+			<exam article="《项脊轩志》" ref="先妣抚之甚厚。" />
+			<exam article="《与妻书》" ref="汝其善抚之，使之肖我。" />
+		</sense>
+		<sense tag="动" vernacular="做……的巡抚">
+			<exam article="《五人墓碑记》" ref="是时以大中丞抚吴者，为魏之私人。" />
+		</sense>
+	</pron>
+</character>

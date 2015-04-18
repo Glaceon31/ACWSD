@@ -1,0 +1,17 @@
+<character value="懊">
+	<introduce>
+		<pinyin value="ao4" writing="ào" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="捺捺竖撇竖折捺撇横竖撇捺横撇捺" />
+	</introduce>
+	<pron value="ào">
+		<sense tag="形" vernacular="烦恼;悔恨">
+			<exam article="《竹枝词九首》" ref="懊恼人心不如石。" />
+		</sense>
+	</pron>
+	<pron value="yù">
+		<sense tag="形" vernacular="内心悲伤" />
+	</pron>
+</character>

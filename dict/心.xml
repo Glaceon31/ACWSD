@@ -1,0 +1,29 @@
+<character value="心">
+	<introduce>
+		<pinyin value="xin1" writing="xīn" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="捺折捺捺" />
+	</introduce>
+	<pron value="xīn">
+		<sense tag="名" vernacular="心脏">
+			<exam article="《狱中杂记》" ref="顺我，即先刺心。" />
+		</sense>
+		<sense tag="名" vernacular="心脏所在的胸部">
+			<exam article="《荆轲刺秦王》" ref="此臣日夜切齿拊心也。" />
+		</sense>
+		<sense tag="名" vernacular="内心，古人认为心是思维的器官">
+			<exam article="《熟读精思》" ref="读书三到，谓心到，眼到，口到。" />
+		</sense>
+		<sense tag="名" vernacular="想法；心意">
+			<exam article="《殽之战》" ref="勤而无所，必有悖心。" />
+		</sense>
+		<sense tag="名" vernacular="中心；中央">
+			<exam article="《琵琶行》" ref="唯见江心秋月白。" />
+		</sense>
+	</pron>
+	<phrase value="心志">
+		<sense value="内心；意志" />
+	</phrase>
+</character>

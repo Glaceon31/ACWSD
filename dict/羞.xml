@@ -1,0 +1,32 @@
+<character value="羞">
+	<introduce>
+		<pinyin value="xiu1" writing="xiū" />
+		<bushou value="八" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺撇横横横撇折竖横横" />
+	</introduce>
+	<pron value="xiū">
+		<sense tag="名" vernacular="美味的食品">
+			<exam article="《行路难》" ref="金樽美酒斗十千，玉盘珍羞直万钱。" />
+		</sense>
+		<sense tag="动" vernacular="进献">
+			<exam article="《左传·隐公三年》" ref="可荐于鬼神，可羞于王公。" />
+		</sense>
+		<sense tag="形" vernacular="羞耻">
+			<exam article="《毛遂自荐》" ref="此百世之怨，而赵所羞。" />
+		</sense>
+		<sense tag="形意动" vernacular="以……为羞耻">
+			<exam article="《廉颇蔺相如列传》" ref="且庸人尚羞之，况于将相乎。" />
+		</sense>
+		<sense tag="形" vernacular="害羞；不好意思">
+			<exam article="《越女词》" ref="笑入荷花去，佯羞不出来。" />
+		</sense>
+	</pron>
+	<phrase value="羞花">
+		<sense value="形容女子貌美，使花自惭形秽" />
+	</phrase>
+	<phrase value="羞囊">
+		<sense value="空钱袋，指身无钱财，贫穷" />
+	</phrase>
+</character>

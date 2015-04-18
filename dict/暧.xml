@@ -1,0 +1,24 @@
+<character value="暧">
+	<introduce>
+		<pinyin value="ai4" writing="ài" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="竖折横横撇捺捺撇捺折横撇折捺" />
+	</introduce>
+	<pron value="ài">
+		<sense tag="形" vernacular="昏暗">
+			<exam article="《王抚军庾西阳集别》" ref="颓阳照通津,夕阴暧平陆。" />
+		</sense>
+		<sense tag="形" vernacular="隐蔽">
+			<exam article="《时运》" ref="山涤绦霭,宇暧微霄。" />
+		</sense>
+		<sense tag="形" vernacular="滋润;温和">
+			<exam article="《元日》" ref="高轩暧春己,邃阁媚朝光。" />
+		</sense>
+	</pron>
+	<phrase value="暧暧">
+		<sense value="1" />
+		<sense value="昏暗不明" />
+	</phrase>
+</character>

@@ -1,0 +1,26 @@
+<character value="挂">
+	<introduce>
+		<pinyin value="gua4" writing="guà" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横横竖横横竖横" />
+	</introduce>
+	<pron value="guà">
+		<sense tag="动" vernacular="悬挂；垂挂">
+			<exam article="《孔雀东南飞》" ref="徘徊庭树下，自挂东南枝。" />
+		</sense>
+		<sense tag="动" vernacular="钩取">
+			<exam article="《庄子·渔父》" ref="好经大事，变更易常，以挂功名，谓之叨。" />
+		</sense>
+		<sense tag="动" vernacular="牵挂；挂念">
+			<exam article="《失街亭》" ref="汝不必挂心。" />
+		</sense>
+	</pron>
+	<phrase value="挂齿">
+		<sense value="谈及；提到" />
+	</phrase>
+	<phrase value="挂席">
+		<sense value="行舟扬帆" />
+	</phrase>
+</character>

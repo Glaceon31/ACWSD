@@ -1,0 +1,29 @@
+<character value="甘">
+	<introduce>
+		<pinyin value="gan1" writing="gān" />
+		<bushou value="甘" />
+		<bushoustroke value="5" />
+		<stroke value="5" />
+		<order value="横竖竖横横" />
+	</introduce>
+	<pron value="gān">
+		<sense tag="形" vernacular="味美；甜">
+			<exam article="《捕蛇者说》" ref="退而甘食其土之有。" />
+		</sense>
+		<sense tag="名" vernacular="香甜美味的食物">
+			<exam article="《齐桓晋文之事》" ref="为肥甘不足于口与？" />
+		</sense>
+		<sense tag="形" vernacular="动听">
+			<exam article="《报刘一丈书》" ref="则甘言媚词，作妇人状，袖金以私之。" />
+		</sense>
+		<sense tag="副" vernacular="情愿；乐意">
+			<exam article="《病梅馆记》" ref="予本非文人画士，甘受诟厉，辟病梅之馆以贮之。" />
+		</sense>
+	</pron>
+	<phrase value="甘霖">
+		<sense value="指久旱以后下的透雨" />
+	</phrase>
+	<phrase value="甘言">
+		<sense value="诌媚奉承的话" />
+	</phrase>
+</character>

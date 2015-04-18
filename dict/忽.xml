@@ -1,0 +1,27 @@
+<character value="忽">
+	<introduce>
+		<pinyin value="hu1" writing="hū" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="撇折撇撇捺折捺捺" />
+	</introduce>
+	<pron value="hū">
+		<sense tag="形" vernacular="不经心；不重视">
+			<exam article="《促织》" ref="故天子一跬步皆关民命，不可忽也。" />
+		</sense>
+		<sense tag="形" vernacular="快捷；迅速">
+			<exam article="《涉江》" ref="怀信侘傺，忽乎吾将行兮。" />
+		</sense>
+		<sense tag="副" vernacular="忽然；突然">
+			<exam article="《桃花源记》" ref="忽逢桃花林，夹岸数百步。" />
+			<exam article="《琵琶行》" ref="忽闻水上琵琶声。" />
+		</sense>
+		<sense tag="形" vernacular="广远；渺茫无边">
+			<exam article="《国殇》" ref="出不入兮往不反，平原忽兮路超远。" />
+		</sense>
+		<sense tag="量" vernacular="长度单位">
+			<exam article="《伶官传序》" ref="夫祸患常积于忽微，而智勇多困于所溺。" />
+		</sense>
+	</pron>
+</character>

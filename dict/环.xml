@@ -1,0 +1,29 @@
+<character value="环">
+	<introduce>
+		<pinyin value="huan2" writing="huán" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横横竖横横撇竖捺" />
+	</introduce>
+	<pron value="huán">
+		<sense tag="名" vernacular="圆而薄平、中间有孔的玉器">
+			<exam article="《小石潭记》" ref="隔徨竹，闻水声，如鸣佩环。" />
+			<exam article="《送东阳马生序》" ref="腰白玉之环。" />
+		</sense>
+		<sense tag="名" vernacular="圈形的物品">
+			<exam article="《美女篇》" ref="皓腕约金环。" />
+		</sense>
+		<sense tag="形" vernacular="周遍；全">
+			<exam article="《伤仲永》" ref="日扳仲永环谒于吧人。" />
+			<exam article="《&lt;黄花冈七十二烈士事略&gt;序》" ref="环顾国内，贼氛方炽。" />
+		</sense>
+	</pron>
+	<phrase value="环堵">
+		<sense value="四周土墙" />
+		<sense value="形容居室的简陋" />
+	</phrase>
+	<phrase value="环佩">
+		<sense value="古人系在身上的装饰玉器，后代多指女人佩带的玉器饰物，也作“环珮”" />
+	</phrase>
+</character>

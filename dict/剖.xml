@@ -1,0 +1,26 @@
+<character value="剖">
+	<introduce>
+		<pinyin value="pou1" writing="pōu" />
+		<pinyin value="pou3" writing="pŏu" />
+		<pinyin value="po3" writing="pŏ" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺横捺撇横竖折横竖竖" />
+	</introduce>
+	<pron value="pōu">
+		<sense tag="动" vernacular="破开；分开">
+			<exam article="《卖柑者言》" ref="予贸得其一，剖之，如有烟扑口鼻。" />
+		</sense>
+		<sense tag="动" vernacular="辨明；分析">
+			<exam article="《葫芦僧判断葫芦案》" ref="只目今这官司如何剖断才好?" />
+		</sense>
+	</pron>
+	<phrase value="剖符">
+		<sense value="古时帝王授与诸侯和功臣的凭证，用金、玉、铜或竹木制成，剖分为二，双方各执其半，作为信守的约证" />
+	</phrase>
+	<phrase value="剖腹藏珠">
+		<sense value="剖开肚子藏珍珠" />
+		<sense value="比喻为物伤身，轻重倒置" />
+	</phrase>
+</character>

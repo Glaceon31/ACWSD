@@ -1,0 +1,21 @@
+<character value="昌">
+	<introduce>
+		<pinyin value="chang1" writing="chāng" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="竖折横横竖折横横" />
+	</introduce>
+	<pron value="chāng">
+		<sense tag="形" vernacular="兴盛；强盛">
+			<exam article="《谭嗣同》" ref="今日中国未闻有因变法而流血者，此国之所以不昌也。" />
+		</sense>
+		<sense tag="形" vernacular="健壮；美好">
+			<exam article="《诗经·猗嗟》" ref="猗嗟昌兮，颀而长兮。" />
+		</sense>
+	</pron>
+	<phrase value="昌言">
+		<sense value="1" />
+		<sense value="善言，正当的言论" />
+	</phrase>
+</character>

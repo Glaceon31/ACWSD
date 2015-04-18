@@ -1,0 +1,17 @@
+<character value="蔬">
+	<introduce>
+		<pinyin value="shu1" writing="shū" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="横竖竖折竖横竖横捺横折捺撇竖折" />
+	</introduce>
+	<pron value="shū">
+		<sense tag="名" vernacular="蔬菜">
+			<exam article="《老怀》" ref="荒园寂寂堆霜叶，抱瓮何妨日灌蔬。" />
+		</sense>
+		<sense tag="动" vernacular="种植蔬菜">
+			<exam article="《复庵记》" ref="太华之山，悬崖之颠，有松可荫，有地可蔬。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,15 @@
+<character value="惋">
+	<introduce>
+		<pinyin value="wan3" writing="wăn" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺竖捺捺折撇折捺折折" />
+	</introduce>
+	<pron value="wǎn">
+		<sense tag="动" vernacular="怅恨；叹惜">
+			<exam article="《战国策·秦策二》" ref="受欺于张仪，王必惋之。" />
+			<exam article="《桃花源记》" ref="渔人一一为具言所闻，皆叹惋。" />
+		</sense>
+	</pron>
+</character>

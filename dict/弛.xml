@@ -1,0 +1,32 @@
+<character value="弛">
+	<introduce>
+		<pinyin value="chi2" writing="chí" />
+		<bushou value="弓" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折横折折竖折" />
+	</introduce>
+	<pron value="chí">
+		<sense tag="动" vernacular="放松弓弦">
+			<exam article="《左传·襄公十八年》" ref="乃弛弓而自后缚之。" />
+		</sense>
+		<sense tag="动" vernacular="放松；松弛">
+			<exam article="《捕蛇者说》" ref="视其缶，而吾蛇尚存，则弛然而卧。" />
+		</sense>
+		<sense tag="动" vernacular="放下；除掉">
+			<exam article="《狼》" ref="屠乃奔倚其下，弛担持刀。" />
+		</sense>
+	</pron>
+	<phrase value="弛禁">
+		<sense value="解除禁令" />
+	</phrase>
+	<phrase value="弛刑">
+		<sense value="卸掉枷锁的刑徒" />
+	</phrase>
+	<phrase value="弛张">
+		<sense value="比喻兴废、宽严、劳逸等" />
+	</phrase>
+	<phrase value="弛纵">
+		<sense value="放纵" />
+	</phrase>
+</character>

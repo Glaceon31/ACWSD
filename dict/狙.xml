@@ -1,0 +1,17 @@
+<character value="狙">
+	<introduce>
+		<pinyin value="ju1" writing="jū" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇折撇竖折横横横" />
+	</introduce>
+	<pron value="jū">
+		<sense tag="名" vernacular="猕猴">
+			<exam article="《庄子·齐物论》" ref="众狙皆怒。" />
+		</sense>
+		<sense tag="动" vernacular="窥伺，暗中观察动静">
+			<exam article="《管子·七臣七主》" ref="从狙而好小察。" />
+		</sense>
+	</pron>
+</character>

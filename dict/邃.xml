@@ -1,0 +1,17 @@
+<character value="邃">
+	<introduce>
+		<pinyin value="sui4" writing="suì" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="17" />
+		<order value="捺捺折撇捺捺撇横撇折撇撇撇捺捺折捺" />
+	</introduce>
+	<pron value="suì">
+		<sense tag="形" vernacular="深；远">
+			<exam article="《小石潭记》" ref="凄神寒骨，悄怆幽邃。" />
+		</sense>
+	</pron>
+	<phrase value="邃古">
+		<sense value="远古；上古" />
+	</phrase>
+</character>

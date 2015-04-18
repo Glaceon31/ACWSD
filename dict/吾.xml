@@ -1,0 +1,28 @@
+<character value="吾">
+	<introduce>
+		<pinyin value="wu2" writing="wú" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖折横竖折横" />
+	</introduce>
+	<pron value="wú">
+		<sense tag="代" vernacular="我；我们">
+			<exam article="《廉颇蔺相如列传》" ref="顾吾念之，强秦之所以不敢加兵于赵者。" />
+		</sense>
+		<sense tag="代" vernacular="我的；我们的">
+			<exam article="《殽之战》" ref="秦不哀吾丧而伐吾同姓，秦则无礼，何施之为。" />
+		</sense>
+	</pron>
+	<phrase value="吾侪">
+		<sense value="同“吾曹”" />
+		<sense value="我辈；我们这些人" />
+	</phrase>
+	<phrase value="吾属">
+		<sense value="我辈；我等" />
+	</phrase>
+	<phrase value="吾子">
+		<sense value="指自己的儿子" />
+		<sense value="对平辈人的一种亲切的称呼，可译为“您”" />
+	</phrase>
+</character>

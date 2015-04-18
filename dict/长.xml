@@ -1,0 +1,90 @@
+<character value="长">
+	<introduce>
+		<pinyin value="zhang3" writing="zhăng" />
+		<pinyin value="chang2" writing="cháng" />
+		<bushou value="长" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="撇横折捺" />
+	</introduce>
+	<pron value="cháng">
+		<sense tag="形" vernacular="长，与“短”相对">
+			<exam article="《劝学》" ref="登高而招，臂非加长也，而见者远。" />
+			<exam article="《谏太宗十思疏》" ref="斯亦伐根以求木茂，塞源而欲流长也。" />
+		</sense>
+		<sense tag="形" vernacular="高；高大">
+			<exam article="《公输》" ref="荆有长松文梓楩楠豫章，宋无长木。" />
+		</sense>
+		<sense tag="形" vernacular="长久；久远">
+			<exam article="《庄子·秋水》" ref="吾长见笑于大方之家。" />
+			<exam article="《石壕吏》" ref="存者且偷生，死者长已矣。" />
+		</sense>
+		<sense tag="形" vernacular="广；广阔">
+			<exam article="《柳毅传》" ref="长天茫茫，信耗莫通。" />
+			<exam article="《岳阳楼记》" ref="而或长烟一空，皓月千里。" />
+		</sense>
+		<sense tag="动" vernacular="擅长">
+			<exam article="《冯婉贞》" ref="莫如以吾所长攻敌所短。" />
+		</sense>
+		<sense tag="副" vernacular="经常">
+			<exam article="《书湖阴先生壁》" ref="茅檐长扫净无苔，花木成畦手自栽。" />
+		</sense>
+	</pron>
+	<pron value="zhǎng">
+		<sense tag="动" vernacular="生长">
+			<exam article="《采草药》" ref="用叶者取叶初长足时。" />
+		</sense>
+		<sense tag="动使动" vernacular="使……生长；扶养；抚育">
+			<exam article="《论贵粟疏》" ref="养孤长幼在其中。" />
+		</sense>
+		<sense tag="动" vernacular="增长；滋长">
+			<exam article="《赤壁赋》" ref="盈虚者如彼，而卒莫消长也。" />
+			<exam article="《论积贮疏》" ref="淫侈之俗日日以长，是天下之大贼也。" />
+		</sense>
+		<sense tag="形" vernacular="年纪大；辈分高">
+			<exam article="《师说》" ref="是故无贵无贱，无长无少，道之所存，师之所存也。" />
+		</sense>
+		<sense tag="形" vernacular="排行第一">
+			<exam article="《屈原列传》" ref="长子顷襄王立，以其北子兰为令尹。" />
+		</sense>
+		<sense tag="名" vernacular="兄；哥哥">
+			<exam article="《木兰诗》" ref="阿爷无大儿，木兰无长兄。" />
+		</sense>
+		<sense tag="名" vernacular="首领；头领">
+			<exam article="《陈涉世家》" ref="陈涉、吴广皆次当行，为屯长。" />
+		</sense>
+	</pron>
+	<phrase value="长才">
+		<sense value="高才，英才" />
+	</phrase>
+	<phrase value="长跪">
+		<sense value="直身而跪" />
+		<sense value="古人席地而坐，坐时两膝据地以臀部著足跟" />
+		<sense value="跪则伸直腰股，以示庄重" />
+	</phrase>
+	<phrase value="长世">
+		<sense value="绵续久存" />
+	</phrase>
+	<phrase value="长亭">
+		<sense value="秦汉时十里修亭，谓之长亭，供往来的人休憩" />
+		<sense value="也是送别的地方" />
+	</phrase>
+	<phrase value="长君">
+		<sense value="1" />
+		<sense value="古称年长之君主" />
+		<sense value="2" />
+		<sense value="称别人长兄" />
+	</phrase>
+	<phrase value="长吏">
+		<sense value="1" />
+		<sense value="吏秩之尊者" />
+		<sense value="2" />
+		<sense value="泛指上级官长" />
+	</phrase>
+	<phrase value="长者">
+		<sense value="1" />
+		<sense value="年纪大，辈分高的人" />
+		<sense value="2" />
+		<sense value="性行谨厚、有德望的人" />
+	</phrase>
+</character>

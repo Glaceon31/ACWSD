@@ -1,0 +1,14 @@
+<character value="嗜">
+	<introduce>
+		<pinyin value="shi4" writing="shì" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="竖折横横竖横撇撇折竖折横横" />
+	</introduce>
+	<pron value="shì">
+		<sense tag="动" vernacular="嗜好；爱好">
+			<exam article="《五柳先生传》" ref="性嗜酒，家贫不能常得。" />
+		</sense>
+	</pron>
+</character>

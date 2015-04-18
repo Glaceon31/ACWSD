@@ -1,0 +1,27 @@
+<character value="椷">
+	<introduce>
+		<pinyin value="jian1" writing="jiān" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="横竖撇捺横撇横竖折横折撇捺" />
+	</introduce>
+	<pron value="xián">
+		<sense tag="名" vernacular="杯子">
+			<exam article="《广韵·咸韵》" ref="椷，杯也。" />
+		</sense>
+		<sense tag="名" vernacular="小箱子">
+			<exam article="《说文解字·木部》" ref="椷，箧也。" />
+		</sense>
+	</pron>
+	<pron value="hán">
+		<sense vernacular="通“含”，容纳">
+			<exam article="《汉书·天文志》" ref="辰星过太白，间可椷剑。" />
+		</sense>
+	</pron>
+	<pron value="jiān">
+		<sense vernacular="通“缄”">
+			<exam article="《和郭熙仲》" ref="麻姑相许寄银椷。" />
+		</sense>
+	</pron>
+</character>

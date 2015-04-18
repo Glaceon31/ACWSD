@@ -1,0 +1,15 @@
+<character value="龁">
+	<introduce>
+		<pinyin value="he2" writing="hé" />
+		<bushou value="齿" />
+		<bushoustroke value="8" />
+		<stroke value="11" />
+		<order value="竖横竖横撇捺折竖撇横折" />
+	</introduce>
+	<pron value="hé">
+		<sense tag="动" vernacular="咬">
+			<exam article="《柳毅传》" ref="顾视之，则皆矫顾怒步，饮龁甚异。" />
+			<exam article="《促织》" ref="俄见小虫跃起，张尾伸须，直龁敌颈。" />
+		</sense>
+	</pron>
+</character>

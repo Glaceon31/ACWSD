@@ -1,0 +1,18 @@
+<character value="縠">
+	<introduce>
+		<pinyin value="hu2" writing="hú" />
+		<bushou value="糹" />
+		<bushoustroke value="6" />
+		<stroke value="16" />
+		<order value="横竖横捺折横折折捺竖撇捺撇折折捺" />
+	</introduce>
+	<pron value="hú">
+		<sense tag="名" vernacular="绉纱一类的丝织品">
+			<exam article="《西门豹治邺》" ref="洗沐之,为治新缯绮縠衣。" />
+			<exam article="《柳毅传》" ref="明珰满身，绡縠参差。" />
+		</sense>
+	</pron>
+	<phrase value="縠纹">
+		<sense value="绉纹，比喻水的波纹" />
+	</phrase>
+</character>

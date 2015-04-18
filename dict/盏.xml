@@ -1,0 +1,12 @@
+<character value="盏">
+	<introduce>
+		<pinyin value="zhan3" writing="zhăn" />
+		<bushou value="皿" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="横横折撇捺竖折竖竖横" />
+	</introduce>
+	<pron value="zhǎn">
+		<sense tag="名" vernacular="浅而小的杯子" />
+	</pron>
+</character>

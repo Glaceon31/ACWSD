@@ -1,0 +1,15 @@
+<character value="匠">
+	<introduce>
+		<pinyin value="jiang4" writing="jiàng" />
+		<bushou value="匚" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="横撇撇横竖折" />
+	</introduce>
+	<pron value="jiàng">
+		<sense tag="名" vernacular="木工">
+			<exam article="《庄子·马蹄》" ref="陶匠善治埴木。" />
+			<exam article="《韩非子·定法》" ref="夫匠者手巧也，而医者齐药。" />
+		</sense>
+	</pron>
+</character>

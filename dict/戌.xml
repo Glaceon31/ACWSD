@@ -1,0 +1,18 @@
+<character value="戌">
+	<introduce>
+		<pinyin value="xu1" writing="xū" />
+		<pinyin value="qu5" writing="qu" />
+		<bushou value="戈" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="横撇横折撇捺" />
+	</introduce>
+	<pron value="xū">
+		<sense tag="名" vernacular="十二地支的第十一位">
+			<exam article="《前赤壁赋》" ref="壬戌之秋，七月既望。" />
+		</sense>
+		<sense tag="名" vernacular="十二时辰之一，相当于晚上七时至九时">
+			<exam article="《失待亭》" ref="魏兵自辰时困至戌时。" />
+		</sense>
+	</pron>
+</character>

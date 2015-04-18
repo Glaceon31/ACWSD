@@ -1,0 +1,31 @@
+<character value="目">
+	<introduce>
+		<pinyin value="mu4" writing="mù" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="5" />
+		<order value="竖折横横横" />
+	</introduce>
+	<pron value="mù">
+		<sense tag="名" vernacular="眼睛">
+			<exam article="《廉颇蔺相如列传》" ref="左右欲刃相如，相如张目叱之。" />
+		</sense>
+		<sense tag="动" vernacular="年；看待">
+			<exam article="《陈涉世家》" ref="旦日，卒中往往语，皆指目陈胜。" />
+		</sense>
+		<sense tag="动" vernacular="递眼色；使眼神">
+			<exam article="《鸿门宴》" ref="范增数目项王，举所佩玉玦以示之者三。" />
+		</sense>
+		<sense tag="名" vernacular="网孔">
+			<exam article="《韩非子·外储右下》" ref="善张网者，引其纲，不一一摄成目而后得。" />
+		</sense>
+		<sense tag="名" vernacular="行列；条目">
+			<exam article="《&lt;指南录&gt;后序》" ref="北驱予并往，而不在使者之目。" />
+		</sense>
+	</pron>
+	<phrase value="目论">
+		<sense value="像眼睛看不见睫毛一样的议论" />
+		<sense value="比喻不见自己的过失，无自知之明" />
+		<sense value="肤浅之论" />
+	</phrase>
+</character>

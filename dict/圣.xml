@@ -1,0 +1,21 @@
+<character value="圣">
+	<introduce>
+		<pinyin value="sheng4" writing="shèng" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="折捺横竖横" />
+	</introduce>
+	<pron value="shèng">
+		<sense tag="形" vernacular="通达事理，才智非凡">
+			<exam article="《韩非子·说林上》" ref="以管仲之圣而隰朋之智，至其所不知，不难师于老马与蚁。" />
+		</sense>
+		<sense tag="名" vernacular="具有最高智慧和道德的人">
+			<exam article="《师说》" ref="是故圣益圣，愚益愚。" />
+		</sense>
+		<sense tag="名" vernacular="在某方面最杰出的人；精通某种技艺或业务的人" />
+		<sense tag="名" vernacular="封建时代对当时的王朝或帝王的尊称">
+			<exam article="《出师表》" ref="诚宜开张圣听。" />
+		</sense>
+	</pron>
+</character>

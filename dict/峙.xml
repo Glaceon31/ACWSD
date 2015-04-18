@@ -1,0 +1,18 @@
+<character value="峙">
+	<introduce>
+		<pinyin value="zhi4" writing="zhì" />
+		<pinyin value="shi4" writing="shì" />
+		<bushou value="山" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="竖折竖横竖横横竖捺" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="动" vernacular="屹立，耸立">
+			<exam article="《齐故安陆昭王碑》" ref="乔岳峻峙。" />
+		</sense>
+		<sense tag="动" vernacular="备；储备">
+			<exam article="《诗经·大雅·崧高》" ref="以峙其粻。" />
+		</sense>
+	</pron>
+</character>

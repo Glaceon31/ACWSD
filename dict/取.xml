@@ -1,0 +1,48 @@
+<character value="取">
+	<introduce>
+		<pinyin value="qu3" writing="qŭ" />
+		<bushou value="又" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="横竖竖横横横折捺" />
+	</introduce>
+	<pron value="qǔ">
+		<sense tag="动" vernacular="割取">
+			<exam article="《周礼·大司马》" ref="获者取左耳。" />
+		</sense>
+		<sense tag="动" vernacular="俘获；捕获">
+			<exam article="《李愬雪夜入蔡州》" ref="入蔡州取吴元济。" />
+		</sense>
+		<sense tag="动" vernacular="攻占;夺取">
+			<exam article="《公输》" ref="公输盘为我为云梯，必取宋。" />
+		</sense>
+		<sense tag="动" vernacular="拿取；拿">
+			<exam article="《赤壁赋》" ref="苟非吾之所有，虽一毫而莫取。" />
+		</sense>
+		<sense tag="动" vernacular="取得；获得">
+			<exam article="《谏太宗十思疏》" ref="岂取之易守难乎？" />
+		</sense>
+		<sense tag="动" vernacular="提取；取出">
+			<exam article="《劝学》" ref="青取之于蓝，而青于蓝。" />
+		</sense>
+		<sense tag="动" vernacular="通“取”，娶妻">
+			<exam article="《孔雀东南飞》" ref="今若遣此妇，终老不复取。" />
+		</sense>
+		<sense tag="名" vernacular="可取之处">
+			<exam article="《答韦立师道书》" ref="仆自卜固无取。" />
+		</sense>
+		<sense tag="动" vernacular="择取；选用">
+			<exam article="《鱼我所欲也》" ref="二者不可得兼，舍生而取义者也。" />
+		</sense>
+		<sense tag="助" vernacular="用于动词后，无实义">
+			<exam article="《西江月》" ref="稻花香里说丰年，听取蛙声一片。" />
+		</sense>
+	</pron>
+	<phrase value="取次">
+		<sense value="随便；任意" />
+		<sense value="草草；仓促" />
+	</phrase>
+	<phrase value="取室">
+		<sense value="娶妻" />
+	</phrase>
+</character>

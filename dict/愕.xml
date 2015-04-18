@@ -1,0 +1,15 @@
+<character value="愕">
+	<introduce>
+		<pinyin value="e4" writing="è" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺竖竖折横竖折横横横折" />
+	</introduce>
+	<pron value="è">
+		<sense tag="形" vernacular="惊讶；惊奇">
+			<exam article="《荆轲刺秦王》" ref="群臣皆愕卒起不意，尽失其度。" />
+			<exam article="《促织》" ref="方共瞻玩，一鸡瞥来，径进以啄。成骇立愕呼" />
+		</sense>
+	</pron>
+</character>

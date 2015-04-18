@@ -1,0 +1,24 @@
+<character value="凉">
+	<introduce>
+		<pinyin value="liang2" writing="liáng" />
+		<pinyin value="liang4" writing="liàng" />
+		<bushou value="冫" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺横捺横竖折横竖撇捺" />
+	</introduce>
+	<pron value="liáng">
+		<sense tag="形" vernacular="稍冷；微寒">
+			<exam article="《答苏武书》" ref="凉秋九月，塞外草衰。" />
+		</sense>
+		<sense tag="形" vernacular="凉爽；凉快">
+			<exam article="《芙蕖》" ref="纳凉而凉逐之生。" />
+		</sense>
+		<sense tag="形" vernacular="薄；少">
+			<exam article="《左传·庄公三十二年》" ref="虢多凉德，其何土之能得？。" />
+		</sense>
+	</pron>
+	<phrase value="凉德">
+		<sense value="薄德" />
+	</phrase>
+</character>

@@ -1,0 +1,17 @@
+<character value="酝">
+	<introduce>
+		<pinyin value="yun4" writing="yùn" />
+		<bushou value="酉" />
+		<bushoustroke value="7" />
+		<stroke value="11" />
+		<order value="横竖折撇折横横横横折捺" />
+	</introduce>
+	<pron value="yùn">
+		<sense tag="动" vernacular="酝酿">
+			<exam article="《酒赋》" ref="或秋藏冬发，或春酝夏成。" />
+		</sense>
+		<sense tag="名" vernacular="酒">
+			<exam article="《永叔赠酒》" ref="天门多奇酝，一斗市钱千。" />
+		</sense>
+	</pron>
+</character>

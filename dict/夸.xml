@@ -1,0 +1,25 @@
+<character value="夸">
+	<introduce>
+		<pinyin value="kua1" writing="kuā" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="横撇捺横横折" />
+	</introduce>
+	<pron value="kuā">
+		<sense tag="形" vernacular="奢侈；过度">
+			<exam article="《荀子·仲尼》" ref="贵而不为夸。" />
+		</sense>
+		<sense tag="动" vernacular="夸口；夸耀">
+			<exam article="《南史·袁淑传》" ref="淑喜夸，每为时人所嘲。" />
+		</sense>
+		<sense tag="形" vernacular="通“姱”，美好">
+			<exam article="《舞赋》" ref="夸容乃理。" />
+		</sense>
+	</pron>
+	<pron value="kuà">
+		<sense tag="动" vernacular="通“跨”，兼有">
+			<exam article="《汉书·诸侯王表》" ref="而藩国大者，夸州兼郡，连城数十。" />
+		</sense>
+	</pron>
+</character>

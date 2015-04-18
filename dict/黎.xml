@@ -1,0 +1,28 @@
+<character value="黎">
+	<introduce>
+		<pinyin value="li2" writing="lí" />
+		<bushou value="黍" />
+		<bushoustroke value="12" />
+		<stroke value="15" />
+		<order value="撇横竖撇捺撇折撇撇捺竖捺横撇捺" />
+	</introduce>
+	<pron value="lí">
+		<sense tag="形" vernacular="黑色，也指黑中带黄的颜色">
+			<exam article="《史记·李斯列传》" ref="手足胼胝，面目黎。" />
+		</sense>
+		<sense tag="名" vernacular="我国民族名一指远古时期我国北部的一个民族，也称“九黎”；一指宋朝以来居住在海南岛一带的一个民族" />
+	</pron>
+	<phrase value="黎老">
+		<sense value="老人" />
+	</phrase>
+	<phrase value="黎民">
+		<sense value="指民众；百姓" />
+	</phrase>
+	<phrase value="黎庶">
+		<sense value="民众" />
+	</phrase>
+	<phrase value="黎献">
+		<sense value="众多贤能的人" />
+		<sense value="庶民中的贤者" />
+	</phrase>
+</character>

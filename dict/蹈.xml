@@ -1,0 +1,30 @@
+<character value="蹈">
+	<introduce>
+		<pinyin value="dao3" writing="dăo" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="17" />
+		<order value="竖折横竖横竖横撇捺捺撇撇竖横折横横" />
+	</introduce>
+	<pron value="dǎo">
+		<sense tag="动" vernacular="踩;踏；赴">
+			<exam article="《五人墓碑记》" ref="激昂大义，蹈死不顾。" />
+			<exam article="《赤壁之战》" ref="赢兵为人马所蹈籍，陷泥中，死者甚众。" />
+		</sense>
+		<sense tag="动" vernacular="踏地；顿足">
+			<exam article="《礼记·乐记》" ref="嗟叹之不足，故不知手之舞之，足之蹈之也。" />
+		</sense>
+		<sense vernacular="&lt;动〉实践；实行；遵循">
+			<exam article="《荀子·五制》" ref="聚敛者，召冠肥敌，危身之道也，故明君不蹈也。" />
+		</sense>
+	</pron>
+	<phrase value="蹈海">
+		<sense value="赴海；跳到海里" />
+	</phrase>
+	<phrase value="蹈节">
+		<sense value="信守节操" />
+	</phrase>
+	<phrase value="蹈袭">
+		<sense value="沿袭" />
+	</phrase>
+</character>

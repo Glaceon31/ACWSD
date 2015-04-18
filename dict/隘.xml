@@ -1,0 +1,32 @@
+<character value="隘">
+	<introduce>
+		<pinyin value="ai4" writing="ài" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="12" />
+		<order value="折竖捺撇横撇捺竖折竖竖横" />
+	</introduce>
+	<pron value="ài">
+		<sense tag="形" vernacular="狭窄;也指人气量小">
+			<exam article="《后十九日复上宰相书》" ref="情隘辞蹙,不知所裁。。" />
+		</sense>
+		<sense tag="名" vernacular="险要的地方">
+			<exam article="《东京赋》" ref="不恃、隘害。" />
+		</sense>
+	</pron>
+	<pron value="è">
+		<sense tag="动" vernacular="阻挡;阻止">
+			<exam article="《战国策》" ref="太子辞于齐王而归,齐王隘之。" />
+			<exam article="《战国策》" ref="而寡人不与闻焉,是以隘之。" />
+		</sense>
+		<sense tag="形" vernacular="穷困;窘迫">
+			<exam article="《新序·杂事》" ref="常思困隘之时,必不骄矣。" />
+		</sense>
+		<sense tag="形" vernacular="疲弱;萎顿">
+			<exam article="《左传·襄公二十五年》" ref="隘乃禽也。" />
+		</sense>
+	</pron>
+	<phrase value="隘慑">
+		<sense value="àishè极度悲伤" />
+	</phrase>
+</character>

@@ -1,0 +1,35 @@
+<character value="室">
+	<introduce>
+		<pinyin value="shi4" writing="shì" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺折横折捺横竖横" />
+	</introduce>
+	<pron value="shì">
+		<sense tag="名" vernacular="房屋">
+			<exam article="《陋室铭》" ref="斯是陋室，惟吾德馨。" />
+		</sense>
+		<sense tag="名" vernacular="内室">
+			<exam article="《促织》" ref="入其舍，则密室垂帘。" />
+		</sense>
+		<sense tag="名" vernacular="家；家庭">
+			<exam article="《捕蛇者说》" ref="曩与吾祖居者，今其室十无一焉。" />
+		</sense>
+		<sense tag="名" vernacular="宗族；家族">
+			<exam article="《赤壁之战》" ref="况刘豫州王室之胄。" />
+		</sense>
+		<sense tag="名" vernacular="王室；王朝；朝廷">
+			<exam article="《隆中对》" ref="则霸业可成，汉室可兴矣。" />
+		</sense>
+		<sense tag="名" vernacular="妻室；妻">
+			<exam article="《西征赋》" ref="鳏夫有室，愁民以乐。" />
+		</sense>
+		<sense tag="名" vernacular="坟墓；墓穴">
+			<exam article="《柳子墓志》" ref="是惟子厚之室，既固既安。" />
+		</sense>
+		<sense tag="名" vernacular="刀剑的鞘">
+			<exam article="《荆轲刺秦王》" ref="拔剑，剑长，操其室。" />
+		</sense>
+	</pron>
+</character>

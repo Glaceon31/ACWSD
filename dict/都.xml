@@ -1,0 +1,40 @@
+<character value="都">
+	<introduce>
+		<pinyin value="dou1" writing="dōu" />
+		<pinyin value="du1" writing="dū" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="横竖横撇竖折横横折竖" />
+	</introduce>
+	<pron value="dū">
+		<sense tag="名" vernacular="都市；城市">
+			<exam article="《廉颇蔺相如列传》" ref="今以秦之强而先割十五都予赵。" />
+			<exam article="《扬州慢》" ref="淮左名都，竹西佳处，解鞍少驻初程。" />
+		</sense>
+		<sense tag="名" vernacular="专指京都、首都">
+			<exam article="《出师表》" ref="兴复汉室，地面观察站于旧都。" />
+		</sense>
+		<sense tag="形" vernacular="优美；漂亮">
+			<exam article="《三国志·孙韶传》" ref="身长八尺，仪貌都雅。" />
+		</sense>
+		<sense tag="叹" vernacular="表示赞美">
+			<exam article="《书·皋陶漠》" ref="皋陶曰：‘都！在知人，在安民’。" />
+		</sense>
+		<sense tag="动" vernacular="总；汇总">
+			<exam article="《与吴质书》" ref="项撰其遗文，都为一集。" />
+		</sense>
+	</pron>
+	<pron value="dōu">
+		<sense tag="副" vernacular="表示总括">
+			<exam article="《扬州慢》" ref="渐黄昏清角吹寒，都在空城。" />
+			<exam article="《雁荡山》" ref="自岭外望之，都无所见。" />
+			<exam article="《山坡羊·潼关怀古》" ref="伤心秦汉经行处，宫阙万间都做了土。" />
+		</sense>
+	</pron>
+	<phrase value="都鄙">
+		<sense value="古时称帝王的封地" />
+		<sense value="京城和边远的城镇的对称" />
+		<sense value="美好和丑陋" />
+	</phrase>
+</character>

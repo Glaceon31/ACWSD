@@ -1,0 +1,38 @@
+<character value="阐">
+	<introduce>
+		<pinyin value="chan3" writing="chăn" />
+		<bushou value="门" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺竖折捺撇竖折横横横竖" />
+	</introduce>
+	<pron value="chǎn">
+		<sense tag="动" vernacular="开，开辟">
+			<exam article="《史记·秦始皇本纪》" ref="阐并天下。" />
+		</sense>
+		<sense tag="动" vernacular="阐发，阐明">
+			<exam article="《周易·系辞下》" ref="夫《易》彰往而察来，而微显阐幽。" />
+		</sense>
+		<sense tag="名" vernacular="古邑名">
+			<exam article="《春秋·哀公八年》" ref="齐人取讙及阐。" />
+		</sense>
+	</pron>
+	<phrase value="阐弘">
+		<sense value="阐发弘扬" />
+	</phrase>
+	<phrase value="阐化">
+		<sense value="开创教化" />
+	</phrase>
+	<phrase value="阐缓">
+		<sense value="舒缓" />
+	</phrase>
+	<phrase value="阐济">
+		<sense value="开创并完成" />
+	</phrase>
+	<phrase value="阐拓">
+		<sense value="开拓" />
+	</phrase>
+	<phrase value="阐绎">
+		<sense value="阐明陈述" />
+	</phrase>
+</character>

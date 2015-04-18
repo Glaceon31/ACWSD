@@ -1,0 +1,14 @@
+<character value="煌">
+	<introduce>
+		<pinyin value="huang2" writing="huáng" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="捺撇撇捺撇竖折横横横横竖横" />
+	</introduce>
+	<pron value="huáng">
+		<sense vernacular="煌煌，明亮">
+			<exam article="《诗经·陈风·东门之杨》" ref="明星煌。" />
+		</sense>
+	</pron>
+</character>

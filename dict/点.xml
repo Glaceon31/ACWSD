@@ -1,0 +1,52 @@
+<character value="点">
+	<introduce>
+		<pinyin value="dian3" writing="diăn" />
+		<pinyin value="dian5" writing="dian" />
+		<bushou value="灬" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="竖横竖折横捺捺捺捺" />
+	</introduce>
+	<pron value="diǎn">
+		<sense tag="名" vernacular="斑点">
+			<exam article="《晋书·袁宏传》" ref="如彼白圭，质无尘点。" />
+		</sense>
+		<sense tag="名" vernacular="液体的小滴">
+			<exam article="《西江月》" ref="七八个星天外，两三点雨山前。" />
+			<exam article="《林黛玉进贾府》" ref="泪光点点，娇喘微微。" />
+		</sense>
+		<sense tag="名" vernacular="“、”汉字笔画的一种">
+			<exam article="《题卫夫人笔阵图后》" ref="每作一点，常隐锋而为之。" />
+		</sense>
+		<sense tag="动" vernacular="用笔加上点子">
+			<exam article="《历代名画记》" ref="金陵安乐寺四白龙不点眼睛，每云：‘点晴即飞去。’人以为妄诞，固请点之。" />
+		</sense>
+		<sense tag="动" vernacular="删改文字">
+			<exam article="《三国志·武帝纪》" ref="公又与遂书，多与点窜。" />
+		</sense>
+		<sense tag="动" vernacular="一触即起">
+			<exam article="《明湖居听书》" ref="又将鼓捶子轻轻的点了两下。" />
+		</sense>
+		<sense tag="动" vernacular="检查；核对">
+			<exam article="《林教头风雪山神庙》" ref="老军都点见了堆数。" />
+		</sense>
+		<sense tag="动" vernacular="引着火">
+			<exam article="《群英会蒋干中计》" ref="饮至天晚，点上灯烛。" />
+		</sense>
+		<sense tag="动" vernacular="头或手向下稍微动一下立刻恢复原位">
+			<exam article="《林黛玉进贾府》" ref="王夫人一笑，点头不语。" />
+		</sense>
+		<sense tag="名" vernacular="更点">
+			<exam article="《葫芦僧判断葫芦案》" ref="雨村尚未看完，忽闻传点。" />
+		</sense>
+		<sense tag="动" vernacular="通“玷”">
+			<exam article="《报任安书》" ref="适足以见笑而自点耳。" />
+			<exam article="《五岳祠盟记》" ref="迎二圣归京阙，取故土上版图，朝廷无虞，主上点，余之愿也。" />
+		</sense>
+	</pron>
+	<phrase value="点化">
+		<sense value="指点感化，多指道家以语言诱人入道" />
+		<sense value="点染美化" />
+		<sense value="改造前人的诗句而寓有新意" />
+	</phrase>
+</character>

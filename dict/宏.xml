@@ -1,0 +1,20 @@
+<character value="宏">
+	<introduce>
+		<pinyin value="hong2" writing="hóng" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺折横撇折捺" />
+	</introduce>
+	<pron value="hóng">
+		<sense tag="形" vernacular="巨大">
+			<exam article="《周礼·考工记·梓人》" ref="其声大而宏。" />
+		</sense>
+		<sense tag="形" vernacular="广大;宏大">
+			<exam article="《柳浑年七十四状》" ref="度量宏大。" />
+		</sense>
+		<sense tag="形使动" vernacular="使……光大;扩大">
+			<exam article="《谏太宗十思疏》" ref="总此十思,宏兹九德。" />
+		</sense>
+	</pron>
+</character>

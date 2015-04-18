@@ -1,0 +1,41 @@
+<character value="儒">
+	<introduce>
+		<pinyin value="ru2" writing="rú" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="16" />
+		<order value="撇竖横捺折竖捺捺捺捺横撇竖折竖竖" />
+	</introduce>
+	<pron value="rú">
+		<sense tag="名" vernacular="古代从巫、史、祝、卜中分化出来，专门担任礼仪、教育等职务的知识分子">
+			<exam article="《论语·雍也》" ref="女为君子儒，无为小人儒。" />
+		</sense>
+		<sense tag="名" vernacular="儒家">
+			<exam article="《中山狼传》" ref="儒谓受人恩而不忍背者，其为子必孝。" />
+		</sense>
+		<sense tag="名" vernacular="泛称读书人；知识分子；学者">
+			<exam article="《教战守策》" ref="及至后世，用迂儒之议，以去兵为王者之盛节。" />
+		</sense>
+		<sense tag="形" vernacular="通“懦”">
+			<exam article="《荀子·修身》" ref="偷儒惮事，无廉耻而，则嗜乎饮食。" />
+		</sense>
+	</pron>
+	<phrase value="儒将">
+		<sense value="有文人风度的将领；文官出身的将领" />
+	</phrase>
+	<phrase value="儒吏">
+		<sense value="儒生出身的官吏" />
+	</phrase>
+	<phrase value="儒生">
+		<sense value="信奉儒家学说的人；读书人" />
+	</phrase>
+	<phrase value="儒素">
+		<sense value="儒者的品德操行" />
+	</phrase>
+	<phrase value="儒雅">
+		<sense value="博学的儒生" />
+		<sense value="指儒家的思想" />
+		<sense value="风度温文尔雅" />
+		<sense value="兼比喻富有学问之意" />
+	</phrase>
+</character>

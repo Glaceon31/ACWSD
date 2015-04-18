@@ -1,0 +1,20 @@
+<character value="楣">
+	<introduce>
+		<pinyin value="mei2" writing="méi" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="横竖撇捺折竖横撇竖折横横横" />
+	</introduce>
+	<pron value="méi">
+		<sense tag="名" vernacular="房屋的横梁">
+			<exam article="《仪礼·乡射礼》" ref="序则物当栋，堂则物当楣。" />
+		</sense>
+		<sense tag="名" vernacular="门框上的横木">
+			<exam article="《夏雨叹》" ref="蜗舍入门楣触额，黄泥壁作龟兆坼。" />
+		</sense>
+		<sense tag="名" vernacular="屋檐口椽端的横板">
+			<exam article="《山居赋》" ref="因丹霞以赪楣，附碧云以翠椽。" />
+		</sense>
+	</pron>
+</character>

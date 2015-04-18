@@ -1,0 +1,39 @@
+<character value="牢">
+	<introduce>
+		<pinyin value="lao2" writing="láo" />
+		<bushou value="牛" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="捺捺折撇横横竖" />
+	</introduce>
+	<pron value="láo">
+		<sense tag="名" vernacular="关养牲畜的栏圈">
+			<exam article="《战国策·楚策》" ref="亡羊补牢，未为晚也。" />
+		</sense>
+		<sense tag="名" vernacular="祭祀用的牲畜">
+			<exam article="《伶官传序》" ref="其后用兵，则遣从事以一少牢告庙。" />
+		</sense>
+		<sense tag="名" vernacular="监狱">
+			<exam article="《林教头风雪山神庙》" ref="来到牢城里，先请了差拨。" />
+		</sense>
+		<sense tag="形" vernacular="牢固；坚实">
+			<exam article="《童区寄传》" ref="持童抵主人所，愈束缚牢甚。" />
+		</sense>
+	</pron>
+	<phrase value="牢愁">
+		<sense value="忧郁不平" />
+	</phrase>
+	<phrase value="牢笼">
+		<sense value="包罗" />
+		<sense value="笼络" />
+		<sense value="笼子" />
+	</phrase>
+	<phrase value="牢落">
+		<sense value="廖落；荒废" />
+		<sense value="稀疏" />
+		<sense value="孤寂；无所寄托" />
+	</phrase>
+	<phrase value="牢羞">
+		<sense value="牛羊等祭品" />
+	</phrase>
+</character>

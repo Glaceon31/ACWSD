@@ -1,0 +1,15 @@
+<character value="肇">
+	<introduce>
+		<pinyin value="zhao4" writing="zhào" />
+		<bushou value="聿" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="捺折横撇撇横撇捺折横横横横竖" />
+	</introduce>
+	<pron value="zhào">
+		<sense tag="动" vernacular="开始">
+			<exam article="《史记·五帝本纪》" ref="肇十有二州，决川。" />
+			<exam article="《十渐不克终疏》" ref="肇开帝业。" />
+		</sense>
+	</pron>
+</character>

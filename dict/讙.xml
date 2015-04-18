@@ -1,0 +1,17 @@
+<character value="讙">
+	<introduce>
+		<pinyin value="huan1" writing="huān" />
+		<bushou value="言" />
+		<bushoustroke value="7" />
+		<stroke value="24" />
+		<order value="捺横横横竖折横横竖竖竖折横竖折横撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="huān">
+		<sense tag="动" vernacular="喧哗">
+			<exam article="《史记·陈丞相世家》" ref="乃拜为都尉，……诸将尽讙。" />
+		</sense>
+		<sense vernacular="通“欢”，喜悦；高兴">
+			<exam article="《过秦论》" ref="四海之内，皆讙然各自安乐其处。" />
+		</sense>
+	</pron>
+</character>

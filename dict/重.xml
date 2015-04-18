@@ -1,0 +1,80 @@
+<character value="重">
+	<introduce>
+		<pinyin value="zhong4" writing="zhòng" />
+		<pinyin value="chong2" writing="chóng" />
+		<bushou value="里" />
+		<bushoustroke value="7" />
+		<stroke value="9" />
+		<order value="撇横竖折横横竖横横" />
+	</introduce>
+	<pron value="zhòng">
+		<sense tag="形" vernacular="重，与“轻”相对">
+			<exam article="《论语》" ref="士不可以不弘毅，任重而道远。" />
+		</sense>
+		<sense tag="形意动" vernacular="以……为重">
+			<exam article="《五蠹》" ref="子孙累世絜驾，故人重之。" />
+		</sense>
+		<sense tag="形" vernacular="重要；重大">
+			<exam article="《〈黄花冈七十二烈士事略〉序》" ref="则予此行所负之责任，尤倍重于三十年前。" />
+		</sense>
+		<sense tag="名" vernacular="重要作用">
+			<exam article="《五人墓碑记》" ref="匹夫之有无重于社稷也。" />
+		</sense>
+		<sense tag="动" vernacular="重视；看重">
+			<exam article="《琵琶行》" ref="商人重利轻别离。" />
+		</sense>
+		<sense tag="形" vernacular="贵重">
+			<exam article="《过秦论》" ref="不爱珍器重宝肥饶之地。" />
+		</sense>
+		<sense tag="形" vernacular="严重">
+			<exam article="《狱中杂记》" ref="情罪重者反出在外。" />
+		</sense>
+		<sense tag="形" vernacular="严格">
+			<exam article="《原毁》" ref="古之君子，其责己也重以周。" />
+		</sense>
+		<sense tag="形" vernacular="庄重">
+			<exam article="《论语·学而》" ref="君子不重则不威，学则不固。" />
+		</sense>
+		<sense tag="动" vernacular="尊重">
+			<exam article="《过秦论》" ref="此四君者，皆明智而忠信，宽厚而爱人，尊贤而重士。" />
+		</sense>
+		<sense tag="副" vernacular="更加；加重">
+			<exam article="《苏武传》" ref="见犯乃死，重辱国。" />
+		</sense>
+	</pron>
+	<pron value="chóng">
+		<sense tag="形" vernacular="重叠">
+			<exam article="《三峡》" ref="重岩叠嶂，隐天蔽日。" />
+		</sense>
+		<sense tag="量" vernacular="层">
+			<exam article="《茅屋为秋风所破歌》" ref="卷我屋上三重茅。" />
+		</sense>
+		<sense tag="副" vernacular="重新；再次">
+			<exam article="《琵琶行》" ref="添酒回灯重开宴。" />
+		</sense>
+		<sense tag="动" vernacular="拖累；牵连">
+			<exam article="《汉书·荆燕吴传赞》" ref="事发相重，岂不危哉。" />
+		</sense>
+	</pron>
+	<phrase value="重民">
+		<sense value="农民" />
+	</phrase>
+	<phrase value="重泉">
+		<sense value="水极深的地方" />
+		<sense value="黄泉" />
+	</phrase>
+	<phrase value="重舌">
+		<sense value="古代指通晓外族语言并能够口译的人" />
+	</phrase>
+	<phrase value="重身">
+		<sense value="怀孕" />
+	</phrase>
+	<phrase value="重阴">
+		<sense value="浓云密布的阴天" />
+		<sense value="地下" />
+	</phrase>
+	<phrase value="重足">
+		<sense value="迭足而立，不敢前进" />
+		<sense value="形容非常恐惧的样子" />
+	</phrase>
+</character>

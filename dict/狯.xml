@@ -1,0 +1,14 @@
+<character value="狯">
+	<introduce>
+		<pinyin value="kuai4" writing="kuài" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="撇折撇撇捺横横折捺" />
+	</introduce>
+	<pron value="kuài">
+		<sense tag="形" vernacular="狡猾">
+			<exam article="《宋史·侯陟传》" ref="性狡狯好进，善事权贵。" />
+		</sense>
+	</pron>
+</character>

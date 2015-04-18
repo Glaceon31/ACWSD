@@ -1,0 +1,15 @@
+<character value="夤">
+	<introduce>
+		<pinyin value="yin2" writing="yín" />
+		<bushou value="夕" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="撇折捺捺捺折横竖折横竖横撇捺" />
+	</introduce>
+	<pron value="yín">
+		<sense tag="动" vernacular="攀附" />
+		<sense tag="形" vernacular="敬">
+			<exam article="《北史·房彦谦传》" ref="刑赏曲直，升闻于天，夤畏照临，亦宜谨肃。" />
+		</sense>
+	</pron>
+</character>

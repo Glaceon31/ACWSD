@@ -1,0 +1,35 @@
+<character value="摧">
+	<introduce>
+		<pinyin value="cui1" writing="cuī" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="横竖横竖折竖撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="cuī">
+		<sense tag="动" vernacular="折断">
+			<exam article="《岳阳楼记》" ref="樯倾楫摧。" />
+			<exam article="《孔雀东南飞》" ref="寒风摧树木，严霜结庭兰。" />
+		</sense>
+		<sense tag="动" vernacular="毁坏">
+			<exam article="《梦游天姥吟留别》" ref="列缺霹雳，丘峦崩摧。" />
+			<exam article="《雁门太守行》" ref="黑云压城城欲摧，甲光向日金鳞开。" />
+		</sense>
+		<sense tag="动" vernacular="挫折，挫败">
+			<exam article="《原君》" ref="回思创业时，其欲得天下之心，有不废然摧沮者乎？" />
+		</sense>
+		<sense tag="形" vernacular="悲伤">
+			<exam article="《孔雀东南飞》" ref="阿母大悲摧。" />
+		</sense>
+		<sense tag="动" vernacular="讥讽">
+			<exam article="《诗经·邶风·北门》" ref="我入自外，室人交遍摧我。" />
+		</sense>
+	</pron>
+	<phrase value="摧残">
+		<sense value="损害；残害" />
+	</phrase>
+	<phrase value="摧颓">
+		<sense value="1" />
+		<sense value="蹉跎；失意" />
+	</phrase>
+</character>

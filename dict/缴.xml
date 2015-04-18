@@ -1,0 +1,17 @@
+<character value="缴">
+	<introduce>
+		<pinyin value="jiao3" writing="jiăo" />
+		<pinyin value="zhuo2" writing="zhuó" />
+		<pinyin value="jia3" writing="jiă" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="折折横撇竖折横横捺横折撇撇横撇捺" />
+	</introduce>
+	<pron value="jiǎo">
+		<sense tag="动" vernacular="缠绕；纠缠不清">
+			<exam article="《早梳头》" ref="年事渐蹉跎，世缘方缴绕。" />
+		</sense>
+		<sense vernacular="zhuó射鸟时系在箭上便于收回的生丝绳" />
+	</pron>
+</character>

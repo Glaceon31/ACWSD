@@ -1,0 +1,30 @@
+<character value="思">
+	<introduce>
+		<pinyin value="si1" writing="sī" />
+		<pinyin value="sai1" writing="sāi" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="竖折横竖横捺折捺捺" />
+	</introduce>
+	<pron value="sī">
+		<sense tag="动" vernacular="思考；想">
+			<exam article="《论语》" ref="学而不思则罔。" />
+		</sense>
+		<sense tag="动" vernacular="希望；盼望">
+			<exam article="《隆中对》" ref="智能之士，思得明君。" />
+		</sense>
+		<sense tag="动" vernacular="想念；思念">
+			<exam article="《触龙说赵太后》" ref="已行，非弗思也，祭祀必祝之。" />
+		</sense>
+		<sense tag="名" vernacular="思绪；心情">
+			<exam article="《孔雀东南飞》" ref="晻晻日欲暝，愁思出门啼。" />
+		</sense>
+	</pron>
+	<phrase value="思理">
+		<sense value="思辨能力" />
+	</phrase>
+	<phrase value="思致">
+		<sense value="思想情趣" />
+	</phrase>
+</character>

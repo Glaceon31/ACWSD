@@ -1,0 +1,19 @@
+<character value="叙">
+	<introduce>
+		<pinyin value="xu4" writing="xù" />
+		<bushou value="又" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="撇捺横横竖撇捺折捺" />
+	</introduce>
+	<pron value="xù">
+		<sense tag="名" vernacular="秩序；次序">
+			<exam article="《淮南子·本经》" ref="四时不失其叙。" />
+		</sense>
+		<sense tag="动" vernacular="叙说；陈述">
+			<exam article="《兰亭集序》" ref="畅叙幽情。" />
+			<exam article="《旧唐书·柳宗元传》" ref="写情叙事。" />
+		</sense>
+		<sense tag="名" vernacular="序文；序言" />
+	</pron>
+</character>

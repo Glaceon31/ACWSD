@@ -1,0 +1,35 @@
+<character value="胜">
+	<introduce>
+		<pinyin value="sheng4" writing="shèng" />
+		<pinyin value="sheng1" writing="shēng" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="撇折横横撇横横竖横" />
+	</introduce>
+	<pron value="shèng">
+		<sense tag="动" vernacular="胜利；取胜；战胜">
+			<exam article="《邹忌讽齐王纳谏》" ref="此所谓战胜于朝廷。" />
+		</sense>
+		<sense tag="动" vernacular="制服；克服">
+			<exam article="《吕氏春秋·先己》" ref="故欲胜人者，必先自胜。" />
+		</sense>
+		<sense tag="动" vernacular="胜过；超过">
+			<exam article="《琵琶行》" ref="此时无声胜有声。" />
+		</sense>
+		<sense tag="形" vernacular="优美；美好">
+			<exam article="《岳阳楼记》" ref="予观夫巴陵胜状在洞庭一湖。" />
+		</sense>
+		<sense tag="名" vernacular="风景优美的地方；名胜">
+			<exam article="《过小孤山大孤山》" ref="三面临江；倒影水中，亦占一山之胜。" />
+		</sense>
+	</pron>
+	<pron value="shēng">
+		<sense tag="动" vernacular="禁得起；受得住">
+			<exam article="《谋攻》" ref="将不胜其忿而蚁附之。" />
+		</sense>
+		<sense tag="形" vernacular="尽；完">
+			<exam article="《鸿门宴》" ref="刑人如恐不胜。" />
+		</sense>
+	</pron>
+</character>

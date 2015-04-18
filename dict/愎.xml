@@ -1,0 +1,20 @@
+<character value="愎">
+	<introduce>
+		<pinyin value="bi4" writing="bì" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺竖撇横竖折横横撇折捺" />
+	</introduce>
+	<pron value="bì">
+		<sense tag="形" vernacular="固执;任性">
+			<exam article="《后汉书·袁绍传》" ref="而性矜愎自高。" />
+		</sense>
+	</pron>
+	<phrase value="愎过">
+		<sense value="坚持错误" />
+	</phrase>
+	<phrase value="愎谏">
+		<sense value="不听劝谏" />
+	</phrase>
+</character>

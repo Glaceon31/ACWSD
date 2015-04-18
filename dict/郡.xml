@@ -1,0 +1,14 @@
+<character value="郡">
+	<introduce>
+		<pinyin value="jun4" writing="jùn" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="折横横撇竖折横折竖" />
+	</introduce>
+	<pron value="jùn">
+		<sense tag="名" vernacular="古代行政区划的一级">
+			<exam article="《陈涉世家》" ref="诸郡县苦秦吏者，皆刑其长吏，杀之以应陈涉。" />
+		</sense>
+	</pron>
+</character>

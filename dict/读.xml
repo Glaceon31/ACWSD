@@ -1,0 +1,24 @@
+<character value="读">
+	<introduce>
+		<pinyin value="du2" writing="dú" />
+		<pinyin value="dou4" writing="dòu" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺折横竖折捺捺横撇捺" />
+	</introduce>
+	<pron value="dú">
+		<sense tag="动" vernacular="阅；看">
+			<exam article="《王冕读书》" ref="执策映长明灯读之。" />
+		</sense>
+	</pron>
+	<pron value="dòu">
+		<sense tag="名" vernacular="语句中的停顿">
+			<exam article="《师说》" ref="授之书而习其句读者，非吾所谓传其道解其惑者也。" />
+		</sense>
+	</pron>
+	<phrase value="读礼">
+		<sense value="学习礼节" />
+		<sense value="居丧" />
+	</phrase>
+</character>

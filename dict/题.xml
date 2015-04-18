@@ -1,0 +1,31 @@
+<character value="题">
+	<introduce>
+		<pinyin value="ti2" writing="tí" />
+		<bushou value="页" />
+		<bushoustroke value="6" />
+		<stroke value="15" />
+		<order value="竖折横横横竖横撇捺横撇竖折撇捺" />
+	</introduce>
+	<pron value="tí">
+		<sense tag="名" vernacular="额">
+			<exam article="《子虚赋》" ref="赤首圜题。" />
+		</sense>
+		<sense tag="动" vernacular="题名；命名">
+			<exam article="《韩非子·和氏》" ref="悲夫宝玉而题之以石。" />
+		</sense>
+		<sense tag="动" vernacular="书写；题写" />
+		<sense tag="名" vernacular="题目">
+			<exam article="《宋史·晏殊传》" ref="臣尝私习比赋，请试他题。" />
+		</sense>
+		<sense tag="动" vernacular="品评">
+			<exam article="《后汉书·许劭传》" ref="每月辄更其品题。" />
+		</sense>
+	</pron>
+	<phrase value="题目">
+		<sense value="命题；题目" />
+		<sense value="书籍的标目" />
+		<sense value="名称" />
+		<sense value="借口；名义" />
+		<sense value="⒌品评" />
+	</phrase>
+</character>

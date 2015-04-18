@@ -1,0 +1,15 @@
+<character value="椟">
+	<introduce>
+		<pinyin value="du2" writing="dú" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖撇捺横竖折捺捺横撇捺" />
+	</introduce>
+	<pron value="dú">
+		<sense tag="名" vernacular="木柜、木匣">
+			<exam article="《韩非子·外储说左上》" ref="郑人买其椟而还其珠。" />
+		</sense>
+		<sense tag="名" vernacular="棺材" />
+	</pron>
+</character>

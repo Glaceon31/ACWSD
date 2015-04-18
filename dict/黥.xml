@@ -1,0 +1,15 @@
+<character value="黥">
+	<introduce>
+		<pinyin value="qing2" writing="qíng" />
+		<pinyin value="jing1" writing="jīng" />
+		<bushou value="黑" />
+		<bushoustroke value="12" />
+		<stroke value="20" />
+		<order value="竖折捺撇横竖横横捺捺捺捺捺横竖折横竖撇捺" />
+	</introduce>
+	<pron value="qíng">
+		<sense tag="名" vernacular="古代一种刑法，用刀刺刻犯人的面额，再涂上墨，也叫“墨刑”">
+			<exam article="《战国策·秦策一》" ref="法及太子，黥劓其傅。" />
+		</sense>
+	</pron>
+</character>

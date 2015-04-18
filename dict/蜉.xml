@@ -1,0 +1,15 @@
+<character value="蜉">
+	<introduce>
+		<pinyin value="fu2" writing="fú" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="竖折横竖横捺撇捺捺撇折竖横" />
+	</introduce>
+	<pron value="fú">
+		<sense vernacular="见“蜉蝣”" />
+	</pron>
+	<phrase value="蜉蝣">
+		<sense value="一种昆虫，生存期极短" />
+	</phrase>
+</character>

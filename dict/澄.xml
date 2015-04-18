@@ -1,0 +1,25 @@
+<character value="澄">
+	<introduce>
+		<pinyin value="cheng2" writing="chéng" />
+		<pinyin value="deng4" writing="dèng" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="捺捺横折捺撇撇捺横竖折横捺撇横" />
+	</introduce>
+	<pron value="chéng">
+		<sense tag="形" vernacular="水清">
+			<exam article="《桂枝香·登临送目》" ref="千里澄江似练。" />
+		</sense>
+		<sense tag="动" vernacular="澄清，使液体里的杂质沉淀下去">
+			<exam article="《三国志·孙静传》" ref="令促具罂缶数百口，澄水。" />
+		</sense>
+	</pron>
+	<phrase value="澄廓">
+		<sense value="清明辽阔" />
+	</phrase>
+	<phrase value="澄清">
+		<sense value="1" />
+		<sense value="清澈明净" />
+	</phrase>
+</character>

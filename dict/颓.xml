@@ -1,0 +1,26 @@
+<character value="颓">
+	<introduce>
+		<pinyin value="tui2" writing="tuí" />
+		<bushou value="页" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="撇横竖撇捺撇折横撇竖折撇捺" />
+	</introduce>
+	<pron value="tuí">
+		<sense tag="动" vernacular="倒塌">
+			<exam article="《礼记·檀弓》" ref="泰山其颓乎，梁木其坏乎。" />
+		</sense>
+		<sense tag="动" vernacular="下坠">
+			<exam article="《寡妇赋》" ref="岁云暮兮日西颓。" />
+		</sense>
+		<sense tag="形" vernacular="衰败；败坏">
+			<exam article="《训俭示康》" ref="嗟乎，风俗颓弊如是，居位者虽不能禁，忍助之乎。" />
+		</sense>
+		<sense tag="形" vernacular="恭顺；安详">
+			<exam article="《北史·庾信传》" ref="身长八尺，腰带十围，容止颓然，有过人者。" />
+		</sense>
+	</pron>
+	<phrase value="颓放">
+		<sense value="散慢而不拘礼法" />
+	</phrase>
+</character>

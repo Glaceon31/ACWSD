@@ -1,0 +1,14 @@
+<character value="泯">
+	<introduce>
+		<pinyin value="min3" writing="mĭn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺横折横折横折" />
+	</introduce>
+	<pron value="mǐn">
+		<sense tag="名" vernacular="灭；消失">
+			<exam article="《后汉书·崔琦传》" ref="家国泯绝，宗庙烧燔。" />
+		</sense>
+	</pron>
+</character>

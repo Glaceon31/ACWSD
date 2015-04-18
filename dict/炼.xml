@@ -1,0 +1,20 @@
+<character value="炼">
+	<introduce>
+		<pinyin value="lian4" writing="liàn" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="捺撇撇捺横折折撇捺" />
+	</introduce>
+	<pron value="liàn">
+		<sense tag="动" vernacular="冶炼；烧制；熔冶">
+			<exam article="《女娲补天》" ref="于是女娲炼五色石以补苍天。" />
+		</sense>
+		<sense tag="动" vernacular="锻炼；磨炼">
+			<exam article="《唐翁猎虎》" ref="老翁自言炼臂十年。" />
+		</sense>
+		<sense tag="形" vernacular="精美">
+			<exam article="《芋老人传》" ref="今日堂有炼珍。" />
+		</sense>
+	</pron>
+</character>

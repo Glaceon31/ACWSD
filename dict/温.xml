@@ -1,0 +1,27 @@
+<character value="温">
+	<introduce>
+		<pinyin value="wen1" writing="wēn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺横竖折横横竖折竖竖横" />
+	</introduce>
+	<pron value="wēn">
+		<sense tag="形" vernacular="温暖；暖和">
+			<exam article="《祭妹文》" ref="四支犹温，一目未瞑，盖犹忍死待予也。" />
+		</sense>
+		<sense tag="形" vernacular="温和；柔和">
+			<exam article="《管子·形势解》" ref="温良宽厚，则民爱之。" />
+		</sense>
+		<sense tag="动" vernacular="温习；复习">
+			<exam article="《论语》" ref="温故而知新，可以为师。" />
+		</sense>
+	</pron>
+	<phrase value="温厚">
+		<sense value="温和；厚道" />
+		<sense value="富裕" />
+	</phrase>
+	<phrase value="温蠖">
+		<sense value="昏聩" />
+	</phrase>
+</character>

@@ -1,0 +1,23 @@
+<character value="涯">
+	<introduce>
+		<pinyin value="ya2" writing="yá" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺横横撇横竖横横竖横" />
+	</introduce>
+	<pron value="yá">
+		<sense tag="名" vernacular="水边">
+			<exam article="《岳阳楼记》" ref="浩浩荡荡，横无际涯。" />
+		</sense>
+		<sense tag="名" vernacular="边远的地方">
+			<exam article="《琵琶行》" ref="同是天涯沦落人，相逢何必曾相识。" />
+		</sense>
+		<sense tag="名" vernacular="边际；极限">
+			<exam article="《祭妹文》" ref="然则抱此无涯之憾，天乎。人乎，而竟已乎！" />
+		</sense>
+	</pron>
+	<phrase value="涯涘">
+		<sense value="水的边际，也泛指边际或极限" />
+	</phrase>
+</character>

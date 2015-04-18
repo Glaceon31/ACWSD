@@ -1,0 +1,50 @@
+<character value="有">
+	<introduce>
+		<pinyin value="you3" writing="yŏu" />
+		<pinyin value="you4" writing="yòu" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="横撇竖折横横" />
+	</introduce>
+	<pron value="yǒu">
+		<sense tag="动" vernacular="与“无”相对">
+			<exam article="《论语》" ref="有朋自远方来，不亦乐乎。" />
+		</sense>
+		<sense tag="动" vernacular="占有">
+			<exam article="《鸿门宴》" ref="沛公欲王关中，使子婴为相，珍宝尽有之。" />
+		</sense>
+		<sense tag="动" vernacular="掌握">
+			<exam article="《察今》" ref="有道之士，贵以近知远。" />
+		</sense>
+		<sense tag="形" vernacular="富有">
+			<exam article="《货殖列传序》" ref="礼生于有而废于无。" />
+		</sense>
+		<sense tag="名" vernacular="收获；出产的东西">
+			<exam article="《捕蛇者说》" ref="退而甘食其土之有。" />
+		</sense>
+		<sense tag="连" vernacular="或者">
+			<exam article="《得道多助，失道寡助》" ref="故君子有不战，战则必胜。" />
+		</sense>
+		<sense tag="助" vernacular="用在动词前，以助语气">
+			<exam article="《少年中国说》" ref="干将发硎，有作其芒。" />
+		</sense>
+	</pron>
+	<pron value="yòu">
+		<sense tag="副" vernacular="通“又”，表示进一层">
+			<exam article="《劝学》" ref="虽有槁暴，不复挺者，輮使之然也。" />
+		</sense>
+		<sense tag="连" vernacular="通“又”，用于整数与零数之间">
+			<exam article="《陈情表》" ref="臣密今年四十有四。" />
+		</sense>
+	</pron>
+	<phrase value="有间">
+		<sense value="时间很短；一会儿" />
+		<sense value="有缝隙" />
+		<sense value="有仇怨；有矛盾" />
+	</phrase>
+	<phrase value="有司">
+		<sense value="古代设官分职，各有专司，做具体工作" />
+		<sense value="后泛指官吏" />
+	</phrase>
+</character>

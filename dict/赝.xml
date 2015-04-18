@@ -1,0 +1,15 @@
+<character value="赝">
+	<introduce>
+		<pinyin value="yan4" writing="yàn" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="16" />
+		<order value="横撇撇竖撇竖捺横横横竖横竖折撇捺" />
+	</introduce>
+	<pron value="yàn">
+		<sense tag="形" vernacular="假的；伪造的">
+			<exam article="《宋书·戴法兴传》" ref="而道路之言，谓法兴为真天子，帝为赝天子。" />
+			<exam article="《跋米元晖著色春山》" ref="后人多作赝本，去此远矣。" />
+		</sense>
+	</pron>
+</character>

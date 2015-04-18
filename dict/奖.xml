@@ -1,0 +1,20 @@
+<character value="奖">
+	<introduce>
+		<pinyin value="jiang3" writing="jiăng" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺横竖撇折捺横撇捺" />
+	</introduce>
+	<pron value="jiǎng">
+		<sense tag="动" vernacular="劝勉；勉励">
+			<exam article="《出师表》" ref="当奖率三军，北定中原。" />
+		</sense>
+		<sense tag="动" vernacular="夸奖；称赞">
+			<exam article="《南史·谢眺传》" ref="眺好奖人才。" />
+		</sense>
+		<sense tag="动" vernacular="辅佐；帮助">
+			<exam article="《左传·僖公二十八年》" ref="皆奖王室，无相害也。" />
+		</sense>
+	</pron>
+</character>

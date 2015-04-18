@@ -1,0 +1,14 @@
+<character value="洲">
+	<introduce>
+		<pinyin value="zhou1" writing="zhōu" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺横捺撇捺竖捺竖" />
+	</introduce>
+	<pron value="zhōu">
+		<sense tag="名" vernacular="水中陆地">
+			<exam article="《诗经·周南·关雎》" ref="关关雎鸠，在河之洲。" />
+		</sense>
+	</pron>
+</character>

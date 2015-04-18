@@ -1,0 +1,17 @@
+<character value="堑">
+	<introduce>
+		<pinyin value="qian4" writing="qiàn" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横折竖横撇撇横竖横竖横" />
+	</introduce>
+	<pron value="qiàn">
+		<sense tag="名" vernacular="护城河，壕沟">
+			<exam article="《史记·高祖本纪》" ref="使高垒深堑，勿与战。" />
+		</sense>
+		<sense tag="动" vernacular="挖沟">
+			<exam article="《左传·昭公十七年》" ref="环而堑之，及泉。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,19 @@
+<character value="炤">
+	<introduce>
+		<pinyin value="zhao4" writing="zhào" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="捺撇撇捺折撇竖折横" />
+	</introduce>
+	<pron value="zhào">
+		<sense tag="动" vernacular="照耀">
+			<exam article="《荀子·天论》" ref="列星随旋，日月递炤。" />
+		</sense>
+	</pron>
+	<pron value="zhāo">
+		<sense vernacular="通“昭”">
+			<exam article="《诗经·小雅·正月》" ref="潜虽伏矣，亦孔之炤。" />
+		</sense>
+	</pron>
+</character>

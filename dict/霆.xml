@@ -1,0 +1,17 @@
+<character value="霆">
+	<introduce>
+		<pinyin value="ting2" writing="tíng" />
+		<bushou value="雨" />
+		<bushoustroke value="8" />
+		<stroke value="14" />
+		<order value="横捺折竖捺捺捺捺撇横竖横折捺" />
+	</introduce>
+	<pron value="tíng">
+		<sense tag="名" vernacular="雷；疾雷">
+			<exam article="《昌言·理乱》" ref="暴风疾霆不足以方其怒。" />
+		</sense>
+		<sense tag="名" vernacular="闪电">
+			<exam article="《淮南子·兵略》" ref="疾雷不及塞耳，疾霆不瑕揜目。" />
+		</sense>
+	</pron>
+</character>

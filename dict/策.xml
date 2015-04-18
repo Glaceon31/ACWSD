@@ -1,0 +1,52 @@
+<character value="策">
+	<introduce>
+		<pinyin value="ce4" writing="cè" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="撇横捺撇横捺横竖折竖撇捺" />
+	</introduce>
+	<pron value="cè">
+		<sense tag="名" vernacular="竹制的马鞭子">
+			<exam article="《过秦论》" ref="振长策而御宇内。" />
+			<exam article="《马说》" ref="执策而临之。" />
+		</sense>
+		<sense tag="动" vernacular="鞭打；鞭策">
+			<exam article="《马说》" ref="策之不以其道。" />
+			<exam article="《中山狼传》" ref="策蹇驴，囊图书。" />
+		</sense>
+		<sense tag="名" vernacular="竹杖；拐杖">
+			<exam article="《淮南子·夸父逐日》" ref="夸父弃其策。" />
+		</sense>
+		<sense tag="动" vernacular="拄着（拐杖）">
+			<exam article="《归去来兮辞》" ref="策扶老以流憩。" />
+		</sense>
+		<sense tag="名" vernacular="写字的竹简；书册">
+			<exam article="《王冕读书》" ref="执策映长明灯读之。" />
+		</sense>
+		<sense tag="动" vernacular="记录；登记">
+			<exam article="《木兰诗》" ref="策勋十二转，赏赐百千强。" />
+		</sense>
+		<sense tag="名" vernacular="帝王对臣下封土、授爵及任免的文书">
+			<exam article="《三国志·诸葛亮传》" ref="先主于是即帝位，策亮为丞相。" />
+		</sense>
+		<sense tag="名" vernacular="古代政论性文体名；策论">
+			<exam article="《教战守策》。《海瑞传》" ref="即伏阙上《平黎策》。" />
+		</sense>
+		<sense tag="名" vernacular="计策；计谋">
+			<exam article="《廉颇蔺相如列传》" ref="均之二策，宁许以负秦曲。" />
+			<exam article="《&lt;指南录&gt;后序》" ref="予更欲一觇北，归而求救国之策。" />
+		</sense>
+	</pron>
+	<phrase value="策名">
+		<sense value="指出仕做官" />
+		<sense value="古代出仕做官之人，都要在自己上司的名薄上写上自己的名字，以表明从属" />
+	</phrase>
+	<phrase value="策士">
+		<sense value="谋士，指古代在大官或名人门下出谋划策的人" />
+	</phrase>
+	<phrase value="策问">
+		<sense value="汉以来科举取士，以政治、经济等设问，写在简策上，让应试者分条解答" />
+		<sense value="也称“对策”" />
+	</phrase>
+</character>

@@ -1,0 +1,26 @@
+<character value="驱">
+	<introduce>
+		<pinyin value="qu1" writing="qū" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折折横横撇捺折" />
+	</introduce>
+	<pron value="qū">
+		<sense tag="动" vernacular="驱驰；赶马前进">
+			<exam article="《冯谖客孟尝君》" ref="驱而之薛。" />
+			<exam article="《伶官传序》" ref="负而前驱。" />
+		</sense>
+		<sense tag="动" vernacular="驱赶；驱使">
+			<exam article="《卖炭翁》" ref="宫使驱惜不得。" />
+			<exam article="《赤壁之战》" ref="驱中国士众远涉江湖之间。" />
+		</sense>
+		<sense tag="动" vernacular="追赶；追逐">
+			<exam article="《狼》" ref="而两狼之并驱如故。" />
+		</sense>
+	</pron>
+	<phrase value="驱役">
+		<sense value="驱使" />
+		<sense value="做官" />
+	</phrase>
+</character>

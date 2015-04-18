@@ -1,0 +1,30 @@
+<character value="偿">
+	<introduce>
+		<pinyin value="chang2" writing="cháng" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="撇竖竖捺撇捺折横横折捺" />
+	</introduce>
+	<pron value="cháng">
+		<sense tag="动" vernacular="偿还；归还">
+			<exam article="《冯谖客孟尝君》" ref="使吏召诸民当偿者悉来合券。" />
+		</sense>
+		<sense tag="动" vernacular="补偿；抵偿">
+			<exam article="《促织》" ref="会征促织，成不敢敛户口。而又无所赔偿，忧闷欲死。" />
+		</sense>
+		<sense tag="动" vernacular="回报；报答">
+			<exam article="《史记·范雎蔡泽列传》" ref="一饭之德必偿，睚眦之怨必报。" />
+		</sense>
+	</pron>
+	<phrase value="偿愿">
+		<sense value="实现平日的愿望" />
+	</phrase>
+	<phrase value="偿责">
+		<sense value="抵当罪责" />
+	</phrase>
+	<phrase value="偿责">
+		<sense value="还债" />
+		<sense value="责，“债”的古字" />
+	</phrase>
+</character>

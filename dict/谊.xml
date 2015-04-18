@@ -1,0 +1,20 @@
+<character value="谊">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺折捺捺折竖折横横横" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="名" vernacular="合宜的道德、行为或道理">
+			<exam article="《九章·惜诵》" ref="吾谊先君而后身兮。" />
+		</sense>
+		<sense tag="名" vernacular="意义；意思">
+			<exam article="《说文解字叙》" ref="会意者，比类合谊。" />
+		</sense>
+		<sense tag="名" vernacular="交情；友谊">
+			<exam article="《伤友人赋》" ref="余结谊兮梁门。" />
+		</sense>
+	</pron>
+</character>

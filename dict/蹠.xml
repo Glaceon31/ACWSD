@@ -1,0 +1,20 @@
+<character value="蹠">
+	<introduce>
+		<pinyin value="zhi2" writing="zhí" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="18" />
+		<order value="竖折横竖横竖横捺横撇横竖竖横捺捺捺捺" />
+	</introduce>
+	<pron value="zhí">
+		<sense tag="动" vernacular="踩；踏">
+			<exam article="《九章·哀郢》" ref="眇不知其所蹠。" />
+		</sense>
+		<sense tag="介" vernacular="到">
+			<exam article="《淮南子·原道》" ref="自无蹠有，自有蹠无。" />
+		</sense>
+		<sense tag="名" vernacular="脚">
+			<exam article="《淮南子·氾论》" ref="蹠距者举远。" />
+		</sense>
+	</pron>
+</character>

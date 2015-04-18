@@ -1,0 +1,19 @@
+<character value="皎">
+	<introduce>
+		<pinyin value="jiao3" writing="jiăo" />
+		<pinyin value="jia3" writing="jiă" />
+		<bushou value="白" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="撇竖折横横捺横撇捺撇捺" />
+	</introduce>
+	<pron value="jiǎo">
+		<sense tag="形" vernacular="洁白；明亮">
+			<exam article="《诗经·陈风·月出》" ref="月出皎兮。" />
+			<exam article="《洛神赋》" ref="远而望之，皎若太阳升朝霞。" />
+		</sense>
+		<sense tag="形" vernacular="清楚，明白">
+			<exam article="《离骚经序》" ref="其词温而难，其义皎而朗。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,25 @@
+<character value="倍">
+	<introduce>
+		<pinyin value="bei4" writing="bèi" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="撇竖捺横捺撇横竖折横" />
+	</introduce>
+	<pron value="bèi">
+		<sense vernacular="原数的基础上增加的相等数" />
+		<sense tag="动" vernacular="通“背”,背向;背对着;违背;违反;背叛;背诵" />
+		<sense vernacular="通“悖”,悖逆乖戾">
+			<exam article="《管子·五辅》" ref="上下无义则乱,贵贱无分则争,长幼无等则倍,贫富无度则失。" />
+		</sense>
+	</pron>
+	<pron value="péi">
+		<sense tag="动" vernacular="陪伴;伴随">
+			<exam article="《穆天子传》" ref="丧三即位,周室父兄子孙倍之。" />
+		</sense>
+	</pron>
+	<phrase value="倍谲">
+		<sense value="1" />
+		<sense value="比喻各持一见,更相立异" />
+	</phrase>
+</character>

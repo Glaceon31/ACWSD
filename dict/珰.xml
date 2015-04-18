@@ -1,0 +1,23 @@
+<character value="珰">
+	<introduce>
+		<pinyin value="dang1" writing="dāng" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横横竖横竖捺撇折横横" />
+	</introduce>
+	<pron value="dāng">
+		<sense tag="名" vernacular="屋椽头的装饰物">
+			<exam article="《史记·司马相如列传》" ref="华榱壁珰。" />
+		</sense>
+		<sense tag="名" vernacular="汉代宦官任武职者的冠饰">
+			<exam article="《后汉书·朱穆传》" ref="建武以来，乃悉用宦者。自延平以来，浸益贵盛，假貂珰之饰，处常伯之任。" />
+		</sense>
+		<sense tag="名" vernacular="古时女子的耳饰">
+			<exam article="《孔雀东南飞》" ref="耳著明月珰。" />
+		</sense>
+		<sense tag="名" vernacular="泛指装饰物">
+			<exam article="《柳毅传》" ref="自然蛾眉，明珰满身。" />
+		</sense>
+	</pron>
+</character>

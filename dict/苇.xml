@@ -1,0 +1,14 @@
+<character value="苇">
+	<introduce>
+		<pinyin value="wei3" writing="wĕi" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖竖横横折竖" />
+	</introduce>
+	<pron value="wěi">
+		<sense tag="名" vernacular="芦苇">
+			<exam article="《孔雀东南飞》" ref="君当作磐石，妾当作蒲苇。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,21 @@
+<character value="淑">
+	<introduce>
+		<pinyin value="shu1" writing="shū" />
+		<pinyin value="shu2" writing="shú" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺横竖横横竖撇捺折捺" />
+	</introduce>
+	<pron value="shū">
+		<sense tag="形" vernacular="美好；善良">
+			<exam article="《关雎》" ref="窈窕淑女，君子好逑。" />
+		</sense>
+	</pron>
+	<phrase value="淑均">
+		<sense value="善良公正" />
+	</phrase>
+	<phrase value="淑茂">
+		<sense value="美善；美好" />
+	</phrase>
+</character>

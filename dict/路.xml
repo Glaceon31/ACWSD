@@ -1,0 +1,26 @@
+<character value="路">
+	<introduce>
+		<pinyin value="lu4" writing="lù" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="13" />
+		<order value="竖折横竖横竖横撇折捺竖折横" />
+	</introduce>
+	<pron value="lù">
+		<sense tag="名" vernacular="道路">
+			<exam article="《桃花源记》" ref="遂迷，不复得路。" />
+		</sense>
+		<sense tag="名" vernacular="途径；门路">
+			<exam article="《出师表》" ref="以塞忠谏之路也。" />
+		</sense>
+		<sense tag="名" vernacular="路程；路途">
+			<exam article="《桃花源记》" ref="缘溪行，忘路之远近。" />
+		</sense>
+		<sense tag="名" vernacular="宋元时的行政区域名">
+			<exam article="《永遇乐·京口北固亭怀古》" ref="望中犹记，烽火扬州路。" />
+		</sense>
+		<sense tag="形" vernacular="衰败；疲惫">
+			<exam article="《孟子·滕文公上》" ref="如必，自为而后用之是率天下而路也。" />
+		</sense>
+	</pron>
+</character>

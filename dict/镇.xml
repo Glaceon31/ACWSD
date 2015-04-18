@@ -1,0 +1,27 @@
+<character value="镇">
+	<introduce>
+		<pinyin value="zhen4" writing="zhèn" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="15" />
+		<order value="撇横横横折横竖竖折横横横横撇捺" />
+	</introduce>
+	<pron value="zhèn">
+		<sense tag="动" vernacular="压">
+			<exam article="《上书谏吴王》" ref="系方绝，又重镇之。" />
+		</sense>
+		<sense tag="动" vernacular="压抑；抑制">
+			<exam article="《九章·抽思》" ref="览民尤以自镇。" />
+		</sense>
+		<sense tag="动" vernacular="安定">
+			<exam article="《史记·高祖本纪》" ref="镇国家，抚百姓。" />
+		</sense>
+		<sense tag="名" vernacular="市镇">
+			<exam article="《宋史·岳飞传》" ref="飞进军朱仙镇。" />
+		</sense>
+	</pron>
+	<phrase value="镇压">
+		<sense value="以身相互挤压" />
+		<sense value="用武力压制" />
+	</phrase>
+</character>

@@ -1,0 +1,15 @@
+<character value="锱">
+	<introduce>
+		<pinyin value="zi1" writing="zī" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="撇横横横折折折折竖折横竖横" />
+	</introduce>
+	<pron value="zī">
+		<sense tag="名" vernacular="古代的重量单位，一说六铢为一锱，四锱为一两" />
+	</pron>
+	<phrase value="锱铢">
+		<sense value="比喻极微小的数量" />
+	</phrase>
+</character>

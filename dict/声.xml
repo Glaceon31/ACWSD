@@ -1,0 +1,35 @@
+<character value="声">
+	<introduce>
+		<pinyin value="sheng1" writing="shēng" />
+		<bushou value="士" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横折竖横撇" />
+	</introduce>
+	<pron value="shēng">
+		<sense tag="名" vernacular="声音">
+			<exam article="《劝学》" ref="顺风而呼，声非加疾也，而闻者彰。" />
+		</sense>
+		<sense tag="名" vernacular="乐曲；乐声">
+			<exam article="《廉颇蔺相如列传》" ref="赵王窃闻秦王善为秦声。" />
+		</sense>
+		<sense tag="名" vernacular="口音">
+			<exam article="《大铁椎传》" ref="与人罕言语，语类楚声。" />
+		</sense>
+		<sense tag="动" vernacular="声称；宣布；宣扬">
+			<exam article="《五人墓碑记》" ref="吾之行为士先者，为之声义。" />
+		</sense>
+		<sense tag="名" vernacular="名声；声誉；声望">
+			<exam article="《报任安书》" ref="此人皆身至王侯将相，声闻邻国。" />
+		</sense>
+		<sense tag="动" vernacular="宣扬；鼓舞">
+			<exam article="《子鱼论战》" ref="金鼓以声气也。" />
+		</sense>
+		<sense tag="名" vernacular="声势；声气">
+			<exam article="《子鱼论战》" ref="声盛致志，鼓儳也。" />
+		</sense>
+		<sense tag="量" vernacular="表声音发出的次数">
+			<exam article="《琵琶行》" ref="转轴拨弦三两声。" />
+		</sense>
+	</pron>
+</character>

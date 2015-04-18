@@ -1,0 +1,17 @@
+<character value="坦">
+	<introduce>
+		<pinyin value="tan3" writing="tăn" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横竖折横横横" />
+	</introduce>
+	<pron value="tǎn">
+		<sense tag="形" vernacular="平直；宽广">
+			<exam article="《世说新语·言语》" ref="其地坦而平，其水淡而清。" />
+		</sense>
+		<sense tag="动" vernacular="露出">
+			<exam article="《世说新语·雅量》" ref="唯有一郎在东床上，坦腹卧。" />
+		</sense>
+	</pron>
+</character>

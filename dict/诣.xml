@@ -1,0 +1,18 @@
+<character value="诣">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺折撇折竖折横横" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="动" vernacular="到……去；前往">
+			<exam article="《&lt;指南录&gt;后序》" ref="贾余庆等以祈请使诣北。" />
+			<exam article="《促织》" ref="乃强起扶杖，执图诣寺后。" />
+		</sense>
+		<sense tag="动" vernacular="拜访">
+			<exam article="《赤壁之战》" ref="遂与鲁肃俱诣孙权。" />
+		</sense>
+	</pron>
+</character>

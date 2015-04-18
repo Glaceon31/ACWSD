@@ -1,0 +1,18 @@
+<character value="阏">
+	<introduce>
+		<pinyin value="yan1" writing="yān" />
+		<pinyin value="e4" writing="è" />
+		<bushou value="门" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺竖折捺横折撇撇捺捺捺" />
+	</introduce>
+	<pron value="è">
+		<sense tag="动" vernacular="阻塞">
+			<exam article="《樊惠渠歌》" ref="我有长流，莫或阏之。" />
+		</sense>
+		<sense tag="名" vernacular="挡水的堤坝">
+			<exam article="《汉书·召信臣传》" ref="开通沟渎，起水门提阏，凡数十处，以广溉灌。" />
+		</sense>
+	</pron>
+</character>

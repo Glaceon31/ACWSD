@@ -1,0 +1,21 @@
+<character value="栋">
+	<introduce>
+		<pinyin value="dong4" writing="dòng" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横竖撇捺横折竖撇捺" />
+	</introduce>
+	<pron value="dòng">
+		<sense tag="名" vernacular="房屋的正梁">
+			<exam article="《柳毅传》" ref="雕琉璃于翠楣，饰琥珀于虹栋。" />
+			<exam article="《阿房宫赋》" ref="使负栋之柱，多于南亩之农夫！" />
+		</sense>
+		<sense tag="名" vernacular="比喻担负国家重任的人">
+			<exam article="《国语·晋语》" ref="太子，国之栋也。" />
+		</sense>
+	</pron>
+	<phrase value="栋挠">
+		<sense value="屋梁脆弱，比喻形势危急" />
+	</phrase>
+</character>

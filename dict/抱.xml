@@ -1,0 +1,43 @@
+<character value="抱">
+	<introduce>
+		<pinyin value="bao4" writing="bào" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横撇折折横折" />
+	</introduce>
+	<pron value="bào">
+		<sense tag="动" vernacular="用手臂合围">
+			<exam article="《赤壁赋》" ref="挟飞仙以遨游,抱明月而长终。" />
+		</sense>
+		<sense tag="动" vernacular="环绕">
+			<exam article="《江村》" ref="清江一曲抱村流。" />
+		</sense>
+		<sense tag="动" vernacular="怀抱;怀有">
+			<exam article="《报刘一丈书》" ref="至于长者之抱才而困,则又令我怆然有感。" />
+			<exam article="《祭妹文》" ref="然则抱此无涯之憾。" />
+		</sense>
+		<sense tag="名" vernacular="胸怀;抱负">
+			<exam article="《宋书·范晔传》" ref="然区区丹抱,不负夙心。" />
+			<exam article="《兰亭集序》" ref="或取诸怀抱,晤言一室之内。" />
+		</sense>
+		<sense tag="动" vernacular="凭靠">
+			<exam article="《阿房宫赋》" ref="各抱地势,钩心斗角。" />
+		</sense>
+		<sense tag="动" vernacular="看守,守">
+			<exam article="《信陵君窃符救赵》" ref="嬴乃夷门抱关者也。" />
+		</sense>
+	</pron>
+	<phrase value="抱冰">
+		<sense value="比喻含辛茹苦自动图进" />
+	</phrase>
+	<phrase value="抱璞">
+		<sense value="此词源于卞和献和氏璧而得罪断脚的故事" />
+		<sense value="后比喻怀才不遇,也比喻保持本色" />
+	</phrase>
+	<phrase value="抱柱">
+		<sense value="《庄子·盗跖》：青年尾生与一女子相约于梁下会面,女子未准时赴约,尾生久等" />
+		<sense value="大水冲来,尾生抱首梁柱守约不离开,后被淹死" />
+		<sense value="所以“抱柱”指恪守信义" />
+	</phrase>
+</character>

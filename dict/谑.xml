@@ -1,0 +1,15 @@
+<character value="谑">
+	<introduce>
+		<pinyin value="xue4" writing="xuè" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="捺折竖横折撇横折横折横" />
+	</introduce>
+	<pron value="xuè">
+		<sense tag="动" vernacular="开玩笑">
+			<exam article="《世说新语·容止》" ref="因便据胡床，与诸人咏谑。" />
+			<exam article="《陌了桑》" ref="调笑来相谑。" />
+		</sense>
+	</pron>
+</character>

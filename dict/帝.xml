@@ -1,0 +1,26 @@
+<character value="帝">
+	<introduce>
+		<pinyin value="di4" writing="dì" />
+		<bushou value="巾" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺横捺撇捺折竖折竖" />
+	</introduce>
+	<pron value="dì">
+		<sense tag="名" vernacular="天帝，宗教或神话传说中主宰万物的地位最高的神">
+			<exam article="《愚公移山》" ref="操蛇之神闻之，惧其不已也，告之于帝。" />
+			<exam article="《归去来兮辞》" ref="富贵非吾愿，帝乡不可期。" />
+		</sense>
+		<sense tag="名" vernacular="帝王；皇帝">
+			<exam article="《出师表》" ref="先帝创业未半，而中道崩殂。" />
+			<exam article="《赤壁之战》" ref="若据而有之，此帝王之资也。" />
+		</sense>
+	</pron>
+	<phrase value="帝阍">
+		<sense value="古代传说中天帝的看门人" />
+		<sense value="君门；官门" />
+	</phrase>
+	<phrase value="帝祚">
+		<sense value="帝位" />
+	</phrase>
+</character>

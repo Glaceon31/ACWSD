@@ -1,0 +1,14 @@
+<character value="窭">
+	<introduce>
+		<pinyin value="ju4" writing="jù" />
+		<bushou value="穴" />
+		<bushoustroke value="5" />
+		<stroke value="14" />
+		<order value="捺捺折撇捺捺撇横竖撇捺折撇横" />
+	</introduce>
+	<pron value="jù">
+		<sense tag="形" vernacular="贫寒">
+			<exam article="《上凌屯田书》" ref="窭而不能葬。" />
+		</sense>
+	</pron>
+</character>

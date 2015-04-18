@@ -1,0 +1,30 @@
+<character value="情">
+	<introduce>
+		<pinyin value="qing2" writing="qíng" />
+		<pinyin value="qing5" writing="qing" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺竖横横竖横竖折横横" />
+	</introduce>
+	<pron value="qíng">
+		<sense tag="名" vernacular="感情；情绪">
+			<exam article="《送友人》" ref="浮云游子意，落日故人情。" />
+		</sense>
+		<sense tag="名" vernacular="情意；心意">
+			<exam article="《陈情表》" ref="欲苟顺私情，则告诉不许。" />
+		</sense>
+		<sense tag="名" vernacular="爱情">
+			<exam article="《孔雀东南飞》" ref="君既为府吏，守节情不移。" />
+		</sense>
+		<sense tag="名" vernacular="实情；实况">
+			<exam article="《曹刿论战》" ref="小大之狱，虽不能察，必以情。" />
+		</sense>
+		<sense tag="名" vernacular="情况；情节">
+			<exam article="《周处》" ref="平原不在，正见清河，具以情告。" />
+		</sense>
+		<sense tag="名" vernacular="情理；事理">
+			<exam article="《孔雀东南飞》" ref="今日违情义，恐此事非奇。" />
+		</sense>
+	</pron>
+</character>

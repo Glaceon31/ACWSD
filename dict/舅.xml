@@ -1,0 +1,20 @@
+<character value="舅">
+	<introduce>
+		<pinyin value="jiu4" writing="jiù" />
+		<bushou value="臼" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="撇竖横折横横竖折横竖横折撇" />
+	</introduce>
+	<pron value="jiù">
+		<sense tag="名" vernacular="舅舅；舅父；母亲的兄弟">
+			<exam article="《陈情表》" ref="行年四岁，舅夺母志。" />
+		</sense>
+		<sense tag="名" vernacular="公公；丈夫的父亲">
+			<exam article="《柳毅传》" ref="既而将诉于舅姑，舅姑爱其子，不能御。" />
+		</sense>
+	</pron>
+	<phrase value="舅姑">
+		<sense value="丈夫的父母，公公婆婆" />
+	</phrase>
+</character>

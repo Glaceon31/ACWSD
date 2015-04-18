@@ -1,0 +1,17 @@
+<character value="霓">
+	<introduce>
+		<pinyin value="ni2" writing="ní" />
+		<bushou value="雨" />
+		<bushoustroke value="8" />
+		<stroke value="16" />
+		<order value="横捺折竖捺捺捺捺撇竖横折横横撇折" />
+	</introduce>
+	<pron value="ní">
+		<sense tag="名" vernacular="副虹，雨后天空中与虹同时出现的彩色圆弧">
+			<exam article="《笼鹰词》" ref="云披雾裂虹霓断。" />
+		</sense>
+	</pron>
+	<phrase value="霓旌">
+		<sense value="古时皇帝出行时仪仗的一种" />
+	</phrase>
+</character>

@@ -1,0 +1,32 @@
+<character value="受">
+	<introduce>
+		<pinyin value="shou4" writing="shòu" />
+		<bushou value="又" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇捺捺撇捺折折捺" />
+	</introduce>
+	<pron value="shòu">
+		<sense tag="动" vernacular="接受；承受">
+			<exam article="《鸿门宴》" ref="项王则受璧，置之坐上。" />
+		</sense>
+		<sense tag="动" vernacular="听从">
+			<exam article="《陈涉世家》" ref="徒属皆曰：‘敬受命。’" />
+		</sense>
+		<sense tag="动" vernacular="遭受">
+			<exam article="《论积贮疏》" ref="一夫不耕，或受之饥。" />
+		</sense>
+		<sense tag="动" vernacular="通“授”">
+			<exam article="《师说》" ref="师者，所以传道受业解惑也。" />
+		</sense>
+	</pron>
+	<phrase value="受生">
+		<sense value="禀性" />
+	</phrase>
+	<phrase value="受室">
+		<sense value="娶妻" />
+	</phrase>
+	<phrase value="受知">
+		<sense value="受人知遇" />
+	</phrase>
+</character>

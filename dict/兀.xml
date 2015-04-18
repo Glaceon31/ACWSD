@@ -1,0 +1,38 @@
+<character value="兀">
+	<introduce>
+		<pinyin value="wu4" writing="wù" />
+		<pinyin value="wu1" writing="wū" />
+		<bushou value="儿" />
+		<bushoustroke value="2" />
+		<stroke value="3" />
+		<order value="横撇折" />
+	</introduce>
+	<pron value="wù">
+		<sense tag="形" vernacular="高而上平的样子">
+			<exam article="《复庵记》" ref="雷首之山苍然突兀。" />
+		</sense>
+		<sense tag="形" vernacular="山无草木，光秃秃的样子">
+			<exam article="《阿房宫赋》" ref="蜀山兀，阿房出。" />
+		</sense>
+		<sense tag="形" vernacular="不安的样子">
+			<exam article="《孤园寺》" ref="艇子小且兀，缘湖荡白芷。" />
+		</sense>
+	</pron>
+	<phrase value="兀底">
+		<sense value="也作“兀的”" />
+		<sense value="这；这个；这样" />
+		<sense value="同“不”连用时表示反诘，相当于“这岂不”、“怎么不”" />
+	</phrase>
+	<phrase value="兀那">
+		<sense value="指示代词" />
+		<sense value="那；那个" />
+	</phrase>
+	<phrase value="兀然">
+		<sense value="仍然；还是" />
+		<sense value="昏沉的样子" />
+	</phrase>
+	<phrase value="兀自">
+		<sense value="径自；公然" />
+		<sense value="还；仍然" />
+	</phrase>
+</character>

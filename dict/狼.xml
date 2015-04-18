@@ -1,0 +1,17 @@
+<character value="狼">
+	<introduce>
+		<pinyin value="lang2" writing="láng" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="撇折撇捺折横横折撇捺" />
+	</introduce>
+	<pron value="láng">
+		<sense tag="名" vernacular="一种野兽，形状略像狗，昼伏夜出，性情凶残">
+			<exam article="《鸿门宴》" ref="夫秦王有虎狼之心，杀人如不能举，刑人如恐不胜。" />
+		</sense>
+	</pron>
+	<phrase value="狼烟">
+		<sense value="古代边关报警时烧起的烟" />
+	</phrase>
+</character>

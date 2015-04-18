@@ -1,0 +1,23 @@
+<character value="洿">
+	<introduce>
+		<pinyin value="wu1" writing="wū" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺横横撇捺横横折" />
+	</introduce>
+	<pron value="wū">
+		<sense tag="名" vernacular="浊水池不流的浊水">
+			<exam article="《孟子·梁惠王上》" ref="数罟不入洿池，鱼鳖不可胜食也。" />
+		</sense>
+		<sense tag="动" vernacular="挖掘">
+			<exam article="《礼记·檀弓下》" ref="杀其人，坏其室，洿其宫而豬焉。" />
+		</sense>
+		<sense tag="形" vernacular="污秽">
+			<exam article="《典引》" ref="司马相如洿行无节，但有浮华之辞，不周于用。" />
+		</sense>
+		<sense tag="动" vernacular="涂染">
+			<exam article="《汉书·王莽传下》" ref="又以墨洿色其周垣。" />
+		</sense>
+	</pron>
+</character>

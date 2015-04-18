@@ -1,0 +1,18 @@
+<character value="纤">
+	<introduce>
+		<pinyin value="xian1" writing="xiān" />
+		<pinyin value="qian4" writing="qiàn" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折折横撇横竖" />
+	</introduce>
+	<pron value="xiān">
+		<sense tag="形" vernacular="细小">
+			<exam article="《三国志·蜀书·诸葛亮传》" ref="善无微而不赏，恶无纤而不贬。" />
+		</sense>
+		<sense tag="形" vernacular="吝啬">
+			<exam article="《史记·货殖列传》" ref="周人既纤，而师史尤甚。" />
+		</sense>
+	</pron>
+</character>

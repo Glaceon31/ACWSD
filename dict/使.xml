@@ -1,0 +1,36 @@
+<character value="使">
+	<introduce>
+		<pinyin value="shi3" writing="shĭ" />
+		<pinyin value="shi4" writing="shì" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇竖横竖折横撇捺" />
+	</introduce>
+	<pron value="shǐ">
+		<sense tag="动" vernacular="命令；派遣">
+			<exam article="《陈涉世家》" ref="扶苏以数谏故，上使外将兵。" />
+		</sense>
+		<sense tag="动" vernacular="让；叫">
+			<exam article="《梦游天姥吟留别》" ref="安能摧眉折腰事权贵，使我不得开心颜。" />
+		</sense>
+		<sense tag="动" vernacular="使唤；驱使；使用">
+			<exam article="《五人墓碑记》" ref="人皆得以隶使之。" />
+		</sense>
+		<sense tag="动" vernacular="主；指使">
+			<exam article="《五人墓碑记》" ref="是进以大中丞抚吴者为魏之私人，周公之被逮所由使也。" />
+		</sense>
+		<sense tag="动" vernacular="出使">
+			<exam article="《屈原列传》" ref="是时屈原既疏，不复在位，使于齐。" />
+		</sense>
+		<sense tag="名" vernacular="出使的人；使者">
+			<exam article="《卖炭翁》" ref="一车炭，千余斤，宫使驱将惜不得。" />
+		</sense>
+		<sense tag="名" vernacular="使命">
+			<exam article="《赤壁之战》" ref="时周瑜受使至番阳。" />
+		</sense>
+		<sense tag="连" vernacular="假使；如果">
+			<exam article="《阿房宫赋》" ref="使六国爱其人，则足以拒秦。" />
+		</sense>
+	</pron>
+</character>

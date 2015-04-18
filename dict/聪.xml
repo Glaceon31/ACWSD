@@ -1,0 +1,32 @@
+<character value="聪">
+	<introduce>
+		<pinyin value="cong1" writing="cōng" />
+		<bushou value="耳" />
+		<bushoustroke value="6" />
+		<stroke value="15" />
+		<order value="横竖竖横横横捺撇竖折横捺折捺捺" />
+	</introduce>
+	<pron value="cōng">
+		<sense tag="形" vernacular="听力好">
+			<exam article="《荀子·性恶》" ref="目明而耳聪。" />
+			<exam article="《孟子·离娄》" ref="师旷之聪，不以六律，不能正五音。" />
+		</sense>
+		<sense tag="形" vernacular="听得清楚">
+			<exam article="《荀子·劝学》" ref="目不能两视而明，耳不能两听而聪。" />
+			<exam article="《屈原列传》" ref="屈平疾王听之不聪也。" />
+		</sense>
+		<sense tag="形" vernacular="聪明，有智慧">
+			<exam article="《陶侃》" ref="侃性聪敏恭勤。" />
+		</sense>
+	</pron>
+	<phrase value="聪了">
+		<sense value="聪明懂事" />
+	</phrase>
+	<phrase value="聪明">
+		<sense value="1" />
+		<sense value="听觉、视觉灵敏" />
+	</phrase>
+	<phrase value="聪颖">
+		<sense value="聪明" />
+	</phrase>
+</character>

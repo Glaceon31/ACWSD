@@ -1,0 +1,19 @@
+<character value="鸟">
+	<introduce>
+		<pinyin value="niao3" writing="niăo" />
+		<pinyin value="diao3" writing="diăo" />
+		<bushou value="鸟" />
+		<bushoustroke value="5" />
+		<stroke value="5" />
+		<order value="撇折捺折横" />
+	</introduce>
+	<pron value="niǎo">
+		<sense tag="名" vernacular="飞禽的总称">
+			<exam article="《说文解字》" ref="鸟，长尼禽总禽也。" />
+			<exam article="《与朱元思书》" ref="好鸟相鸣，嘤嘤成韵" />
+		</sense>
+		<sense tag="名" vernacular="古指南方朱鸟七宿星名">
+			<exam article="《尚书·尧典》" ref="日中星鸟。" />
+		</sense>
+	</pron>
+</character>

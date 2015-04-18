@@ -1,0 +1,20 @@
+<character value="碍">
+	<introduce>
+		<pinyin value="ai4" writing="ài" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="横撇竖折横竖折横横横横竖捺" />
+	</introduce>
+	<pron value="ài">
+		<sense tag="动" vernacular="阻止；阻挡">
+			<exam article="《法言·问道》" ref="圣人这所以治天下，碍诸礼乐也。" />
+		</sense>
+		<sense tag="名" vernacular="障碍">
+			<exam article="《与朱元思书》" ref="游鱼细石，直视无碍。" />
+		</sense>
+		<sense tag="动" vernacular="妨碍；妨害">
+			<exam article="《林教头风雪山神庙》" ref="这人莫不与林教头身上有些干碍？" />
+		</sense>
+	</pron>
+</character>

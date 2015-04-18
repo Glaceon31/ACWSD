@@ -1,0 +1,20 @@
+<character value="又">
+	<introduce>
+		<pinyin value="you4" writing="yòu" />
+		<bushou value="又" />
+		<bushoustroke value="2" />
+		<stroke value="2" />
+		<order value="折捺" />
+	</introduce>
+	<pron value="yòu">
+		<sense tag="副" vernacular="再；还">
+			<exam article="《愚公移山》" ref="子又生孙，孙又生子。" />
+		</sense>
+		<sense tag="副" vernacular="更">
+			<exam article="《游褒禅山记》" ref="盖其又深，则其至又加少矣。" />
+		</sense>
+		<sense tag="副" vernacular="却">
+			<exam article="《汉书·贾谊传》" ref="汉已幸胜之矣，又不易其所以然。" />
+		</sense>
+	</pron>
+</character>

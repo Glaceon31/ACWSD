@@ -1,0 +1,29 @@
+<character value="户">
+	<introduce>
+		<pinyin value="hu4" writing="hù" />
+		<bushou value="户" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="捺折横撇" />
+	</introduce>
+	<pron value="hù">
+		<sense tag="名" vernacular="单扇的门，泛指门">
+			<exam article="《五人墓碑记》" ref="令五人保其首领以老于户牖之下。" />
+		</sense>
+		<sense tag="名" vernacular="住户；人家">
+			<exam article="《治平篇》" ref="而户与口之数常处其有余也。" />
+		</sense>
+		<sense tag="名" vernacular="酒量">
+			<exam article="《久不见韩侍郎》" ref="户大嫌甜酒。" />
+		</sense>
+		<sense tag="动" vernacular="阻止">
+			<exam article="《左传·宣公十二年》" ref="屈荡户之。" />
+		</sense>
+	</pron>
+	<phrase value="户限">
+		<sense value="门槛" />
+	</phrase>
+	<phrase value="户尉">
+		<sense value="门神" />
+	</phrase>
+</character>

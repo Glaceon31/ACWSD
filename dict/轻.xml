@@ -1,0 +1,29 @@
+<character value="轻">
+	<introduce>
+		<pinyin value="qing1" writing="qīng" />
+		<bushou value="车" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横折竖横折捺横竖横" />
+	</introduce>
+	<pron value="qīng">
+		<sense tag="形" vernacular="（分量）轻；不重">
+			<exam article="《报任安书》" ref="人固有一死，或重于泰山，或轻于鸿毛。" />
+		</sense>
+		<sense tag="形" vernacular="轻便；轻快">
+			<exam article="《归去来兮辞》" ref="舟遥遥以轻飏，风飘飘而吹衣。" />
+		</sense>
+		<sense tag="动" vernacular="轻视；看不起">
+			<exam article="《望洋兴叹》" ref="而轻伯夷之义者，始吾弗信。" />
+		</sense>
+		<sense tag="形" vernacular="轻率；轻易">
+			<exam article="《殽之战》" ref="秦师轻而无礼，必败。" />
+		</sense>
+		<sense tag="副" vernacular="轻轻地；不费劲地">
+			<exam article="《琵琶行》" ref="轻拢慢捻抺复挑。" />
+		</sense>
+		<sense tag="形" vernacular="次要的；不重要的">
+			<exam article="《孟子·尽心上》" ref="民为贵，社稷次之，君为轻。" />
+		</sense>
+	</pron>
+</character>

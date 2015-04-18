@@ -1,0 +1,23 @@
+<character value="忍">
+	<introduce>
+		<pinyin value="ren3" writing="rĕn" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="折撇捺捺折捺捺" />
+	</introduce>
+	<pron value="rěn">
+		<sense tag="动" vernacular="容忍；忍受；忍耐">
+			<exam article="《廉颇蔺相如列传》" ref="且相如素贱人，吾羞，不忍为之下。" />
+		</sense>
+		<sense tag="动" vernacular="克制">
+			<exam article="《&lt;指南录&gt;后序》" ref="予分当引决，然而隐忍以行。" />
+		</sense>
+		<sense tag="形" vernacular="忍心；狠心；残忍">
+			<exam article="《鸿门宴》" ref="君王为人不忍。" />
+		</sense>
+		<sense tag="形使动" vernacular="使……坚韧；使坚定">
+			<exam article="《生于忧患，死于安乐》" ref="所以动心忍性，曾益其所不能。" />
+		</sense>
+	</pron>
+</character>

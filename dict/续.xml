@@ -1,0 +1,20 @@
+<character value="续">
+	<introduce>
+		<pinyin value="xu4" writing="xù" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="折折横横竖折捺捺横撇捺" />
+	</introduce>
+	<pron value="xù">
+		<sense tag="动" vernacular="连接；连续">
+			<exam article="《琵琶行》" ref="低眉信手续续弹。" />
+		</sense>
+		<sense tag="动" vernacular="继续">
+			<exam article="《赤壁之战》" ref="孤当续发人众，多载资粮，为卿后援。" />
+		</sense>
+	</pron>
+	<phrase value="续弦">
+		<sense value="古以琴瑟喻夫妇，故称妻死为断弦，再娶为续弦" />
+	</phrase>
+</character>

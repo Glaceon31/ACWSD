@@ -1,0 +1,14 @@
+<character value="斛">
+	<introduce>
+		<pinyin value="hu2" writing="hú" />
+		<bushou value="斗" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="撇折撇折横横竖捺捺横竖" />
+	</introduce>
+	<pron value="hú">
+		<sense tag="名" vernacular="古量器名，也是容量单位，十斗为一斛，南宋末年改五斗为一斛">
+			<exam article="《三国志·魏书·武帝纪》" ref="是岁谷一斛五十万钱。" />
+		</sense>
+	</pron>
+</character>

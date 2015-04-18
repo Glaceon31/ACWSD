@@ -1,0 +1,27 @@
+<character value="报">
+	<introduce>
+		<pinyin value="bao4" writing="bào" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横折竖折捺" />
+	</introduce>
+	<pron value="bào">
+		<sense tag="动" vernacular="断狱,判决罪人">
+			<exam article="《韩非子·五蠹》" ref="闻死刑之报,君为流涕。" />
+		</sense>
+		<sense tag="动" vernacular="报恩;报答">
+			<exam article="《陈情表》" ref="尽节于陛下之日长,报养刘之日短也。" />
+		</sense>
+		<sense tag="动" vernacular="报仇;报怨">
+			<exam article="《荆轲刺秦王》" ref="然则将军之仇报,而燕国见陵之耻除矣。" />
+		</sense>
+		<sense tag="动" vernacular="答复;回信">
+			<exam article="《廉颇蔺相如列传》" ref="计未定,求人可使报秦者。" />
+			<exam article="《西门豹治邺》" ref="烦大巫妪为入报河伯。" />
+		</sense>
+		<sense tag="动" vernacular="到……去,前往">
+			<exam article="《孔雀东南飞》" ref="卿但暂还家,吾今且报府。" />
+		</sense>
+	</pron>
+</character>

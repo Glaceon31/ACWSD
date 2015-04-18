@@ -1,0 +1,17 @@
+<character value="炰">
+	<introduce>
+		<pinyin value="pao2" writing="páo" />
+		<bushou value="灬" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="撇折折横折捺捺捺捺" />
+	</introduce>
+	<pron value="páo">
+		<sense tag="动" vernacular="同“炮”，烧烤">
+			<exam article="《汉书·杨恽传》" ref="岁时伏腊，烹羊炰羔。" />
+		</sense>
+	</pron>
+	<phrase value="炰烋">
+		<sense value="咆哮" />
+	</phrase>
+</character>

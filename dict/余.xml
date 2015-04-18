@@ -1,0 +1,34 @@
+<character value="余">
+	<introduce>
+		<pinyin value="yu2" writing="yú" />
+		<pinyin value="tu2" writing="tú" />
+		<bushou value="人" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇捺横横竖撇捺" />
+	</introduce>
+	<pron value="yú">
+		<sense tag="代" vernacular="我">
+			<exam article="《核舟记》" ref="尝贻余核舟一。" />
+		</sense>
+		<sense tag="形" vernacular="多余的">
+			<exam article="《论语》" ref="其余不足观也已。" />
+		</sense>
+		<sense tag="形" vernacular="遗留的">
+			<exam article="《子鱼论战》" ref="寡人虽亡国之余，不鼓不成列。" />
+		</sense>
+		<sense tag="名" vernacular="盈余">
+			<exam article="《论积贮疏》" ref="苟粟多而有余，何为而不成?" />
+		</sense>
+		<sense tag="数" vernacular="表示整数后的不定的零数">
+			<exam article="《卖炭翁》" ref="一车炭，千余斤，宫使驱将惜不得。" />
+		</sense>
+	</pron>
+	<phrase value="余波">
+		<sense value="江河的末流" />
+		<sense value="遗风流泽" />
+	</phrase>
+	<phrase value="余孽">
+		<sense value="残存的坏人" />
+	</phrase>
+</character>

@@ -1,0 +1,32 @@
+<character value="窥">
+	<introduce>
+		<pinyin value="kui1" writing="kuī" />
+		<bushou value="穴" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="捺捺折撇捺横横撇捺竖折撇折" />
+	</introduce>
+	<pron value="kuī">
+		<sense tag="动" vernacular="（从缝隙、小孔或隐蔽处）偷看">
+			<exam article="《黔之驴》" ref="蔽林间窥之。" />
+		</sense>
+		<sense tag="动" vernacular="观看；观">
+			<exam article="《邹忌讽齐王纳谏》" ref="朝服衣冠，窥镜。" />
+			<exam article="《与朱元思书》" ref="经纶世务者，窥谷忘反。" />
+		</sense>
+		<sense tag="动" vernacular="窥伺；暗中观察以等待机会">
+			<exam article="《过秦论》" ref="秦孝公据殽函之固，拥雍州之地，君臣固守以窥周室。" />
+		</sense>
+	</pron>
+	<pron value="kuí">
+		<sense tag="动" vernacular="通“跬”，迈出（一只脚）">
+			<exam article="《中山狼传》" ref="固当窥左足以效微劳，又肯讳之而不言哉？" />
+		</sense>
+	</pron>
+	<phrase value="窥鼎">
+		<sense value="潜谋废旧朝，自建新王朝" />
+	</phrase>
+	<phrase value="窥觊">
+		<sense value="暗中希求" />
+	</phrase>
+</character>

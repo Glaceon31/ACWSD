@@ -1,0 +1,29 @@
+<character value="尸">
+	<introduce>
+		<pinyin value="shi1" writing="shī" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="折横撇" />
+	</introduce>
+	<pron value="shī">
+		<sense tag="名" vernacular="尸体，古也写作“屍”">
+			<exam article="《唐雎不辱使命》" ref="伏尸百万，流血千里。" />
+		</sense>
+		<sense tag="动" vernacular="陈列尸体示众">
+			<exam article="《叔向贺贫》" ref="其身尸于朝，其宗灭绛。" />
+		</sense>
+		<sense tag="名" vernacular="古代代表死者受祭的人">
+			<exam article="《仪礼·士虞礼》" ref="祝迎尸。" />
+		</sense>
+		<sense tag="动" vernacular="主持">
+			<exam article="《左传·襄公二十七年》" ref="且诸侯盟，小国固必有尸盟者。" />
+		</sense>
+	</pron>
+	<phrase value="尸臣">
+		<sense value="主事的大臣" />
+	</phrase>
+	<phrase value="尸利">
+		<sense value="如尸之只受享祭而无所事事，喻受禄而不尽职责" />
+	</phrase>
+</character>

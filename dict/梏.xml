@@ -1,0 +1,20 @@
+<character value="梏">
+	<introduce>
+		<pinyin value="gu4" writing="gù" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横竖撇捺撇横竖横竖折横" />
+	</introduce>
+	<pron value="gù">
+		<sense tag="名" vernacular="木制的手铐">
+			<exam article="《童区寄传》" ref="束缚钳梏之。" />
+		</sense>
+		<sense tag="形" vernacular="大；正直">
+			<exam article="《礼记·缁衣》" ref="诗云：有梏德行，四国顺之。" />
+		</sense>
+	</pron>
+	<phrase value="梏亡">
+		<sense value="因受束缚而丧失" />
+	</phrase>
+</character>

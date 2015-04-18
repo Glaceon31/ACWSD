@@ -1,0 +1,40 @@
+<character value="责">
+	<introduce>
+		<pinyin value="ze2" writing="zé" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横横竖横竖折撇捺" />
+	</introduce>
+	<pron value="zé">
+		<sense tag="动" vernacular="索取">
+			<exam article="《促织》" ref="每责一头，辄倾数家之产。" />
+		</sense>
+		<sense tag="动" vernacular="责令；要求">
+			<exam article="《促织》" ref="因责常供。" />
+		</sense>
+		<sense tag="动" vernacular="责备">
+			<exam article="《陈情表》" ref="诏书切峻，责臣逋慢。" />
+		</sense>
+		<sense tag="名" vernacular="处罚">
+			<exam article="《促织》" ref="当其为里正，受扑责时，岂意其至此哉！" />
+		</sense>
+		<sense tag="名" vernacular="责任">
+			<exam article="《谭嗣同》" ref="救护之责，非独足下。" />
+		</sense>
+	</pron>
+	<pron value="zhài">
+		<sense tag="名" vernacular="欠别人的钱财">
+			<exam article="《冯谖客孟尝君》" ref="先生不羞，乃有意欲为收责于薛乎？" />
+		</sense>
+		<sense tag="动" vernacular="讨债">
+			<exam article="《吕氏春秋·疑似》" ref="昔也往责于东邑人。" />
+		</sense>
+	</pron>
+	<phrase value="责成">
+		<sense value="督促，要求人完成任务作出成绩" />
+	</phrase>
+	<phrase value="责望">
+		<sense value="互相责怪、抱怨" />
+	</phrase>
+</character>

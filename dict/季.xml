@@ -1,0 +1,36 @@
+<character value="季">
+	<introduce>
+		<pinyin value="ji4" writing="jì" />
+		<bushou value="子" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇横竖撇捺折竖横" />
+	</introduce>
+	<pron value="jì">
+		<sense tag="形" vernacular="年少的；年幼的">
+			<exam article="《诗经·召南·采蘋》" ref="谁其尸之？有齐季女。" />
+		</sense>
+		<sense tag="名" vernacular="指年少的人">
+			<exam article="《赠二苏公》" ref="一翁二季相对望。" />
+		</sense>
+		<sense tag="名" vernacular="古以伯（孟）、仲、叔、季排行">
+			<exam article="《鸿门宴》" ref="楚左尹项伯者，项羽季父也。" />
+		</sense>
+		<sense tag="名" vernacular="泛指弟弟">
+			<exam article="《春夜宴从弟桃李园序》" ref="群季俊秀，皆为惠连。" />
+		</sense>
+		<sense tag="名" vernacular="一个朝代或一个时代的末期">
+			<exam article="《&lt;黄花冈七十二烈士事略&gt;序》" ref="杌陧之象，视清季有加。" />
+		</sense>
+		<sense tag="形" vernacular="修饰春夏秋冬四季，指该季节的最后一个月">
+			<exam article="《时令论上》" ref="季冬讲武，习射御。" />
+		</sense>
+		<sense tag="名" vernacular="季节" />
+	</pron>
+	<phrase value="季俗">
+		<sense value="末世的风俗" />
+	</phrase>
+	<phrase value="季叶">
+		<sense value="末世；末期" />
+	</phrase>
+</character>

@@ -1,0 +1,33 @@
+<character value="缄">
+	<introduce>
+		<pinyin value="jian1" writing="jiān" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折折横横撇横竖折横折撇捺" />
+	</introduce>
+	<pron value="jiān">
+		<sense tag="名" vernacular="捆东西的绳索">
+			<exam article="《汉书·外戚传下》" ref="使客子解箧缄。" />
+		</sense>
+		<sense tag="动" vernacular="封口，封闭">
+			<exam article="《秋浦感主人归燕寄内》" ref="寄书道中叹，泪下不能缄。" />
+		</sense>
+		<sense tag="动" vernacular="闭口">
+			<exam article="《宋史·郑侠传》" ref="御史缄默不言。" />
+		</sense>
+		<sense tag="名" vernacular="书信">
+			<exam article="《回襄阳周奉礼同年因题纸尾》" ref="两月劳君寄两缄。" />
+		</sense>
+		<sense tag="动" vernacular="寄">
+			<exam article="《答吴立夫》" ref="题诗缄恨去，离绪极纷纶。" />
+		</sense>
+	</pron>
+	<phrase value="缄愁">
+		<sense value="寄信述说相思之苦" />
+	</phrase>
+	<phrase value="缄縢">
+		<sense value="绳索" />
+		<sense value="封存" />
+	</phrase>
+</character>

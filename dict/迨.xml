@@ -1,0 +1,18 @@
+<character value="迨">
+	<introduce>
+		<pinyin value="dai4" writing="dài" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折捺竖折横捺折捺" />
+	</introduce>
+	<pron value="dài">
+		<sense tag="动" vernacular="等到；到；及">
+			<exam article="《柳毅传》" ref="迨诉频切，又得罪舅姑。" />
+			<exam article="《芙蕖》" ref="迨至菡萏成花，娇姿欲滴。" />
+		</sense>
+		<sense tag="介" vernacular="乘；趁着">
+			<exam article="《公羊传·僖公二十二年》" ref="请迨其未毕陈而击之。" />
+		</sense>
+	</pron>
+</character>

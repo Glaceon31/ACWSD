@@ -1,0 +1,14 @@
+<character value="枘">
+	<introduce>
+		<pinyin value="rui4" writing="ruì" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横竖撇捺竖折撇捺" />
+	</introduce>
+	<pron value="ruì">
+		<sense tag="名" vernacular="榫(sǔn)子；榫头">
+			<exam article="《九辨》" ref="圜凿而方枘兮，吾固知其鉏鋙而难入。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="萌">
+	<introduce>
+		<pinyin value="meng2" writing="méng" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖竖竖折横横撇折横横" />
+	</introduce>
+	<pron value="méng">
+		<sense tag="动" vernacular="草木发芽">
+			<exam article="《礼记·月令》" ref="草木萌动。" />
+		</sense>
+		<sense tag="名" vernacular="通“氓”，老百姓">
+			<exam article="《韩非子·问田》" ref="齐民萌之度。" />
+		</sense>
+	</pron>
+</character>

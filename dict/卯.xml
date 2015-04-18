@@ -1,0 +1,16 @@
+<character value="卯">
+	<introduce>
+		<pinyin value="mao3" writing="măo" />
+		<bushou value="卩" />
+		<bushoustroke value="2" />
+		<stroke value="5" />
+		<order value="撇折撇折竖" />
+	</introduce>
+	<pron value="mǎo">
+		<sense tag="名" vernacular="地支的第四位" />
+		<sense vernacular="古代官署办公从卯时开始，因此后来把点叫“点卯”，应名叫“应卯”" />
+	</pron>
+	<phrase value="卯酉">
+		<sense value="指对立、矛盾" />
+	</phrase>
+</character>

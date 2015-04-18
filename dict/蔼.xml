@@ -1,0 +1,29 @@
+<character value="蔼">
+	<introduce>
+		<pinyin value="ai3" writing="ăi" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="横竖竖捺折竖折横横撇折撇捺折" />
+	</introduce>
+	<pron value="ǎi">
+		<sense tag="形" vernacular="树木茂密的样子">
+			<exam article="《题文翁石室》" ref="古柏尚留今日翠,高眠犹蔼旧时青。" />
+			<exam article="《雨》" ref="行云递崇高,飞雨蔼而至。" />
+		</sense>
+		<sense tag="形" vernacular="和蔼;善美">
+			<exam article="《答李翊书》" ref="仁义之人,其言蔼如也。" />
+		</sense>
+		<sense tag="动" vernacular="笼罩;遮蔽">
+			<exam article="《弔林和靖》" ref="不识酌泉拈菊意,一庭寒翠蔼空祠。" />
+		</sense>
+		<sense tag="名" vernacular="通“霭”">
+			<exam article="《秋夕纳凉奉和刑狱舅》" ref="虚堂起青蔼,崦嵫生暮霞。" />
+			<exam article="《管子·侈靡》" ref="蔼然若夏之静云。" />
+		</sense>
+	</pron>
+	<phrase value="蔼蔼">
+		<sense value="ǎiǎi1" />
+		<sense value="众多的样子" />
+	</phrase>
+</character>

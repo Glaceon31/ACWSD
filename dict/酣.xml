@@ -1,0 +1,34 @@
+<character value="酣">
+	<introduce>
+		<pinyin value="han1" writing="hān" />
+		<bushou value="酉" />
+		<bushoustroke value="7" />
+		<stroke value="12" />
+		<order value="横竖折撇折横横横竖竖横横" />
+	</introduce>
+	<pron value="hān">
+		<sense tag="形" vernacular="酒喝得畅快">
+			<exam article="《信陵君窃符求赵》" ref="酒酣，公子起，为寿侯生前。" />
+		</sense>
+		<sense tag="形浓；盛" vernacular="">
+			<exam article="《题西太一宫壁》" ref="荷花落日红酣。" />
+		</sense>
+		<sense tag="形" vernacular="激烈">
+			<exam article="《淮南子·览冥》" ref="鲁阳公与韩构难，战酣，日暮。" />
+		</sense>
+		<sense tag="副" vernacular="心情地；尽兴地">
+			<exam article="《狱中杂记》" ref="将出，日与其置酒酣歌达曙。" />
+		</sense>
+		<sense tag="动" vernacular="沉湎；沉溺">
+			<exam article="《苦斋记》" ref="夫差以酣酒亡，而勾践以尝胆兴。" />
+		</sense>
+	</pron>
+	<phrase value="酣放">
+		<sense value="纵酒狂放" />
+		<sense value="行文纵恣放逸" />
+	</phrase>
+	<phrase value="酣豢">
+		<sense value="饮酒娱乐" />
+		<sense value="指生活富豪" />
+	</phrase>
+</character>

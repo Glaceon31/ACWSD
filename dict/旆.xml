@@ -1,0 +1,18 @@
+<character value="旆">
+	<introduce>
+		<pinyin value="pei4" writing="pèi" />
+		<bushou value="方" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="捺横折撇撇横横竖折竖" />
+	</introduce>
+	<pron value="pèi">
+		<sense tag="名" vernacular="古代旗边陲下的饰品">
+			<exam article="《诗经·小雅·六月》" ref="白旆央央。" />
+		</sense>
+	</pron>
+	<phrase value="旆旆">
+		<sense value="旗帜飘扬的样子" />
+		<sense value="生长茂盛的样子" />
+	</phrase>
+</character>

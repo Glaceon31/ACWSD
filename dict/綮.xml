@@ -1,0 +1,16 @@
+<character value="綮">
+	<introduce>
+		<pinyin value="qi3" writing="qĭ" />
+		<pinyin value="qing4" writing="qìng" />
+		<pinyin value="qing3" writing="qĭng" />
+		<bushou value="糸" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="捺折横撇撇横撇捺折折捺竖撇捺" />
+	</introduce>
+	<pron value="qǐng">
+		<sense tag="名" vernacular="筋骨结合处">
+			<exam article="《庖丁解牛》" ref="肢经肯綮之未尝，而况大軱呼？" />
+		</sense>
+	</pron>
+</character>

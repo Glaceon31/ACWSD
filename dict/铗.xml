@@ -1,0 +1,17 @@
+<character value="铗">
+	<introduce>
+		<pinyin value="jia2" writing="jiá" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="撇横横横折横捺撇横撇捺" />
+	</introduce>
+	<pron value="jiá">
+		<sense tag="名" vernacular="剑柄">
+			<exam article="《冯谖客孟尝君》" ref="后有顷，复弹其剑铗。" />
+		</sense>
+		<sense tag="名" vernacular="代指剑">
+			<exam article="《涉江》" ref="带长铗之陆离兮，冠切云之崔嵬。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,45 @@
+<character value="南">
+	<introduce>
+		<pinyin value="nan2" writing="nán" />
+		<pinyin value="na1" writing="nā" />
+		<bushou value="十" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="横竖竖折捺撇横横竖" />
+	</introduce>
+	<pron value="nán">
+		<sense tag="名" vernacular="方向，同“北”相反">
+			<exam article="《过秦论》" ref="南取汉中，西举巴蜀。" />
+		</sense>
+		<sense tag="动" vernacular="向南走">
+			<exam article="《墨子·贵义》" ref="南之人不得北，北之人不得南。" />
+		</sense>
+		<sense tag="名" vernacular="古代乐舞名称">
+			<exam article="《诗经·鼓钟》" ref="以雅以南。" />
+		</sense>
+	</pron>
+	<pron value="nān">
+		<sense vernacular="见“南无”" />
+	</pron>
+	<phrase value="南冠">
+		<sense value="楚人冠名" />
+		<sense value="后借把羁留异地或作为囚犯的代称" />
+	</phrase>
+	<phrase value="南柯梦">
+		<sense value="比喻空幻和富贵得失天常" />
+	</phrase>
+	<phrase value="南亩">
+		<sense value="南面田地向阳，利于农作物生长，故古代农田多向南开" />
+		<sense value="后泛指农田" />
+	</phrase>
+	<phrase value="南云">
+		<sense value="南飞的云，古诗文中常借以表达思亲、怀乡之情" />
+	</phrase>
+	<phrase value="南枝">
+		<sense value="南向的树枝，后常借指故乡" />
+	</phrase>
+	<phrase value="南无">
+		<sense value="又写作“南膜”，梵语音译字" />
+		<sense value="佛教用语，表示对佛的尊敬和虔诚" />
+	</phrase>
+</character>

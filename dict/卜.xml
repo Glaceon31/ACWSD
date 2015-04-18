@@ -1,0 +1,21 @@
+<character value="卜">
+	<introduce>
+		<pinyin value="bu3" writing="bŭ" />
+		<pinyin value="bo5" writing="bo" />
+		<bushou value="卜" />
+		<bushoustroke value="2" />
+		<stroke value="2" />
+		<order value="竖捺" />
+	</introduce>
+	<pron value="bǔ">
+		<sense tag="动" vernacular="占卜,烧灼龟甲,根据烧后的裂纹预测吉凶">
+			<exam article="《陈涉世家》" ref="n行卜。" />
+			<exam article="《促织》" ref="能以神卜。" />
+		</sense>
+		<sense tag="动" vernacular="估计;预料">
+			<exam article="《柳毅传》" ref="未卜将以为可手?" />
+			<exam article="《谭嗣同》" ref="今南海之生死未可卜。" />
+		</sense>
+		<sense tag="动" vernacular="挑选;选择" />
+	</pron>
+</character>

@@ -1,0 +1,20 @@
+<character value="帛">
+	<introduce>
+		<pinyin value="bo2" writing="bó" />
+		<bushou value="巾" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇竖折横横竖折竖" />
+	</introduce>
+	<pron value="bó">
+		<sense tag="名" vernacular="丝织品的总称">
+			<exam article="《曹刿论战》" ref="牺牲玉帛,弗敢加也。" />
+		</sense>
+		<sense tag="名" vernacular="泛指财物;礼品">
+			<exam article="《孔雀东南飞》" ref="受母钱帛多,不堪母驱使。" />
+		</sense>
+	</pron>
+	<phrase value="帛缕">
+		<sense value="丝缕" />
+	</phrase>
+</character>

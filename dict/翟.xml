@@ -1,0 +1,28 @@
+<character value="翟">
+	<introduce>
+		<pinyin value="zhai2" writing="zhái" />
+		<pinyin value="di2" writing="dí" />
+		<bushou value="羽" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="折捺横折捺横撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="zhái">
+		<sense vernacular="姓" />
+	</pron>
+	<pron value="dì">
+		<sense tag="名" vernacular="长尾巴的野鸡">
+			<exam article="《山鹧鸪词》" ref="山鸡翟雉来相劝。" />
+		</sense>
+		<sense tag="名" vernacular="古代乐舞所执的野鸡毛">
+			<exam article="《诗经·邶风·简兮》" ref="右手秉翟。" />
+		</sense>
+		<sense tag="名" vernacular="用野鸡毛装饰的衣服、车子、道具等器物">
+			<exam article="《诗经·卫风·硕人》" ref="翟茀以朝。" />
+		</sense>
+		<sense tag="名" vernacular="通“狄”" />
+	</pron>
+	<phrase value="翟茀">
+		<sense value="古代一种用翟羽装饰屏障，贵妇所乘的车子" />
+	</phrase>
+</character>

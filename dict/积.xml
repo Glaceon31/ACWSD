@@ -1,0 +1,26 @@
+<character value="积">
+	<introduce>
+		<pinyin value="ji1" writing="jī" />
+		<bushou value="禾" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="撇横竖撇捺竖折横撇捺" />
+	</introduce>
+	<pron value="jī">
+		<sense tag="动" vernacular="堆积谷物">
+			<exam article="《诗经·大雅·公刘》" ref="廼积廼仓。" />
+		</sense>
+		<sense tag="动" vernacular="堆积；堆放">
+			<exam article="《劝学》" ref="积土成山，风雨兴焉。" />
+		</sense>
+		<sense tag="动" vernacular="积蓄；积累">
+			<exam article="《劝学》" ref="故不积跬步，无以成江海。" />
+		</sense>
+		<sense tag="形" vernacular="堆积或积累起来的">
+			<exam article="《六国论》" ref="为国者无使为积威之所劫哉。" />
+		</sense>
+		<sense tag="名" vernacular="积聚储蓄起来的粮食、资财等东西">
+			<exam article="《殽之战》" ref="居则具一日之积，行则备一夕之卫。" />
+		</sense>
+	</pron>
+</character>

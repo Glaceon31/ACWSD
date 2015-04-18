@@ -1,0 +1,14 @@
+<character value="跽">
+	<introduce>
+		<pinyin value="ji4" writing="jì" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="14" />
+		<order value="竖折横竖横竖横折横折捺折捺捺" />
+	</introduce>
+	<pron value="jì">
+		<sense tag="动" vernacular="长跪，跪姿的一种">
+			<exam article="《鸿门宴》" ref="项王按剑而跽。" />
+		</sense>
+	</pron>
+</character>

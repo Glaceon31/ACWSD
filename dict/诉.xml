@@ -1,0 +1,20 @@
+<character value="诉">
+	<introduce>
+		<pinyin value="su4" writing="sù" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺折撇撇横竖捺" />
+	</introduce>
+	<pron value="sù">
+		<sense tag="动" vernacular="诉说；诉苦">
+			<exam article="《琵琶行》" ref="弦弦掩抑声声，似诉平生不得志。" />
+		</sense>
+		<sense tag="动" vernacular="上诉；控告">
+			<exam article="《书博鸡者事》" ref="以两竿夹揭之，走诉行御史台。" />
+		</sense>
+		<sense tag="动" vernacular="辞酒不饮">
+			<exam article="《蝶恋花》" ref="鹦鹉杯深君莫诉，他时相遇知何处。" />
+		</sense>
+	</pron>
+</character>

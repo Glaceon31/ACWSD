@@ -1,0 +1,26 @@
+<character value="謷">
+	<introduce>
+		<pinyin value="ao2" writing="áo" />
+		<bushou value="言" />
+		<bushoustroke value="7" />
+		<stroke value="17" />
+		<order value="横横竖横折撇撇横撇捺捺横横横竖折横" />
+	</introduce>
+	<pron value="ào">
+		<sense tag="动" vernacular="毁谤，诬蔑">
+			<exam article="《蓝田县丞厅壁记》" ref="至以相訾謷。" />
+		</sense>
+		<sense tag="形" vernacular="高大">
+			<exam article="《庄子·德充符》" ref="謷乎大哉，独成其天。" />
+		</sense>
+	</pron>
+	<pron value="ào">
+		<sense tag="形" vernacular="通“傲”，傲慢；骄傲">
+			<exam article="《庄子·天地》" ref="虽以天下誉之得其所谓，謷然不顾。" />
+		</sense>
+	</pron>
+	<phrase value="謷謷">
+		<sense value="1" />
+		<sense value="哀怨或愁叹声" />
+	</phrase>
+</character>

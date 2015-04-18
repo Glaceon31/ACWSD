@@ -1,0 +1,15 @@
+<character value="踯">
+	<introduce>
+		<pinyin value="zhi2" writing="zhí" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="15" />
+		<order value="竖折横竖横竖横捺撇横横撇捺折竖" />
+	</introduce>
+	<pron value="zhí">
+		<sense vernacular="见“踯躅”" />
+	</pron>
+	<phrase value="踯躅">
+		<sense value="徘徊不前" />
+	</phrase>
+</character>

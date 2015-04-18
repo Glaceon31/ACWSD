@@ -1,0 +1,24 @@
+<character value="西">
+	<introduce>
+		<pinyin value="xi1" writing="xī" />
+		<bushou value="覀" />
+		<bushoustroke value="6" />
+		<stroke value="6" />
+		<order value="横竖折撇折横" />
+	</introduce>
+	<pron value="xī">
+		<sense tag="名" vernacular="西方；西边">
+			<exam article="《木兰诗》" ref="开我东阁门，坐我西阁床。" />
+		</sense>
+		<sense tag="名作状" vernacular="向西；往西">
+			<exam article="《廉颇蔺相如列传》" ref="赵王于是遂遣相如奉璧西入秦。" />
+		</sense>
+		<sense tag="动" vernacular="向西行进">
+			<exam article="《孙膑减灶》" ref="齐军既已过而西矣。" />
+		</sense>
+	</pron>
+	<phrase value="西塾">
+		<sense value="私塾；私人聘请教师育子弟的学舍" />
+		<sense value="古礼主人位在东，客人位在西，所以敬称被聘来教师或幕友的读书人为西宾、西席，私塾也称西塾" />
+	</phrase>
+</character>

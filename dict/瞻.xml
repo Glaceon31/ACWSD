@@ -1,0 +1,17 @@
+<character value="瞻">
+	<introduce>
+		<pinyin value="zhan1" writing="zhān" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="18" />
+		<order value="竖折横横横撇折横撇撇捺捺横横横竖折横" />
+	</introduce>
+	<pron value="zhān">
+		<sense tag="动" vernacular="往上或往前看">
+			<exam article="《伐檀》" ref="不狩不猎，胡瞻尔庭有县貆兮。" />
+		</sense>
+	</pron>
+	<phrase value="瞻仰">
+		<sense value="恭敬地看" />
+	</phrase>
+</character>

@@ -1,0 +1,39 @@
+<character value="凶">
+	<introduce>
+		<pinyin value="xiong1" writing="xiōng" />
+		<bushou value="凵" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="撇捺折竖" />
+	</introduce>
+	<pron value="xiōng">
+		<sense tag="形" vernacular="不吉利">
+			<exam article="《葫芦僧判断葫芦案》" ref="趋吉避凶者为君子。" />
+		</sense>
+		<sense tag="名" vernacular="灾祸；灾害">
+			<exam article="《齐桓晋文之事》" ref="乐岁终身饱，凶年不免于死亡。" />
+		</sense>
+		<sense tag="动" vernacular="遇到饥荒">
+			<exam article="《寡人之于国也》" ref="河内凶，则移其民于河东。" />
+		</sense>
+		<sense tag="名" vernacular="不幸的事，特指丧事">
+			<exam article="《陈情表》" ref="臣以险衅，夙遭闵凶。" />
+		</sense>
+		<sense tag="形" vernacular="凶恶；凶暴">
+			<exam article="《周处》" ref="周处年少时，凶强侠气。" />
+		</sense>
+		<sense tag="名" vernacular="凶恶的人；作恶的人">
+			<exam article="《出师表》" ref="庶竭驽钝，攘除奸凶。" />
+		</sense>
+		<sense tag="动" vernacular="因恐惧而喧扰">
+			<exam article="《左传·僖公二十八年》" ref="曹人凶惧。" />
+		</sense>
+	</pron>
+	<phrase value="凶年">
+		<sense value="粮食歉收的年份" />
+	</phrase>
+	<phrase value="凶神">
+		<sense value="凶恶的神灵" />
+		<sense value="比喻凶恶的人" />
+	</phrase>
+</character>

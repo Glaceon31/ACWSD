@@ -1,0 +1,23 @@
+<character value="炳">
+	<introduce>
+		<pinyin value="bing3" writing="bĭng" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="捺撇撇捺横竖折撇捺" />
+	</introduce>
+	<pron value="bǐng">
+		<sense tag="形" vernacular="明亮，显著">
+			<exam article="《论衡·书解》" ref="大人德扩，其文炳。" />
+		</sense>
+		<sense tag="动" vernacular="显示">
+			<exam article="《洛阳伽蓝记》" ref="常有神验，国之吉凶，先炳祥异。" />
+		</sense>
+		<sense tag="动" vernacular="明白">
+			<exam article="《画大罗天尊赞文》" ref="粹容俨若，真相炳焉。" />
+		</sense>
+		<sense tag="动" vernacular="点燃">
+			<exam article="《说苑·建本》" ref="老而好学，如炳烛之明。" />
+		</sense>
+	</pron>
+</character>

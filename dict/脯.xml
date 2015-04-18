@@ -1,0 +1,27 @@
+<character value="脯">
+	<introduce>
+		<pinyin value="fu3" writing="fŭ" />
+		<pinyin value="pu2" writing="pú" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="撇折横横横竖折横横竖捺" />
+	</introduce>
+	<pron value="pú">
+		<sense tag="名" vernacular="胸脯">
+			<exam article="《柳毅传》" ref="嗔忿忿腆着胸脯。" />
+		</sense>
+	</pron>
+	<pron value="fǔ">
+		<sense tag="名" vernacular="干肉">
+			<exam article="《礼记·内则》" ref="牛条鹿脯。" />
+		</sense>
+		<sense tag="名" vernacular="蜜渍的干果，如“杏脯”">
+			<exam article="《饮马长城窟行》" ref="生男慎莫举，生女哺用脯。" />
+		</sense>
+	</pron>
+	<phrase value="脯醢">
+		<sense value="佐酒的食品" />
+		<sense value="杀戮后将尸体砍碎，剁成肉泥" />
+	</phrase>
+</character>

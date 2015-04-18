@@ -1,0 +1,38 @@
+<character value="背">
+	<introduce>
+		<pinyin value="bei4" writing="bèi" />
+		<pinyin value="bei1" writing="bēi" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="竖横横撇折竖折横横" />
+	</introduce>
+	<pron value="bèi">
+		<sense tag="名" vernacular="脊背〖引〗物体的后面、反面或上面">
+			<exam article="《石元丰行示德逢》" ref="田背坼如龟兆出。" />
+		</sense>
+		<sense tag="名" vernacular="堂屋的北面">
+			<exam article="《诗经·卫风·伯兮》" ref="焉得谖草,言树之背。" />
+		</sense>
+		<sense tag="动" vernacular="背对着;背靠着">
+			<exam article="《后汉书·铫期传》" ref="期乃更背水而战,所杀伤甚多。" />
+		</sense>
+		<sense tag="动" vernacular="违背;违反">
+			<exam article="《上书谏吴王》" ref="弃义背理,不知其恶。" />
+		</sense>
+		<sense tag="动" vernacular="背向;离开" />
+		<sense tag="动" vernacular="背诵,凭记忆诵读" />
+		<sense tag="形" vernacular="不顺">
+			<exam article="《赠从弟宣州长史昭》" ref="才将圣不偶,命与时俱背。" />
+		</sense>
+		<sense tag="名" vernacular="日光通过云层因折射作用而在太阳周围形成的光圈的外围">
+			<exam article="《元史·天文志一》" ref="日有背气,重晕三珥。" />
+		</sense>
+		<sense tag="名" vernacular="同“褙”裱褙">
+			<exam article="《二王等书录》" ref="晋代装书,真草浑杂,背纸皱起。" />
+		</sense>
+		<sense vernacular="bēi负荷,用背驮东西">
+			<exam article="《李贺小传》" ref="背一古破锦囊。" />
+		</sense>
+	</pron>
+</character>

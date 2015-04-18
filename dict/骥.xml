@@ -1,0 +1,21 @@
+<character value="骥">
+	<introduce>
+		<pinyin value="ji4" writing="jì" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="19" />
+		<order value="折折横竖横横撇折竖折横竖横横竖竖横撇捺" />
+	</introduce>
+	<pron value="jì">
+		<sense tag="名" vernacular="骏马；良马">
+			<exam article="《劝学》" ref="骐骥一跃，不能十步。" />
+			<exam article="《龟虽寿》" ref="老骥伏枥，志在千里。" />
+		</sense>
+	</pron>
+	<phrase value="骥尾">
+		<sense value="比喻凭借他人而成名" />
+	</phrase>
+	<phrase value="骥足">
+		<sense value="比喻俊逸的才华" />
+	</phrase>
+</character>

@@ -1,0 +1,17 @@
+<character value="渝">
+	<introduce>
+		<pinyin value="yu2" writing="yú" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺横撇捺横竖折横横竖竖" />
+	</introduce>
+	<pron value="yú">
+		<sense tag="动" vernacular="改变">
+			<exam article="《诗经·郑风·羔裘》" ref="舍命不渝。" />
+		</sense>
+		<sense tag="动" vernacular="泛滥">
+			<exam article="《海赋》" ref="沸溃渝溢。" />
+		</sense>
+	</pron>
+</character>

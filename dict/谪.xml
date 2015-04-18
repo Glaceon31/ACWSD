@@ -1,0 +1,26 @@
+<character value="谪">
+	<introduce>
+		<pinyin value="zhe2" writing="zhé" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="13" />
+		<order value="捺折捺横捺撇竖折横竖竖折横" />
+	</introduce>
+	<pron value="zhé">
+		<sense tag="动" vernacular="谴责；责备">
+			<exam article="《左传·成公十七年》" ref="国子谪我。" />
+		</sense>
+		<sense tag="动" vernacular="被贬官，降职">
+			<exam article="《琵琶行》" ref="谪居卧病浔阳城。" />
+		</sense>
+		<sense tag="名" vernacular="缺点；过失">
+			<exam article="《老子》" ref="善言无瑕谪。" />
+		</sense>
+	</pron>
+	<phrase value="谪戍">
+		<sense value="把被革职的官吏或犯了罪的人充发到边远的地方" />
+	</phrase>
+	<phrase value="谪仙">
+		<sense value="谪居世间的仙人" />
+	</phrase>
+</character>

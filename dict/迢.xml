@@ -1,0 +1,13 @@
+<character value="迢">
+	<introduce>
+		<pinyin value="tiao2" writing="tiáo" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折撇竖折横捺折捺" />
+	</introduce>
+	<pron value="tiáo">
+		<sense vernacular="见“迢迢”" />
+	</pron>
+	<phrase value="迢迢" />
+</character>

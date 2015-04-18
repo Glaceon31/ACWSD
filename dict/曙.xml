@@ -1,0 +1,15 @@
+<character value="曙">
+	<introduce>
+		<pinyin value="shu3" writing="shŭ" />
+		<pinyin value="shu4" writing="shù" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="17" />
+		<order value="竖折横横竖折竖竖横横竖横撇竖折横横" />
+	</introduce>
+	<pron value="shǔ">
+		<sense tag="动" vernacular="天刚亮；破晓">
+			<exam article="《孔雀东南飞》" ref="鸡鸣外欲曙，新妇起严妆。" />
+		</sense>
+	</pron>
+</character>

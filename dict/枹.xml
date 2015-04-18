@@ -1,0 +1,21 @@
+<character value="枹">
+	<introduce>
+		<pinyin value="bao1" writing="bāo" />
+		<pinyin value="fu2" writing="fú" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横竖撇捺撇折折横折" />
+	</introduce>
+	<pron value="fú">
+		<sense tag="名" vernacular="鼓槌">
+			<exam article="《国殇》" ref="援玉枹兮击鸣鼓。" />
+			<exam article="《石钟山记》" ref="枹止响腾，余韵徐歇。" />
+		</sense>
+	</pron>
+	<phrase value="枹鼓">
+		<sense value="鼓槌和鼓" />
+		<sense value="战鼓" />
+		<sense value="比喻军旅" />
+	</phrase>
+</character>

@@ -1,0 +1,17 @@
+<character value="懈">
+	<introduce>
+		<pinyin value="xie4" writing="xiè" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="捺捺竖撇折撇折横横竖折撇撇横横竖" />
+	</introduce>
+	<pron value="xiè">
+		<sense tag="形" vernacular="松懈；松弛">
+			<exam article="《出师表》" ref="然侍卫之臣不懈于内。" />
+		</sense>
+	</pron>
+	<phrase value="懈怠">
+		<sense value="懒散；思想不重视、态度不认真" />
+	</phrase>
+</character>

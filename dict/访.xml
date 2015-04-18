@@ -1,0 +1,21 @@
+<character value="访">
+	<introduce>
+		<pinyin value="fang3" writing="făng" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺折捺横折撇" />
+	</introduce>
+	<pron value="fǎng">
+		<sense tag="动" vernacular="询问">
+			<exam article="《殽之战》" ref="穆公访诸蹇叔。" />
+		</sense>
+		<sense tag="动" vernacular="访问;拜访">
+			<exam article="《促织》" ref="径造庐访成,祝成所蓄。" />
+		</sense>
+		<sense tag="动" vernacular="寻找;寻求">
+			<exam article="《滕王问阁序》" ref="访风景于崇阿。" />
+			<exam article="《石钟山记》" ref="至唐李勃始访其遗踪。" />
+		</sense>
+	</pron>
+</character>

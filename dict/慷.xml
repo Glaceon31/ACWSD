@@ -1,0 +1,20 @@
+<character value="慷">
+	<introduce>
+		<pinyin value="kang1" writing="kāng" />
+		<pinyin value="kang3" writing="kăng" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="捺捺竖捺横撇折横横竖捺横撇捺" />
+	</introduce>
+	<pron value="kāng">
+		<sense tag="动" vernacular="感愤；感慨；情绪激昂">
+			<exam article="《短歌行》" ref="慨当以慷，忧思难忘。" />
+		</sense>
+	</pron>
+	<phrase value="慷慨">
+		<sense value="意气激昂奋发" />
+		<sense value="感慨；感叹；刚直不阿" />
+		<sense value="大方；不悭吝" />
+	</phrase>
+</character>

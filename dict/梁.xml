@@ -1,0 +1,23 @@
+<character value="梁">
+	<introduce>
+		<pinyin value="liang2" writing="liáng" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="捺捺横折撇捺捺横竖撇捺" />
+	</introduce>
+	<pron value="liáng">
+		<sense tag="名" vernacular="桥；桥梁">
+			<exam article="《庄子·马蹄》" ref="泽无舟梁。" />
+		</sense>
+		<sense tag="名" vernacular="房梁">
+			<exam article="《阿房宫赋》" ref="架梁之椽，多于机上之工女。" />
+		</sense>
+		<sense tag="名" vernacular="我国古代国名和朝代名">
+			<exam article="《伶官传序》" ref="函梁君臣之首，入于太庙。" />
+		</sense>
+	</pron>
+	<phrase value="梁昌">
+		<sense value="处境狼狈；进退失据" />
+	</phrase>
+</character>

@@ -1,0 +1,15 @@
+<character value="硿">
+	<introduce>
+		<pinyin value="kong1" writing="kōng" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="横撇竖折横捺捺折撇捺横竖横" />
+	</introduce>
+	<pron value="kōng">
+		<sense vernacular="见“硿硿”" />
+	</pron>
+	<phrase value="硿硿">
+		<sense value="形容敲打石头的声音" />
+	</phrase>
+</character>

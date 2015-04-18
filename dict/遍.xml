@@ -1,0 +1,27 @@
+<character value="遍">
+	<introduce>
+		<pinyin value="bian4" writing="biàn" />
+		<pinyin value="pian4" writing="piàn" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺折横撇竖折横竖竖捺折捺" />
+	</introduce>
+	<pron value="biàn">
+		<sense tag="动" vernacular="走遍；踏遍">
+			<exam article="《史记·货殖列传》" ref="行贾遍郡国。" />
+		</sense>
+		<sense tag="形" vernacular="周遍；普遍">
+			<exam article="《雁荡山》" ref="凡永嘉山水，游历殆遍。" />
+			<exam article="《曹刿论战》" ref="小惠未遍，民弗从也。" />
+		</sense>
+		<sense tag="副" vernacular="逐一地，广泛地">
+			<exam article="《信陵君窃符救赵》" ref="公子引侯生坐上坐，遍赞宾客。" />
+			<exam article="《送东阳马生序》" ref="余因得遍观群书。" />
+		</sense>
+		<sense tag="形" vernacular="周，全">
+			<exam article="《蚕妇》" ref="遍身罗绮者不是养蚕人。" />
+		</sense>
+		<sense tag="量" vernacular="次，回" />
+	</pron>
+</character>

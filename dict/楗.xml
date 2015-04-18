@@ -1,0 +1,25 @@
+<character value="楗">
+	<introduce>
+		<pinyin value="jian4" writing="jiàn" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖撇捺折横横横横竖折捺" />
+	</introduce>
+	<pron value="jiàn">
+		<sense tag="名" vernacular="门闩">
+			<exam article="《老子》" ref="无关楗而不可开。" />
+		</sense>
+		<sense tag="名" vernacular="在河堤缺口处打下的竹木桩">
+			<exam article="《史记·河渠书》" ref="而下淇园之竹以为楗。" />
+		</sense>
+		<sense tag="动" vernacular="堵塞">
+			<exam article="《墨子·兼爱中》" ref="以楗东土之水，以利冀州之民。" />
+		</sense>
+	</pron>
+	<pron value="jiǎn">
+		<sense tag="形" vernacular="通“蹇”，跛">
+			<exam article="《周礼·考工记·辀人》" ref="终日驰骋，左不楗。" />
+		</sense>
+	</pron>
+</character>

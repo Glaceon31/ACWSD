@@ -1,0 +1,29 @@
+<character value="庄">
+	<introduce>
+		<pinyin value="zhuang1" writing="zhuāng" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="捺横撇横竖横" />
+	</introduce>
+	<pron value="zhuāng">
+		<sense tag="形" vernacular="庄重；严肃">
+			<exam article="《论语·为政》" ref="临之以庄则敬。" />
+		</sense>
+		<sense tag="名" vernacular="四通八达的大路">
+			<exam article="《左传·襄公二十八年》" ref="得庆氏之木百车于庄。" />
+		</sense>
+		<sense tag="名" vernacular="村庄">
+			<exam article="《冯婉贞》" ref="有村曰谢庄。" />
+		</sense>
+	</pron>
+	<phrase value="庄户">
+		<sense value="佃农，向官府或地主租种土地的农民" />
+	</phrase>
+	<phrase value="庄姝">
+		<sense value="美丽端庄" />
+	</phrase>
+	<phrase value="庄严">
+		<sense value="佛教用语，指装饰美盛" />
+	</phrase>
+</character>

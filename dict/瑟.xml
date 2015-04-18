@@ -1,0 +1,17 @@
+<character value="瑟">
+	<introduce>
+		<pinyin value="se4" writing="sè" />
+		<bushou value="王" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="横横竖横横横竖横捺折捺撇捺" />
+	</introduce>
+	<pron value="sè">
+		<sense tag="名" vernacular="古代一种弹拨乐器，一般有二十五根弦" />
+	</pron>
+	<phrase value="瑟瑟">
+		<sense value="风声" />
+		<sense value="一种碧绿色的宝石" />
+		<sense value="也指碧绿色" />
+	</phrase>
+</character>

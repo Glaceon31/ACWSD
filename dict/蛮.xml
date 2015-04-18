@@ -1,0 +1,15 @@
+<character value="蛮">
+	<introduce>
+		<pinyin value="man2" writing="mán" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="捺横竖竖撇捺竖折横竖横捺" />
+	</introduce>
+	<pron value="mán">
+		<sense tag="名" vernacular="我国古代对南部民族的称呼" />
+	</pron>
+	<phrase value="蛮荒">
+		<sense value="边远地区" />
+	</phrase>
+</character>

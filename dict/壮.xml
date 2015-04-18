@@ -1,0 +1,29 @@
+<character value="壮">
+	<introduce>
+		<pinyin value="zhuang4" writing="zhuàng" />
+		<bushou value="士" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="捺横竖横竖横" />
+	</introduce>
+	<pron value="zhuàng">
+		<sense tag="形" vernacular="雄壮">
+			<exam article="《东方朔》" ref="拔剑割肉，一何壮也。" />
+		</sense>
+		<sense tag="形" vernacular="豪迈">
+			<exam article="《伶官传序》" ref="其意气之盛，可谓壮哉。" />
+		</sense>
+		<sense tag="形意动" vernacular="认为……有气魄">
+			<exam article="《送李愿归盘谷序》" ref="昌黎韩愈，闻其言而壮之。" />
+		</sense>
+		<sense tag="动" vernacular="加强">
+			<exam article="《范进中举》" ref="只得连斟两碗酒喝了，壮了壮胆。" />
+		</sense>
+		<sense tag="名" vernacular="壮年">
+			<exam article="《塞翁失马》" ref="丁壮者引弦而战。" />
+		</sense>
+	</pron>
+	<phrase value="壮游">
+		<sense value="带着宏伟的抱负远游" />
+	</phrase>
+</character>

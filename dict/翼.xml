@@ -1,0 +1,29 @@
+<character value="翼">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="羽" />
+		<bushoustroke value="6" />
+		<stroke value="17" />
+		<order value="折捺横折捺横竖折横竖横横竖竖横撇捺" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="名" vernacular="鸟类或昆虫的翅膀">
+			<exam article="《少年中国说》" ref="鹰隼试翼，风尘吸张。" />
+		</sense>
+		<sense tag="动" vernacular="帮助；辅佐">
+			<exam article="《汉书·晃错传》" ref="以翼天子。" />
+		</sense>
+		<sense tag="名" vernacular="战阵的两侧">
+			<exam article="《史记·廉颇蔺相如列传》" ref="张左右翼击之，大破杀匈奴十余万骑。" />
+		</sense>
+		<sense tag="数" vernacular="通“翌”">
+			<exam article="《促织》" ref="翼日进宰，宰见其小，怒呵成。" />
+		</sense>
+	</pron>
+	<phrase value="翼卫">
+		<sense value="护卫" />
+	</phrase>
+	<phrase value="翼宣">
+		<sense value="辅佐而发扬之" />
+	</phrase>
+</character>

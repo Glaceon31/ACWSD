@@ -1,0 +1,15 @@
+<character value="岳">
+	<introduce>
+		<pinyin value="yue4" writing="yuè" />
+		<bushou value="山" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="撇竖横竖横竖折竖" />
+	</introduce>
+	<pron value="yuè">
+		<sense tag="名" vernacular="高大的山">
+			<exam article="《诗经·大雅·崧高》" ref="崧高维岳。" />
+		</sense>
+		<sense tag="名" vernacular="妻子的父亲，简称岳" />
+	</pron>
+</character>

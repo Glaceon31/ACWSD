@@ -1,0 +1,17 @@
+<character value="憔">
+	<introduce>
+		<pinyin value="qiao2" writing="qiáo" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="捺捺竖撇竖捺横横横竖横捺捺捺捺" />
+	</introduce>
+	<pron value="qiáo">
+		<sense vernacular="见“憔悴”" />
+	</pron>
+	<phrase value="憔悴">
+		<sense value="（面容）黄瘦" />
+		<sense value="困苦；困顿" />
+		<sense value="衰败；残败" />
+	</phrase>
+</character>

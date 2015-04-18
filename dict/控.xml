@@ -1,0 +1,23 @@
+<character value="控">
+	<introduce>
+		<pinyin value="kong4" writing="kòng" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖横捺捺折撇捺横竖横" />
+	</introduce>
+	<pron value="kòng">
+		<sense tag="动" vernacular="开弓；拉弓">
+			<exam article="《白雪歌送武判官归京》" ref="将军角弓不得控。" />
+		</sense>
+		<sense tag="动" vernacular="勒马">
+			<exam article="《东山观海》" ref="策马步兰皋，緤控息椒丘。" />
+		</sense>
+		<sense tag="动" vernacular="控制；约束">
+			<exam article="《滕王阁序》" ref="控蛮荆而引瓯越。" />
+		</sense>
+		<sense tag="动" vernacular="投">
+			<exam article="《庄子·逍遥遊》" ref="时则不至，而控于地而已矣。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,29 @@
+<character value="岁">
+	<introduce>
+		<pinyin value="sui4" writing="suì" />
+		<bushou value="山" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="竖折竖撇折捺" />
+	</introduce>
+	<pron value="suì">
+		<sense tag="名" vernacular="岁星；木星">
+			<exam article="《国语·周语》" ref="岁之所在，则我有周之分野也。" />
+		</sense>
+		<sense tag="名" vernacular="年">
+			<exam article="《捕蛇者说》" ref="积于今六十岁矣。" />
+		</sense>
+		<sense tag="名" vernacular="年龄">
+			<exam article="《促织》" ref="成有子九岁。" />
+		</sense>
+		<sense tag="名" vernacular="时间；光阴">
+			<exam article="《论语·阳货》" ref="日月逝矣，岁不我与。" />
+		</sense>
+		<sense tag="名" vernacular="年成；收成">
+			<exam article="《寡人之于国也》" ref="王无罪岁，斯天下之民至焉。" />
+		</sense>
+	</pron>
+	<phrase value="岁除">
+		<sense value="年终；一年的最后的一天" />
+	</phrase>
+</character>

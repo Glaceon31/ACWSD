@@ -1,0 +1,21 @@
+<character value="眦">
+	<introduce>
+		<pinyin value="zi4" writing="zì" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="竖折横横横竖横竖横撇折" />
+	</introduce>
+	<pron value="zì">
+		<sense tag="名" vernacular="眼角">
+			<exam article="《鸿门宴》" ref="目视项王，头发上指，目眦尽裂。" />
+			<exam article="《望岳》" ref="荡胸生层云，决眦入归鸟。" />
+		</sense>
+	</pron>
+	<phrase value="眦裂">
+		<sense value="瞪眼怒视，眼眶破裂" />
+	</phrase>
+	<phrase value="眦占">
+		<sense value="侧目而视，表示轻视" />
+	</phrase>
+</character>

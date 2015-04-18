@@ -1,0 +1,17 @@
+<character value="娲">
+	<introduce>
+		<pinyin value="wa1" writing="wā" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="折撇横竖折横竖折撇捺" />
+	</introduce>
+	<pron value="wā">
+		<sense tag="名" vernacular="女娲，神话传说中的人物">
+			<exam article="《说文·女部》" ref="娲，古之神圣女，化万物者也。" />
+		</sense>
+	</pron>
+	<phrase value="娲皇">
+		<sense value="即女娲氏，古代神话中的帝王名，传说是羲之妹" />
+	</phrase>
+</character>

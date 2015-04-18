@@ -1,0 +1,17 @@
+<character value="姝">
+	<introduce>
+		<pinyin value="shu1" writing="shū" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折撇横撇横横竖撇捺" />
+	</introduce>
+	<pron value="shū">
+		<sense tag="形" vernacular="美好">
+			<exam article="《诗经·静女》" ref="静女其姝，俟我于城隅。" />
+		</sense>
+		<sense tag="名" vernacular="美女">
+			<exam article="《陌上桑》" ref="使君遣吏往，问是谁家姝。" />
+		</sense>
+	</pron>
+</character>

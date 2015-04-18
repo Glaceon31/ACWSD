@@ -1,0 +1,17 @@
+<character value="绅">
+	<introduce>
+		<pinyin value="shen1" writing="shēn" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="折折横竖折横横竖" />
+	</introduce>
+	<pron value="shēn">
+		<sense tag="名" vernacular="古代士大夫束腰的大带，一端下垂">
+			<exam article="《卖柑者言》" ref="峨大冠、拖长绅者，昂昂乎庙堂之器也。" />
+		</sense>
+		<sense tag="名" vernacular="系绅的人；官员；绅士">
+			<exam article="《舜水遗书·阳九述略》" ref="乡绅受赂，操有司狱讼之权。" />
+		</sense>
+	</pron>
+</character>

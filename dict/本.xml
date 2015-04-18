@@ -1,0 +1,57 @@
+<character value="本">
+	<introduce>
+		<pinyin value="ben3" writing="bĕn" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="5" />
+		<order value="横竖撇捺横" />
+	</introduce>
+	<pron value="běn">
+		<sense tag="名" vernacular="草木的根">
+			<exam article="《谏太宗十思疏》" ref="臣闻求木之长者,必固其根本。" />
+		</sense>
+		<sense tag="名" vernacular="树木的干">
+			<exam article="《种树郭橐驼传》" ref="摇其本以观其疏密。" />
+		</sense>
+		<sense tag="名" vernacular="根本;基础">
+			<exam article="《齐桓晋文之事》" ref="王欲行之,刎盍反其本矣。" />
+		</sense>
+		<sense tag="名" vernacular="指农业">
+			<exam article="《论积贮疏》" ref="今背本而趋末,食者甚众。" />
+		</sense>
+		<sense tag="名" vernacular="本源;根源">
+			<exam article="《原毁》" ref="为是者有本有原,怠与忌之谓也。" />
+		</sense>
+		<sense tag="动" vernacular="依照;依据">
+			<exam article="《图画》" ref="虽理想派之作,亦先有本,乃增损而润色之。" />
+		</sense>
+		<sense tag="动" vernacular="堆原,考察">
+			<exam article="《伶官传序》" ref="抑本其成败之迹,而皆自于人欤?" />
+		</sense>
+		<sense tag="形" vernacular="本来的,原来的">
+			<exam article="《孟子·鱼我所欲也》" ref="此之谓失其本心。" />
+		</sense>
+		<sense tag="副" vernacular="本来;原来">
+			<exam article="《愚公移山》" ref="本在冀州之南,河阳之北。" />
+			<exam article="《孔雀东南飞》" ref="本自无教训,兼愧贵家子。" />
+		</sense>
+		<sense tag="名" vernacular="本钱">
+			<exam article="《柳子厚墓志铭》" ref="子本相侔,则没为奴婢。" />
+		</sense>
+		<sense tag="形" vernacular="这里的;自己的">
+			<exam article="《采草药》" ref="用芽者自从本说。" />
+		</sense>
+		<sense tag="名" vernacular="版本;底本">
+			<exam article="《活板》" ref="已后典籍皆为板本。" />
+		</sense>
+		<sense tag="名" vernacular="臣下给皇帝的奏章或书信">
+			<exam article="《狱中杂记》" ref="是无难,别具本章。" />
+		</sense>
+		<sense tag="量" vernacular="株;棵">
+			<exam article="《汉书·龚遂传》" ref="令口种一树榆,百本薤五十本葱,一畦韭。" />
+		</sense>
+		<sense tag="量" vernacular="书籍的一册">
+			<exam article="《活板》" ref="若止印三二本,未为简易。" />
+		</sense>
+	</pron>
+</character>

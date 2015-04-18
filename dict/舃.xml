@@ -1,0 +1,20 @@
+<character value="舃">
+	<introduce>
+		<pinyin value="xi4" writing="xì" />
+		<bushou value="臼" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="撇竖横折横横横折捺捺捺捺" />
+	</introduce>
+	<pron value="xì">
+		<sense tag="名" vernacular="有木底的鞋子">
+			<exam article="《诗经·豳风·狼跋》" ref="公孙硕肤，赤舃几几。" />
+		</sense>
+		<sense tag="名" vernacular="通“潟”，咸卤地">
+			<exam article="《汉书·沟洫志》" ref="溉舃卤之地四万顷。" />
+		</sense>
+		<sense tag="名" vernacular="柱下石">
+			<exam article="《墨子·备穴》" ref="二尺一柱，柱下傅舃。" />
+		</sense>
+	</pron>
+</character>

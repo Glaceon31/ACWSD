@@ -1,0 +1,19 @@
+<character value="咤">
+	<introduce>
+		<pinyin value="zha4" writing="zhà" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="竖折横捺捺折撇横折" />
+	</introduce>
+	<pron value="zhà">
+		<sense tag="名" vernacular="叹息声">
+			<exam article="《三国志·蜀书·杨仪传》" ref="咤之音发于五内。" />
+		</sense>
+	</pron>
+	<pron value="chà">
+		<sense tag="动" vernacular="通“诧”">
+			<exam article="《后汉书·王符传》" ref="转相夸咤。" />
+		</sense>
+	</pron>
+</character>

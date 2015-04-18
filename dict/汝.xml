@@ -1,0 +1,21 @@
+<character value="汝">
+	<introduce>
+		<pinyin value="ru3" writing="rŭ" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="捺捺横折撇横" />
+	</introduce>
+	<pron value="rǔ">
+		<sense tag="名" vernacular="河流名">
+			<exam article="《孟子·滕文公》" ref="决汝汉，排淮泗。" />
+		</sense>
+		<sense tag="代" vernacular="你；你们；你(们)的">
+			<exam article="《愚公移山》" ref="吾与汝毕力平险。" />
+		</sense>
+	</pron>
+	<phrase value="汝曹">
+		<sense value="汝辈，你们" />
+		<sense value="多用于长辈称后辈" />
+	</phrase>
+</character>

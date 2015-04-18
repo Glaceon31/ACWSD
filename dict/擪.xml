@@ -1,0 +1,15 @@
+<character value="擪">
+	<introduce>
+		<pinyin value="ye4" writing="yè" />
+		<bushou value="手" />
+		<bushoustroke value="4" />
+		<stroke value="18" />
+		<order value="横撇竖折横横竖折横横横撇捺捺撇横横竖" />
+	</introduce>
+	<pron value="yè">
+		<sense tag="动" vernacular="用手指按">
+			<exam article="《庄子·外物》" ref="接其鬓，擪其顪。" />
+			<exam article="《淮南子·泰族训》" ref="所以贵扁鹊者……，贵其擪息脉血，知病之所从生也。" />
+		</sense>
+	</pron>
+</character>

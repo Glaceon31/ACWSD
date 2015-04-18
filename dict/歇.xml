@@ -1,0 +1,17 @@
+<character value="歇">
+	<introduce>
+		<pinyin value="xie1" writing="xiē" />
+		<bushou value="欠" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="竖折横横撇折撇捺折撇折撇捺" />
+	</introduce>
+	<pron value="xiē">
+		<sense tag="动" vernacular="停歇；休息">
+			<exam article="《卖炭翁》" ref="牛困人饥日已高，市南门外泥中歇。" />
+		</sense>
+		<sense tag="动" vernacular="散发">
+			<exam article="《和谢监灵运》" ref="芳馥歇兰若，清越夺琳珪。" />
+		</sense>
+	</pron>
+</character>

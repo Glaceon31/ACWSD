@@ -1,0 +1,29 @@
+<character value="号">
+	<introduce>
+		<pinyin value="hao4" writing="hào" />
+		<pinyin value="hao2" writing="háo" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="竖折横横折" />
+	</introduce>
+	<pron value="háo">
+		<sense tag="动" vernacular="大声喊叫；呼喊">
+			<exam article="《童区寄传》" ref="因大号，一座皆惊。" />
+			<exam article="《&lt;指南录&gt;后序》" ref="天高地迥，号呼靡及。" />
+		</sense>
+		<sense tag="动" vernacular="哭">
+			<exam article="《项脊轩志》" ref="令人长号不能自禁。" />
+		</sense>
+	</pron>
+	<pron value="hào">
+		<sense tag="名" vernacular="号令；命令">
+			<exam article="《屈原列传》" ref="入则与王图论国事，以出号令。" />
+		</sense>
+		<sense tag="动" vernacular="号称；称作">
+			<exam article="《史记·高祖本纪》" ref="项羽兵四十万，号百万。" />
+			<exam article="《谭嗣同》" ref="与杨锐、林旭、刘光第同参预新政，时号为‘军机四卿’。" />
+		</sense>
+		<sense tag="名" vernacular="乐器名" />
+	</pron>
+</character>

@@ -1,0 +1,33 @@
+<character value="灌">
+	<introduce>
+		<pinyin value="guan4" writing="guàn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="20" />
+		<order value="捺捺横横竖竖竖折横竖折横撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="guàn">
+		<sense tag="动" vernacular="注入">
+			<exam article="《望洋兴叹》" ref="秋水时至，百川灌河。" />
+		</sense>
+		<sense tag="动" vernacular="灌溉；浇灌">
+			<exam article="《西门豹治邺》" ref="引河水灌民田。" />
+		</sense>
+		<sense tag="动" vernacular="饮">
+			<exam article="《礼记·投壶》" ref="当饮者皆跪，奉觞，曰：‘赐灌。’" />
+		</sense>
+		<sense tag="动" vernacular="酌酒浇地">
+			<exam article="《论语·八脩》" ref="褅自既灌而往者，吾不欲观之矣。" />
+		</sense>
+		<sense tag="动" vernacular="浇铸">
+			<exam article="《论衡·奇怪》" ref="烁一鼎之铜，以灌一钱之形，不能成一鼎。" />
+		</sense>
+		<sense tag="动" vernacular="丛生">
+			<exam article="《庐山草堂记》" ref="松下多灌丛。" />
+		</sense>
+	</pron>
+	<phrase value="灌园">
+		<sense value="从事田园劳动" />
+		<sense value="引申指官吏退隐家居" />
+	</phrase>
+</character>

@@ -1,0 +1,14 @@
+<character value="峭">
+	<introduce>
+		<pinyin value="qiao4" writing="qiào" />
+		<bushou value="山" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="竖折竖竖捺撇竖折横横" />
+	</introduce>
+	<pron value="qiào">
+		<sense tag="形" vernacular="陡峭；险峻">
+			<exam article="《雁荡山》" ref="自下望之则高岩峭壁。" />
+		</sense>
+	</pron>
+</character>

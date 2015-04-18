@@ -1,0 +1,20 @@
+<character value="捍">
+	<introduce>
+		<pinyin value="han4" writing="hàn" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖横竖折横横横横竖" />
+	</introduce>
+	<pron value="hàn">
+		<sense tag="动" vernacular="抵御">
+			<exam article="《史记·楚世家》" ref="吴三公子奔楚，楚封之以捍吴。" />
+		</sense>
+		<sense tag="名" vernacular="射箭手的一种皮质护袖">
+			<exam article="《礼记·内则》" ref="右佩玦捍。" />
+		</sense>
+		<sense tag="形" vernacular="通“悍”，勇猛；强悍">
+			<exam article="《史记·货殖列传》" ref="而民雕捍少虑。" />
+		</sense>
+	</pron>
+</character>

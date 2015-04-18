@@ -1,0 +1,15 @@
+<character value="谶">
+	<introduce>
+		<pinyin value="chen4" writing="chèn" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="19" />
+		<order value="捺折撇捺撇捺横竖横横横竖横横横横折撇捺" />
+	</introduce>
+	<pron value="chèn">
+		<sense tag="名" vernacular="预言吉凶得失的文字、图记">
+			<exam article="《史记·赵世家》" ref="公孙支书而藏之，秦谶于是出矣。" />
+			<exam article="《后汉书·光武帝纪》" ref="宛人李通等以图谶说光武。" />
+		</sense>
+	</pron>
+</character>

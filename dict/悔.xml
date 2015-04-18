@@ -1,0 +1,24 @@
+<character value="悔">
+	<introduce>
+		<pinyin value="hui3" writing="huĭ" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺竖撇横折折捺横捺" />
+	</introduce>
+	<pron value="huǐ">
+		<sense tag="形" vernacular="悔恨；后悔">
+			<exam article="《荆轲刺秦王》" ref="太子迟之，疑其有改悔。" />
+		</sense>
+		<sense tag="名" vernacular="悔恨的事；过失">
+			<exam article="《郑伯克段于鄢》" ref="公语之故，且告之悔。" />
+			<exam article="《论语·为政》" ref="言寡尤，行寡悔。" />
+		</sense>
+		<sense tag="名" vernacular="灾祸">
+			<exam article="《思玄赋》" ref="占既吉而无悔兮。" />
+		</sense>
+		<sense tag="名" vernacular="《周易》卦的上体，外卦">
+			<exam article="《周易》卦的上体，外卦。《左传·僖公十五年》" ref="蛊之贞，风也；其悔，山也。" />
+		</sense>
+	</pron>
+</character>

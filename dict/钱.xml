@@ -1,0 +1,17 @@
+<character value="钱">
+	<introduce>
+		<pinyin value="qian2" writing="qián" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="撇横横横折横横折撇捺" />
+	</introduce>
+	<pron value="qián">
+		<sense tag="名" vernacular="钱币；货币">
+			<exam article="《卖炭翁》" ref="卖炭得钱何所营。" />
+		</sense>
+		<sense tag="形" vernacular="形状像铜钱的东西">
+			<exam article="《芙蕖》" ref="自荷钱出水之日，便为点缀绿波。" />
+		</sense>
+	</pron>
+</character>

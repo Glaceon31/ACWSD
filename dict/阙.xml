@@ -1,0 +1,40 @@
+<character value="阙">
+	<introduce>
+		<pinyin value="que1" writing="quē" />
+		<pinyin value="que4" writing="què" />
+		<bushou value="门" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="捺竖折捺撇横折竖撇撇折撇捺" />
+	</introduce>
+	<pron value="què">
+		<sense tag="名" vernacular="古代宫殿门外两侧左右相对高耸的建筑物">
+			<exam article="《古诗十九首》" ref="两宫遥相望，双阙百余尺。" />
+		</sense>
+		<sense tag="名" vernacular="借指宫殿或京城">
+			<exam article="《杜少府之任蜀州》" ref="城阙辅三秦，风烟望五津。" />
+		</sense>
+	</pron>
+	<pron value="quē">
+		<sense tag="名" vernacular="通“缺”，缺口；豁口">
+			<exam article="《三峡》" ref="两岸连山，略无阙处。" />
+		</sense>
+		<sense tag="名" vernacular="通“缺”，缺点；过失">
+			<exam article="《出师表》" ref="必能裨补阙漏，有所广益。" />
+		</sense>
+		<sense tag="动" vernacular="通“缺”">
+			<exam article="《烛之武退秦师》" ref="若不阙秦，将焉取之？" />
+		</sense>
+	</pron>
+	<pron value="jué">
+		<sense tag="动" vernacular="通“掘”，挖掘">
+			<exam article="《郑伯克段于鄢》" ref="若阙地及泉，隧而相见，其谁曰不然。" />
+		</sense>
+	</pron>
+	<phrase value="阙下">
+		<sense value="宫阙之下" />
+	</phrase>
+	<phrase value="阙疑">
+		<sense value="对疑难未解者不妄加评论" />
+	</phrase>
+</character>

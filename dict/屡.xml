@@ -1,0 +1,18 @@
+<character value="屡">
+	<introduce>
+		<pinyin value="lu3" writing="lǚ" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折横撇捺撇横竖撇捺折撇横" />
+	</introduce>
+	<pron value="lǚ">
+		<sense tag="副" vernacular="屡次；多次；常常">
+			<exam article="《促织》" ref="屡撩之，虫暴怒。" />
+			<exam article="《&lt;指南录&gt;后序》" ref="争曲直，屡当死。" />
+		</sense>
+	</pron>
+	<phrase value="屡空">
+		<sense value="一无所有；经常贫穷" />
+	</phrase>
+</character>

@@ -1,0 +1,22 @@
+<character value="柙">
+	<introduce>
+		<pinyin value="xia2" writing="xiá" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横竖撇捺竖折横横竖" />
+	</introduce>
+	<pron value="xiá">
+		<sense tag="名" vernacular="关兽类的木笼">
+			<exam article="《季氏将伐颛臾》" ref="虎兕出于柙，龟玉毁于椟。" />
+		</sense>
+		<sense tag="名" vernacular="匣子">
+			<exam article="《七哀诗》" ref="珠柙离玉体，珍宝见剽虏。" />
+		</sense>
+	</pron>
+	<pron value="jiǎ">
+		<sense tag="名" vernacular="一种树">
+			<exam article="《南都赋》" ref="枫柙栌枥，帝女之桑。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,15 @@
+<character value="蜷">
+	<introduce>
+		<pinyin value="quan2" writing="quán" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="竖折横竖横捺捺撇横横撇捺折折" />
+	</introduce>
+	<pron value="quán">
+		<sense vernacular="虫形屈曲">
+			<exam article="《广韵·仙韵》" ref="蜷，虫形诘屈。" />
+		</sense>
+	</pron>
+	<phrase value="蜷局" />
+</character>

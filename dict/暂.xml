@@ -1,0 +1,27 @@
+<character value="暂">
+	<introduce>
+		<pinyin value="zan4" writing="zàn" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横折竖横撇撇横竖竖折横横" />
+	</introduce>
+	<pron value="zàn">
+		<sense tag="副" vernacular="一时；一下子">
+			<exam article="《殽之战》" ref="武夫力而拘诸原，妇人暂而免诸国。" />
+		</sense>
+		<sense tag="副" vernacular="暂时">
+			<exam article="《孔雀东南飞》" ref="卿但暂还家，吾今且报府。" />
+		</sense>
+		<sense tag="副" vernacular="突然">
+			<exam article="《琵琶行》" ref="今夜闻君琵琶语，如听仙乐耳暂明。" />
+		</sense>
+		<sense tag="副" vernacular="刚刚">
+			<exam article="《别赋》" ref="或春苔兮始生，乍秋风兮暂起。" />
+		</sense>
+		<sense tag="副" vernacular="姑且" />
+	</pron>
+	<phrase value="暂面">
+		<sense value="猝然见面" />
+	</phrase>
+</character>

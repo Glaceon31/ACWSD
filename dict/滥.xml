@@ -1,0 +1,29 @@
+<character value="滥">
+	<introduce>
+		<pinyin value="lan4" writing="làn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="捺捺横竖竖撇横捺竖折竖竖横" />
+	</introduce>
+	<pron value="làn">
+		<sense tag="动" vernacular="水满溢出；泛滥">
+			<exam article="《孟子·滕文公》" ref="当尧之时，水逆行氾滥于中国。" />
+		</sense>
+		<sense tag="形" vernacular="过度；无节制">
+			<exam article="《荀子·致士》" ref="刑不欲滥。" />
+		</sense>
+		<sense tag="动" vernacular="越轨">
+			<exam article="《论语·卫灵公》" ref="君子固穷，小人穷斯滥矣。" />
+		</sense>
+	</pron>
+	<phrase value="滥巾">
+		<sense value="冒充隐士" />
+	</phrase>
+	<phrase value="滥觞">
+		<sense value="原指江河发源地，后来比喻事物的起源" />
+	</phrase>
+	<phrase value="滥炎">
+		<sense value="火势蔓延" />
+	</phrase>
+</character>

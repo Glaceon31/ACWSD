@@ -1,0 +1,47 @@
+<character value="奇">
+	<introduce>
+		<pinyin value="qi2" writing="qí" />
+		<pinyin value="ji1" writing="jī" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横撇捺横竖折横竖" />
+	</introduce>
+	<pron value="qí">
+		<sense tag="形" vernacular="奇异；不同寻常">
+			<exam article="《涉江》" ref="余幼好此奇服兮，年既老而不衰。" />
+			<exam article="《游褒禅山记》" ref="入之愈深，其进愈难，而其见愈奇。" />
+		</sense>
+		<sense tag="形意动" vernacular="以…为奇；认为…奇特">
+			<exam article="《促织》" ref="每闻琴瑟之声，则奕节而舞，益奇之。" />
+		</sense>
+		<sense tag="动" vernacular="以……为奇；惊异">
+			<exam article="《张衡传》" ref="大将军邓騭奇其才，累召不应。" />
+			<exam article="《伤仲永》" ref="邑人奇之，稍稍宾客其父，或以钱币乞之。" />
+		</sense>
+		<sense tag="形" vernacular="佳；好">
+			<exam article="《孔雀东南飞》" ref="今日违情义，恐此事非奇。" />
+		</sense>
+		<sense tag="名" vernacular="奇观；胜境；佳境">
+			<exam article="《答谢中书书》" ref="自康乐以来，未复有能与其奇者。" />
+			<exam article="《游黄山记》" ref="而有奇若此，前未一探。" />
+		</sense>
+		<sense tag="名" vernacular="奇谋；奇计">
+			<exam article="《老子》" ref="以奇用兵。" />
+			<exam article="《孙子·势篇》" ref="凡战者，以正合，以奇胜。故善出奇者，无穷如天地，不竭如江河。" />
+		</sense>
+	</pron>
+	<pron value="jī">
+		<sense tag="形" vernacular="单；单数的">
+			<exam article="《山海经·海外西经》" ref="奇肱之国，其人一臂三目。" />
+			<exam article="《资治通鉴·唐敬宗宝历二年》" ref="每奇日，未尝不视朝。" />
+		</sense>
+		<sense tag="形" vernacular="（运气、命运）不好；不顺">
+			<exam article="《史记·李将军列传》" ref="以为李广老，数奇，毋令当单于。" />
+		</sense>
+		<sense tag="名" vernacular="零数；零头">
+			<exam article="《核舟记》" ref="舟首尾长约八分有奇。" />
+			<exam article="《阎典史传》" ref="凡损卒七万五千有奇。" />
+		</sense>
+	</pron>
+</character>

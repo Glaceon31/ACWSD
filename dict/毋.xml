@@ -1,0 +1,28 @@
+<character value="毋">
+	<introduce>
+		<pinyin value="wu2" writing="wú" />
+		<bushou value="毋" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="折折撇横" />
+	</introduce>
+	<pron value="wú">
+		<sense tag="副" vernacular="别；不要">
+			<exam article="《鸿门宴》" ref="距关，毋内诸侯，秦地可尽王也。" />
+		</sense>
+		<sense tag="副" vernacular="不">
+			<exam article="《廉颇蔺相如列传》" ref="赵王畏秦，欲毋行。" />
+		</sense>
+		<sense tag="动" vernacular="无；没有">
+			<exam article="《韩非子·显学》" ref="儒侠毋军劳。" />
+		</sense>
+	</pron>
+	<phrase value="毋宁">
+		<sense value="同“无宁”" />
+		<sense value="宁肯；宁愿" />
+	</phrase>
+	<phrase value="毋庸">
+		<sense value="同“无庸”" />
+		<sense value="不必；不须" />
+	</phrase>
+</character>

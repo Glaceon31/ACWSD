@@ -1,0 +1,25 @@
+<character value="馔">
+	<introduce>
+		<pinyin value="zhuan4" writing="zhuàn" />
+		<bushou value="饣" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="撇折折折横折折横折横竖竖横撇捺" />
+	</introduce>
+	<pron value="zhuàn">
+		<sense tag="动" vernacular="陈设或准备食物">
+			<exam article="《仪礼·士虞礼》" ref="馔于西坫上。" />
+		</sense>
+		<sense tag="名" vernacular="食物，多指美食">
+			<exam article="《南史·虞悰传》" ref="盛馔享宾。" />
+		</sense>
+		<sense tag="动" vernacular="吃；喝">
+			<exam article="《论语·为政》" ref="有酒食，先生馔。" />
+		</sense>
+	</pron>
+	<pron value="huán">
+		<sense tag="量" vernacular="通“锾”，古代重量单位，合当时的六两">
+			<exam article="《尚书·大传·甫刑》" ref="夏后氏不杀不刑，死罪罚二千馔。" />
+		</sense>
+	</pron>
+</character>

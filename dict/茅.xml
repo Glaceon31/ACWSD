@@ -1,0 +1,21 @@
+<character value="茅">
+	<introduce>
+		<pinyin value="mao2" writing="máo" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖竖折捺折竖撇" />
+	</introduce>
+	<pron value="máo">
+		<sense tag="名" vernacular="茅草">
+			<exam article="《茅屋为秋风所破歌》" ref="八月秋高风怒号，卷我屋上三重茅。" />
+			<exam article="《商山早行》" ref="鸡声茅店月，人迹板桥霜。" />
+		</sense>
+	</pron>
+	<phrase value="茅茨">
+		<sense value="茅草屋顶" />
+	</phrase>
+	<phrase value="茅塞">
+		<sense value="被茅草堵塞，比喻思路闭塞" />
+	</phrase>
+</character>

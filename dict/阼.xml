@@ -1,0 +1,14 @@
+<character value="阼">
+	<introduce>
+		<pinyin value="zuo4" writing="zuò" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="折竖撇横竖横横" />
+	</introduce>
+	<pron value="zuò">
+		<sense tag="名" vernacular="大堂前东面的台阶">
+			<exam article="《礼仪·乡饮酒》" ref="主人阼阶上……宾西阶。" />
+		</sense>
+	</pron>
+</character>

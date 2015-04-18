@@ -1,0 +1,20 @@
+<character value="闹">
+	<introduce>
+		<pinyin value="nao4" writing="nào" />
+		<bushou value="门" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺竖折捺横竖折竖" />
+	</introduce>
+	<pron value="nào">
+		<sense tag="形" vernacular="喧闹">
+			<exam article="《答韦中立论师道书》" ref="而谁敢炫怪于群目，以召闹取怒乎？" />
+		</sense>
+		<sense tag="形" vernacular="旺盛；浓重">
+			<exam article="《玉楼春》" ref="绿杨烟外晓云轻，红杏枝头春意闹。" />
+		</sense>
+	</pron>
+	<phrase value="闹装">
+		<sense value="汇聚多种宝物杂缀而成的带子" />
+	</phrase>
+</character>

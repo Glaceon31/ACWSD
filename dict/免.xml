@@ -1,0 +1,28 @@
+<character value="免">
+	<introduce>
+		<pinyin value="mian3" writing="miăn" />
+		<pinyin value="wen4" writing="wèn" />
+		<bushou value="刀" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇折竖折横撇折" />
+	</introduce>
+	<pron value="miǎn">
+		<sense tag="动" vernacular="除去；脱掉">
+			<exam article="《殽之战》" ref="左右免胄而下，超乘者三百乘。" />
+		</sense>
+		<sense tag="动" vernacular="免除；避免">
+			<exam article="《齐桓晋文之事》" ref="乐岁终身苦，凶年不免于死亡。" />
+		</sense>
+		<sense tag="动" vernacular="赦免；释放">
+			<exam article="《殽之战》" ref="武夫力而拘诸原，妇人暂而免诸国。" />
+		</sense>
+		<sense tag="动" vernacular="罢免">
+			<exam article="《汉书·文帝纪》" ref="逐免丞相勃，遣就国。" />
+		</sense>
+	</pron>
+	<phrase value="免乳">
+		<sense value="生育" />
+		<sense value="免：通“娩”" />
+	</phrase>
+</character>

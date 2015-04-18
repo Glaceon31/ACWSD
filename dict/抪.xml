@@ -1,0 +1,14 @@
+<character value="抪">
+	<introduce>
+		<pinyin value="pu1" writing="pū" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横横撇竖折竖" />
+	</introduce>
+	<pron value="bū">
+		<sense tag="动" vernacular="散布">
+			<exam article="《汉书·中山靖王刘胜传》" ref="尘埃抪覆，昧不泰山。" />
+		</sense>
+	</pron>
+</character>

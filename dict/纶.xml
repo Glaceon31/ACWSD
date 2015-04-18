@@ -1,0 +1,24 @@
+<character value="纶">
+	<introduce>
+		<pinyin value="lun2" writing="lún" />
+		<pinyin value="guan1" writing="guān" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折折横撇捺撇折" />
+	</introduce>
+	<pron value="lún">
+		<sense tag="名" vernacular="青丝绶带">
+			<exam article="《礼记·缁衣》" ref="王言如丝，其出如纶。" />
+		</sense>
+		<sense tag="名" vernacular="钓丝">
+			<exam article="《文心雕龙·情采》" ref="翠纶桂饵，反所以失鱼。" />
+		</sense>
+	</pron>
+	<pron value="guān">
+		<sense vernacular="见“纶巾”" />
+	</pron>
+	<phrase value="纶巾">
+		<sense value="古代用青丝带做的头巾" />
+	</phrase>
+</character>

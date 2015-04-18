@@ -1,0 +1,15 @@
+<character value="躏">
+	<introduce>
+		<pinyin value="lin4" writing="lìn" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="21" />
+		<order value="竖折横竖横竖横横竖竖捺竖折撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="lìn">
+		<sense tag="动" vernacular="车轮辗扎" />
+	</pron>
+	<phrase value="躏轹">
+		<sense value="践踏" />
+	</phrase>
+</character>

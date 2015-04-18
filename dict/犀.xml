@@ -1,0 +1,17 @@
+<character value="犀">
+	<introduce>
+		<pinyin value="xi1" writing="xī" />
+		<bushou value="牛" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="折横撇竖捺横撇捺撇横横竖" />
+	</introduce>
+	<pron value="xī">
+		<sense tag="名" vernacular="犀牛">
+			<exam article="《汉书·平帝纪》" ref="黄支国献犀牛。" />
+		</sense>
+		<sense tag="形" vernacular="坚固">
+			<exam article="《韩非子·奸劫弑臣》" ref="治国之有法术赏罚，犹若陆行之有犀车良马也。" />
+		</sense>
+	</pron>
+</character>

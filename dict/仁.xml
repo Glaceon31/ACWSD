@@ -1,0 +1,20 @@
+<character value="仁">
+	<introduce>
+		<pinyin value="ren2" writing="rén" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="撇竖横横" />
+	</introduce>
+	<pron value="rén">
+		<sense tag="形" vernacular="仁爱；仁慈">
+			<exam article="《论语》" ref="仁以为己住，不亦重乎？" />
+		</sense>
+		<sense tag="名" vernacular="仁道；仁政">
+			<exam article="《齐桓晋文之事》" ref="今王发政施仁。" />
+		</sense>
+		<sense tag="名" vernacular="果仁；果核中受外壳保护的部分">
+			<exam article="《颜氏家训·养生》" ref="邺中朝士有单服杏仁枸杞黄精木车前，得益者甚多。" />
+		</sense>
+	</pron>
+</character>

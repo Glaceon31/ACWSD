@@ -1,0 +1,44 @@
+<character value="创">
+	<introduce>
+		<pinyin value="chuang4" writing="chuàng" />
+		<pinyin value="chuang1" writing="chuāng" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇捺折折竖竖" />
+	</introduce>
+	<pron value="chuāng">
+		<sense tag="名" vernacular="伤；伤口">
+			<exam article="《书博鸡者事》" ref="一步一呼，不呼则杖其背，尽创。" />
+			<exam article="《荆轲刺秦王》" ref="秦王复击轲，被八创。" />
+		</sense>
+	</pron>
+	<pron value="chuàng">
+		<sense tag="动" vernacular="开创，首创">
+			<exam article="《出师表》" ref="先帝创业未半而中道崩殂。" />
+			<exam article="《复庵记》" ref="华下之人助之材，以创是庵而居之。" />
+		</sense>
+	</pron>
+	<phrase value="创痏">
+		<sense value="1" />
+		<sense value="创伤，疮伤" />
+		<sense value="2" />
+		<sense value="比喻民生疾苦，祸害" />
+	</phrase>
+	<phrase value="创痍">
+		<sense value="也作“创夷”" />
+		<sense value="1" />
+		<sense value="创伤" />
+	</phrase>
+	<phrase value="创定">
+		<sense value="1" />
+		<sense value="初定" />
+		<sense value="2" />
+		<sense value="制定，制作" />
+	</phrase>
+	<phrase value="创艾">
+		<sense value="也作“创刈”" />
+		<sense value="1" />
+		<sense value="惩治,因受惩治而畏惧" />
+	</phrase>
+</character>

@@ -1,0 +1,47 @@
+<character value="尔">
+	<introduce>
+		<pinyin value="er3" writing="ĕr" />
+		<bushou value="小" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="撇折竖撇捺" />
+	</introduce>
+	<pron value="ěr">
+		<sense tag="代" vernacular="1你；你的">
+			<exam article="《子路、曾晢、冉有、公西华侍坐》" ref="点，尔何如？。" />
+			<exam article="《殽之战》" ref="尔何知，中寿，尔墓之木拱矣。" />
+			<exam article="《子路、曾晢、冉有、公西华侍坐》" ref="以吾一日长乎尔，毋吾以也。" />
+			<exam article="《论语·公冶长》" ref="盍各言尔志。" />
+		</sense>
+		<sense tag="代" vernacular="这（样）；那（样）">
+			<exam article="《孔雀东南飞》" ref="同是被逼迫，君尔妾亦然。" />
+			<exam article="《出师表》" ref="受任于败军之际，奉命于危难之间，尔来二十有一年矣。" />
+		</sense>
+		<sense vernacular="形容词、副词或动词词缀">
+			<exam article="《鱼我所欲也》" ref="呼尔而与之，行道之人弗受；蹴尔而与之，乞人不屑也。" />
+			<exam article="《小石谭记》" ref="俶尔远逝，往来翕忽。" />
+		</sense>
+		<sense vernacular="兼词">
+			<exam article="《唐雎不辱使命》" ref="布衣之怒亦免冠徒跣以头抢地尔。" />
+			<exam article="《志油翁》" ref="无他，但手熟尔。" />
+		</sense>
+		<sense tag="助" vernacular="同“耳”">
+			<exam article="《捕蛇者说》" ref="与吾居十二年者，今其室十无四五焉。非死则徒尔。" />
+			<exam article="《熟读精思》" ref="使其意皆出于吾之心，然后可以有得尔。" />
+		</sense>
+	</pron>
+	<phrase value="尔曹">
+		<sense value="尔辈；你们" />
+	</phrase>
+	<phrase value="尔尔">
+		<sense value="1" />
+		<sense value="答应之声，相当于“是是”" />
+	</phrase>
+	<phrase value="尔来">
+		<sense value="自那时以来；近来" />
+	</phrase>
+	<phrase value="尔汝">
+		<sense value="1" />
+		<sense value="古代尊长对卑幼者的称呼，引申轻贱之称" />
+	</phrase>
+</character>

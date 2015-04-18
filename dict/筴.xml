@@ -1,0 +1,27 @@
+<character value="筴">
+	<introduce>
+		<pinyin value="jia2" writing="jiá" />
+		<pinyin value="ce4" writing="cè" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="撇横捺撇横捺横撇捺撇捺撇捺" />
+	</introduce>
+	<pron value="cè">
+		<sense tag="名" vernacular="同“策”">
+			<exam article="《礼记·曲礼上》" ref="龟为卜，筴为筮。" />
+		</sense>
+		<sense tag="名" vernacular="计谋">
+			<exam article="《史记·张耳陈馀列传》" ref="怨陈王不用其筴。" />
+		</sense>
+		<sense tag="名" vernacular="简书" />
+		<sense tag="名" vernacular="栅栏">
+			<exam article="《庄子·达生》" ref="祝宗人玄端以临牢筴。" />
+		</sense>
+	</pron>
+	<pron value="jiā">
+		<sense tag="名" vernacular="夹东西的用具">
+			<exam article="《茶经·器》" ref="火筴，一名箸。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,20 @@
+<character value="啬">
+	<introduce>
+		<pinyin value="se4" writing="sè" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖捺撇横竖折竖折横横" />
+	</introduce>
+	<pron value="sè">
+		<sense tag="动" vernacular="过于俭省，吝啬">
+			<exam article="《战国策·韩策一》" ref="仲啬于财。" />
+		</sense>
+		<sense tag="动" vernacular="节省；节俭">
+			<exam article="《管子·五辅》" ref="纤啬省用，以备饥馑。" />
+		</sense>
+		<sense tag="动" vernacular="收割庄稼">
+			<exam article="《汉书·成帝纪》" ref="服田力啬。" />
+		</sense>
+	</pron>
+</character>

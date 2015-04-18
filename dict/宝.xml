@@ -1,0 +1,35 @@
+<character value="宝">
+	<introduce>
+		<pinyin value="bao3" writing="băo" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺折横横竖横捺" />
+	</introduce>
+	<pron value="bǎo">
+		<sense tag="名" vernacular="宝物;珍贵的东西">
+			<exam article="《廉颇蔺相如列传》" ref="和氏璧,天下所共传宝也。" />
+		</sense>
+		<sense tag="名意动" vernacular="以……为宝;珍视;珍爱">
+			<exam article="《孟子·尽心》" ref="宝珠玉者,殃必及身。" />
+		</sense>
+		<sense tag="名" vernacular="泛指珍贵的事物">
+			<exam article="《过秦论》" ref="不爱珍器重宝肥沃之地。" />
+		</sense>
+		<sense tag="形" vernacular="珍贵的">
+			<exam article="《涉江》" ref="被明月兮珮宝璐。" />
+		</sense>
+	</pron>
+	<phrase value="宝刹">
+		<sense value="1" />
+		<sense value="佛塔" />
+		<sense value="2" />
+		<sense value="泛指佛寺" />
+	</phrase>
+	<phrase value="宝眷">
+		<sense value="对他人眷属的敬称" />
+	</phrase>
+	<phrase value="宝祚">
+		<sense value="帝座" />
+	</phrase>
+</character>

@@ -1,0 +1,29 @@
+<character value="彰">
+	<introduce>
+		<pinyin value="zhang1" writing="zhāng" />
+		<bushou value="彡" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="捺横捺撇横竖折横横横竖撇撇撇" />
+	</introduce>
+	<pron value="zhāng">
+		<sense tag="形" vernacular="明显；显著">
+			<exam article="《柳毅传》" ref="赖明君子信义昭彰，至达远冤。" />
+		</sense>
+		<sense tag="动" vernacular="显示；揭露">
+			<exam article="《出师表》" ref="若无兴德之言，则责攸之、祎、允等之慢，以彰其咎。" />
+		</sense>
+		<sense tag="动" vernacular="表彰">
+			<exam article="《淮南子·览冥》" ref="然而不彰其功，不扬其声。" />
+		</sense>
+	</pron>
+	<phrase value="彰徨">
+		<sense value="惊慌惶惑" />
+	</phrase>
+	<phrase value="彰明">
+		<sense value="表明；揭露" />
+	</phrase>
+	<phrase value="彰彰">
+		<sense value="明白；显著" />
+	</phrase>
+</character>

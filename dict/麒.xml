@@ -1,0 +1,15 @@
+<character value="麒">
+	<introduce>
+		<pinyin value="qi2" writing="qí" />
+		<bushou value="鹿" />
+		<bushoustroke value="11" />
+		<stroke value="19" />
+		<order value="捺横撇折竖竖横横折撇折横竖竖横横横撇捺" />
+	</introduce>
+	<pron value="qí">
+		<sense vernacular="见“麒麟”" />
+	</pron>
+	<phrase value="麒麟">
+		<sense value="传说中的仁兽" />
+	</phrase>
+</character>

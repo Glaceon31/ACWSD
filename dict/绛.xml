@@ -1,0 +1,18 @@
+<character value="绛">
+	<introduce>
+		<pinyin value="jiang4" writing="jiàng" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折折横撇折捺横折竖" />
+	</introduce>
+	<pron value="jiàng">
+		<sense tag="名" vernacular="深红色">
+			<exam article="《三国志·吴书·吕蒙传》" ref="为兵作绛衣行縢。" />
+		</sense>
+		<sense tag="名" vernacular="绛草">
+			<exam article="《吴都赋》" ref="纶组紫绛，食葛香茅。" />
+		</sense>
+		<sense tag="名" vernacular="地名" />
+	</pron>
+</character>

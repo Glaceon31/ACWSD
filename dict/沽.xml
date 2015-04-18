@@ -1,0 +1,23 @@
+<character value="沽">
+	<introduce>
+		<pinyin value="gu1" writing="gū" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺横横竖竖折横" />
+	</introduce>
+	<pron value="gū">
+		<sense tag="动" vernacular="买">
+			<exam article="《林教头风雪山神庙》" ref="何沽不些酒来吃。" />
+		</sense>
+		<sense tag="动" vernacular="卖">
+			<exam article="《宋人沽酒》" ref="宋人有沽酒者，为器甚洁清。" />
+			<exam article="《杭州春望》" ref="红袖织绫誇柿带，青旗沽酒趁梨花。" />
+		</sense>
+	</pron>
+	<pron value="gǔ">
+		<sense tag="名" vernacular="卖酒人">
+			<exam article="《书上元夜游》" ref="民夷杂揉，屠沽纷然。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,20 @@
+<character value="渫">
+	<introduce>
+		<pinyin value="xie4" writing="xiè" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺横横竖竖横折横竖撇捺" />
+	</introduce>
+	<pron value="xiè">
+		<sense tag="动" vernacular="淘去污泥">
+			<exam article="《易经·井》" ref="渫井不食，为我心恻。" />
+		</sense>
+		<sense tag="形" vernacular="污浊">
+			<exam article="《狱中杂记》" ref="渫恶吏忍于鬻狱，无责也。" />
+		</sense>
+		<sense tag="动" vernacular="分散">
+			<exam article="《论贵粟疏》" ref="富人有爵，农民有钱，粟有所渫。" />
+		</sense>
+	</pron>
+</character>

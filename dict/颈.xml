@@ -1,0 +1,18 @@
+<character value="颈">
+	<introduce>
+		<pinyin value="jing3" writing="jĭng" />
+		<pinyin value="geng3" writing="gĕng" />
+		<bushou value="页" />
+		<bushoustroke value="6" />
+		<stroke value="11" />
+		<order value="折捺横竖横横撇竖折撇捺" />
+	</introduce>
+	<pron value="jǐng">
+		<sense tag="名" vernacular="脖子的前部">
+			<exam article="《廉颇蔺相如列传》" ref="卒相与欢，为刎颈之交。" />
+		</sense>
+		<sense tag="名" vernacular="泛指脖子，颈项">
+			<exam article="《五蠹》" ref="兔走触株，折颈而死。" />
+		</sense>
+	</pron>
+</character>

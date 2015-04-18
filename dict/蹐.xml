@@ -1,0 +1,17 @@
+<character value="蹐">
+	<introduce>
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="17" />
+		<order value="竖折横竖横竖横捺横撇撇捺捺竖折横横" />
+	</introduce>
+	<pron value="jí">
+		<sense tag="动" vernacular="走小碎步，即后脚尖紧接着前脚跟">
+			<exam article="《诗经·小雅·正月》" ref="谓地盖厚，不敢不蹐。" />
+		</sense>
+	</pron>
+	<phrase value="蹐天跼地">
+		<sense value="形容十分谨慎" />
+	</phrase>
+</character>

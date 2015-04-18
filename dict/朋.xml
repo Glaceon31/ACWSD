@@ -1,0 +1,26 @@
+<character value="朋">
+	<introduce>
+		<pinyin value="peng2" writing="péng" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="撇折横横撇折横横" />
+	</introduce>
+	<pron value="péng">
+		<sense tag="量" vernacular="货币单位">
+			<exam article="《诗经·小雅·菁菁者莪》" ref="锡我百朋。" />
+		</sense>
+		<sense tag="名" vernacular="朋友">
+			<exam article="《陈情赠友人》" ref="斯人无良朋。" />
+		</sense>
+		<sense tag="动" vernacular="结党；互相勾结">
+			<exam article="《离骚》" ref="世并举而好朋兮。" />
+		</sense>
+		<sense tag="动" vernacular="比；伦比">
+			<exam article="《诗经·唐风·椒柳》" ref="硕大无朋。" />
+		</sense>
+		<sense tag="动" vernacular="同；齐">
+			<exam article="《后汉书·李固杜乔传赞》" ref="李杜司职，朋心合力。" />
+		</sense>
+	</pron>
+</character>

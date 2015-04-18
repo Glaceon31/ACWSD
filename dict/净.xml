@@ -1,0 +1,23 @@
+<character value="净">
+	<introduce>
+		<pinyin value="jing4" writing="jìng" />
+		<bushou value="冫" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺横撇折折横横竖" />
+	</introduce>
+	<pron value="jìng">
+		<sense tag="形" vernacular="洁净；干净">
+			<exam article="《晚登三山还望京邑》" ref="余霞散成绮，澄江净如练。" />
+		</sense>
+		<sense tag="形" vernacular="纯净；纯洁">
+			<exam article="《世说新语·言语》" ref="卿居心不净。" />
+		</sense>
+		<sense tag="动" vernacular="净尽；完尽；没有剩余">
+			<exam article="《与朱元思书》" ref="风烟俱净，天山共色。" />
+		</sense>
+		<sense tag="名" vernacular="戏曲角色名，即花脸">
+			<exam article="《窦娥冤》" ref="净扮公人。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,26 @@
+<character value="橛">
+	<introduce>
+		<pinyin value="jue2" writing="jué" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="16" />
+		<order value="横竖撇捺横撇捺撇横折竖撇撇折撇捺" />
+	</introduce>
+	<pron value="jué">
+		<sense tag="名" vernacular="短木桩">
+			<exam article="《天工开物·彰施·红花》" ref="苗高二三尺，每路打橛，缚绳横阑，以备狂风拗折。" />
+		</sense>
+		<sense tag="名" vernacular="树木或庄稼的残根">
+			<exam article="《诗经·小雅·大田》" ref="以冬土定，故稼橛于地与地平。" />
+		</sense>
+		<sense tag="名" vernacular="马口中衔的横木">
+			<exam article="《庄子·马蹄》" ref="前有橛饰之患，而后有便荚之威。" />
+		</sense>
+		<sense tag="量" vernacular="一小段">
+			<exam article="《五灯会元·石头希迁禅师》" ref="师乃指一橛柴曰：马师何似这个？" />
+		</sense>
+		<sense tag="动" vernacular="击；打">
+			<exam article="《山海经·大荒东经》" ref="橛以雷兽之骨。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,18 @@
+<character value="醅">
+	<introduce>
+		<pinyin value="pei1" writing="pēi" />
+		<bushou value="酉" />
+		<bushoustroke value="7" />
+		<stroke value="15" />
+		<order value="横竖折撇折横横捺横捺撇横竖折横" />
+	</introduce>
+	<pron value="péi">
+		<sense tag="名" vernacular="未过滤的酒">
+			<exam article="《客至》" ref="盘飧市远无兼味，樽酒家贫只旧醅。" />
+		</sense>
+	</pron>
+	<phrase value="醅面">
+		<sense value="原指泛起碧色浮沫的酒表面" />
+		<sense value="比喻泛着绿色的春光" />
+	</phrase>
+</character>

@@ -1,0 +1,21 @@
+<character value="惝">
+	<introduce>
+		<pinyin value="chang3" writing="chăng" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺竖竖捺撇竖折竖折横" />
+	</introduce>
+	<pron value="chǎng">
+		<sense vernacular="（又读tǎng）怅惘；失意">
+			<exam article="《庄子·则阳》" ref="客出，而君惝然若有亡焉。" />
+		</sense>
+		<sense vernacular="通“敞”">
+			<exam article="《淮南子·精神训》" ref="廓惝而虚，清靖而无思虑。" />
+		</sense>
+	</pron>
+	<phrase value="惝怳">
+		<sense value="1" />
+		<sense value="失意" />
+	</phrase>
+</character>

@@ -1,0 +1,68 @@
+<character value="作">
+	<introduce>
+		<pinyin value="zuo4" writing="zuò" />
+		<pinyin value="zuo1" writing="zuō" />
+		<pinyin value="zuo2" writing="zuó" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇竖撇横竖横横" />
+	</introduce>
+	<pron value="zuò">
+		<sense tag="动" vernacular="起来；起身">
+			<exam article="《子路曾皙冉有公西华侍坐》" ref="舍瑟而作。" />
+		</sense>
+		<sense tag="动" vernacular="兴起；出现">
+			<exam article="《五蠹》" ref="有圣人作，构木为巢以避群害。" />
+		</sense>
+		<sense tag="动" vernacular="发动；发出；发生">
+			<exam article="《过秦论》" ref="一夫作难而七庙隳。" />
+			<exam article="《与朱元思书》" ref="泉水激石，泠泠作响。" />
+			<exam article="《狱中杂记》" ref="此疫作也。" />
+		</sense>
+		<sense tag="动" vernacular="演奏">
+			<exam article="《石钟山记》" ref="如乐作焉。" />
+		</sense>
+		<sense tag="动" vernacular="振作；振奋">
+			<exam article="《曹刿论战》" ref="一鼓作气，再鼓而衰。" />
+		</sense>
+		<sense tag="动" vernacular="干；做">
+			<exam article="《出师表》" ref="若有作奸犯科及为忠善者，宜付有司论其刑赏。" />
+		</sense>
+		<sense tag="动" vernacular="充任">
+			<exam article="《滕王阁序》" ref="家君作宰，路出名区。" />
+		</sense>
+		<sense tag="动" vernacular="制作；建造">
+			<exam article="《张衡传》" ref="遂乃研核阴阳，妙尽璇机之正，作浑天仪。" />
+		</sense>
+		<sense tag="动" vernacular="创作；写作">
+			<exam article="《滕王阁序》" ref="登高作赋，是所望于群公。" />
+		</sense>
+		<sense tag="动" vernacular="劳作；劳动">
+			<exam article="《桃花源记》" ref="其中往来种作，男女衣着，悉如外人。" />
+		</sense>
+		<sense tag="名" vernacular="作品">
+			<exam article="《图画》" ref="中国画家自临摹旧作入手。" />
+		</sense>
+		<sense tag="象" vernacular="摹写老鼠活动的声音">
+			<exam article="《口技》" ref="微闻有鼠作作索索。" />
+		</sense>
+	</pron>
+	<phrase value="作计">
+		<sense value="主意" />
+		<sense value="打主意" />
+	</phrase>
+	<phrase value="作色">
+		<sense value="生气；变脸色" />
+	</phrase>
+	<phrase value="作手">
+		<sense value="能手" />
+	</phrase>
+	<phrase value="作死">
+		<sense value="自寻死路" />
+	</phrase>
+	<phrase value="作用">
+		<sense value="努力" />
+		<sense value="作为" />
+	</phrase>
+</character>

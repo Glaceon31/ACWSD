@@ -1,0 +1,28 @@
+<character value="瘠">
+	<introduce>
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="疒" />
+		<bushoustroke value="5" />
+		<stroke value="15" />
+		<order value="捺横撇捺横捺横撇捺撇捺竖折横横" />
+	</introduce>
+	<pron value="jí">
+		<sense tag="形" vernacular="瘦，与“肥”相对">
+			<exam article="《荀子·非相》" ref="叶公子高，微小短瘠，行若将不胜其衣然。" />
+		</sense>
+		<sense tag="形" vernacular="薄；少">
+			<exam article="《左传·襄公二十九年》" ref="何必瘠鲁以肥杞。" />
+		</sense>
+	</pron>
+	<pron value="zì">
+		<sense tag="名" vernacular="通“胔”，尚未腐烂的尸骨">
+			<exam article="《正气歌》" ref="一朝蒙雾露，分作沟中瘠。" />
+		</sense>
+	</pron>
+	<phrase value="瘠色">
+		<sense value="容貌毁损" />
+	</phrase>
+	<phrase value="瘠土">
+		<sense value="不肥沃的土地" />
+	</phrase>
+</character>

@@ -1,0 +1,17 @@
+<character value="垠">
+	<introduce>
+		<pinyin value="yin2" writing="yín" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横折横横折撇捺" />
+	</introduce>
+	<pron value="yín">
+		<sense tag="名" vernacular="岸">
+			<exam article="《小石城山记》" ref="有积石横当其垠。" />
+		</sense>
+		<sense tag="名" vernacular="边际">
+			<exam article="《涉江》" ref="霰雪纷其无垠兮。" />
+		</sense>
+	</pron>
+</character>

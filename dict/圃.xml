@@ -1,0 +1,17 @@
+<character value="圃">
+	<introduce>
+		<pinyin value="pu3" writing="pŭ" />
+		<bushou value="囗" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="竖折横竖折横横竖捺横" />
+	</introduce>
+	<pron value="pǔ">
+		<sense tag="名" vernacular="种植蔬菜瓜果的园子，泛指园地">
+			<exam article="《过故人庄》" ref="开轩面场圃，把酒话桑麻。" />
+		</sense>
+		<sense tag="名" vernacular="种植蔬菜瓜果的人">
+			<exam article="《中山狼传》" ref="我杏也，往年老圃种我时，费一核耳。" />
+		</sense>
+	</pron>
+</character>

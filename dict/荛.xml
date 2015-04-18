@@ -1,0 +1,18 @@
+<character value="荛">
+	<introduce>
+		<pinyin value="rao2" writing="ráo" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖竖横折撇横撇折" />
+	</introduce>
+	<pron value="ráo">
+		<sense tag="名" vernacular="柴草">
+			<exam article="《管子·轻重》" ref="今北泽烧莫之续，则是农夫得居装而卖其薪荛。" />
+		</sense>
+		<sense tag="动" vernacular="打柴割草">
+			<exam article="《童区寄传》" ref="童寄者，郴州荛牧儿也。行牧且荛。" />
+			<exam article="《问说》" ref="是故狂夫之言，圣人择之；刍荛之微，先民询之。" />
+		</sense>
+	</pron>
+</character>

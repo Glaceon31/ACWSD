@@ -1,0 +1,17 @@
+<character value="撷">
+	<introduce>
+		<pinyin value="xie2" writing="xié" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="横竖横横竖横竖折横横撇竖折撇捺" />
+	</introduce>
+	<pron value="xié">
+		<sense tag="动" vernacular="摘取">
+			<exam article="《叹庭前甘菊花》" ref="篱边野外多众芳，採撷细琐升中堂。" />
+		</sense>
+		<sense vernacular="通“襭”，用衣襟装东西">
+			<exam article="《说文·衣》" ref="撷，以衣袵极物谓之撷。" />
+		</sense>
+	</pron>
+</character>

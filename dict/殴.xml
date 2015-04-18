@@ -1,0 +1,19 @@
+<character value="殴">
+	<introduce>
+		<pinyin value="ou1" writing="ōu" />
+		<bushou value="殳" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横撇捺折撇折折捺" />
+	</introduce>
+	<pron value="ōu">
+		<sense tag="动" vernacular="击打">
+			<exam article="《书博鸡者事》" ref="博鸡者直前捽下提殴之。" />
+		</sense>
+	</pron>
+	<pron value="qū">
+		<sense tag="动" vernacular="同“驱”，驱使">
+			<exam article="《论积贮疏》" ref="今殴民而归之农，皆著于本。" />
+		</sense>
+	</pron>
+</character>

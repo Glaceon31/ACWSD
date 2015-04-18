@@ -1,0 +1,27 @@
+<character value="猜">
+	<introduce>
+		<pinyin value="cai1" writing="cāi" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="撇折撇横横竖横竖折横横" />
+	</introduce>
+	<pron value="cāi">
+		<sense tag="副" vernacular="怀疑">
+			<exam article="《后汉书·曹褒传》" ref="修补旧文，独何猜焉？" />
+		</sense>
+		<sense tag="动" vernacular="嫌恶" />
+		<sense vernacular="猜测" />
+		<sense vernacular="看；看待" />
+		<sense tag="语气词" vernacular="" />
+	</pron>
+	<phrase value="猜贰">
+		<sense value="疑忌" />
+	</phrase>
+	<phrase value="猜隙">
+		<sense value="因猜忌产生裂痕" />
+	</phrase>
+	<phrase value="猜险">
+		<sense value="多疑而阴险" />
+	</phrase>
+</character>

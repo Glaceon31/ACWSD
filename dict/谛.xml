@@ -1,0 +1,20 @@
+<character value="谛">
+	<introduce>
+		<pinyin value="di4" writing="dì" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="捺折捺横捺撇捺折竖折竖" />
+	</introduce>
+	<pron value="dì">
+		<sense tag="动" vernacular="细察；注意">
+			<exam article="《聊斋志异·促织》" ref="审谛之，短小、黑赤色，顿非前物。" />
+		</sense>
+		<sense tag="名" vernacular="佛教用语">
+			<exam article="《游山》" ref="偶逢赤髭侣，瞩我听真谛。" />
+		</sense>
+	</pron>
+	<phrase value="谛当">
+		<sense value="恰当；精确" />
+	</phrase>
+</character>

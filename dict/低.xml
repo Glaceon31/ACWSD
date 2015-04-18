@@ -1,0 +1,26 @@
+<character value="低">
+	<introduce>
+		<pinyin value="di1" writing="dī" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇竖撇折横折捺" />
+	</introduce>
+	<pron value="dī">
+		<sense tag="形" vernacular="低下，与“高”相对">
+			<exam article="《琵琶行》" ref="信近湓江地低湿，黄芦苦竹绕宅生。" />
+			<exam article="《阿房宫赋》" ref="高低冥迷，不知东西。" />
+		</sense>
+		<sense tag="动" vernacular="（头）向下垂着">
+			<exam article="《静夜思》" ref="举头望明月，低头思故乡。" />
+		</sense>
+	</pron>
+	<phrase value="低摧">
+		<sense value="低首摧眉，憔悴的样子" />
+	</phrase>
+	<phrase value="低回">
+		<sense value="徘徊；流连" />
+		<sense value="纡回曲折" />
+		<sense value="迁就" />
+	</phrase>
+</character>

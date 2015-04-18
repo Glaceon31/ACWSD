@@ -1,0 +1,17 @@
+<character value="己">
+	<introduce>
+		<pinyin value="ji3" writing="jĭ" />
+		<bushou value="己" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="折横折" />
+	</introduce>
+	<pron value="jǐ">
+		<sense tag="代" vernacular="自己">
+			<exam article="《谋攻》" ref="知彼知己，百战不殆。" />
+		</sense>
+		<sense tag="名" vernacular="天干的第六位">
+			<exam article="《察传》" ref="晋师己亥过河也。" />
+		</sense>
+	</pron>
+</character>

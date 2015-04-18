@@ -1,0 +1,18 @@
+<character value="碣">
+	<introduce>
+		<pinyin value="jie2" writing="jié" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="14" />
+		<order value="横撇竖折横竖折横横撇折撇捺折" />
+	</introduce>
+	<pron value="jié">
+		<sense vernacular="名&gt;圆顶的墓碑；纪念碑">
+			<exam article="《述异记》" ref="崆峒山中有尧碑禹碣，皆籀文焉。" />
+			<exam article="《&lt;黄花冈七十二烈士事略&gt;序》" ref="延至七年，始有墓碣之修建。" />
+		</sense>
+	</pron>
+	<phrase value="碣磍">
+		<sense value="猛兽发威的样子" />
+	</phrase>
+</character>

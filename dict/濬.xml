@@ -1,0 +1,18 @@
+<character value="濬">
+	<introduce>
+		<pinyin value="jun4" writing="jùn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="17" />
+		<order value="捺捺横竖横捺折横撇捺撇捺竖折横横横" />
+	</introduce>
+	<pron value="jùn">
+		<sense vernacular="同“浚”" />
+		<sense tag="动" vernacular="深挖河道使水疏通">
+			<exam article="《尚书·尧典》" ref="封十有二山，濬川。" />
+		</sense>
+		<sense tag="形" vernacular="深">
+			<exam article="《吴都赋》" ref="带朝夕之濬池，佩长州之茂苑。" />
+		</sense>
+	</pron>
+</character>

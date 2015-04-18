@@ -1,0 +1,13 @@
+<character value="蛉">
+	<introduce>
+		<pinyin value="ling2" writing="líng" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="11" />
+		<order value="竖折横竖横捺撇捺捺折捺" />
+	</introduce>
+	<pron value="líng">
+		<sense vernacular="〔白蛉子〕一种比蚊子小的小飞虫，喜吸人畜血液，能传染黑热病" />
+		<sense vernacular="〔螟蛉〕见“螟”" />
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="悸">
+	<introduce>
+		<pinyin value="ji4" writing="jì" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺竖撇横竖撇捺折竖横" />
+	</introduce>
+	<pron value="jì">
+		<sense tag="动" vernacular="心因紧张或害怕而不规则地跳动">
+			<exam article="《梦游天姥吟留别》" ref="忽魂悸以魄动，恍惊起而长嗟。" />
+		</sense>
+		<sense tag="名" vernacular="心悸病">
+			<exam article="《世说新语·纰漏》" ref="殷仲堪父病虚悸，闻床下蚁动，谓是牛斗。" />
+		</sense>
+	</pron>
+</character>

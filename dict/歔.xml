@@ -1,0 +1,17 @@
+<character value="歔">
+	<introduce>
+		<pinyin value="xu1" writing="xū" />
+		<bushou value="欠" />
+		<bushoustroke value="4" />
+		<stroke value="15" />
+		<order value="竖横折撇横折竖竖捺撇横撇折撇捺" />
+	</introduce>
+	<pron value="xū">
+		<sense tag="动" vernacular="鼻孔出气">
+			<exam article="《老子》" ref="故物或行或随，或歔或吹。" />
+		</sense>
+		<sense tag="动" vernacular="叹息">
+			<exam article="《北史·任城王云传》" ref="顺须鬃俱张，仰面看屋，愤气奔涌，长歔而不言。" />
+		</sense>
+	</pron>
+</character>

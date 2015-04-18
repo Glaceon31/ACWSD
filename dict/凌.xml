@@ -1,0 +1,40 @@
+<character value="凌">
+	<introduce>
+		<pinyin value="ling2" writing="líng" />
+		<bushou value="冫" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="捺横横竖横撇捺撇折捺" />
+	</introduce>
+	<pron value="líng">
+		<sense tag="名" vernacular="冰">
+			<exam article="《老残游记》" ref="打大前儿，河里就淌凌，一块子有间把屋子大。" />
+		</sense>
+		<sense tag="动" vernacular="登；升">
+			<exam article="《望岳》" ref="会当凌绝顶，一览众山小。" />
+		</sense>
+		<sense tag="动" vernacular="乘；凌驾；超过；越过">
+			<exam article="《春日戏题恼郝使君兄》" ref="使君意气凌春宵。" />
+			<exam article="《滕王阁序》" ref="睢园绿竹，气凌彭泽之樽。" />
+			<exam article="《采草药》" ref="岭峤微草，凌冬不凋。" />
+		</sense>
+		<sense tag="动" vernacular="侵犯；欺凌；欺侮">
+			<exam article="《国殇》" ref="诚既勇兮又以武，终刚强兮不可凌。" />
+		</sense>
+	</pron>
+	<phrase value="凌波">
+		<sense value="起伏的波浪" />
+		<sense value="形容女性步履轻盈" />
+	</phrase>
+	<phrase value="凌迟">
+		<sense value="古代最残酷的一种死刑，分割犯人的肢体直至死亡，俗称“剐刑“" />
+		<sense value="衰败；败坏" />
+		<sense value="逐步的向下走" />
+	</phrase>
+	<phrase value="凌厉">
+		<sense value="勇往直前；气势猛烈" />
+	</phrase>
+	<phrase value="凌轹">
+		<sense value="欺压；侵犯" />
+	</phrase>
+</character>

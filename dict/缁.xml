@@ -1,0 +1,14 @@
+<character value="缁">
+	<introduce>
+		<pinyin value="zi1" writing="zī" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="折折横折折折竖折横竖横" />
+	</introduce>
+	<pron value="zī">
+		<sense tag="形" vernacular="黑色">
+			<exam article="《韩非子·说林下》" ref="天雨，解素衣，衣缁衣而反。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="源">
+	<introduce>
+		<pinyin value="yuan2" writing="yuán" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="捺捺横横撇撇竖折横横竖撇捺" />
+	</introduce>
+	<pron value="yuán">
+		<sense tag="名" vernacular="水的源头">
+			<exam article="《桃花源记》" ref="林尽水源，便得一山。" />
+		</sense>
+		<sense tag="名" vernacular="事物的起源">
+			<exam article="《原君》" ref="至废孟子不立，非导源于小儒乎？" />
+		</sense>
+	</pron>
+</character>

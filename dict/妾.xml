@@ -1,0 +1,20 @@
+<character value="妾">
+	<introduce>
+		<pinyin value="qie4" writing="qiè" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺横捺撇横折撇横" />
+	</introduce>
+	<pron value="qiè">
+		<sense tag="名" vernacular="旧社会男子在正妻之外的配偶">
+			<exam article="《邹忌讽齐王纳谏》" ref="臣之妻私臣，臣之妾畏臣。" />
+		</sense>
+		<sense tag="名" vernacular="古代妇女对自己的谦称">
+			<exam article="《孔雀东南飞》" ref="妾不堪驱使，徒留无所施。" />
+		</sense>
+	</pron>
+	<phrase value="妾媵">
+		<sense value="古代诸侯贵族女子出嫁，从嫁的妹妹或姪女称媵，后通称侍妾为妾媵" />
+	</phrase>
+</character>

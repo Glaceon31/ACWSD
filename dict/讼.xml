@@ -1,0 +1,32 @@
+<character value="讼">
+	<introduce>
+		<pinyin value="song4" writing="sòng" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺折撇捺折捺" />
+	</introduce>
+	<pron value="sòng">
+		<sense tag="动" vernacular="争辩；争论">
+			<exam article="《盐铁论·利议》" ref="辩讼公门之下。" />
+		</sense>
+		<sense tag="动" vernacular="诉讼；打官司">
+			<exam article="《狱中杂记》" ref="迩来狱讼，情稍重，京兆五城即不敢专决。" />
+		</sense>
+		<sense tag="动" vernacular="告状；申告">
+			<exam article="《狱中杂记》" ref="又某氏以不讼其子，左右邻械系入老监。" />
+		</sense>
+		<sense tag="动" vernacular="替人辩冤">
+			<exam article="《汉书·陈汤传》" ref="太中大夫谷永上疏讼汤。" />
+		</sense>
+		<sense tag="动" vernacular="责备">
+			<exam article="《感事》" ref="内讼敢不勤。" />
+		</sense>
+		<sense tag="形" vernacular="公开">
+			<exam article="《史记·吕太后本纪》" ref="太尉尚恐不胜诸吕，未敢讼言诛之。" />
+		</sense>
+		<sense tag="动" vernacular="通“颂”颂扬">
+			<exam article="《汉书·冯奉世传》" ref="杜钦上疏，追讼奉前功。" />
+		</sense>
+	</pron>
+</character>

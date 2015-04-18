@@ -1,0 +1,16 @@
+<character value="貔">
+	<introduce>
+		<pinyin value="pi2" writing="pí" />
+		<bushou value="豸" />
+		<bushoustroke value="7" />
+		<stroke value="17" />
+		<order value="撇捺捺撇折撇撇撇竖折撇捺横横折撇折" />
+	</introduce>
+	<pron value="pí">
+		<sense vernacular="见“貔貅”" />
+	</pron>
+	<phrase value="貔貅">
+		<sense value="古代传说的的猛兽" />
+		<sense value="比喻勇猛的军队" />
+	</phrase>
+</character>

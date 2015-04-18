@@ -1,0 +1,17 @@
+<character value="摅">
+	<introduce>
+		<pinyin value="shu1" writing="shū" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="横竖横竖横折撇横折捺折捺捺" />
+	</introduce>
+	<pron value="shū">
+		<sense tag="动" vernacular="散布；抒发">
+			<exam article="《史记·司马相如列传》" ref="摅之无穷。" />
+		</sense>
+		<sense tag="动" vernacular="腾跃">
+			<exam article="《后汉书·张衡传》" ref="仆夫俨其正策兮，八乘摅而超骧。" />
+		</sense>
+	</pron>
+</character>

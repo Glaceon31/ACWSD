@@ -1,0 +1,39 @@
+<character value="畅">
+	<introduce>
+		<pinyin value="chang4" writing="chàng" />
+		<bushou value="田" />
+		<bushoustroke value="5" />
+		<stroke value="8" />
+		<order value="竖折横横竖折撇撇" />
+	</introduce>
+	<pron value="chàng">
+		<sense tag="形" vernacular="畅通无阻；畅达；流畅">
+			<exam article="《送东阳马生序》" ref="撰长书以为贽，辞甚畅达。" />
+		</sense>
+		<sense tag="形" vernacular="通晓">
+			<exam article="《出师表》" ref="将军向宠，性行淑均，晓畅军事。" />
+		</sense>
+		<sense tag="形" vernacular="舒畅；畅快">
+			<exam article="《兰亭集序》" ref="是日也，天朗气清，惠风和畅。" />
+		</sense>
+		<sense tag="形" vernacular="尽情；充分">
+			<exam article="《兰亭集序》" ref="一觞一咏，亦足以畅叙幽情。" />
+			<exam article="《群英会蒋干中计》" ref="说罢，大笑畅饮。" />
+		</sense>
+		<sense tag="形" vernacular="茂盛；旺盛">
+			<exam article="《孟子·滕文公下》" ref="草木畅茂，禽兽繁殖。" />
+		</sense>
+	</pron>
+	<phrase value="畅茂">
+		<sense value="茂盛" />
+	</phrase>
+	<phrase value="畅洽">
+		<sense value="普遍而深邃" />
+	</phrase>
+	<phrase value="畅遂">
+		<sense value="畅茂顺遂" />
+	</phrase>
+	<phrase value="畅心">
+		<sense value="充分尽情地表达心意" />
+	</phrase>
+</character>

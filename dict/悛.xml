@@ -1,0 +1,14 @@
+<character value="悛">
+	<introduce>
+		<pinyin value="quan1" writing="quān" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺竖折捺撇捺撇折捺" />
+	</introduce>
+	<pron value="quān">
+		<sense tag="动" vernacular="改；悔改">
+			<exam article="《韩非子·难四》" ref="过而不悛，亡之本也。" />
+		</sense>
+	</pron>
+</character>

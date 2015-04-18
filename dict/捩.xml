@@ -1,0 +1,22 @@
+<character value="捩">
+	<introduce>
+		<pinyin value="lie4" writing="liè" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖横捺折横撇横撇捺捺" />
+	</introduce>
+	<pron value="liè">
+		<sense tag="动" vernacular="扭转">
+			<exam article="《送穷文》" ref="捩手覆羹，转喉触讳。" />
+		</sense>
+		<sense tag="动" vernacular="折">
+			<exam article="《引泉》" ref="凌风捩桂花。" />
+		</sense>
+	</pron>
+	<pron value="lì">
+		<sense tag="名" vernacular="琵琶拨子">
+			<exam article="《咏内人昼眠》" ref="攀钩落绮障，插捩举琵琶。" />
+		</sense>
+	</pron>
+</character>

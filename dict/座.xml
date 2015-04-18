@@ -1,0 +1,24 @@
+<character value="座">
+	<introduce>
+		<pinyin value="zuo4" writing="zuò" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺横撇撇捺撇捺横竖横" />
+	</introduce>
+	<pron value="zuò">
+		<sense tag="名" vernacular="座位">
+			<exam article="《琵琶行》" ref="座中泣下谁最多？" />
+		</sense>
+		<sense tag="名" vernacular="在场的；坐着的人">
+			<exam article="《口技》" ref="满座寂然，无敢哗者。" />
+		</sense>
+		<sense tag="名" vernacular="器物的底盘">
+			<exam article="《元史·忙兀台传》" ref="至沙洋堡，立砲座十有二。" />
+		</sense>
+		<sense tag="量" vernacular="如一座山，两座塔" />
+	</pron>
+	<phrase value="座右铭">
+		<sense value="古人置于座右用作警戒的铭文" />
+	</phrase>
+</character>

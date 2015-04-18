@@ -1,0 +1,17 @@
+<character value="疲">
+	<introduce>
+		<pinyin value="pi2" writing="pí" />
+		<bushou value="疒" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="捺横撇捺横折撇竖折捺" />
+	</introduce>
+	<pron value="pí">
+		<sense tag="形" vernacular="疲乏；劳累">
+			<exam article="《赤壁之战》" ref="彼所将中国人不过十五六万，且已久疲。" />
+		</sense>
+		<sense tag="形" vernacular="瘦弱；老">
+			<exam article="《管子·小匡》" ref="故使天下诸侯以疲马犬羊为报。" />
+		</sense>
+	</pron>
+</character>

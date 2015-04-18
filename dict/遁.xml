@@ -1,0 +1,27 @@
+<character value="遁">
+	<introduce>
+		<pinyin value="dun4" writing="dùn" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="撇撇横竖竖折横横横捺折捺" />
+	</introduce>
+	<pron value="dùn">
+		<sense tag="动" vernacular="逃跑；逃离">
+			<exam article="《黔之驴》" ref="他日，驴一鸣，虎大骇，远遁。" />
+			<exam article="《冯婉贞》" ref="敌弃炮仓皇遁。" />
+		</sense>
+		<sense tag="动" vernacular="隐去">
+			<exam article="《始得西山宴游记》" ref="尺寸千里，攒蹙累积，莫得遁隐。" />
+		</sense>
+	</pron>
+	<phrase value="遁迹">
+		<sense value="避世隐居" />
+	</phrase>
+	<phrase value="遁天">
+		<sense value="违背自然规律" />
+	</phrase>
+	<phrase value="遁巡">
+		<sense value="欲行又止，迟缓不决的样子" />
+	</phrase>
+</character>

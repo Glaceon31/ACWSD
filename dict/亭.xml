@@ -1,0 +1,31 @@
+<character value="亭">
+	<introduce>
+		<pinyin value="ting2" writing="tíng" />
+		<bushou value="亠" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="捺横竖折横捺折横竖" />
+	</introduce>
+	<pron value="tíng">
+		<sense tag="名" vernacular="古代设在路边供旅客停宿的公共房舍">
+			<exam article="《菩萨蛮》" ref="何处是归程？长亭连短亭。" />
+		</sense>
+		<sense tag="名" vernacular="秦汉时基层行政单位">
+			<exam article="《高祖还乡》" ref="你本身做亭长，耽几盏酒。" />
+		</sense>
+		<sense tag="名" vernacular="亭子；有顶无墙的建筑">
+			<exam article="《醉翁亭记》" ref="有亭翼然临于泉上者，醉翁亭也。" />
+		</sense>
+	</pron>
+	<phrase value="亭候">
+		<sense value="古代用来侦察、监视敌情的岗亭" />
+	</phrase>
+	<phrase value="亭亭">
+		<sense value="耸立的样子" />
+		<sense value="独立高洁的样子" />
+		<sense value="山名，在山东泰安南" />
+	</phrase>
+	<phrase value="亭午">
+		<sense value="正午" />
+	</phrase>
+</character>

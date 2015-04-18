@@ -1,0 +1,18 @@
+<character value="包">
+	<introduce>
+		<pinyin value="bao1" writing="bāo" />
+		<bushou value="勹" />
+		<bushoustroke value="2" />
+		<stroke value="5" />
+		<order value="撇折折横折" />
+	</introduce>
+	<pron value="bāo">
+		<sense tag="动" vernacular="裹;包住">
+			<exam article="《鲁提辖拳打镇关西》" ref="那店小二将手帕包了头。" />
+			<exam article="《范进中举》" ref="即便包了两锭,叫胡屠户进来。" />
+		</sense>
+		<sense tag="动" vernacular="包括;包容">
+			<exam article="《过秦论》" ref="席卷天下,包举宇内。" />
+		</sense>
+	</pron>
+</character>

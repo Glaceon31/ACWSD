@@ -1,0 +1,20 @@
+<character value="蛊">
+	<introduce>
+		<pinyin value="gu3" writing="gŭ" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="11" />
+		<order value="竖折横竖横捺竖折竖竖横" />
+	</introduce>
+	<pron value="gǔ">
+		<sense tag="名" vernacular="古人所说的害人的毒虫">
+			<exam article="《周礼·秋官·庶氏》" ref="掌除毒蛊。" />
+		</sense>
+		<sense tag="名" vernacular="陈谷中所产生的虫">
+			<exam article="《论衡·商虫》" ref="谷虫曰蛊。" />
+		</sense>
+		<sense tag="动" vernacular="诱惑；勾引">
+			<exam article="《左传·庄公二十八年》" ref="楚令尹子元欲蛊文夫人。" />
+		</sense>
+	</pron>
+</character>

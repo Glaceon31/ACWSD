@@ -1,0 +1,24 @@
+<character value="诰">
+	<introduce>
+		<pinyin value="gao4" writing="gào" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="捺折撇横竖横竖折横" />
+	</introduce>
+	<pron value="gào">
+		<sense tag="动" vernacular="告诉">
+			<exam article="《尝书·太甲下》" ref="伊尹申诰于王。" />
+		</sense>
+		<sense tag="名" vernacular="皇帝给臣子的命令">
+			<exam article="《草堂集序》" ref="潜草诏诰，无人知者。" />
+		</sense>
+		<sense tag="动" vernacular="告诫；劝勉">
+			<exam article="《国语·楚语上》" ref="近臣谏，远臣谤，舆人诵，以自诰也。" />
+			<exam article="《尚书·多方》" ref="成王归自奄，在宗周，诰庶邦。" />
+		</sense>
+		<sense vernacular="文体的一种，用天告诫或勉励">
+			<exam article="《文心雕龙·辨骚》" ref="故其陈尧舜之耿介，称汤武之祗敬，典诰之体也。" />
+		</sense>
+	</pron>
+</character>

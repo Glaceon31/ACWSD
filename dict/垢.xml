@@ -1,0 +1,17 @@
+<character value="垢">
+	<introduce>
+		<pinyin value="gou4" writing="gòu" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横撇撇横竖折横" />
+	</introduce>
+	<pron value="gòu">
+		<sense tag="名" vernacular="污秽、肮脏的东西">
+			<exam article="《屈原列传》" ref="不获世之滋垢。" />
+		</sense>
+		<sense tag="名" vernacular="污辱、耻辱">
+			<exam article="《左传·宣公十五年》" ref="国君含垢。" />
+		</sense>
+	</pron>
+</character>

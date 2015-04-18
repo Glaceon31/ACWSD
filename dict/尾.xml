@@ -1,0 +1,21 @@
+<character value="尾">
+	<introduce>
+		<pinyin value="wei3" writing="wĕi" />
+		<pinyin value="yi3" writing="yĭ" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折横撇撇横横折" />
+	</introduce>
+	<pron value="wěi">
+		<sense tag="名" vernacular="尾巴">
+			<exam article="《狼》" ref="身已半入，只露尻尾。" />
+		</sense>
+		<sense tag="名" vernacular="末尾；末端">
+			<exam article="《愚公移山》" ref="投诸渤海之尾，隐士之北。" />
+		</sense>
+		<sense tag="动" vernacular="跟在后面；跟随">
+			<exam article="《后汉书·岑彭传》" ref="嚣出兵尾击诸营。" />
+		</sense>
+	</pron>
+</character>

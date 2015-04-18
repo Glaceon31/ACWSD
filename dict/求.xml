@@ -1,0 +1,36 @@
+<character value="求">
+	<introduce>
+		<pinyin value="qiu2" writing="qiú" />
+		<bushou value="水" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="横竖捺横撇捺捺" />
+	</introduce>
+	<pron value="qiú">
+		<sense tag="动" vernacular="寻找；找寻">
+			<exam article="《察今》" ref="舟止，从其所契者入水求之。" />
+			<exam article="《伤仲永》" ref="仲永生五年，未尝识书具，忽啼求之。" />
+		</sense>
+		<sense tag="动" vernacular="探求；探索">
+			<exam article="《岳阳楼记》" ref="予尝求古仁人之心。或异二者之为。" />
+			<exam article="《游褒禅山记》" ref="以其求思之深而无不在也。" />
+		</sense>
+		<sense tag="动" vernacular="要求；责求">
+			<exam article="《子鱼论战》" ref="明耻教战，求杀敌也。" />
+			<exam article="《马说》" ref="且欲与常马等不可得，安求其能千里也。" />
+		</sense>
+		<sense tag="动" vernacular="请求；乞求">
+			<exam article="《触龙说赵太后》" ref="赵氏求救于齐。" />
+			<exam article="《口技》" ref="又夹百千求救声。" />
+		</sense>
+		<sense tag="动" vernacular="谋求；索求">
+			<exam article="《廉颇蔺相如列传》" ref="秦以城求璧而赵不许。" />
+		</sense>
+		<sense tag="动" vernacular="访求；访问">
+			<exam article="《苏武》" ref="陵降，不敢求武。" />
+		</sense>
+		<sense tag="动" vernacular="追求；求偶">
+			<exam article="《诗经·关雎》" ref="窈窕淑女，寤寐求之。" />
+		</sense>
+	</pron>
+</character>

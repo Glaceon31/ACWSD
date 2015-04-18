@@ -1,0 +1,28 @@
+<character value="月">
+	<introduce>
+		<pinyin value="yue4" writing="yuè" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="撇折横横" />
+	</introduce>
+	<pron value="yuè">
+		<sense tag="名" vernacular="月亮">
+			<exam article="《赤壁赋》" ref="诵明月之诗，歌窈窕之章。" />
+		</sense>
+		<sense tag="名" vernacular="时间单位，一年分为十二个月">
+			<exam article="《邹忌讽齐王纳谏》" ref="数月之后，时时而间进。" />
+		</sense>
+		<sense tag="名" vernacular="月份">
+			<exam article="《陈情表》" ref="生孩六月，慈父见背。" />
+		</sense>
+	</pron>
+	<phrase value="月旦">
+		<sense value="农历每月初一日" />
+		<sense value="品评人物" />
+	</phrase>
+	<phrase value="月桂">
+		<sense value="岩桂之一种，四季开花，又名真桂" />
+		<sense value="月亮" />
+	</phrase>
+</character>

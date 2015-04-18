@@ -1,0 +1,26 @@
+<character value="北">
+	<introduce>
+		<pinyin value="bei3" writing="bĕi" />
+		<bushou value="匕" />
+		<bushoustroke value="2" />
+		<stroke value="5" />
+		<order value="竖横横撇折" />
+	</introduce>
+	<pron value="běi">
+		<sense tag="名" vernacular="北方">
+			<exam article="《愚公移山》" ref="本在冀州之南,河旧之北。" />
+		</sense>
+		<sense tag="动" vernacular="向北行">
+			<exam article="《赤壁之战》" ref="操军破,必北还。" />
+		</sense>
+		<sense tag="动" vernacular="打了败仗往回跑">
+			<exam article="《垓下之战》" ref="未尝败北。" />
+		</sense>
+		<sense tag="名败逃者" vernacular="">
+			<exam article="《过秦论》" ref="秦有余力而制其弊,追亡逐北。" />
+		</sense>
+	</pron>
+	<phrase value="北面">
+		<sense value="旧时君见臣,尊见卑,长见幼均南面而坐,因此北面指向人称臣或拜师" />
+	</phrase>
+</character>

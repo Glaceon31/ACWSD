@@ -1,0 +1,17 @@
+<character value="皈">
+	<introduce>
+		<pinyin value="gui1" writing="guī" />
+		<bushou value="白" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="撇竖折横横撇撇折捺" />
+	</introduce>
+	<pron value="guī">
+		<sense tag="名" vernacular="通“归”">
+			<exam article="《晚皈再度溪桥》" ref="皈近溪桥东复东，蓼花近路舞西风。" />
+		</sense>
+	</pron>
+	<phrase value="皈依">
+		<sense value="佛教称归向佛教" />
+	</phrase>
+</character>

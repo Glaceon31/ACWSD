@@ -1,0 +1,26 @@
+<character value="设">
+	<introduce>
+		<pinyin value="she4" writing="shè" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺折撇折折捺" />
+	</introduce>
+	<pron value="shè">
+		<sense tag="动" vernacular="设置；设立">
+			<exam article="《归去来兮辞》" ref="门虽设而常关。" />
+		</sense>
+		<sense tag="动" vernacular="陈设；安排">
+			<exam article="《桃花源记》" ref="设酒杀鸡作食。" />
+		</sense>
+		<sense tag="动" vernacular="筹划；谋划">
+			<exam article="《谭嗣同》" ref="而设法备贮弹药。" />
+		</sense>
+		<sense tag="形" vernacular="完备；周密">
+			<exam article="《史记·刺客列传》" ref="居处兵卫甚设。" />
+		</sense>
+		<sense tag="连" vernacular="假设；如果">
+			<exam article="《冯婉贞》" ref="小敌去，大敌来矣；设以炮至，吾村不齑粉乎？" />
+		</sense>
+	</pron>
+</character>

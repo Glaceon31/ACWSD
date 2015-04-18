@@ -1,0 +1,14 @@
+<character value="溟">
+	<introduce>
+		<pinyin value="ming2" writing="míng" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="捺捺横捺折竖折横横捺横撇捺" />
+	</introduce>
+	<pron value="míng">
+		<sense tag="名" vernacular="海">
+			<exam article="《庄子·逍遥遊》" ref="北溟有鱼。" />
+		</sense>
+	</pron>
+</character>

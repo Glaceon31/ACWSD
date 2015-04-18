@@ -1,0 +1,22 @@
+<character value="蓼">
+	<introduce>
+		<pinyin value="liao3" writing="liăo" />
+		<pinyin value="lu4" writing="lù" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="横竖竖折捺横折捺横撇捺撇撇撇" />
+	</introduce>
+	<pron value="liǎo">
+		<sense tag="名" vernacular="植物名">
+			<exam article="《春归昌谷》" ref="逸目骈甘华，羁心如荼蓼。" />
+		</sense>
+		<sense tag="形" vernacular="比喻辛苦" />
+		<sense tag="名" vernacular="古代诸侯国名" />
+	</pron>
+	<pron value="lù">
+		<sense tag="形" vernacular="长大的样子">
+			<exam article="《诗经·小雅·蓼萧》" ref="蓼彼萧斯。" />
+		</sense>
+	</pron>
+</character>

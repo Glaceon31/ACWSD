@@ -1,0 +1,14 @@
+<character value="歼">
+	<introduce>
+		<pinyin value="jian1" writing="jiān" />
+		<bushou value="歹" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="横撇折捺撇横竖" />
+	</introduce>
+	<pron value="jiān">
+		<sense tag="动" vernacular="杀尽；消灭">
+			<exam article="《左传·僖公二十二年》" ref="公伤股，门官歼焉。" />
+		</sense>
+	</pron>
+</character>

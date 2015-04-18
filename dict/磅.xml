@@ -1,0 +1,17 @@
+<character value="磅">
+	<introduce>
+		<pinyin value="bang4" writing="bàng" />
+		<pinyin value="pang2" writing="páng" />
+		<pinyin value="pang1" writing="pāng" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="15" />
+		<order value="横撇竖折横捺横捺撇捺折捺横折撇" />
+	</introduce>
+	<pron value="páng">
+		<sense vernacular="见“磅礴”" />
+	</pron>
+	<phrase value="磅礴">
+		<sense value="广大无边际" />
+	</phrase>
+</character>

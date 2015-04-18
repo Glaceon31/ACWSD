@@ -1,0 +1,32 @@
+<character value="诛">
+	<introduce>
+		<pinyin value="zhu1" writing="zhū" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺折撇横横竖撇捺" />
+	</introduce>
+	<pron value="zhū">
+		<sense tag="动" vernacular="要求；索求">
+			<exam article="《左传·襄公三十一年》" ref="以敝邑褊小，介于大国，诛求无时，是以不敢宁居。" />
+		</sense>
+		<sense tag="动" vernacular="责备；谴责">
+			<exam article="《论语·公冶长》" ref="朽木不可雕也，粪土之墙不可杇也。于予与何诛？" />
+		</sense>
+		<sense tag="动" vernacular="征伐；讨伐">
+			<exam article="《陈涉世家》" ref="将军身被坚执锐，伐无道，诛暴秦。" />
+		</sense>
+		<sense tag="动" vernacular="惩罚">
+			<exam article="《荀子·富国》" ref="诛而不赏，则勤励之民不劝。" />
+		</sense>
+		<sense tag="动" vernacular="杀">
+			<exam article="《鸿门宴》" ref="立诛杀曹无伤。" />
+		</sense>
+	</pron>
+	<phrase value="诛求">
+		<sense value="勒索" />
+	</phrase>
+	<phrase value="诛愚">
+		<sense value="愚昧迟钝" />
+	</phrase>
+</character>

@@ -1,0 +1,29 @@
+<character value="棣">
+	<introduce>
+		<pinyin value="di4" writing="dì" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖撇捺折横横竖捺横撇捺" />
+	</introduce>
+	<pron value="dì">
+		<sense tag="名" vernacular="一种树">
+			<exam article="《闲居赋》" ref="梅、杏、郁、棣之属。" />
+		</sense>
+		<sense tag="形" vernacular="从容文静的样子">
+			<exam article="《吊古战场文》" ref="穆穆棣。" />
+		</sense>
+		<sense vernacular="tì相通；通达">
+			<exam article="《汉书·律历志上》" ref="万物棣通。" />
+		</sense>
+	</pron>
+	<phrase value="棣棣">
+		<sense value="雍容娴雅的子" />
+	</phrase>
+	<phrase value="棣萼">
+		<sense value="比喻兄弟" />
+	</phrase>
+	<phrase value="棣友">
+		<sense value="指兄弟友爱" />
+	</phrase>
+</character>

@@ -1,0 +1,24 @@
+<character value="雕">
+	<introduce>
+		<pinyin value="diao1" writing="diāo" />
+		<bushou value="隹" />
+		<bushoustroke value="8" />
+		<stroke value="16" />
+		<order value="撇折横竖横竖折横撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="diāo">
+		<sense tag="名" vernacular="一种猛禽，似鹰而大，黑褐色">
+			<exam article="《史记·李将军列传》" ref="是必射雕者也。" />
+			<exam article="《观猎》" ref="回看射雕处，千里暮云平。" />
+		</sense>
+		<sense tag="动" vernacular="通“彫”">
+			<exam article="《核舟记》" ref="启窗而观，雕栏相望焉。" />
+		</sense>
+		<sense tag="动" vernacular="彩画；装饰">
+			<exam article="《柳毅传》" ref="雕琉璃于翠楣，饰琥珀于虹栋。" />
+		</sense>
+		<sense tag="动" vernacular="通“凋”">
+			<exam article="《采草药》" ref="岭峤微草，凌冬不雕。" />
+		</sense>
+	</pron>
+</character>

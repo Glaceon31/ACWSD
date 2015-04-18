@@ -1,0 +1,35 @@
+<character value="世">
+	<introduce>
+		<pinyin value="shi4" writing="shì" />
+		<bushou value="一" />
+		<bushoustroke value="1" />
+		<stroke value="5" />
+		<order value="横竖竖横折" />
+	</introduce>
+	<pron value="shì">
+		<sense tag="名" vernacular="三十年">
+			<exam article="《论语·子路》" ref="如有王者，必世而后仁。" />
+		</sense>
+		<sense tag="名" vernacular="一生；一辈子">
+			<exam article="《兰亭集序》" ref="夫人之相与，俯仰一世。" />
+		</sense>
+		<sense tag="名" vernacular="父子相继为一世">
+			<exam article="《殽之战》" ref="一日纵敌，数世之患也。" />
+		</sense>
+		<sense tag="名" vernacular="时代">
+			<exam article="《兰亭集序》" ref="虽世殊事异，所以兴怀，其致一也。" />
+		</sense>
+		<sense tag="名" vernacular="朝代">
+			<exam article="《桃花源记》" ref="问今是何世，乃不知有。" />
+		</sense>
+		<sense tag="名" vernacular="当代；当世">
+			<exam article="《张衡传》" ref="虽才高于世，而无骄尚之情。" />
+		</sense>
+		<sense tag="名" vernacular="年；岁">
+			<exam article="《论积贮疏》" ref="世之有饥穰，天之行也。" />
+		</sense>
+		<sense tag="名" vernacular="人世；世间；社会">
+			<exam article="《涉江》" ref="世溷浊而莫余知兮。" />
+		</sense>
+	</pron>
+</character>

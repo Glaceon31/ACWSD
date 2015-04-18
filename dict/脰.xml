@@ -1,0 +1,15 @@
+<character value="脰">
+	<introduce>
+		<pinyin value="dou4" writing="dòu" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="撇折横横横竖折横捺撇横" />
+	</introduce>
+	<pron value="dòu">
+		<sense tag="名" vernacular="脖子，有时也指头">
+			<exam article="《左传·襄公十八年》" ref="射殖绰，中肩，两矢夹脰。" />
+			<exam article="《五人墓碑记》" ref="有贤士大夫五十金，买五人之脰而函之，卒与尸合。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,18 @@
+<character value="想">
+	<introduce>
+		<pinyin value="xiang3" writing="xiăng" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="横竖撇捺竖折横横横捺折捺捺" />
+	</introduce>
+	<pron value="xiǎng">
+		<sense tag="动" vernacular="想像">
+			<exam article="《论衡·订鬼》" ref="畏惧则存想。" />
+		</sense>
+		<sense tag="动" vernacular="思索，思考">
+			<exam article="《舞赋》" ref="游心无垠，远思长想。" />
+		</sense>
+		<sense tag="动" vernacular="想念；怀念" />
+	</pron>
+</character>

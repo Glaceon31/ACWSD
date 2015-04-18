@@ -1,0 +1,15 @@
+<character value="茵">
+	<introduce>
+		<pinyin value="yin1" writing="yīn" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖竖竖折横撇捺横" />
+	</introduce>
+	<pron value="yīn">
+		<sense tag="名" vernacular="坐垫；车垫">
+			<exam article="《韩非子·十过》" ref="缦帛为茵。" />
+			<exam article="《汉书·丙吉传》" ref="此不过丞相车茵耳。" />
+		</sense>
+	</pron>
+</character>

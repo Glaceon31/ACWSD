@@ -1,0 +1,21 @@
+<character value="絷">
+	<introduce>
+		<pinyin value="zhi2" writing="zhí" />
+		<bushou value="糸" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="横竖横撇折捺折折捺竖撇捺" />
+	</introduce>
+	<pron value="zhí">
+		<sense tag="动" vernacular="用绳索拴住马足">
+			<exam article="《九歌·国殇》" ref="霾两轮兮絷四马。" />
+		</sense>
+		<sense tag="名" vernacular="拴马踉用的绳索">
+			<exam article="《诗经·周颂·有客》" ref="言授之絷，以絷其马。" />
+			<exam article="《左传·成公二年》" ref="韩厥执絷马前。" />
+		</sense>
+		<sense tag="动" vernacular="拘禁；束缚">
+			<exam article="《左传·成公九年》" ref="南冠而絷者谁也？" />
+		</sense>
+	</pron>
+</character>

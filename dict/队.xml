@@ -1,0 +1,22 @@
+<character value="队">
+	<introduce>
+		<pinyin value="dui4" writing="duì" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="折竖撇捺" />
+	</introduce>
+	<pron value="duì">
+		<sense tag="名" vernacular="队列">
+			<exam article="《垓下之战》" ref="乃分其骑为四队四向。" />
+		</sense>
+		<sense tag="名" vernacular="军队的编制单位">
+			<exam article="《史记·孙子吴起列传》" ref="孙子分为二队，以王之宠姬二人各为一队长。" />
+		</sense>
+	</pron>
+	<pron value="zhuì">
+		<sense tag="动" vernacular="“坠”的古字">
+			<exam article="《荀子·天论》" ref="星之队，木之鸣，是天地之变。" />
+		</sense>
+	</pron>
+</character>

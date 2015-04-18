@@ -1,0 +1,17 @@
+<character value="廊">
+	<introduce>
+		<pinyin value="lang2" writing="láng" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺横撇捺折横横折捺折竖" />
+	</introduce>
+	<pron value="láng">
+		<sense tag="名" vernacular="屋檐下的过道或室外有顶的过道">
+			<exam article="《阿房宫赋》" ref="廊腰缦回，檐牙高啄。" />
+		</sense>
+	</pron>
+	<phrase value="廊庙">
+		<sense value="廊指殿四周的通道，庙指太庙，都是古时帝王和大臣们议事的地方，后转指朝廷" />
+	</phrase>
+</character>

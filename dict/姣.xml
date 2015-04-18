@@ -1,0 +1,14 @@
+<character value="姣">
+	<introduce>
+		<pinyin value="jiao1" writing="jiāo" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折撇横捺横撇捺撇捺" />
+	</introduce>
+	<pron value="jiāo">
+		<sense tag="形" vernacular="美好">
+			<exam article="《南都赋》" ref="男女姣服。" />
+		</sense>
+	</pron>
+</character>

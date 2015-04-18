@@ -1,0 +1,46 @@
+<character value="端">
+	<introduce>
+		<pinyin value="duan1" writing="duān" />
+		<bushou value="立" />
+		<bushoustroke value="5" />
+		<stroke value="14" />
+		<order value="捺横捺撇横竖折竖横撇竖折竖竖" />
+	</introduce>
+	<pron value="duān">
+		<sense tag="名" vernacular="事物的一头或一方">
+			<exam article="《核舟记》" ref="东坡右手执卷端，左手抚鲁直背。" />
+		</sense>
+		<sense tag="名" vernacular="缘由">
+			<exam article="《君子行》" ref="祸集非无端。" />
+		</sense>
+		<sense tag="形" vernacular="端正">
+			<exam article="《核舟记》" ref="其人视端容寂。" />
+		</sense>
+		<sense tag="名" vernacular="玄端">
+			<exam article="《子路、曾晳、冉有、公西华侍坐》" ref="端章甫，愿为小相焉。" />
+		</sense>
+		<sense tag="量" vernacular="布帛的长度单位">
+			<exam article="《盐铁论》" ref="中国，端之缦。" />
+		</sense>
+		<sense tag="动" vernacular="双手捧物">
+			<exam article="《红楼梦》" ref="只有伺侯端菜的几个人。" />
+		</sense>
+		<sense tag="副" vernacular="终究；果真">
+			<exam article="《水龙吟》" ref="料多情梦里，端来见我，也参差是。" />
+		</sense>
+	</pron>
+	<phrase value="端的">
+		<sense value="果然；真的" />
+		<sense value="究竟；细情" />
+	</phrase>
+	<phrase value="端倪">
+		<sense value="头绪" />
+		<sense value="边际" />
+		<sense value="推测原委" />
+	</phrase>
+	<phrase value="端详">
+		<sense value="事情的始末；详情" />
+		<sense value="端庄安详" />
+		<sense value="仔细地看" />
+	</phrase>
+</character>

@@ -1,0 +1,18 @@
+<character value="遮">
+	<introduce>
+		<pinyin value="zhe1" writing="zhē" />
+		<pinyin value="zhe5" writing="zhe" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="捺横撇横竖竖横捺捺捺捺捺折捺" />
+	</introduce>
+	<pron value="zhē">
+		<sense tag="动" vernacular="拦阻">
+			<exam article="《书博鸡者事》" ref="即入闾左呼子弟素健者，得数十人，遮豪民于道。" />
+		</sense>
+		<sense tag="动" vernacular="遮盖">
+			<exam article="《琵琶行》" ref="千呼万唤始出来，犹抱琵琶半遮面。" />
+		</sense>
+	</pron>
+</character>

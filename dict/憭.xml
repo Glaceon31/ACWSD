@@ -1,0 +1,20 @@
+<character value="憭">
+	<introduce>
+		<pinyin value="liao3" writing="liăo" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="捺捺竖横撇捺捺撇竖折横横竖撇捺" />
+	</introduce>
+	<pron value="liǎo">
+		<sense tag="形" vernacular="明白；清楚">
+			<exam article="《国语解叙》" ref="其所发明，大义略举，为已憭矣。" />
+		</sense>
+	</pron>
+	<pron value="liáo">
+		<sense vernacular="见“憭慄”" />
+	</pron>
+	<phrase value="憭慄">
+		<sense value="凄凉的样子" />
+	</phrase>
+</character>

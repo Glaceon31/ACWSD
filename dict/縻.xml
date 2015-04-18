@@ -1,0 +1,27 @@
+<character value="縻">
+	<introduce>
+		<pinyin value="mi2" writing="mí" />
+		<bushou value="糸" />
+		<bushoustroke value="6" />
+		<stroke value="17" />
+		<order value="捺横撇横竖撇捺横竖撇捺折折捺竖撇捺" />
+	</introduce>
+	<pron value="mí">
+		<sense tag="名" vernacular="系牛的绳子">
+			<exam article="《叹牛》" ref="叟揽縻而对。" />
+		</sense>
+		<sense tag="动" vernacular="牵制；束缚">
+			<exam article="《谋攻》" ref="不知军之不可以进而谓之进，不知军之不可以退而谓之退，是谓縻军。" />
+		</sense>
+		<sense tag="动" vernacular="拘禁；拘留">
+			<exam article="《&lt;指南录&gt;后序》" ref="予羁縻不得还，国事遂不可收拾。" />
+		</sense>
+		<sense tag="动" vernacular="通“靡”">
+			<exam article="《卖柑者言》" ref="坐縻廪粟而不知耻。" />
+		</sense>
+	</pron>
+	<phrase value="縻军">
+		<sense value="牵制军队" />
+		<sense value="统领军队" />
+	</phrase>
+</character>

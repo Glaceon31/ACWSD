@@ -1,0 +1,14 @@
+<character value="缒">
+	<introduce>
+		<pinyin value="zhui4" writing="zhuì" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折折横撇竖折横折横捺折捺" />
+	</introduce>
+	<pron value="zhuì">
+		<sense tag="动" vernacular="用绳子拴着人、物从高处往下送">
+			<exam article="《左传·僖公三十年》" ref="许之，夜缒而去。" />
+		</sense>
+	</pron>
+</character>

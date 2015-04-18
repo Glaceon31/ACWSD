@@ -1,0 +1,17 @@
+<character value="剺">
+	<introduce>
+		<pinyin value="li2" writing="lí" />
+		<bushou value="刀" />
+		<bushoustroke value="2" />
+		<stroke value="13" />
+		<order value="横横竖撇捺撇横撇捺横撇折撇" />
+	</introduce>
+	<pron value="lí">
+		<sense tag="动" vernacular="割；划破">
+			<exam article="《长杨赋》" ref="分剺单于，磔裂属国。" />
+		</sense>
+	</pron>
+	<phrase value="剺面">
+		<sense value="古代西北一些民族用割面流血表示忠诚或哀痛的风俗" />
+	</phrase>
+</character>

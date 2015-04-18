@@ -1,0 +1,49 @@
+<character value="仇">
+	<introduce>
+		<pinyin value="chou2" writing="chóu" />
+		<pinyin value="qiu2" writing="qiú" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="撇竖撇折" />
+	</introduce>
+	<pron value="chóu">
+		<sense tag="名" vernacular="仇敌，敌人">
+			<exam article="《伶官传序》" ref="梁，吾仇也。" />
+		</sense>
+		<sense tag="名" vernacular="仇恨，怨恨">
+			<exam article="《荆轲刺秦王》" ref="然则将军之仇报，而燕国见陵之耻除矣。" />
+			<exam article="《廉颇蔺相如列传》" ref="吾所以为此者，以先国家之急而后私仇也。" />
+		</sense>
+		<sense tag="动" vernacular="报答，报复">
+			<exam article="《书博鸡者事》" ref="臧使者枉用三尺，以仇一主之憾。" />
+		</sense>
+		<sense tag="名" vernacular="匹，同伴">
+			<exam article="《登楼赋》" ref="览斯宇之所处兮，实显敞而寡仇。" />
+		</sense>
+	</pron>
+	<pron value="qiú">
+		<sense tag="名" vernacular="同伴；伴侣" />
+		<sense vernacular="配偶">
+			<exam article="《浮萍篇》" ref="结发辞严亲，来为君子仇。" />
+		</sense>
+		<sense vernacular="对手">
+			<exam article="《闲邪赋》" ref="横四海而无仇，超遐世而秀出。" />
+		</sense>
+		<sense vernacular="姓" />
+	</pron>
+	<phrase value="仇隙">
+		<sense value="1" />
+		<sense value="仇人" />
+	</phrase>
+	<phrase value="仇雠">
+		<sense value="仇人" />
+	</phrase>
+	<phrase value="仇方">
+		<sense value="友邦；邻国" />
+	</phrase>
+	<phrase value="仇匹">
+		<sense value="1" />
+		<sense value="同伴；朋友" />
+	</phrase>
+</character>

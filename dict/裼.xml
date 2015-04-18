@@ -1,0 +1,21 @@
+<character value="裼">
+	<introduce>
+		<pinyin value="ti4" writing="tì" />
+		<pinyin value="xi1" writing="xī" />
+		<pinyin value="xi2" writing="xí" />
+		<bushou value="衤" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="捺折竖撇捺竖折横横撇折撇撇" />
+	</introduce>
+	<pron value="xī">
+		<sense tag="动" vernacular="脱去上衣">
+			<exam article="《孟子·公孙丑上》" ref="尔为尔，我为我，虽袒裼裸裎于我侧，尔焉能浼我哉。" />
+		</sense>
+	</pron>
+	<pron value="tì">
+		<sense tag="名" vernacular="婴儿的衣被">
+			<exam article="《诗经·小雅·斯干》" ref="乃生女子，载寝之地，载衣之裼，载弄之瓦。" />
+		</sense>
+	</pron>
+</character>

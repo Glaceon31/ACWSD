@@ -1,0 +1,28 @@
+<character value="怕">
+	<introduce>
+		<pinyin value="pa4" writing="pà" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺竖撇竖折横横" />
+	</introduce>
+	<pron value="pà">
+		<sense tag="动" vernacular="害怕">
+			<exam article="《县斋有怀》" ref="气象杳难测，声音吁可怕。" />
+		</sense>
+		<sense tag="副" vernacular="恐怕">
+			<exam article="《窦娥冤》" ref="天若是知我情由，怕不待和天瘦。" />
+		</sense>
+		<sense tag="副" vernacular="难道">
+			<exam article="《西厢记》" ref="你行怕说的慌，却因小姐上来。" />
+		</sense>
+		<sense tag="连" vernacular="倘若">
+			<exam article="《拜月亭》" ref="怕哥哥不嫌相辱啊﹗。" />
+		</sense>
+	</pron>
+	<pron value="bó">
+		<sense tag="形" vernacular="通“泊”，淡泊">
+			<exam article="《子虚赋》" ref="怕乎无为，憺乎自持。" />
+		</sense>
+	</pron>
+</character>

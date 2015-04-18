@@ -1,0 +1,22 @@
+<character value="祓">
+	<introduce>
+		<pinyin value="fu2" writing="fú" />
+		<bushou value="礻" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="捺折竖捺横撇折捺捺" />
+	</introduce>
+	<pron value="fú">
+		<sense tag="名" vernacular="古代为了除灾求福而举行的一种活动">
+			<exam article="《韩非子·说林下》" ref="巫咸虽善祝，不能自祓也。" />
+		</sense>
+		<sense tag="动" vernacular="消除；清除">
+			<exam article="《后汉书·礼仪志上》" ref="洗濯祓除去宿垢疢为大絜。" />
+		</sense>
+		<sense tag="动" vernacular="洗濯；使清洁" />
+		<sense vernacular="fèi古国名，在今山东省胶县东南" />
+	</pron>
+	<phrase value="祓斋">
+		<sense value="求福去灾，去污以洁身的祭祀仪式" />
+	</phrase>
+</character>

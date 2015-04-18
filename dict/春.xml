@@ -1,0 +1,43 @@
+<character value="春">
+	<introduce>
+		<pinyin value="chun1" writing="chūn" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横横横撇捺竖折横横" />
+	</introduce>
+	<pron value="chūn">
+		<sense tag="名" vernacular="春">
+			<exam article="《曹刿论战》" ref="十年春，齐师伐我。" />
+			<exam article="《岳阳楼记》" ref="庆历四年春，滕子京谪守巴陵郡。" />
+		</sense>
+		<sense tag="名" vernacular="年岁，年龄">
+			<exam article="《苏武》" ref="且陛下春秋高，法令亡常。" />
+		</sense>
+		<sense tag="形" vernacular="春意，生机">
+			<exam article="《酬乐天杨州初逢席上见赠》" ref="沉舟侧畔千帆过，病树前头万木春。" />
+		</sense>
+	</pron>
+	<phrase value="春晖">
+		<sense value="1" />
+		<sense value="春阳，春光" />
+	</phrase>
+	<phrase value="春秋">
+		<sense value="1" />
+		<sense value="时代名" />
+		<sense value="指《春秋》所记载的时期（公元前722年至公元前481年）；也指平王东迁至三家分晋的时期（公元前770年至公元前476年）" />
+		<sense value="2" />
+		<sense value="指有所褒贬" />
+	</phrase>
+	<phrase value="春社">
+		<sense value="祭祀名" />
+		<sense value="祭祀土地，以祈丰收" />
+		<sense value="周代用甲日" />
+		<sense value="后多于立春后第五个戊日举行" />
+	</phrase>
+	<phrase value="春闱">
+		<sense value="1" />
+		<sense value="唐、宋礼部试士及明清会试，均在春季举行，称“春闱”" />
+		<sense value="闱，考场" />
+	</phrase>
+</character>

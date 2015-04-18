@@ -1,0 +1,14 @@
+<character value="辐">
+	<introduce>
+		<pinyin value="fu2" writing="fú" />
+		<bushou value="车" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="横折竖横横竖折横竖折横竖横" />
+	</introduce>
+	<pron value="fú">
+		<sense tag="名" vernacular="连接车轮轴心与轮圈的直木条">
+			<exam article="《伐檀》" ref="坎坎伐辐兮，置之河之侧兮。" />
+		</sense>
+	</pron>
+</character>

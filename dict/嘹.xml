@@ -1,0 +1,14 @@
+<character value="嘹">
+	<introduce>
+		<pinyin value="liao2" writing="liáo" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="竖折横横撇捺捺撇竖折横横竖撇捺" />
+	</introduce>
+	<pron value="liáo">
+		<sense tag="名" vernacular="动物长而响的叫声">
+			<exam article="《昌谷诗》" ref="嘹湿姑声，咽源惊溅起。" />
+		</sense>
+	</pron>
+</character>

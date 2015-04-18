@@ -1,0 +1,26 @@
+<character value="俗">
+	<introduce>
+		<pinyin value="su2" writing="sú" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="撇竖撇捺撇捺竖折横" />
+	</introduce>
+	<pron value="sú">
+		<sense tag="名" vernacular="风俗；习俗">
+			<exam article="《屈原列传》" ref="冀幸君之一悟，俗之一改也。" />
+		</sense>
+		<sense tag="名" vernacular="世俗；一般的人">
+			<exam article="《涉江》" ref="吾不能变心以从俗兮，固将愁苦而终穷。" />
+		</sense>
+		<sense tag="名" vernacular="通俗；民间">
+			<exam article="《林黛玉进贾府》" ref="南省俗谓之辣子。" />
+		</sense>
+		<sense tag="形" vernacular="庸俗；平庸">
+			<exam article="《张衡传》" ref="常从容淡静，不好交接俗人。" />
+		</sense>
+		<sense tag="名" vernacular="佛教、道教称世间或未出家的人">
+			<exam article="《续博物志》" ref="僧一行，本名遂，俗姓张氏。" />
+		</sense>
+	</pron>
+</character>

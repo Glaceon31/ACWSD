@@ -1,0 +1,21 @@
+<character value="些">
+	<introduce>
+		<pinyin value="xie1" writing="xiē" />
+		<pinyin value="xie5" writing="xie" />
+		<bushou value="二" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="竖横竖横撇折横横" />
+	</introduce>
+	<pron value="xiē">
+		<sense tag="副" vernacular="少许，一点儿">
+			<exam article="《鹧鸪天·和吴子似山行韵》" ref="酒病而今较减些。" />
+		</sense>
+		<sense tag="语气词" vernacular="">
+			<exam article="《鹧鸪天·代人赋》" ref="陌上柔桑破嫩芽，东邻蚕种已生些。" />
+		</sense>
+		<sense vernacular="suò句末语气词">
+			<exam article="《楚辞·招魂》" ref="拔木九千些。" />
+		</sense>
+	</pron>
+</character>

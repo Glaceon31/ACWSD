@@ -1,0 +1,26 @@
+<character value="紫">
+	<introduce>
+		<pinyin value="zi3" writing="zĭ" />
+		<bushou value="糸" />
+		<bushoustroke value="6" />
+		<stroke value="12" />
+		<order value="竖横竖横撇折折折捺竖撇捺" />
+	</introduce>
+	<pron value="zǐ">
+		<sense tag="名" vernacular="紫色">
+			<exam article="《陌上桑》" ref="湘绮为下裙，紫绮为上襦。" />
+		</sense>
+		<sense tag="名" vernacular="紫色绶带">
+			<exam article="《芋老人传》" ref="或绾黄纡紫，或揽辔褰帷。" />
+		</sense>
+	</pron>
+	<phrase value="紫禁">
+		<sense value="皇帝的住处" />
+	</phrase>
+	<phrase value="紫陌">
+		<sense value="京城郊野的道路" />
+	</phrase>
+	<phrase value="紫气">
+		<sense value="宝物的光气或祥瑞之气" />
+	</phrase>
+</character>

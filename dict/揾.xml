@@ -1,0 +1,17 @@
+<character value="揾">
+	<introduce>
+		<pinyin value="wen4" writing="wèn" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖横竖折横横竖折竖竖横" />
+	</introduce>
+	<pron value="wèn">
+		<sense tag="动" vernacular="浸没">
+			<exam article="《国史补上》" ref="以（笔）头揾水墨中而书之。" />
+		</sense>
+		<sense tag="动" vernacular="用手指按；揩试">
+			<exam article="《水龙吟·登建康赏心亭》" ref="倩何人，唤取红巾翠袖，揾英雄泪。" />
+		</sense>
+	</pron>
+</character>

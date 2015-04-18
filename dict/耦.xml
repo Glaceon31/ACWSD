@@ -1,0 +1,17 @@
+<character value="耦">
+	<introduce>
+		<pinyin value="ou3" writing="ŏu" />
+		<bushou value="耒" />
+		<bushoustroke value="6" />
+		<stroke value="15" />
+		<order value="横横横竖撇捺竖折横横竖折竖横捺" />
+	</introduce>
+	<pron value="ǒu">
+		<sense tag="动" vernacular="两人并肩耕作">
+			<exam article="《论语·微子》" ref="长沮、桀溺耦而耕。" />
+		</sense>
+		<sense tag="动" vernacular="通“偶”">
+			<exam article="《左传·桓公六年》" ref="人各有耦。" />
+		</sense>
+	</pron>
+</character>

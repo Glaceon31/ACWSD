@@ -1,0 +1,24 @@
+<character value="镬">
+	<introduce>
+		<pinyin value="huo4" writing="huò" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="18" />
+		<order value="撇横横横折横竖竖撇竖捺横横横竖横折捺" />
+	</introduce>
+	<pron value="huò">
+		<sense tag="名" vernacular="古代烹煮用的器物，与鼎类似，但是无足">
+			<exam article="《察今》" ref="尝一脔肉，而知一镬之味，一鼎之调。" />
+		</sense>
+		<sense tag="动" vernacular="煮">
+			<exam article="《尔雅·释训》" ref="是刈是镬，镬，煮也。" />
+		</sense>
+	</pron>
+	<phrase value="镬铎">
+		<sense value="喧闹" />
+	</phrase>
+	<phrase value="镬亨">
+		<sense value="古代酷刑，把人放在镬中烹煮" />
+		<sense value="亨，通“烹”" />
+	</phrase>
+</character>

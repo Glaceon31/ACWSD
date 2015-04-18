@@ -1,0 +1,27 @@
+<character value="聚">
+	<introduce>
+		<pinyin value="ju4" writing="jù" />
+		<bushou value="耳" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="横竖竖横横横折捺撇竖撇撇撇捺" />
+	</introduce>
+	<pron value="jù">
+		<sense tag="名" vernacular="村落；聚居点">
+			<exam article="《史记·五帝本纪》" ref="一年而所居成聚，二年成邑，三年成都。" />
+		</sense>
+		<sense tag="动" vernacular="聚集；集合">
+			<exam article="《论积贮疏》" ref="有勇力者聚徒衡击。" />
+			<exam article="《师说》" ref="士大夫之族，曰师曰弟子云者，则群聚而笑之。" />
+		</sense>
+		<sense tag="动" vernacular="征集">
+			<exam article="《捕蛇者说》" ref="太医以王命聚之。" />
+		</sense>
+	</pron>
+	<phrase value="聚落">
+		<sense value="村落，人们聚居之处" />
+	</phrase>
+	<phrase value="聚讼">
+		<sense value="众说纷争，是非难定" />
+	</phrase>
+</character>

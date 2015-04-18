@@ -1,0 +1,20 @@
+<character value="倦">
+	<introduce>
+		<pinyin value="juan4" writing="juàn" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="撇竖捺撇横横撇捺折折" />
+	</introduce>
+	<pron value="juàn">
+		<sense tag="形" vernacular="疲劳；劳累">
+			<exam article="《史记·屈原列传》" ref="劳苦倦极。" />
+		</sense>
+		<sense tag="动" vernacular="厌倦；不耐烦">
+			<exam article="《论语·述而》" ref="学而不厌，诲人不倦。" />
+		</sense>
+	</pron>
+	<phrase value="倦游">
+		<sense value="厌倦仕途而思退休" />
+	</phrase>
+</character>

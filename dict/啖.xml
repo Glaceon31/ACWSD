@@ -1,0 +1,26 @@
+<character value="啖">
+	<introduce>
+		<pinyin value="dan4" writing="dàn" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="竖折横捺撇撇捺捺撇撇捺" />
+	</introduce>
+	<pron value="dàn">
+		<sense tag="动" vernacular="吃">
+			<exam article="《荔枝诗》" ref="日啖荔枝三百颗，不妨长作岭南人。" />
+		</sense>
+		<sense tag="动使动" vernacular="给……吃">
+			<exam article="《中山狼传》" ref="又何吝一躯啖我而全微命乎。" />
+		</sense>
+		<sense tag="动" vernacular="利诱；引诱">
+			<exam article="《史记·高祖本纪》" ref="啖以利，因袭攻武关，破之。" />
+		</sense>
+	</pron>
+	<phrase value="啖啖">
+		<sense value="贪吃的样子" />
+	</phrase>
+	<phrase value="啖食">
+		<sense value="吞食" />
+	</phrase>
+</character>

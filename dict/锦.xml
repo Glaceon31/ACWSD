@@ -1,0 +1,25 @@
+<character value="锦">
+	<introduce>
+		<pinyin value="jin3" writing="jĭn" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="撇横横横折撇竖折横横竖折竖" />
+	</introduce>
+	<pron value="jǐn">
+		<sense tag="名" vernacular="有色彩、花纹的丝织品">
+			<exam article="《公输》" ref="舍其锦绣，邻有短褐而欲窃之。" />
+		</sense>
+		<sense tag="形" vernacular="比喻鲜艳华美">
+			<exam article="《岳阳楼记》" ref="沙鸥翔集，锦鳞游泳。" />
+		</sense>
+	</pron>
+	<phrase value="锦官城">
+		<sense value="成都" />
+		<sense value="四川成都旧有大城、少城" />
+		<sense value="少城大城西，为主锦之官所居，因称锦官城" />
+	</phrase>
+	<phrase value="锦瑟">
+		<sense value="画有锦文的瑟" />
+	</phrase>
+</character>

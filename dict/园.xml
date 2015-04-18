@@ -1,0 +1,37 @@
+<character value="园">
+	<introduce>
+		<pinyin value="yuan2" writing="yuán" />
+		<bushou value="囗" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="竖折横横撇折横" />
+	</introduce>
+	<pron value="yuán">
+		<sense tag="名" vernacular="果园">
+			<exam article="《墨子·非攻上》" ref="今有一人，入人园圃，窃其桃李。" />
+		</sense>
+		<sense tag="名" vernacular="泛指种树木或蔬菜的地方">
+			<exam article="《诗经·郑风·将仲子》" ref="将仲子兮，无踰我园，无折我树檀。" />
+		</sense>
+		<sense tag="名" vernacular="帝王贵族游玩的地方">
+			<exam article="《史记·高祖本纪》" ref="诸故秦苑囿园池，皆令人得田之。" />
+		</sense>
+		<sense tag="名" vernacular="帝王后妃的墓地">
+			<exam article="《史记·叔孙通传》" ref="先帝园陵寝庙。" />
+		</sense>
+	</pron>
+	<phrase value="园吏">
+		<sense value="主管园囿的官吏" />
+		<sense value="指庄子，因为庄子曾做过漆园吏" />
+	</phrase>
+	<phrase value="园陵">
+		<sense value="帝王的墓地" />
+	</phrase>
+	<phrase value="园令">
+		<sense value="陵园令的简称" />
+		<sense value="掌管皇家园林的官" />
+	</phrase>
+	<phrase value="园囿">
+		<sense value="种植花木、养育禽兽的皇家园林" />
+	</phrase>
+</character>

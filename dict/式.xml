@@ -1,0 +1,20 @@
+<character value="式">
+	<introduce>
+		<pinyin value="shi4" writing="shì" />
+		<bushou value="弋" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="横横竖横折捺" />
+	</introduce>
+	<pron value="shì">
+		<sense tag="名" vernacular="法式；标准；模范">
+			<exam article="《周礼·天官·大宰》" ref="以九式均节财用。" />
+		</sense>
+		<sense tag="动" vernacular="扶着轼敬礼">
+			<exam article="《史记·绛侯周勃世家》" ref="天子为动，改容式车。" />
+		</sense>
+		<sense tag="语气词" vernacular="放在句首，无义">
+			<exam article="《诗经·邶风·式微》" ref="式微式微，胡不归？" />
+		</sense>
+	</pron>
+</character>

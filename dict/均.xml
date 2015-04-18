@@ -1,0 +1,30 @@
+<character value="均">
+	<introduce>
+		<pinyin value="jun1" writing="jūn" />
+		<pinyin value="yun4" writing="yùn" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横撇折捺横" />
+	</introduce>
+	<pron value="jūn">
+		<sense tag="名" vernacular="通“钧”，制作陶器的转轮">
+			<exam article="《管子·七法》" ref="不明于则，而欲出号令，就立朝夕于运均之上。" />
+		</sense>
+		<sense tag="形" vernacular="均匀；平均">
+			<exam article="《季氏将伐颛臾》" ref="不患贫而患不均。" />
+		</sense>
+		<sense tag="形" vernacular="公平；公正">
+			<exam article="《出师表》" ref="将军向宠，性行淑均。" />
+		</sense>
+		<sense tag="动" vernacular="均匀地分布">
+			<exam article="《与陈伯之书》" ref="故知霜露所均，不育异类。" />
+		</sense>
+		<sense tag="动" vernacular="权衡；衡量">
+			<exam article="《廉颇蔺相如列传》" ref="均之二策，宁许以负秦曲。" />
+		</sense>
+		<sense tag="副" vernacular="都；皆；全">
+			<exam article="《三元里抗英》" ref="均欲奋勇出城决战。" />
+		</sense>
+	</pron>
+</character>

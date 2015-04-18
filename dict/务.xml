@@ -1,0 +1,23 @@
+<character value="务">
+	<introduce>
+		<pinyin value="wu4" writing="wù" />
+		<bushou value="力" />
+		<bushoustroke value="2" />
+		<stroke value="5" />
+		<order value="撇折捺折撇" />
+	</introduce>
+	<pron value="wù">
+		<sense tag="动" vernacular="从事；致力于">
+			<exam article="《过秦论》" ref="内立法度，务耕织，修守战之具。" />
+		</sense>
+		<sense tag="动" vernacular="追求；要求得到">
+			<exam article="《五蠹》" ref="糟糠不饱者，不务梁肉。" />
+		</sense>
+		<sense tag="名" vernacular="事务；事情；事业">
+			<exam article="《与朱元思书》" ref="经纶世务务者，窥谷忘反。" />
+		</sense>
+		<sense tag="副" vernacular="务必；一定">
+			<exam article="《察今》" ref="非务相反也，时势异也。" />
+		</sense>
+	</pron>
+</character>

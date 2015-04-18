@@ -1,0 +1,20 @@
+<character value="夥">
+	<introduce>
+		<pinyin value="huo3" writing="huŏ" />
+		<bushou value="夕" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="竖折横横横竖撇捺撇折捺撇折捺" />
+	</introduce>
+	<pron value="huǒ">
+		<sense tag="形" vernacular="多">
+			<exam article="《新唐书·突厥传》" ref="秦地旷而人寡，晋地狭而人夥。" />
+		</sense>
+	</pron>
+	<phrase value="夥够">
+		<sense value="众多" />
+	</phrase>
+	<phrase value="夥颐">
+		<sense value="对多、大表示惊讶或惊羡的语气" />
+	</phrase>
+</character>

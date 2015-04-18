@@ -1,0 +1,17 @@
+<character value="裕">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="衤" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="捺折竖撇捺撇捺撇捺竖折横" />
+	</introduce>
+	<pron value="yù">
+		<sense tag="形" vernacular="富饶；富足">
+			<exam article="《荀子·富国》" ref="足国之道，节用裕民。" />
+		</sense>
+		<sense tag="形" vernacular="宽；宽宏">
+			<exam article="《新书·道术》" ref="包众容物谓之裕。" />
+		</sense>
+	</pron>
+</character>

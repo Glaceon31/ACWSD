@@ -1,0 +1,26 @@
+<character value="竦">
+	<introduce>
+		<pinyin value="song3" writing="sŏng" />
+		<bushou value="立" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="捺横捺撇横横竖折横竖撇捺" />
+	</introduce>
+	<pron value="sǒng">
+		<sense tag="动" vernacular="伸长脖子提起脚跟站着">
+			<exam article="《汉书·韩王信传》" ref="士卒皆山东人，竦而望归。" />
+		</sense>
+		<sense tag="形" vernacular="高起；高耸">
+			<exam article="《观沧海》" ref="水何澹澹，山岛竦峙。" />
+		</sense>
+		<sense tag="形" vernacular="恭敬；肃敬">
+			<exam article="《促织》" ref="各各竦立以听。" />
+		</sense>
+	</pron>
+	<phrase value="竦息">
+		<sense value="惶恐不安的样子" />
+	</phrase>
+	<phrase value="竦秀">
+		<sense value="耸立秀出的样子" />
+	</phrase>
+</character>

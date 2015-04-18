@@ -1,0 +1,49 @@
+<character value="度">
+	<introduce>
+		<pinyin value="du4" writing="dù" />
+		<pinyin value="duo2" writing="duó" />
+		<pinyin value="duo4" writing="duò" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺横撇横竖竖横折捺" />
+	</introduce>
+	<pron value="dù">
+		<sense tag="名" vernacular="量长短的标准">
+			<exam article="《汉书·律历志》" ref="度者，分、寸、尺、丈、引也。" />
+			<exam article="《郑人买履》" ref="已得履，乃曰：‘吾忘持度。’" />
+		</sense>
+		<sense tag="名" vernacular="限度">
+			<exam article="《论积贮疏》" ref="生之有时，而用之无度，则物力必屈。" />
+		</sense>
+		<sense tag="名" vernacular="制度；法度">
+			<exam article="《答司马谏议书》" ref="谇法度而修之于朝廷，以授之于有司。" />
+		</sense>
+		<sense tag="名" vernacular="气度；度量">
+			<exam article="《荆轲刺秦王》" ref="群臣惊愕，卒起不意，尽失其度。" />
+		</sense>
+		<sense tag="名" vernacular="计划；打算">
+			<exam article="《答司马谏议书》" ref="盘庚不为怨者故改其度。" />
+		</sense>
+		<sense tag="动" vernacular="渡过；越过">
+			<exam article="《木兰诗》" ref="万里赴戎机，关山度若飞。" />
+			<exam article="《凉州词》" ref="春风不度玉门关。" />
+		</sense>
+		<sense tag="量" vernacular="次；回">
+			<exam article="《江南逢李龟年》" ref="岐王宅里寻常见，崔九堂前几度闻。" />
+		</sense>
+	</pron>
+	<pron value="duó">
+		<sense tag="动" vernacular="量（长短）">
+			<exam article="《齐桓晋文之事》" ref="度，然后知长短。" />
+			<exam article="《郑人买履》" ref="鸹自度其足而置其座。" />
+		</sense>
+		<sense tag="动" vernacular="计算；估计">
+			<exam article="《垓下之战》" ref="项主自度不得脱。" />
+			<exam article="《廉颇蔺相如列传》" ref="相如度秦王虽斋，决负约不偿城。" />
+		</sense>
+		<sense tag="动" vernacular="砍伐">
+			<exam article="《左传·隐公十一年》" ref="山有木，工则度之。" />
+		</sense>
+	</pron>
+</character>

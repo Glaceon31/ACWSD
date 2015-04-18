@@ -1,0 +1,25 @@
+<character value="汩">
+	<introduce>
+		<pinyin value="gu3" writing="gŭ" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺横竖折横横" />
+	</introduce>
+	<pron value="gǔ">
+		<sense tag="动" vernacular="治水；疏通">
+			<exam article="《天问》" ref="不任汩鸿，师何以尚之。" />
+		</sense>
+		<sense vernacular="〈动&gt;弄乱；扰乱">
+			<exam article="《尚书·洪范》" ref="汩陈其五行。" />
+		</sense>
+	</pron>
+	<pron value="yù">
+		<sense tag="形" vernacular="水流迅疾的样子">
+			<exam article="《九章·怀沙》" ref="浩浩沅汀，分流汩兮。" />
+		</sense>
+		<sense tag="动" vernacular="没；沉下">
+			<exam article="《日出入行》" ref="汝奚汩没于荒淫之波。" />
+		</sense>
+	</pron>
+</character>

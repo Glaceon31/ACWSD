@@ -1,0 +1,17 @@
+<character value="勿">
+	<introduce>
+		<pinyin value="wu4" writing="wù" />
+		<bushou value="勹" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="撇折撇撇" />
+	</introduce>
+	<pron value="wù">
+		<sense tag="副" vernacular="别；不要">
+			<exam article="《寡人之于国也》" ref="百亩之田，勿夺其时，数口之家，可以无饥矣。" />
+		</sense>
+		<sense tag="副" vernacular="不，表示对动作的否定">
+			<exam article="《廉颇蔺相如列传》" ref="欲勿予，即患秦兵之来。" />
+		</sense>
+	</pron>
+</character>

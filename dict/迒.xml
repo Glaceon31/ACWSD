@@ -1,0 +1,15 @@
+<character value="迒">
+	<introduce>
+		<pinyin value="hang2" writing="háng" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺横撇折捺折捺" />
+	</introduce>
+	<pron value="háng">
+		<sense tag="名" vernacular="野兽或车辆经过后留下的痕迹">
+			<exam article="《说文解字》" ref="见鸟兽蹄迒之迹。" />
+			<exam article="《东京赋》" ref="轨尘掩迒。" />
+		</sense>
+	</pron>
+</character>

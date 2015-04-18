@@ -1,0 +1,17 @@
+<character value="霖">
+	<introduce>
+		<pinyin value="lin2" writing="lín" />
+		<bushou value="雨" />
+		<bushoustroke value="8" />
+		<stroke value="16" />
+		<order value="横捺折竖捺捺捺捺横竖撇捺横竖撇捺" />
+	</introduce>
+	<pron value="lín">
+		<sense tag="名" vernacular="长时间连降不停的大雨">
+			<exam article="《左传·隐公九年》" ref="凡雨自三日以往为霖。" />
+		</sense>
+		<sense tag="名" vernacular="久旱后的大雨">
+			<exam article="《窦娥冤》" ref="做甚么三年不见甘霖降。" />
+		</sense>
+	</pron>
+</character>

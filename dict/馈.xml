@@ -1,0 +1,20 @@
+<character value="馈">
+	<introduce>
+		<pinyin value="kui4" writing="kuì" />
+		<bushou value="饣" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="撇折折竖折横竖横竖折撇捺" />
+	</introduce>
+	<pron value="kuì">
+		<sense tag="动" vernacular="拿食物磅人">
+			<exam article="《左传·桓公六年》" ref="齐人馈之饩。" />
+		</sense>
+		<sense tag="动" vernacular="馈赠；赠送">
+			<exam article="《报刘一丈书》" ref="何至更辱馈遗，则不才益将何以报焉？" />
+		</sense>
+		<sense tag="名" vernacular="食物">
+			<exam article="《汉书·伍被传》" ref="男子疾耕，不足于粮馈。" />
+		</sense>
+	</pron>
+</character>

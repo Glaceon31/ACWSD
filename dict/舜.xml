@@ -1,0 +1,15 @@
+<character value="舜">
+	<introduce>
+		<pinyin value="shun4" writing="shùn" />
+		<bushou value="夕" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="撇捺捺撇捺折撇折捺横折竖" />
+	</introduce>
+	<pron value="shùn">
+		<sense tag="名" vernacular="木槿，一种植物">
+			<exam article="《诗经·郑风·有女同车》" ref="颜如舜华。" />
+		</sense>
+		<sense tag="名" vernacular="传说中的远古帝王名" />
+	</pron>
+</character>

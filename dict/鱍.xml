@@ -1,0 +1,14 @@
+<character value="鱍">
+	<introduce>
+		<pinyin value="bo1" writing="bō" />
+		<bushou value="魚" />
+		<bushoustroke value="11" />
+		<stroke value="23" />
+		<order value="撇折竖折横竖横捺捺捺捺折捺撇撇捺折横折撇折折捺" />
+	</introduce>
+	<pron value="bō">
+		<sense vernacular="鱼尾摆动声">
+			<exam article="《观打鱼歌》" ref="绵州江水之东津，鲂鱼鱍鱍色胜银。" />
+		</sense>
+	</pron>
+</character>

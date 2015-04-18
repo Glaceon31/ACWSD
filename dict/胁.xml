@@ -1,0 +1,20 @@
+<character value="胁">
+	<introduce>
+		<pinyin value="xie2" writing="xié" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="撇折横横折撇捺捺" />
+	</introduce>
+	<pron value="xié">
+		<sense tag="名" vernacular="从腋下到腰间的肋骨处">
+			<exam article="《大铁椎传》" ref="右胁夹大铁椎。" />
+		</sense>
+		<sense tag="名" vernacular="中间；中部">
+			<exam article="《游黄册记》" ref="越天都之胁而下。" />
+		</sense>
+		<sense tag="动" vernacular="胁迫；逼迫">
+			<exam article="《书博鸡者事》" ref="使者遂逮守，胁服夺其官。" />
+		</sense>
+	</pron>
+</character>

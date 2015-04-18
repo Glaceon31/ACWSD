@@ -1,0 +1,56 @@
+<character value="辞">
+	<introduce>
+		<pinyin value="ci2" writing="cí" />
+		<bushou value="辛" />
+		<bushoustroke value="7" />
+		<stroke value="13" />
+		<order value="撇横竖竖折横捺横捺撇横横竖" />
+	</introduce>
+	<pron value="cí">
+		<sense tag="名" vernacular="口供">
+			<exam article="《周礼·秋官》" ref="听其狱讼，察其辞。" />
+			<exam article="《断刑论》" ref="使犯死者自春而穷其辞。" />
+		</sense>
+		<sense tag="名" vernacular="言词，词句">
+			<exam article="《信陵君窃符救赵》" ref="今吾且死，而侯生曾无一言半辞送我。" />
+			<exam article="《&lt;指南录&gt;后序》" ref="初至北营，抗辞慷慨，上下颇惊动。" />
+			<exam article="《屈原列传》" ref="明于治乱，娴于辞令。" />
+		</sense>
+		<sense tag="动" vernacular="讲话，告诉">
+			<exam article="《殽之战》" ref="使皇武子辞焉。" />
+			<exam article="《段太尉逸事状》" ref="无伤也，请辞于军。" />
+		</sense>
+		<sense tag="动" vernacular="推辞；拒绝；不接受">
+			<exam article="《陈情表》" ref="臣以供养无主，辞不赴命。" />
+			<exam article="《&lt;指南录&gt;后序》" ref="于是辞相印不拜。" />
+		</sense>
+		<sense tag="动" vernacular="告别">
+			<exam article="《廉颇蔺相如列传》" ref="臣等不肖，请辞去。" />
+			<exam article="《木兰诗》" ref="旦辞爷娘去，暮宿黄河边。" />
+		</sense>
+		<sense tag="名" vernacular="文词">
+			<exam article="《屈原列传》" ref="皆好辞而以赋见称。" />
+			<exam article="《送东阳马生序》" ref="撰长书以为贽，辞甚畅达。" />
+		</sense>
+		<sense tag="名" vernacular="古代文体的一种" />
+	</pron>
+	<phrase value="辞见">
+		<sense value="京朝官出任外官赴任前朝见皇帝" />
+	</phrase>
+	<phrase value="辞决">
+		<sense value="决别" />
+	</phrase>
+	<phrase value="辞令">
+		<sense value="应对的言辞" />
+	</phrase>
+	<phrase value="辞世">
+		<sense value="1" />
+		<sense value="隐居避世" />
+	</phrase>
+	<phrase value="辞谢">
+		<sense value="婉言道歉或谦让不受" />
+	</phrase>
+	<phrase value="辞致">
+		<sense value="辞令或文词的风格" />
+	</phrase>
+</character>

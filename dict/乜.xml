@@ -1,0 +1,16 @@
+<character value="乜">
+	<introduce>
+		<pinyin value="mie1" writing="miē" />
+		<pinyin value="nie4" writing="niè" />
+		<bushou value="乙" />
+		<bushoustroke value="1" />
+		<stroke value="2" />
+		<order value="折折" />
+	</introduce>
+	<pron value="miē">
+		<sense vernacular="见“乜斜”" />
+	</pron>
+	<phrase value="乜斜">
+		<sense value="在近代汉语中指眼睛微睁的样子" />
+	</phrase>
+</character>

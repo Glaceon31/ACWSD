@@ -1,0 +1,24 @@
+<character value="拟">
+	<introduce>
+		<pinyin value="ni3" writing="nĭ" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横折捺撇捺" />
+	</introduce>
+	<pron value="nǐ">
+		<sense tag="动" vernacular="比拟；比">
+			<exam article="《过小孤山大孤山》" ref="已非它山可拟。" />
+		</sense>
+		<sense tag="动" vernacular="模仿；模拟">
+			<exam article="《后汉书·张衡传》" ref="衡乃拟班固《两都》，作《二京赋》，因以讽谏。" />
+		</sense>
+	</pron>
+	<phrase value="拟古">
+		<sense value="摹仿古人的诗文" />
+	</phrase>
+	<phrase value="拟圣">
+		<sense value="比于圣人" />
+		<sense value="摹仿圣人" />
+	</phrase>
+</character>

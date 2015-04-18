@@ -1,0 +1,19 @@
+<character value="稗">
+	<introduce>
+		<pinyin value="bai4" writing="bài" />
+		<pinyin value="bi4" writing="bì" />
+		<bushou value="禾" />
+		<bushoustroke value="5" />
+		<stroke value="13" />
+		<order value="撇横竖撇捺撇竖折横横撇横竖" />
+	</introduce>
+	<pron value="bài">
+		<sense tag="名" vernacular="稻田杂草">
+			<exam article="《左传·定公十年》" ref="若其不用，用秕稗也。" />
+		</sense>
+		<sense tag="形" vernacular="卑微" />
+	</pron>
+	<phrase value="稗史">
+		<sense value="记录轶闻琐事之书" />
+	</phrase>
+</character>

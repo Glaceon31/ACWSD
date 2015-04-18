@@ -1,0 +1,24 @@
+<character value="俄">
+	<introduce>
+		<pinyin value="e2" writing="é" />
+		<pinyin value="e4" writing="è" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="撇竖撇横竖横折撇捺" />
+	</introduce>
+	<pron value="é">
+		<sense tag="动" vernacular="倾斜">
+			<exam article="《鹪鹩赋》" ref="鹰鹯过犹俄翼兮，尚何惧于罿罻。" />
+		</sense>
+		<sense tag="副" vernacular="顷刻；片刻">
+			<exam article="《促织》" ref="俄见小虫跃起，张尾伸须，直龁敌领。" />
+		</sense>
+	</pron>
+	<phrase value="俄而">
+		<sense value="不一会儿；很快" />
+	</phrase>
+	<phrase value="俄顷">
+		<sense value="很快；顷刻" />
+	</phrase>
+</character>

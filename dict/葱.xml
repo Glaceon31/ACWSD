@@ -1,0 +1,31 @@
+<character value="葱">
+	<introduce>
+		<pinyin value="cong1" writing="cōng" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖竖撇折撇撇捺捺折捺捺" />
+	</introduce>
+	<pron value="cōng">
+		<sense tag="名" vernacular="蔬菜名">
+			<exam article="《闲居赋》" ref="菜则葱韭蒜芋，青笋紫姜。" />
+		</sense>
+		<sense tag="名" vernacular="青绿色">
+			<exam article="《礼记·玉藻》" ref="三命赤韨葱衡。" />
+		</sense>
+	</pron>
+	<pron value="chuāng">
+		<sense vernacular="见“葱灵”" />
+	</pron>
+	<phrase value="葱茏">
+		<sense value="青翠茂盛" />
+	</phrase>
+	<phrase value="葱蒨">
+		<sense value="1" />
+		<sense value="草木青翠茂盛" />
+	</phrase>
+	<phrase value="葱灵">
+		<sense value="有窗的载衣物车" />
+		<sense value="葱，通“囱（后作“窗”）”" />
+	</phrase>
+</character>

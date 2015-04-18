@@ -1,0 +1,21 @@
+<character value="斧">
+	<introduce>
+		<pinyin value="fu3" writing="fŭ" />
+		<bushou value="斤" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="撇捺撇捺撇撇横竖" />
+	</introduce>
+	<pron value="fǔ">
+		<sense tag="名" vernacular="砍物用的工具">
+			<exam article="《寡人之于国也》" ref="斧斤以时入山林。" />
+			<exam article="《石钟山记》" ref="寺僧使小童持斧，于乱石间择其一二扣之。" />
+		</sense>
+		<sense tag="动" vernacular="用斧砍">
+			<exam article="《苦寒行》" ref="担囊行取薪,斧冰持作糜。" />
+		</sense>
+		<sense tag="名" vernacular="黑白相间的斧形图案">
+			<exam article="《礼记·檀弓》" ref="加斧于椁上。" />
+		</sense>
+	</pron>
+</character>

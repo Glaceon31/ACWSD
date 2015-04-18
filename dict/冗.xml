@@ -1,0 +1,20 @@
+<character value="冗">
+	<introduce>
+		<pinyin value="rong3" writing="rŏng" />
+		<bushou value="冖" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="捺折撇折" />
+	</introduce>
+	<pron value="rǒng">
+		<sense tag="形" vernacular="闲散">
+			<exam article="《汉书·申屠嘉传》" ref="故冗官居其中。" />
+		</sense>
+		<sense tag="形" vernacular="繁杂；多余">
+			<exam article="《新唐书·康承训传》" ref="承训罢冗费，市马益军。" />
+		</sense>
+		<sense tag="形" vernacular="忙；繁忙">
+			<exam article="《走笔谢王去非》" ref="知君束装冗，不敢折简致。" />
+		</sense>
+	</pron>
+</character>

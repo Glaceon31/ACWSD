@@ -1,0 +1,29 @@
+<character value="怨">
+	<introduce>
+		<pinyin value="yuan4" writing="yuàn" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="撇折捺折折捺折捺捺" />
+	</introduce>
+	<pron value="yuàn">
+		<sense tag="动" vernacular="怨恨">
+			<exam article="《赤壁赋》" ref="其声呜呜然，如怨如慕，如泣如诉。" />
+		</sense>
+		<sense tag="动" vernacular="埋怨；责备">
+			<exam article="《凉州词》" ref="羌笛何须怨杨柳。" />
+		</sense>
+		<sense tag="名" vernacular="怨恨">
+			<exam article="《齐桓晋文之事》" ref="构怨于诸侯。" />
+		</sense>
+	</pron>
+	<phrase value="怨谤">
+		<sense value="表示不满的舆论、指责" />
+	</phrase>
+	<phrase value="怨女">
+		<sense value="尚未婚配的大龄女子" />
+	</phrase>
+	<phrase value="怨望">
+		<sense value="怨恨" />
+	</phrase>
+</character>

@@ -1,0 +1,23 @@
+<character value="煜">
+	<introduce>
+		<pinyin value="yu4" writing="yù" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="捺撇撇捺竖折横横捺横捺撇横" />
+	</introduce>
+	<pron value="yù">
+		<sense tag="名" vernacular="火焰">
+			<exam article="《南征赋》" ref="飞烽戢煜而泱漭。" />
+		</sense>
+		<sense tag="形" vernacular="盛大">
+			<exam article="《东都赋》" ref="钟鼓铿鎗，管弦晔煜。" />
+		</sense>
+	</pron>
+	<phrase value="煜熠">
+		<sense value="光辉炽盛" />
+	</phrase>
+	<phrase value="煜煜">
+		<sense value="形容明亮" />
+	</phrase>
+</character>

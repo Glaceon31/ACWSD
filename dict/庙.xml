@@ -1,0 +1,40 @@
+<character value="庙">
+	<introduce>
+		<pinyin value="miao4" writing="miào" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺横撇竖折横竖横" />
+	</introduce>
+	<pron value="miào">
+		<sense tag="名" vernacular="宗庙；供奉和祭祀祖先的处所">
+			<exam article="《子路曾皙冉有公西华侍坐》" ref="宗庙之事，如会同，端章甫，愿为小相焉。" />
+			<exam article="《过秦论》" ref="一夫作乱而七庙隳。" />
+		</sense>
+		<sense tag="名" vernacular="供奉神、佛、圣贤的处所">
+			<exam article="《过小孤山大孤山》" ref="庙在山之西麓。" />
+		</sense>
+	</pron>
+	<phrase value="庙策">
+		<sense value="朝廷对国家大事的策划" />
+	</phrase>
+	<phrase value="庙号">
+		<sense value="帝王死后在太庙立室奉祀，并追尊以名号，如某祖、某宗" />
+		<sense value="始于殷代，如武丁称高宗" />
+		<sense value="汉以后历代帝王都有庙号" />
+	</phrase>
+	<phrase value="庙讳">
+		<sense value="已故帝王的名字" />
+	</phrase>
+	<phrase value="庙社">
+		<sense value="宗庙社稷，古代祭祀的地方" />
+		<sense value="也代指国家、朝廷" />
+	</phrase>
+	<phrase value="庙堂">
+		<sense value="宗庙之堂" />
+		<sense value="朝廷" />
+	</phrase>
+	<phrase value="庙祝">
+		<sense value="寺庙中掌香火的人" />
+	</phrase>
+</character>

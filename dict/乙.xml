@@ -1,0 +1,21 @@
+<character value="乙">
+	<introduce>
+		<pinyin value="yi3" writing="yĭ" />
+		<bushou value="乙" />
+		<bushoustroke value="1" />
+		<stroke value="1" />
+		<order value="折" />
+	</introduce>
+	<pron value="yǐ">
+		<sense tag="名" vernacular="天干第二位">
+			<exam article="《尔雅·释天》" ref="太岁……在乙，曰旃蒙。" />
+		</sense>
+		<sense tag="名" vernacular="同“”">
+			<exam article="《答周颙书》" ref="非鳧则乙。" />
+		</sense>
+		<sense tag="动" vernacular="打钩">
+			<exam article="《史记·滑稽列传》" ref="人主从上方读之，止，辄乙其处。" />
+			<exam article="《读鹖冠子》" ref="文字脱谬，为之正三十有五字，乙者三。灭者二十有。" />
+		</sense>
+	</pron>
+</character>

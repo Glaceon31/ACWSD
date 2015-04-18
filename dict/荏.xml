@@ -1,0 +1,17 @@
+<character value="荏">
+	<introduce>
+		<pinyin value="ren3" writing="rĕn" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖竖撇竖撇横竖横" />
+	</introduce>
+	<pron value="rěn">
+		<sense tag="名" vernacular="一种一年生草本植物">
+			<exam article="《齐民要术·荏蓼》" ref="荏子秋末成。" />
+		</sense>
+		<sense tag="形" vernacular="软弱；怯懦">
+			<exam article="《论语·阳货》" ref="色厉而内荏。" />
+		</sense>
+	</pron>
+</character>

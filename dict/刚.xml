@@ -1,0 +1,27 @@
+<character value="刚">
+	<introduce>
+		<pinyin value="gang1" writing="gāng" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="竖折撇捺竖竖" />
+	</introduce>
+	<pron value="gāng">
+		<sense tag="形" vernacular="坚硬；坚强">
+			<exam article="《周易·杂卦》" ref="乾刚坤柔。" />
+		</sense>
+		<sense tag="形" vernacular="坚强；倔强">
+			<exam article="《教战守策》" ref="其刚心勇气消耗钝眊，痿蹶而不复振。" />
+		</sense>
+		<sense tag="形" vernacular="强盛；健旺">
+			<exam article="《教战守策》" ref="然后可以刚健强力，涉险而不伤。" />
+			<exam article="《论语·季氏》" ref="及其壮也，血气方刚，戒之在斗。" />
+		</sense>
+		<sense tag="形" vernacular="刚直；刚烈">
+			<exam article="《柳毅传》" ref="然而刚肠激发，不遑辞候。" />
+		</sense>
+		<sense tag="副" vernacular="方才；刚才">
+			<exam article="《花影》" ref="刚被太阳收拾去，却教明月送将来。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,61 @@
+<character value="参">
+	<introduce>
+		<pinyin value="can1" writing="cān" />
+		<pinyin value="cen1" writing="cēn" />
+		<pinyin value="shen1" writing="shēn" />
+		<bushou value="厶" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="折捺横撇捺撇撇撇" />
+	</introduce>
+	<pron value="cān">
+		<sense tag="动" vernacular="参与；参加">
+			<exam article="《柳敬停传》" ref="宁南以为相见之晚，使参机密。" />
+			<exam article="《谭嗣同》" ref="与杨锐、林旭、刘光第同参预新政。" />
+		</sense>
+		<sense tag="动" vernacular="检验；检查">
+			<exam article="《劝学》" ref="君子博学而日参省乎己。" />
+		</sense>
+		<sense tag="动" vernacular="参考">
+			<exam article="《答韦中立论师道书》" ref="参之《国语》以博其趣；参之《离骚》以致其幽。" />
+		</sense>
+		<sense tag="动" vernacular="古代下级见上级叫参，见“参拜”" />
+		<sense tag="动" vernacular="弹劾">
+			<exam article="《谭嗣同》" ref="即如前年胡景桂参劾慰帅一事。" />
+		</sense>
+	</pron>
+	<pron value="cēn">
+		<sense vernacular="见“参差" />
+	</pron>
+	<pron value="sān">
+		<sense tag="数" vernacular="三；三分">
+			<exam article="《左传·郑伯克段于鄢》" ref="大都不过参国之一。" />
+		</sense>
+	</pron>
+	<pron value="shēn">
+		<sense tag="名" vernacular="星宿名">
+			<exam article="《赠卫八处士》" ref="人生不相见，动如参与商。" />
+		</sense>
+		<sense vernacular="药用植物名">
+			<exam article="《林黛玉进贾府》" ref="如今还是吃人参养荣丸。" />
+		</sense>
+	</pron>
+	<phrase value="参拜">
+		<sense value="下属谒见长官" />
+	</phrase>
+	<phrase value="参乘">
+		<sense value="即“骖乘”，坐在车子的右边担任警卫的人" />
+	</phrase>
+	<phrase value="参天">
+		<sense value="高耸在天空中" />
+	</phrase>
+	<phrase value="参赞">
+		<sense value="参谋；协助" />
+	</phrase>
+	<phrase value="参佐">
+		<sense value="僚属，部下" />
+	</phrase>
+	<phrase value="参差">
+		<sense value="长短、高低不齐和纷繁不一的样子" />
+	</phrase>
+</character>

@@ -1,0 +1,30 @@
+<character value="呴">
+	<introduce>
+		<pinyin value="xu1" writing="xū" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="竖折横撇折竖折横" />
+	</introduce>
+	<pron value="xǔ">
+		<sense tag="动" vernacular="开口出气">
+			<exam article="《汉书·王褒传》" ref="呴嘘呼吸如侨、松。" />
+		</sense>
+		<sense tag="动" vernacular="吐出唾液">
+			<exam article="《庄子·天运》" ref="泉涸，鱼相与处于陆，相呴以湿，相濡以沬，不若相忘于江湖。" />
+		</sense>
+	</pron>
+	<pron value="hǒu">
+		<sense tag="动" vernacular="吼叫">
+			<exam article="《楚辞·九怀·尊嘉》" ref="熊羆兮呴嗥。" />
+		</sense>
+	</pron>
+	<pron value="gòu">
+		<sense tag="动" vernacular="野鸡鸣叫">
+			<exam article="《淮南子·要略》" ref="族铸大钟，撞之庭下，郊雉皆呴。" />
+		</sense>
+	</pron>
+	<phrase value="呴呴">
+		<sense value="和顺的样子" />
+	</phrase>
+</character>

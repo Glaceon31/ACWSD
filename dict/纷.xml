@@ -1,0 +1,20 @@
+<character value="纷">
+	<introduce>
+		<pinyin value="fen1" writing="fēn" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折折横撇捺折撇" />
+	</introduce>
+	<pron value="fēn">
+		<sense tag="名" vernacular="旗上的飘带">
+			<exam article="《羽猎赋》" ref="青云为纷，红蜺为缳。" />
+		</sense>
+		<sense tag="形" vernacular="繁多">
+			<exam article="《涉江》" ref="霰雪纷其无垠兮。" />
+		</sense>
+		<sense tag="名" vernacular="纠纷">
+			<exam article="《史记·滑稽列传》" ref="谈微中，亦可解纷。" />
+		</sense>
+	</pron>
+</character>

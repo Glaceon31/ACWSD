@@ -1,0 +1,20 @@
+<character value="铁">
+	<introduce>
+		<pinyin value="tie3" writing="tiĕ" />
+		<bushou value="钅" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="撇横横横折撇横横撇捺" />
+	</introduce>
+	<pron value="tiě">
+		<sense tag="名" vernacular="铁，一种金属">
+			<exam article="《史记·货殖列传》" ref="邯郸郭纵以铁冶成业。" />
+		</sense>
+		<sense tag="形" vernacular="比喻坚固；坚定不移">
+			<exam article="《文心雕龙·祝盟》" ref="刘琨铁誓，精贯霏霜。" />
+		</sense>
+		<sense tag="名" vernacular="像铁一样的颜色">
+			<exam article="《泥功山》" ref="白马为铁骊，小儿成老翁。" />
+		</sense>
+	</pron>
+</character>

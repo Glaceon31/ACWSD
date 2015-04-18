@@ -1,0 +1,26 @@
+<character value="鞭">
+	<introduce>
+		<pinyin value="bian1" writing="biān" />
+		<bushou value="革" />
+		<bushoustroke value="9" />
+		<stroke value="18" />
+		<order value="横竖竖横竖折横横竖撇竖横竖折横横撇捺" />
+	</introduce>
+	<pron value="biān">
+		<sense tag="动" vernacular="打马;驱赶马">
+			<exam article="《左传·哀公二十七年》" ref="马不出者,助之鞭之。" />
+		</sense>
+		<sense tag="名" vernacular="马鞭">
+			<exam article="《左传·宣公十五年》" ref="虽鞭之长,不及马腹。" />
+		</sense>
+		<sense tag="名" vernacular="古刑名,古代官刑之一">
+			<exam article="《国语·鲁语上》" ref="薄刑用鞭扑,以威民也。" />
+		</sense>
+		<sense tag="名" vernacular="竹根">
+			<exam article="《新竹》" ref="新鞭暗入庭,初昃两三茎。" />
+		</sense>
+		<sense tag="名" vernacular="古兵器名,有竹制、铁制两种">
+			<exam article="《韩非子·外储说右上》" ref="操鞭使人,则役万夫。" />
+		</sense>
+	</pron>
+</character>

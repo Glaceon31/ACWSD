@@ -1,0 +1,36 @@
+<character value="书">
+	<introduce>
+		<pinyin value="shu1" writing="shū" />
+		<bushou value="乙" />
+		<bushoustroke value="1" />
+		<stroke value="4" />
+		<order value="折折竖捺" />
+	</introduce>
+	<pron value="shū">
+		<sense tag="动" vernacular="写">
+			<exam article="《陈涉世家》" ref="乃丹书帛曰‘陈胜王’。" />
+		</sense>
+		<sense tag="动" vernacular="记录">
+			<exam article="《狱中杂记》" ref="余感焉，以杜君言泛讯之，众言同，于是乎书。" />
+		</sense>
+		<sense tag="名" vernacular="文字">
+			<exam article="《陈涉世家》" ref="卒买鱼烹食，得鱼腹中书。" />
+		</sense>
+		<sense tag="名" vernacular="书法">
+			<exam article="《墨池记》" ref="羲之尝慕张芝临池学书，池水尽黑。" />
+		</sense>
+		<sense tag="名" vernacular="信">
+			<exam article="《春望》" ref="烽火连三月，家书抵万金。" />
+		</sense>
+		<sense tag="名" vernacular="文书；公文">
+			<exam article="《木兰诗》" ref="军书十二卷，卷卷有爷名。" />
+		</sense>
+		<sense tag="名" vernacular="书籍">
+			<exam article="《熟读精思》" ref="大抵观书先须熟读。" />
+		</sense>
+		<sense tag="名" vernacular="指《尚书》" />
+		<sense tag="名" vernacular="曲艺的一类">
+			<exam article="《柳敬亭传》" ref="之盱眙市中，为人说书。" />
+		</sense>
+	</pron>
+</character>

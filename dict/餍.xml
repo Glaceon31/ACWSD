@@ -1,0 +1,18 @@
+<character value="餍">
+	<introduce>
+		<pinyin value="yan4" writing="yàn" />
+		<bushou value="飠" />
+		<bushoustroke value="8" />
+		<stroke value="15" />
+		<order value="横撇横撇捺捺撇捺捺折横横折撇捺" />
+	</introduce>
+	<pron value="yàn">
+		<sense tag="形" vernacular="饱">
+			<exam article="《史记·张仪列传》" ref="一岁不收，民不餍糟穅。" />
+			<exam article="《论衡·辨祟》" ref="饱饭餍食。" />
+		</sense>
+		<sense tag="形" vernacular="满足">
+			<exam article="《左传·哀公十六年》" ref="以险徼幸者其求无餍。" />
+		</sense>
+	</pron>
+</character>

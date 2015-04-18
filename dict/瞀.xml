@@ -1,0 +1,24 @@
+<character value="瞀">
+	<introduce>
+		<pinyin value="mao4" writing="mào" />
+		<bushou value="目" />
+		<bushoustroke value="5" />
+		<stroke value="14" />
+		<order value="折捺折竖撇撇横撇捺竖折横横横" />
+	</introduce>
+	<pron value="mào">
+		<sense tag="形" vernacular="眼睛昏花">
+			<exam article="《庄子·徐无鬼》" ref="予适有瞀病。" />
+		</sense>
+		<sense tag="形" vernacular="烦乱">
+			<exam article="《九章·惜诵》" ref="中闷瞀之忳忳。" />
+		</sense>
+		<sense tag="形" vernacular="愚昧">
+			<exam article="《系辞上传·十二章》" ref="老氏瞀于此。" />
+		</sense>
+	</pron>
+	<phrase value="瞀瞀">
+		<sense value="垂目不敢正视的样子" />
+		<sense value="昏昏沉沉" />
+	</phrase>
+</character>

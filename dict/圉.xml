@@ -1,0 +1,22 @@
+<character value="圉">
+	<introduce>
+		<pinyin value="yu3" writing="yŭ" />
+		<bushou value="囗" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="竖折横竖横捺撇横横竖横" />
+	</introduce>
+	<pron value="yǔ">
+		<sense tag="动" vernacular="养马">
+			<exam article="《左传·哀公十四年》" ref="将圉马於成。" />
+		</sense>
+		<sense tag="名" vernacular="边境；边疆">
+			<exam article="《诗经·大雅·召旻》" ref="我居圉卒荒。" />
+		</sense>
+	</pron>
+	<pron value="yù">
+		<sense tag="动" vernacular="抵御；阻止">
+			<exam article="《庄子·缮性》" ref="其来不可圉。" />
+		</sense>
+	</pron>
+</character>

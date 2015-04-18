@@ -1,0 +1,29 @@
+<character value="享">
+	<introduce>
+		<pinyin value="xiang3" writing="xiăng" />
+		<bushou value="亠" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="捺横竖折横折竖横" />
+	</introduce>
+	<pron value="xiǎng">
+		<sense tag="动" vernacular="用食物供奉鬼神">
+			<exam article="《诗经·楚茨》" ref="以享以祀。" />
+		</sense>
+		<sense tag="动" vernacular="用酒食款待">
+			<exam article="《训俭示康》" ref="公叔文子享卫灵公。" />
+		</sense>
+		<sense tag="动" vernacular="享用；享受">
+			<exam article="《芙蕖》" ref="是我于花之未开，先享无穷逸致矣。" />
+		</sense>
+		<sense tag="动" vernacular="享有；保有">
+			<exam article="《过秦论》" ref="延及孝文王，庄襄王，享国之日浅，国家无事。" />
+		</sense>
+	</pron>
+	<phrase value="享国">
+		<sense value="帝王在位" />
+	</phrase>
+	<phrase value="享年">
+		<sense value="享有的年岁，敬指死者活的岁数或王朝延续的年代" />
+	</phrase>
+</character>

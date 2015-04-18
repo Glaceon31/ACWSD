@@ -1,0 +1,38 @@
+<character value="乱">
+	<introduce>
+		<pinyin value="luan4" writing="luàn" />
+		<bushou value="乙" />
+		<bushoustroke value="1" />
+		<stroke value="7" />
+		<order value="撇横竖竖折横折" />
+	</introduce>
+	<pron value="luàn">
+		<sense tag="形" vernacular="紊乱；没有秩序；没有条理">
+			<exam article="《曹刿论战》" ref="吾视其辙乱，望其旗靡，故逐之。" />
+		</sense>
+		<sense tag="动" vernacular="混杂；混淆">
+			<exam article="《答谢中书书》" ref="晓雾将歇，猿鸟乱鸣。" />
+		</sense>
+		<sense tag="动" vernacular="战乱；动乱">
+			<exam article="《桃花源记》" ref="自云先世避秦时乱，率妻子邑人来此绝境。" />
+		</sense>
+		<sense tag="动" vernacular="叛乱；作乱；反叛">
+			<exam article="《伶官传序》" ref="一夫夜呼，乱者四应。" />
+		</sense>
+		<sense tag="动" vernacular="扰乱；破坏">
+			<exam article="《陋室铭》" ref="无丝竹之乱耳，无案牍之劳形。" />
+		</sense>
+		<sense tag="形" vernacular="不安定；不太平；与“治”相对">
+			<exam article="《屈原列传》" ref="明于治乱，娴于辞令。" />
+		</sense>
+		<sense tag="形" vernacular="慌乱；零乱">
+			<exam article="《教战守策》" ref="使其耳目习于钟鼓旌旗之间而不乱。" />
+		</sense>
+		<sense tag="名" vernacular="乐曲的最后一段或辞赋中总括全篇要旨的最后一段文字">
+			<exam article="《涉江》" ref="乱曰：鸾鸟凤皇，日以远兮。" />
+		</sense>
+		<sense tag="名" vernacular="男女间的正当关系">
+			<exam article="《荀子·天论》" ref="男女淫乱。" />
+		</sense>
+	</pron>
+</character>

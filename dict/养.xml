@@ -1,0 +1,37 @@
+<character value="养">
+	<introduce>
+		<pinyin value="yang3" writing="yăng" />
+		<bushou value="丷" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="捺撇横横横撇捺撇竖" />
+	</introduce>
+	<pron value="yǎng">
+		<sense tag="动" vernacular="生养；抚养">
+			<exam article="《兵车行》" ref="生女犹得嫁比邻，养男埋伏随百草。" />
+		</sense>
+		<sense tag="动" vernacular="奉养；赡养">
+			<exam article="《陈情表》" ref="乌鸟私情，愿乞终养。" />
+			<exam article="《信陵君窃符救赵》" ref="独子无兄弟，归养。" />
+		</sense>
+		<sense tag="动" vernacular="培养；保养">
+			<exam article="《病梅馆记》" ref="斫其正，养其旁条。" />
+			<exam article="《庖丁解牛》" ref="得养生焉。" />
+		</sense>
+		<sense tag="动" vernacular="饲养；豢养">
+			<exam article="《促织》" ref="市中游侠儿得佳者笼养之。" />
+		</sense>
+		<sense tag="名" vernacular="养生的东西">
+			<exam article="《五蠹》" ref="不事力而养足。" />
+		</sense>
+		<sense tag="名" vernacular="厨师">
+			<exam article="《公羊传·宣公十二年》" ref="厮役扈养死者数百人。" />
+		</sense>
+	</pron>
+	<phrase value="养养">
+		<sense value="忧虑不安的样子" />
+	</phrase>
+	<phrase value="养拙">
+		<sense value="犹守拙，指隐退不仕" />
+	</phrase>
+</character>

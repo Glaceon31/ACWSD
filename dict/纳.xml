@@ -1,0 +1,27 @@
+<character value="纳">
+	<introduce>
+		<pinyin value="na4" writing="nà" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折折横竖折撇捺" />
+	</introduce>
+	<pron value="nà">
+		<sense tag="动" vernacular="收进；收藏">
+			<exam article="《促织》" ref="不如拼搏一笑，因合纳斗盆。" />
+		</sense>
+		<sense tag="动" vernacular="接受；采纳">
+			<exam article="《出师表》" ref="咨诹善道，察纳雅言。" />
+		</sense>
+		<sense tag="动" vernacular="收容；接纳">
+			<exam article="《〈指南录〉后序》" ref="至通州，几以下不纳死。" />
+		</sense>
+		<sense tag="动" vernacular="交纳；交付">
+			<exam article="《促织》" ref="成妻纳钱案上，焚拜如前人。" />
+		</sense>
+	</pron>
+	<phrase value="纳步">
+		<sense value="留步" />
+		<sense value="主人送客时，客请主人止步的谦辞" />
+	</phrase>
+</character>

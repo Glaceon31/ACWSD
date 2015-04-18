@@ -1,0 +1,18 @@
+<character value="釭">
+	<introduce>
+		<pinyin value="gong1" writing="gōng" />
+		<pinyin value="gang1" writing="gāng" />
+		<bushou value="釒" />
+		<bushoustroke value="8" />
+		<stroke value="11" />
+		<order value="撇捺横横竖捺撇横横竖横" />
+	</introduce>
+	<pron value="gāng">
+		<sense tag="名" vernacular="车毂中用以穿轴的金属孔眼">
+			<exam article="《新序·杂事二》" ref="淳于髡曰：‘方内而员釭，如何。’" />
+		</sense>
+		<sense tag="名" vernacular="油灯">
+			<exam article="《同咏坐上所见一物王融幔诗》" ref="但愿置樽酒，兰釭当夜明。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,45 @@
+<character value="而">
+	<introduce>
+		<pinyin value="er2" writing="ér" />
+		<bushou value="而" />
+		<bushoustroke value="6" />
+		<stroke value="6" />
+		<order value="横撇竖折竖竖" />
+	</introduce>
+	<pron value="ér">
+		<sense tag="名" vernacular="颊毛；胡须">
+			<exam article="《周礼·考工记》" ref="深其爪，出其日，作其鏻之而。" />
+		</sense>
+		<sense tag="代" vernacular="通“尔”你，你的">
+			<exam article="《记王忠肃公翱事》" ref="而翁长铨，迁我京职，则汝朝夕侍母。" />
+		</sense>
+		<sense tag="动" vernacular="通“如”">
+			<exam article="《察今》" ref="军惊而坏都舍。" />
+		</sense>
+		<sense tag="连" vernacular="1">
+			<exam article="《论积贮疏》" ref="苟粟多而财有余。" />
+			<exam article="《捕蛇者说》" ref="黑质而白章。" />
+			<exam article="《扁鹊见蔡桓公》" ref="扁鹊望桓侯而还走。" />
+			<exam article="《石钟山记》" ref="余方心动欲还，而大声发于水上。" />
+			<exam article="《劝学》" ref="君子愽学而日参省乎已。" />
+			<exam article="《赤壁之战》" ref="此为长江之险已与我共之矣，而势力众寡又不可论。" />
+			<exam article="《殽之战》" ref="吾见师出，而不见其入也。" />
+			<exam article="《论积贮疏》" ref="生之者甚少而靡之者甚多。" />
+			<exam article="《劝学》" ref="吾尝终日而思矣。" />
+			<exam article="《捕蛇者说》" ref="吾恂恂而起。" />
+			<exam article="《信陵君窃符救赵》" ref="吾攻赵，旦暮且下，而诸侯敢救赵者，已拔赵，必移兵先击之。" />
+			<exam article="《冯婉贞》" ref="诸君而有意，瞻余马首可也。" />
+			<exam article="《廉颇蔺相如列传》" ref="臣诚恐见欺于王而负赵。" />
+			<exam article="《赤壁之战》" ref="表恶其能而不能用也。" />
+			<exam article="《祭妹文》" ref="今而后，吾将再病，教从何处呼汝耶。" />
+		</sense>
+		<sense tag="助" vernacular="表感叹语气，相当于“啊”“吧”">
+			<exam article="《论语·子罕》" ref="岂不尔思，室是远而。" />
+			<exam article="《论语·微子》" ref="已而！已而！今之从政者殆而！" />
+		</sense>
+		<sense vernacular="词缀，嵌在某些时间词后面">
+			<exam article="《口技》" ref="俄而，百千人大呼。" />
+			<exam article="《醉翁亭记》" ref="已而，夕阳在山，人影散乱。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,20 @@
+<character value="侔">
+	<introduce>
+		<pinyin value="mou2" writing="móu" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇竖折捺撇横横竖" />
+	</introduce>
+	<pron value="móu">
+		<sense tag="形" vernacular="相等；等同">
+			<exam article="《庄子·外物》" ref="海水震荡，声侔鬼神。" />
+		</sense>
+		<sense tag="动" vernacular="通“牟”，取；求取">
+			<exam article="《韩非子·五蠹》" ref="商工之民……蓄积待时而侔农夫之利。" />
+		</sense>
+	</pron>
+	<phrase value="侔踪">
+		<sense value="与……行迹、行为相同" />
+	</phrase>
+</character>

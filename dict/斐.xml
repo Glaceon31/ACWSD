@@ -1,0 +1,18 @@
+<character value="斐">
+	<introduce>
+		<pinyin value="fei3" writing="fĕi" />
+		<bushou value="文" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="竖横横横竖横横横捺横撇捺" />
+	</introduce>
+	<pron value="fěi">
+		<sense tag="形" vernacular="有文采">
+			<exam article="《论衡·案书》" ref="文辞斐炳。" />
+		</sense>
+		<sense tag="形" vernacular="轻淡的样子">
+			<exam article="《三国·蜀书·杨戏传》" ref="藻丽辞理，斐有光。" />
+			<exam article="《泛湖归出楼中翫中》" ref="斐气幕岫，泫泫露盈条。" />
+		</sense>
+	</pron>
+</character>

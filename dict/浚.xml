@@ -1,0 +1,21 @@
+<character value="浚">
+	<introduce>
+		<pinyin value="jun4" writing="jùn" />
+		<pinyin value="xun4" writing="xùn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横折捺撇捺撇折捺" />
+	</introduce>
+	<pron value="jùn">
+		<sense tag="动" vernacular="疏通">
+			<exam article="《汉书·赵充国传》" ref="浚沟渠。" />
+		</sense>
+		<sense tag="形" vernacular="深">
+			<exam article="《晋书·谢安传》" ref="临浚谷。" />
+		</sense>
+		<sense tag="动" vernacular="取；榨取">
+			<exam article="《国语·晋语九》" ref="浚民之膏泽以实之。" />
+		</sense>
+	</pron>
+</character>

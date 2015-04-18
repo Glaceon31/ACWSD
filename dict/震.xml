@@ -1,0 +1,35 @@
+<character value="震">
+	<introduce>
+		<pinyin value="zhen4" writing="zhèn" />
+		<bushou value="雨" />
+		<bushoustroke value="8" />
+		<stroke value="15" />
+		<order value="横捺折竖捺捺捺捺横撇横横折撇捺" />
+	</introduce>
+	<pron value="zhèn">
+		<sense tag="名" vernacular="雷">
+			<exam article="《左传·隐公九年》" ref="大雨震电。" />
+		</sense>
+		<sense tag="动" vernacular="震动">
+			<exam article="《张衡传》" ref="后数日驿到，果地震陇西。" />
+		</sense>
+		<sense tag="动" vernacular="威慑">
+			<exam article="《过秦论》" ref="余威震于殊俗。" />
+		</sense>
+		<sense tag="形" vernacular="惊恐">
+			<exam article="《少年中国说》" ref="乳虎啸谷，百兽震惶。" />
+		</sense>
+		<sense tag="名" vernacular="威严">
+			<exam article="《左传·文公六年》" ref="其子何震之有？" />
+		</sense>
+		<sense tag="动" vernacular="通“娠”，怀孕">
+			<exam article="《左传·昭公元年》" ref="邑姜方震太叔。" />
+		</sense>
+	</pron>
+	<phrase value="震悼">
+		<sense value="震动悲悼" />
+	</phrase>
+	<phrase value="震怒">
+		<sense value="盛怒" />
+	</phrase>
+</character>

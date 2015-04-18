@@ -1,0 +1,25 @@
+<character value="农">
+	<introduce>
+		<pinyin value="nong2" writing="nóng" />
+		<bushou value="冖" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺折撇折撇捺" />
+	</introduce>
+	<pron value="nóng">
+		<sense tag="名" vernacular="耕种">
+			<exam article="《汉书·食货志》" ref="辟土植谷曰农。" />
+			<exam article="《寡人之于国也》" ref="不违农时，谷不可胜食也。" />
+		</sense>
+		<sense tag="名" vernacular="耕种的人，即农民">
+			<exam article="《论语·子路》" ref="吾不如老农。" />
+		</sense>
+		<sense tag="形" vernacular="勤勉">
+			<exam article="《管子·大匡》" ref="耕者用力不农，有罪无赦。" />
+		</sense>
+	</pron>
+	<phrase value="农父">
+		<sense value="古代官名，司徒的尊称" />
+		<sense value="农夫，即农民" />
+	</phrase>
+</character>

@@ -1,0 +1,21 @@
+<character value="盎">
+	<introduce>
+		<pinyin value="ang4" writing="àng" />
+		<bushou value="皿" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="竖折横撇捺竖折竖竖横" />
+	</introduce>
+	<pron value="àng">
+		<sense tag="名" vernacular="一种口小腹大的容器">
+			<exam article="《农政全书·开垦上》" ref="江南园地最贵,民间莳葱薤于盆盎之中。" />
+		</sense>
+		<sense tag="形" vernacular="丰厚,洋溢">
+			<exam article="《徐霞客游记》" ref="溪环石映,佳趣盎溢。" />
+		</sense>
+	</pron>
+	<phrase value="盎盎">
+		<sense value="1" />
+		<sense value="盈缢" />
+	</phrase>
+</character>

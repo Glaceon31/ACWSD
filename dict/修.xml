@@ -1,0 +1,42 @@
+<character value="修">
+	<introduce>
+		<pinyin value="xiu1" writing="xiū" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="9" />
+		<order value="撇竖竖撇折捺撇撇撇" />
+	</introduce>
+	<pron value="xiū">
+		<sense tag="动" vernacular="修饰">
+			<exam article="《汉书·冯奉世传》" ref="参为人矜严，好修容仪。" />
+		</sense>
+		<sense tag="动" vernacular="撰写；修改；润色">
+			<exam article="《柳敬亭传》" ref="幕下儒生设意修词，援古证今，极力为之。" />
+		</sense>
+		<sense tag="动" vernacular="修理；修造；修建">
+			<exam article="《过秦论》" ref="修守战之具。" />
+		</sense>
+		<sense tag="动" vernacular="整治；治理">
+			<exam article="《隆中对》" ref="外结好孙权，内修政理。" />
+		</sense>
+		<sense tag="动" vernacular="修养；修行">
+			<exam article="《信陵君窃符救赵》" ref="臣修身洁行数十年。" />
+		</sense>
+		<sense tag="动" vernacular="效法；学习">
+			<exam article="《原毁》" ref="一善易修也，一艺易能也。" />
+		</sense>
+		<sense tag="形" vernacular="长；高">
+			<exam article="《兰亭集序》" ref="此地有崇山峻岭，茂林修竹。" />
+		</sense>
+		<sense tag="形" vernacular="善；美好">
+			<exam article="《离骚》" ref="老冉冉其将至，恐修名之不立。" />
+		</sense>
+	</pron>
+	<phrase value="修书">
+		<sense value="写信；著作撰写" />
+	</phrase>
+	<phrase value="修文">
+		<sense value="兴修文教，加强文治" />
+		<sense value="旧称文人死亡为修文" />
+	</phrase>
+</character>

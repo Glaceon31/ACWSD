@@ -1,0 +1,14 @@
+<character value="耒">
+	<introduce>
+		<pinyin value="lei3" writing="lĕi" />
+		<bushou value="耒" />
+		<bushoustroke value="6" />
+		<stroke value="6" />
+		<order value="横横横竖撇捺" />
+	</introduce>
+	<pron value="lěi">
+		<sense tag="名" vernacular="古代的一种农具，形状像叉">
+			<exam article="《五蠹》" ref="因释其耒面守株，冀复得兔。" />
+		</sense>
+	</pron>
+</character>

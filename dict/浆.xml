@@ -1,0 +1,24 @@
+<character value="浆">
+	<introduce>
+		<pinyin value="jiang1" writing="jiāng" />
+		<pinyin value="jiang4" writing="jiàng" />
+		<bushou value="水" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="捺横竖撇折捺竖折撇捺" />
+	</introduce>
+	<pron value="jiāng">
+		<sense tag="名" vernacular="汁水；汁液">
+			<exam article="《永和宫词》" ref="荔枝浆热玉鱼琼。" />
+		</sense>
+		<sense tag="名" vernacular="泛指饮料">
+			<exam article="《孟子·梁惠王》" ref="箪食壶浆，以迎王师。" />
+		</sense>
+		<sense tag="名" vernacular="酒">
+			<exam article="《列子·杨朱》" ref="糟浆之气逆于人鼻。" />
+		</sense>
+		<sense tag="动" vernacular="用米汤浸纱、布、衣服等，使其干后发硬发挺">
+			<exam article="《林教头风雪山神庙》" ref="但有衣服，便拿来家里浆洗缝补。" />
+		</sense>
+	</pron>
+</character>

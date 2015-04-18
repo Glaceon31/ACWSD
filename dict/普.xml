@@ -1,0 +1,15 @@
+<character value="普">
+	<introduce>
+		<pinyin value="pu3" writing="pŭ" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="捺撇横竖竖捺撇横竖折横横" />
+	</introduce>
+	<pron value="pǔ">
+		<sense tag="副" vernacular="普遍；全面">
+			<exam article="《史记·秦始皇本纪》" ref="普施明法。" />
+			<exam article="《三国志·吴书·吴主传》" ref="普天一统，于是定矣。" />
+		</sense>
+	</pron>
+</character>

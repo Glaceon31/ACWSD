@@ -1,0 +1,19 @@
+<character value="贷">
+	<introduce>
+		<pinyin value="dai4" writing="dài" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="撇竖横折捺竖折撇捺" />
+	</introduce>
+	<pron value="dài">
+		<sense tag="动" vernacular="借；借出；借入">
+			<exam article="《潜夫论·忠贵》" ref="宁积粟腐仓而不忍贷人一斗。" />
+			<exam article="《庄周家贫》" ref="庄周家贫，故往贷粟于监河侯。" />
+		</sense>
+		<sense tag="动" vernacular="宽恕；宽免">
+			<exam article="《书博鸡者事》" ref="汝罪宜死，今姑贷汝。" />
+			<exam article="《后汉书·袁安传》" ref="示中国优贷，而使边人得宁。" />
+		</sense>
+	</pron>
+</character>

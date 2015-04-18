@@ -1,0 +1,21 @@
+<character value="龈">
+	<introduce>
+		<pinyin value="yin2" writing="yín" />
+		<pinyin value="ken3" writing="kĕn" />
+		<bushou value="齿" />
+		<bushoustroke value="8" />
+		<stroke value="14" />
+		<order value="竖横竖横撇捺折竖折横横折撇捺" />
+	</introduce>
+	<pron value="yín">
+		<sense tag="名" vernacular="齿根肉">
+			<exam article="《太玄·密》" ref="琢齿依龈，君自拔也。" />
+		</sense>
+		<sense vernacular="见“龈龈”" />
+	</pron>
+	<pron value="kěn">
+		<sense tag="动" vernacular="咬；喟">
+			<exam article="《曹成王碑》" ref="苏枯弱强，龈其奸猖。" />
+		</sense>
+	</pron>
+</character>

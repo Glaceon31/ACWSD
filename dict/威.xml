@@ -1,0 +1,31 @@
+<character value="威">
+	<introduce>
+		<pinyin value="wei1" writing="wēi" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横撇横折撇横折撇捺" />
+	</introduce>
+	<pron value="wēi">
+		<sense tag="名" vernacular="威力；威势">
+			<exam article="《赤壁之战》" ref="遂破荆州，威震四海。" />
+		</sense>
+		<sense tag="名" vernacular="威严；尊严；威信">
+			<exam article="《廉颇蔺相如列传》" ref="严大国之威以修敬也。" />
+		</sense>
+		<sense tag="动" vernacular="威慑；震慑">
+			<exam article="《陈涉世家》" ref="此教我先威众也。" />
+		</sense>
+		<sense tag="动" vernacular="通“畏”，使……害怕">
+			<exam article="《墨子·七患》" ref="赏赐不能喜，诛罚不能威。" />
+		</sense>
+	</pron>
+	<phrase value="威灵">
+		<sense value="指神灵；鬼神" />
+		<sense value="指声威" />
+	</phrase>
+	<phrase value="威武">
+		<sense value="指权势" />
+		<sense value="指武功" />
+	</phrase>
+</character>

@@ -1,0 +1,23 @@
+<character value="灭">
+	<introduce>
+		<pinyin value="mie4" writing="miè" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="5" />
+		<order value="横捺撇撇捺" />
+	</introduce>
+	<pron value="miè">
+		<sense tag="动" vernacular="熄灭">
+			<exam article="《尚书·盘庚》" ref="若火之燎于原，不可向迩，其犹可扑灭。" />
+		</sense>
+		<sense tag="动" vernacular="灭亡；消灭">
+			<exam article="《赤壁之战》" ref="今数雄已灭，惟孤尚存。" />
+		</sense>
+		<sense tag="动" vernacular="消失；磨灭">
+			<exam article="《游褒禅山记》" ref="距洞百余步，有碑仆道，其文漫灭。" />
+		</sense>
+		<sense tag="形" vernacular="暗">
+			<exam article="《小石潭记》" ref="潭西南而望，斗折蛇行，明灭可见。" />
+		</sense>
+	</pron>
+</character>

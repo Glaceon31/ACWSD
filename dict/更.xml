@@ -1,0 +1,61 @@
+<character value="更">
+	<introduce>
+		<pinyin value="geng4" writing="gèng" />
+		<pinyin value="geng1" writing="gēng" />
+		<bushou value="曰" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="横竖折横横撇捺" />
+	</introduce>
+	<pron value="gēng">
+		<sense tag="动" vernacular="改正；改变；更换">
+			<exam article="《&lt;论语&gt;十则》" ref="更也，人皆仰之。" />
+			<exam article="《庖丁解牛》" ref="良庖岁更刀，割也；族庖月更刀折也。" />
+			<exam article="《赤壁赋》" ref="客喜而笑，洗盏更酌。" />
+		</sense>
+		<sense tag="动" vernacular="经历；经过">
+			<exam article="《与吴质书》" ref="年三十余，在兵中十岁，所更非一。" />
+			<exam article="《史记·大宛列传》" ref="因欲通使，道必更匈奴中。" />
+		</sense>
+		<sense tag="副" vernacular="交替；交互">
+			<exam article="《活板》" ref="更互用之，瞬息可就。" />
+			<exam article="《左忠毅公逸事》" ref="使将更休。" />
+		</sense>
+		<sense tag="量" vernacular="古时夜间计时单位">
+			<exam article="《孔雀东南飞》" ref="仰头相向鸣，夜夜达五更。" />
+		</sense>
+	</pron>
+	<pron value="gèng">
+		<sense tag="副" vernacular="另；另外">
+			<exam article="《荆轲刺秦王》" ref="丹不忍以已之私，而伤长者之意，愿足下更虑之。" />
+			<exam article="《西门豹治邺》" ref="得更求好女，生日送之。" />
+		</sense>
+		<sense tag="副" vernacular="再；又">
+			<exam article="《石壕吏》" ref="室中更无人，惟有乳下孙。" />
+			<exam article="《送元二使西安》" ref="劝君更尽一杯酒，西出阳关无故人。" />
+		</sense>
+		<sense tag="副" vernacular="重新">
+			<exam article="《琵琶行》" ref="莫辞更坐弹一曲，为君翻作琵琶行。" />
+		</sense>
+		<sense tag="副" vernacular="更加；愈加">
+			<exam article="《赤壁之战》" ref="今日拒之，事更不顺。" />
+			<exam article="《促织》" ref="加以官贪吏虐，民日贴妇卖儿，更无休止。" />
+		</sense>
+		<sense tag="副" vernacular="还">
+			<exam article="《孔雀东南飞》" ref="仍更被驱遣，何言复来还。" />
+		</sense>
+		<sense tag="副" vernacular="岂，怎么">
+			<exam article="《登润州万岁楼》" ref="更能谈笑解重围。" />
+		</sense>
+		<sense tag="连" vernacular="与；和">
+			<exam article="《春兴》" ref="不关春雨更春风。" />
+		</sense>
+		<sense tag="副" vernacular="却">
+			<exam article="《&lt;指南录&gt;后序》" ref="予更欲一觇北，归而求救国之策。" />
+		</sense>
+	</pron>
+	<phrase value="更事">
+		<sense value="阅历世事" />
+		<sense value="交替发生的事情；常事" />
+	</phrase>
+</character>

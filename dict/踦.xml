@@ -1,0 +1,22 @@
+<character value="踦">
+	<introduce>
+		<pinyin value="qi1" writing="qī" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="15" />
+		<order value="竖折横竖横竖横横撇捺横竖折横竖" />
+	</introduce>
+	<pron value="qī">
+		<sense tag="量" vernacular="一支脚">
+			<exam article="《管子·侈靡》" ref="一踦腓，一踦发屦而当死。" />
+		</sense>
+		<sense tag="动" vernacular="偏">
+			<exam article="《韩非子·八经》" ref="大臣两重，捉衡而不踦。" />
+		</sense>
+	</pron>
+	<pron value="jī">
+		<sense vernacular="通“奇”">
+			<exam article="《新书·谕诚》" ref="楚国虽贫，岂爱一踦屦哉？" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,30 @@
+<character value="戎">
+	<introduce>
+		<pinyin value="rong2" writing="róng" />
+		<bushou value="戈" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="横横撇折撇捺" />
+	</introduce>
+	<pron value="róng">
+		<sense tag="名" vernacular="兵器；武器">
+			<exam article="《礼记·月令》" ref="天子乃教于田猎，以习五戎。" />
+		</sense>
+		<sense tag="名" vernacular="战车">
+			<exam article="《殽之战》" ref="梁弘御戎，莱驹为右。" />
+		</sense>
+		<sense tag="名" vernacular="士兵；军队">
+			<exam article="《三国志·蜀志·诸葛亮传》" ref="戎阵整齐。" />
+		</sense>
+		<sense tag="名" vernacular="军事；战争">
+			<exam article="《封建论》" ref="列侯骄盈，黩货事戎。" />
+		</sense>
+		<sense tag="名" vernacular="古代泛称我国西部各少数民族">
+			<exam article="《五蠹》" ref="行仁义而怀西戎。" />
+		</sense>
+	</pron>
+	<phrase value="戎首">
+		<sense value="发动战争的人；挑起争端的人" />
+		<sense value="军队主帅" />
+	</phrase>
+</character>

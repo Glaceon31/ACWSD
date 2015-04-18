@@ -1,0 +1,23 @@
+<character value="扑">
+	<introduce>
+		<pinyin value="pu1" writing="pū" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="横竖横竖捺" />
+	</introduce>
+	<pron value="pū">
+		<sense tag="名" vernacular="古时刑具的一种">
+			<exam article="《尚书·舜典》" ref="扑作教刑。" />
+		</sense>
+		<sense tag="动" vernacular="鞭打">
+			<exam article="《促织》" ref="当其为里正，受扑责时，岂意其至此哉。" />
+		</sense>
+		<sense tag="动" vernacular="直冲">
+			<exam article="《卖柑者言》" ref="剖之，如有烟扑口鼻。" />
+		</sense>
+		<sense tag="动" vernacular="击；扑打">
+			<exam article="《冯婉贞》" ref="投身大敌，与之扑斗。" />
+		</sense>
+	</pron>
+</character>

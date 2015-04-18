@@ -1,0 +1,36 @@
+<character value="序">
+	<introduce>
+		<pinyin value="xu4" writing="xù" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺横撇折捺折竖" />
+	</introduce>
+	<pron value="xù">
+		<sense tag="名" vernacular="堂屋的东西墙">
+			<exam article="《大戴礼记·王言》" ref="曾子惧，退，负序而立。" />
+		</sense>
+		<sense tag="名" vernacular="地方办的学校">
+			<exam article="《齐桓晋文之事》" ref="谨庠序之教，申之以孝悌之义。" />
+		</sense>
+		<sense tag="名" vernacular="次序；秩序">
+			<exam article="《孟子·滕文公》" ref="长幼有序。" />
+		</sense>
+		<sense tag="名" vernacular="时序">
+			<exam article="《滕王阁序》" ref="时维九月，序属三秋。" />
+		</sense>
+		<sense tag="动" vernacular="按次序排列">
+			<exam article="《美猴王》" ref="一个个序齿排班，朝上礼拜。" />
+		</sense>
+		<sense tag="名" vernacular="赠序；一种临别赠言" />
+		<sense tag="名" vernacular="序言；评价著作的文章">
+			<exam article="《〈黄花冈七十二烈士事略〉序》" ref="予为斯序。" />
+		</sense>
+		<sense tag="动" vernacular="通“叙”述说">
+			<exam article="《春夜宴从弟桃花园序》" ref="会桃花之芳园，序天伦之乐事。" />
+		</sense>
+	</pron>
+	<phrase value="序齿">
+		<sense value="按年龄长幼定先后次序" />
+	</phrase>
+</character>

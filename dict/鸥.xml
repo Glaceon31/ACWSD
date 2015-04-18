@@ -1,0 +1,17 @@
+<character value="鸥">
+	<introduce>
+		<pinyin value="ou1" writing="ōu" />
+		<bushou value="鸟" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="横撇捺折撇折捺折横" />
+	</introduce>
+	<pron value="ōu">
+		<sense tag="名" vernacular="水鸟名">
+			<exam article="《岳阳楼记》" ref="沙鸥翔集，锦鳞游泳。" />
+		</sense>
+	</pron>
+	<phrase value="鸥波">
+		<sense value="鸥鸟翱翔水面，喻生活悠闲自在" />
+	</phrase>
+</character>

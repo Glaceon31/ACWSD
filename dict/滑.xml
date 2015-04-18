@@ -1,0 +1,35 @@
+<character value="滑">
+	<introduce>
+		<pinyin value="hua2" writing="huá" />
+		<pinyin value="gu3" writing="gŭ" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺横竖折折捺折竖折横横" />
+	</introduce>
+	<pron value="huá">
+		<sense tag="形" vernacular="光滑；滑溜">
+			<exam article="《登泰山记》" ref="道中迷雾冰滑，磴几不可登。" />
+		</sense>
+		<sense tag="形" vernacular="流利；流畅">
+			<exam article="《琵琶行》" ref="间关莺语花底滑。" />
+		</sense>
+		<sense tag="名" vernacular="周代诸侯国，在今河南偃师">
+			<exam article="《殽之战》" ref="灭滑而还。" />
+		</sense>
+		<sense tag="形" vernacular="通“猾”">
+			<exam article="《史记·宁成传》" ref="滑贼任威。" />
+		</sense>
+	</pron>
+	<pron value="gǔ">
+		<sense tag="动" vernacular="扰乱；乱">
+			<exam article="《国语·周语下》" ref="而滑夫二川之神，使至于争明。" />
+		</sense>
+		<sense tag="动" vernacular="搅浑，混浊">
+			<exam article="《重爵禄》" ref="不知所以致清而求其清，此犹滑其源而望其流之洁也。" />
+		</sense>
+		<sense vernacular="通“汩”，治">
+			<exam article="《庄子·缮性》" ref="缮性于俗学，以求复其初；滑欲于俗思，以求致其明。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,20 @@
+<character value="雉">
+	<introduce>
+		<pinyin value="zhi4" writing="zhì" />
+		<bushou value="隹" />
+		<bushoustroke value="8" />
+		<stroke value="13" />
+		<order value="撇横横撇捺撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="名" vernacular="一种鸟，也叫野鸡">
+			<exam article="《庄子·养生主》" ref="泽雉十步一啄，百步一饮。" />
+		</sense>
+		<sense tag="量" vernacular="古代计算城墙面积的单位，长三丈高一丈为一雉">
+			<exam article="《左传·隐公元年》" ref="都城过百雉，国之害也。" />
+		</sense>
+		<sense tag="名" vernacular="城墙">
+			<exam article="《和王著作八公山》" ref="出没眺楼雉。" />
+		</sense>
+	</pron>
+</character>

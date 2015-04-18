@@ -1,0 +1,15 @@
+<character value="峥">
+	<introduce>
+		<pinyin value="zheng1" writing="zhēng" />
+		<bushou value="山" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="竖折竖撇折折横横竖" />
+	</introduce>
+	<pron value="zhēng">
+		<sense vernacular="见“峥嵘”" />
+	</pron>
+	<phrase value="峥嵘">
+		<sense value="山势高峻的样子" />
+	</phrase>
+</character>

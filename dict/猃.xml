@@ -1,0 +1,18 @@
+<character value="猃">
+	<introduce>
+		<pinyin value="xian3" writing="xiăn" />
+		<bushou value="犭" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="撇折撇撇捺横捺捺撇横" />
+	</introduce>
+	<pron value="xiǎn">
+		<sense tag="名" vernacular="一种长嘴的猎狗">
+			<exam article="《诗经·秦风·驷驖》" ref="輶车鸾镳，载猃歇骄。" />
+		</sense>
+	</pron>
+	<phrase value="猃狁">
+		<sense value="先秦时我国北部的一个民族" />
+		<sense value="同“玁狁”" />
+	</phrase>
+</character>

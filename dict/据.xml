@@ -1,0 +1,30 @@
+<character value="据">
+	<introduce>
+		<pinyin value="ju4" writing="jù" />
+		<pinyin value="ju1" writing="jū" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖横折横撇横竖竖折横" />
+	</introduce>
+	<pron value="jù">
+		<sense tag="动" vernacular="按着；靠着">
+			<exam article="《订鬼》“梦见夫人据案其身而哭矣。”《游黄山记》" ref="手向后据地，坐而下脱。" />
+		</sense>
+		<sense tag="动" vernacular="依靠；凭借">
+			<exam article="《过秦论》" ref="据亿丈之城，临不测之渊以为固。" />
+		</sense>
+		<sense tag="动" vernacular="占据；占有">
+			<exam article="《赤壁之战》" ref="已据有六郡，兵精粮多，足以立事。" />
+		</sense>
+		<sense tag="名" vernacular="凭据；证书">
+			<exam article="《金史·礼部》" ref="中选者，试官给据，以名报有司。" />
+		</sense>
+		<sense tag="介" vernacular="依据；根据">
+			<exam article="《毛遂自荐》" ref="诚能据其势而奋其威。" />
+		</sense>
+		<sense tag="形" vernacular="通“倨”，傲慢">
+			<exam article="《战国策·齐策四》" ref="据慢骄奢，则凶从之。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,27 @@
+<character value="考">
+	<introduce>
+		<pinyin value="kao3" writing="kăo" />
+		<bushou value="耂" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="横竖横撇横折" />
+	</introduce>
+	<pron value="kǎo">
+		<sense tag="形" vernacular="老；年纪大">
+			<exam article="《诗经·小雅·楚茨》" ref="使君寿考。" />
+			<exam article="《君子国》" ref="至于富贵寿考，亦惟听之天命。" />
+		</sense>
+		<sense tag="名" vernacular="父亲">
+			<exam article="《尚书·康诰》" ref="子弗祇服厥父事，大伤厥考心。" />
+		</sense>
+		<sense tag="动" vernacular="考核；考试">
+			<exam article="《尚书·舜典》" ref="三载考绩。" />
+		</sense>
+		<sense tag="动" vernacular="考察；推究">
+			<exam article="《&lt;黄花冈七十二烈士事略&gt;序》" ref="甚者且姓名不可考。" />
+		</sense>
+		<sense tag="动" vernacular="敲打；敲击">
+			<exam article="《石钟山记》" ref="而陋者乃以斧斤考击而求之。" />
+		</sense>
+	</pron>
+</character>

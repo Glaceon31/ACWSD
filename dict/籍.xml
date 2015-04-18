@@ -1,0 +1,47 @@
+<character value="籍">
+	<introduce>
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="20" />
+		<order value="撇横捺撇横捺横横横竖撇捺横竖竖横竖折横横" />
+	</introduce>
+	<pron value="jí">
+		<sense tag="名" vernacular="名籍">
+			<exam article="《黄生借书说》" ref="通籍后，俸去书来，落落大满。" />
+		</sense>
+		<sense tag="名" vernacular="名册；登记簿">
+			<exam article="《复庵记》" ref="不税于官，不隶于宫观之籍。" />
+		</sense>
+		<sense tag="动" vernacular="登记入册">
+			<exam article="《鸿门宴》" ref="籍吏民，封府库。" />
+		</sense>
+		<sense tag="名" vernacular="书籍；书册">
+			<exam article="《活板》" ref="板印书籍，唐人尚未盛为之。" />
+		</sense>
+		<sense tag="名" vernacular="籍贯">
+			<exam article="《寄崔立之》" ref="旧籍在东都。" />
+		</sense>
+		<sense tag="名" vernacular="籍田">
+			<exam article="《国语·周语》" ref="王治农于籍。" />
+		</sense>
+		<sense tag="动" vernacular="通“藉”，践踏">
+			<exam article="《汉书·天文志》" ref="兵相跆籍。" />
+		</sense>
+	</pron>
+	<pron value="jiè">
+		<sense tag="动" vernacular="通“藉”，凭借">
+			<exam article="《韩非子·五蠹》" ref="其学者则称先王之道以籍仁义。" />
+		</sense>
+		<sense tag="动意动" vernacular="通“藉”，以……为垫">
+			<exam article="《答宾戏》" ref="徒乐枕经籍书，纡体衡门。" />
+		</sense>
+	</pron>
+	<phrase value="籍田">
+		<sense value="帝王在京城附近占有的田地" />
+		<sense value="帝王在春耕前到在京城附近所占的田中象征性耕作田地，以奉祀宗庙、鼓励农耕" />
+	</phrase>
+	<phrase value="籍在">
+		<sense value="顾赖；慰藉" />
+	</phrase>
+</character>

@@ -1,0 +1,17 @@
+<character value="葩">
+	<introduce>
+		<pinyin value="pa1" writing="pā" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="横竖竖撇竖折横横折竖横折" />
+	</introduce>
+	<pron value="pā">
+		<sense tag="名" vernacular="花">
+			<exam article="《芙蕖》" ref="群葩当令时，只在花开之数日。" />
+		</sense>
+		<sense tag="形" vernacular="华丽；华美">
+			<exam article="《进学解》" ref="《易》奇而法，《诗》正而葩。" />
+		</sense>
+	</pron>
+</character>

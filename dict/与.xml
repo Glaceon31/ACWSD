@@ -1,0 +1,56 @@
+<character value="与">
+	<introduce>
+		<pinyin value="yu3" writing="yŭ" />
+		<pinyin value="yu4" writing="yù" />
+		<pinyin value="yu2" writing="yú" />
+		<bushou value="一" />
+		<bushoustroke value="1" />
+		<stroke value="3" />
+		<order value="横折横" />
+	</introduce>
+	<pron value="yǔ">
+		<sense tag="动" vernacular="给予">
+			<exam article="《鸿门宴》" ref="则与一生彘肩。" />
+		</sense>
+		<sense tag="动" vernacular="结交；交好">
+			<exam article="《六国论》" ref="与嬴而不助五国也。" />
+		</sense>
+		<sense tag="名" vernacular="朋友；同类者">
+			<exam article="《原毁》" ref="其应者，必其人之与也。" />
+		</sense>
+		<sense tag="动" vernacular="通“举”">
+			<exam article="《涉江》" ref="与前世而皆然兮，吾又何怨乎今之人。" />
+		</sense>
+		<sense tag="连" vernacular="和">
+			<exam article="《愚公移山》" ref="吾与汝毕力平险。" />
+		</sense>
+		<sense tag="介" vernacular="介绍动作行为所涉及的对方，相当于“跟”、“同”等">
+			<exam article="《岳阳楼记》" ref="微斯人，吾谁与归？" />
+		</sense>
+		<sense tag="介" vernacular="介绍比较对象，相当于“跟……相比”">
+			<exam article="《柳毅传》" ref="洞庭之与京邑，不足为异。" />
+		</sense>
+		<sense tag="介" vernacular="为；替">
+			<exam article="《兵车行》" ref="去时里正与裹头。" />
+		</sense>
+	</pron>
+	<pron value="yù">
+		<sense tag="动" vernacular="赞同">
+			<exam article="《中山狼传》" ref="固君子之所不与也。" />
+		</sense>
+		<sense tag="动" vernacular="参与；参加">
+			<exam article="《殽之战》" ref="蹇叔之子与师。" />
+		</sense>
+	</pron>
+	<pron value="yú">
+		<sense tag="助" vernacular="表示疑问、反诘或感叹，相当于“吗”、“吧”、“啊”">
+			<exam article="《齐桓晋文之事》" ref="王之所大欲，可得闻与？" />
+		</sense>
+	</pron>
+	<phrase value="与国">
+		<sense value="友好的国家" />
+	</phrase>
+	<phrase value="与手">
+		<sense value="施毒手杀之" />
+	</phrase>
+</character>

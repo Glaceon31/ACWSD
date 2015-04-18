@@ -1,0 +1,41 @@
+<character value="储">
+	<introduce>
+		<pinyin value="chu3" writing="chŭ" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="12" />
+		<order value="撇竖捺折横竖横撇竖折横横" />
+	</introduce>
+	<pron value="chǔ">
+		<sense tag="动" vernacular="储存，蓄积">
+			<exam article="《韩非子·十过》" ref="仓天积粟，府无储钱，库无甲兵，邑无守具。" />
+		</sense>
+		<sense tag="名" vernacular="指储存的粮食或物资" />
+		<sense tag="动" vernacular="置备，聚集">
+			<exam article="《汉书·何並传》" ref="林卿素骄，惭于宾客，並度其为变，储兵马以待之。" />
+		</sense>
+		<sense tag="形" vernacular="副，辅佐" />
+		<sense tag="名" vernacular="储君，太子" />
+		<sense tag="动" vernacular="等待">
+			<exam article="《东京赋》" ref="并夹既设，储乎广庭。" />
+		</sense>
+	</pron>
+	<phrase value="储君">
+		<sense value="副君，已确定为继承皇位的人" />
+	</phrase>
+	<phrase value="储思">
+		<sense value="1" />
+		<sense value="集中心思，专心致志" />
+		<sense value="2" />
+		<sense value="指一心一意去寻求" />
+	</phrase>
+	<phrase value="储位">
+		<sense value="1" />
+		<sense value="太子之位" />
+		<sense value="2" />
+		<sense value="指册立太子" />
+	</phrase>
+	<phrase value="储左">
+		<sense value="指辅佐之臣" />
+	</phrase>
+</character>

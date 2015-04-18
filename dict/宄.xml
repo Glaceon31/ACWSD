@@ -1,0 +1,14 @@
+<character value="宄">
+	<introduce>
+		<pinyin value="gui3" writing="guĭ" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="捺捺折撇折" />
+	</introduce>
+	<pron value="guǐ">
+		<sense tag="名" vernacular="犯法作乱的人">
+			<exam article="《三国志·魏书·武帝纪》" ref="禁断淫祀，奸宄逃窜。" />
+		</sense>
+	</pron>
+</character>

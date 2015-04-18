@@ -1,0 +1,60 @@
+<character value="则">
+	<introduce>
+		<pinyin value="ze2" writing="zé" />
+		<bushou value="刂" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="竖折撇捺竖竖" />
+	</introduce>
+	<pron value="zé">
+		<sense tag="名" vernacular="法则；准则">
+			<exam article="《叔向贺贫》" ref="宣其德行，顺其宪则。" />
+		</sense>
+		<sense tag="名" vernacular="榜样">
+			<exam article="《离骚》" ref="愿依彭咸之遗则。" />
+		</sense>
+		<sense tag="动" vernacular="效法">
+			<exam article="《易经·击辞》" ref="河山图，洛出书，圣从则之。" />
+		</sense>
+		<sense tag="名" vernacular="等级">
+			<exam article="《汉书·叙传》" ref="坤作地势，高下九则。" />
+		</sense>
+		<sense tag="副" vernacular="用于加强判断，相当于“乃”、“就是”">
+			<exam article="《岳阳楼记》" ref="此则岳阳楼之大观也。" />
+		</sense>
+		<sense tag="副" vernacular="表示限定范围，相当于“只”、“仅仅”">
+			<exam article="《两小儿辩日》" ref="日初出，大如车盖，及日中，则如盘盂。" />
+		</sense>
+		<sense tag="连" vernacular="表示顺承，相当于“就”、“便”">
+			<exam article="《寡人之于国也》" ref="河内凶，则移其民于河东。" />
+		</sense>
+		<sense tag="连" vernacular="表示转折，相当于“却”、“可是”">
+			<exam article="《师说》" ref="爱其子，择师而教之，于其身也，则耻师焉。" />
+		</sense>
+		<sense tag="连" vernacular="表示后一件事是新发现的情况，相当于“原来已经”">
+			<exam article="《殽之战》" ref="郑穆公使视客馆，则束载、厉兵、秣马矣。" />
+		</sense>
+		<sense tag="连" vernacular="表示假设，相当于“如果”、“假使”">
+			<exam article="《史记·项羽本纪》" ref="谨守成皋，则汉欲挑战，慎勿与战。" />
+		</sense>
+		<sense tag="连" vernacular="表示让步，相当于“倒”、“倒是”">
+			<exam article="《国语·晋语》" ref="美则美矣，抑臣亦有惧矣。" />
+		</sense>
+		<sense tag="助" vernacular="无意义">
+			<exam article="《诗经·齐风·鸡鸣》" ref="匪鸡则鸣，苍蝇之声。" />
+		</sense>
+		<sense tag="助" vernacular="表示疑问，相当于“呢”">
+			<exam article="《荀子·宥坐》" ref="百仞之山，任负车登焉，何则？陵迟故也。" />
+		</sense>
+	</pron>
+	<phrase value="则例">
+		<sense value="成规" />
+	</phrase>
+	<phrase value="则天">
+		<sense value="以天为法" />
+		<sense value="唐代女皇武后的谥号，世称武则天" />
+	</phrase>
+	<phrase value="则效">
+		<sense value="效法" />
+	</phrase>
+</character>

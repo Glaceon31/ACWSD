@@ -1,0 +1,39 @@
+<character value="好">
+	<introduce>
+		<pinyin value="hao3" writing="hăo" />
+		<pinyin value="hao4" writing="hào" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="折撇横折竖横" />
+	</introduce>
+	<pron value="hǎo">
+		<sense tag="形" vernacular="容貌美">
+			<exam article="《陌上桑》" ref="秦氏有好女，自名为罗敷。" />
+		</sense>
+		<sense tag="形" vernacular="好；善、佳">
+			<exam article="《春夜喜雨》" ref="好雨知时节。" />
+			<exam article="《江南逢李龟年》" ref="正是江南好风景。" />
+		</sense>
+		<sense tag="动" vernacular="完毕；完成">
+			<exam article="《无题》" ref="妆好方长叹，欢余却浅颦。" />
+		</sense>
+		<sense tag="副" vernacular="合适；合宜">
+			<exam article="《闻官军收复河南河北》" ref="青春作伴好还家。" />
+		</sense>
+		<sense tag="副" vernacular="很">
+			<exam article="《智取生辰纲》" ref="你这客官好不晓事。" />
+		</sense>
+		<sense tag="形" vernacular="病痊愈">
+			<exam article="《林黛玉进贾府》" ref="只怕他的病一生不能好的了。" />
+		</sense>
+	</pron>
+	<pron value="hào">
+		<sense tag="动" vernacular="喜欢；喜好">
+			<exam article="《涉江》" ref="余幼好此奇服兮，年既老而不衰。" />
+		</sense>
+		<sense tag="名" vernacular="玉器或钱币中间的孔">
+			<exam article="《周礼·考工记·玉人》" ref="璧羡度尺，好三寸以为度。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,15 @@
+<character value="绫">
+	<introduce>
+		<pinyin value="ling2" writing="líng" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="折折横横竖横撇捺撇折捺" />
+	</introduce>
+	<pron value="líng">
+		<sense tag="名" vernacular="一种很薄，有花纹和光泽的丝织品">
+			<exam article="《孔雀东南飞》" ref="右手执绫罗。" />
+			<exam article="《卖炭翁》" ref="半匹红绡一丈绫，系向牛头充炭直。" />
+		</sense>
+	</pron>
+</character>

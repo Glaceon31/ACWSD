@@ -1,0 +1,17 @@
+<character value="鲲">
+	<introduce>
+		<pinyin value="kun1" writing="kūn" />
+		<bushou value="鱼" />
+		<bushoustroke value="8" />
+		<stroke value="16" />
+		<order value="撇折竖折横竖横横竖折横横横折撇折" />
+	</introduce>
+	<pron value="kūn">
+		<sense tag="名" vernacular="传说中的一种大鱼">
+			<exam article="《庄子·逍遥逰》" ref="北冥有鱼，其名为鲲。" />
+		</sense>
+		<sense tag="名" vernacular="鱼子，鱼苗">
+			<exam article="《尔雅·释鱼》" ref="鲲，鱼子。" />
+		</sense>
+	</pron>
+</character>

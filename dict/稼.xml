@@ -1,0 +1,17 @@
+<character value="稼">
+	<introduce>
+		<pinyin value="jia4" writing="jià" />
+		<bushou value="禾" />
+		<bushoustroke value="5" />
+		<stroke value="15" />
+		<order value="撇横竖撇捺捺捺折横撇折撇撇撇捺" />
+	</introduce>
+	<pron value="jià">
+		<sense tag="动" vernacular="耕种；种植">
+			<exam article="《伐檀》" ref="不稼不穑，胡取禾三廛兮？" />
+		</sense>
+		<sense tag="名" vernacular="庄稼；农作物">
+			<exam article="《采草药》" ref="一亩之稼，则粪溉者先芽。" />
+		</sense>
+	</pron>
+</character>

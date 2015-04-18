@@ -1,0 +1,23 @@
+<character value="鬲">
+	<introduce>
+		<pinyin value="li4" writing="lì" />
+		<pinyin value="ge2" writing="gé" />
+		<bushou value="鬲" />
+		<bushoustroke value="10" />
+		<stroke value="10" />
+		<order value="横竖折横竖折捺撇横竖" />
+	</introduce>
+	<pron value="lì">
+		<sense tag="名" vernacular="鼎一类的烹饪器，三足中空">
+			<exam article="《非国瓖·三川震》" ref="夫釜鬲而爨者。" />
+		</sense>
+	</pron>
+	<pron value="gé">
+		<sense tag="动" vernacular="通“隔”，隔离">
+			<exam article="《汉书·薛宣传》" ref="阴阳否鬲。" />
+		</sense>
+		<sense tag="名" vernacular="通“膈”，膈膜">
+			<exam article="《三国志·魏书·华佗传》" ref="每发，心乱目眩，佗针鬲，随手而差。" />
+		</sense>
+	</pron>
+</character>

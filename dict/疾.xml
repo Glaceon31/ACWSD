@@ -1,0 +1,41 @@
+<character value="疾">
+	<introduce>
+		<pinyin value="ji2" writing="jí" />
+		<bushou value="疒" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="捺横撇捺横撇横横撇捺" />
+	</introduce>
+	<pron value="jí">
+		<sense tag="名" vernacular="病；疾病">
+			<exam article="《扁鹊见蔡桓公》" ref="君有疾在腠里，不治将恐深。" />
+		</sense>
+		<sense tag="动" vernacular="生病；患病">
+			<exam article="《荀子·天论》" ref="寒暑不能使之疾。" />
+		</sense>
+		<sense tag="名" vernacular="毛病；缺点">
+			<exam article="《公输》" ref="必为有窃疾矣。" />
+		</sense>
+		<sense tag="名" vernacular="疾苦；痛苦">
+			<exam article="《管子·小问》" ref="凡牧民者，必知其疾。" />
+		</sense>
+		<sense tag="动" vernacular="疾苦；痛苦">
+			<exam article="《西门豹治邺》" ref="会长老，问民之所疾苦。" />
+		</sense>
+		<sense tag="动" vernacular="痛心；憎恨">
+			<exam article="《屈原列传》" ref="屈平疾王听之不聪也。" />
+		</sense>
+		<sense tag="动" vernacular="妒忌；嫉妒">
+			<exam article="《史记·孙子吴起列传》" ref="膑至，庞涓恐其贤于己，疾之。" />
+		</sense>
+		<sense tag="形" vernacular="快；迅速">
+			<exam article="《触龙说赵太后》" ref="老臣病足，曾不能疾走。" />
+		</sense>
+		<sense tag="形" vernacular="大；强；猛烈">
+			<exam article="《荀子·劝学》" ref="顺风而呼，声非加疾也，而闻者彰。" />
+		</sense>
+		<sense tag="形" vernacular="敏捷">
+			<exam article="《观猎》" ref="草枯鹰眼疾，雪尽马蹄轻。" />
+		</sense>
+	</pron>
+</character>

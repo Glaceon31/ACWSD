@@ -1,0 +1,18 @@
+<character value="罥">
+	<introduce>
+		<pinyin value="juan4" writing="juàn" />
+		<bushou value="罒" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="竖折竖竖横竖折横竖折横横" />
+	</introduce>
+	<pron value="juàn">
+		<sense tag="动" vernacular="缠绕；缠挂">
+			<exam article="《林黛玉进贾府》" ref="两弯似蹙非蹙罥烟眉，一双似喜非喜含情目。" />
+			<exam article="《茅屋为秋风所破歌》" ref="高者挂罥长林梢，下者飘转沉塘坳。" />
+		</sense>
+		<sense tag="动" vernacular="用绳索捕取鸟兽">
+			<exam article="《史记·司马相如列传》" ref="罥騕褭，射封豕。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,41 @@
+<character value="霜">
+	<introduce>
+		<pinyin value="shuang1" writing="shuāng" />
+		<bushou value="雨" />
+		<bushoustroke value="8" />
+		<stroke value="17" />
+		<order value="横捺折竖捺捺捺捺横竖撇捺竖折横横横" />
+	</introduce>
+	<pron value="shuāng">
+		<sense tag="名" vernacular="霜">
+			<exam article="《长亭送别》" ref="晓来谁染霜林醉？总是离人泪。" />
+		</sense>
+		<sense tag="动" vernacular="结霜">
+			<exam article="《江水》" ref="每至晴初霜旦，林寒涧肃，常有高猿长啸。" />
+		</sense>
+		<sense tag="名" vernacular="白色的看来像霜的物体">
+			<exam article="《秋浦歌》" ref="不明镜里，何处得秋霜。" />
+			<exam article="《滕王阁序》" ref="紫电清霜，王将军之武库。" />
+			<exam article="《送金山乡僧归蜀》" ref="冰盘若琥珀，何似糖霜美？" />
+		</sense>
+		<sense tag="形" vernacular="白；白色">
+			<exam article="《江城子·密州出猎》" ref="鬓微霜，又何妨。" />
+		</sense>
+		<sense tag="形" vernacular="比喻高洁">
+			<exam article="《南齐书·沈驎士传》" ref="玉质逾洁，霜操日严。" />
+		</sense>
+		<sense tag="名" vernacular="比喻冷酷或威严">
+			<exam article="《晋书·索琳传》" ref="孤恐霜威一震，玉石俱焚。" />
+		</sense>
+		<sense tag="名" vernacular="年">
+			<exam article="《渡桑干》" ref="客舍并州已十霜，归心夜忆咸阳。" />
+		</sense>
+	</pron>
+	<phrase value="霜操">
+		<sense value="坚贞高洁的节操" />
+	</phrase>
+	<phrase value="霜毛">
+		<sense value="洁白的毛羽" />
+		<sense value="白发" />
+	</phrase>
+</character>

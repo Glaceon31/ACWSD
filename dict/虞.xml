@@ -1,0 +1,27 @@
+<character value="虞">
+	<introduce>
+		<pinyin value="yu2" writing="yú" />
+		<bushou value="虍" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="竖横折撇横折竖折横横横撇捺" />
+	</introduce>
+	<pron value="yú">
+		<sense tag="动" vernacular="预料；意料">
+			<exam article="《左传·僖公四年》" ref="不虞公之涉吾地也。" />
+		</sense>
+		<sense tag="动" vernacular="准备">
+			<exam article="《谋攻》" ref="以虞待不虞者胜。" />
+		</sense>
+		<sense tag="动" vernacular="担心">
+			<exam article="《中山狼传》" ref="前虞拔胡，后恐疐尾。" />
+		</sense>
+		<sense tag="动" vernacular="欺骗">
+			<exam article="《左传·宣公十五年》" ref="我无尔诈，尔无我虞。" />
+		</sense>
+		<sense tag="名" vernacular="远古朝代名" />
+	</pron>
+	<phrase value="虞人">
+		<sense value="古代掌管山林苑囿的官吏" />
+	</phrase>
+</character>

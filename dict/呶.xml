@@ -1,0 +1,18 @@
+<character value="呶">
+	<introduce>
+		<pinyin value="nao2" writing="náo" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="竖折横折撇横折捺" />
+	</introduce>
+	<pron value="náo">
+		<sense tag="动" vernacular="喧哗">
+			<exam article="《诗经·小雅·宾之初筵》" ref="宾既醉止，载号载呶。" />
+		</sense>
+	</pron>
+	<phrase value="呶呶">
+		<sense value="喧闹声" />
+		<sense value="形容说话唠叨，使人讨厌" />
+	</phrase>
+</character>

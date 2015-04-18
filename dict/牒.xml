@@ -1,0 +1,20 @@
+<character value="牒">
+	<introduce>
+		<pinyin value="die2" writing="dié" />
+		<bushou value="片" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="撇竖横折横竖竖横折横竖撇捺" />
+	</introduce>
+	<pron value="dié">
+		<sense tag="名" vernacular="古代写字用的小而薄的木片和竹片">
+			<exam article="《公输》" ref="子墨子解带为城，以牒为械。" />
+		</sense>
+		<sense tag="名" vernacular="簿册；书籍">
+			<exam article="《雁荡山》" ref="然自古图牒，未尝有言者。" />
+		</sense>
+		<sense tag="名" vernacular="讼辞；状子">
+			<exam article="《书博鸡者事》" ref="台臣惭，追受其牒，为复守官而黜臧使者。" />
+		</sense>
+	</pron>
+</character>

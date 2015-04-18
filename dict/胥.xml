@@ -1,0 +1,18 @@
+<character value="胥">
+	<introduce>
+		<pinyin value="xu1" writing="xū" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="折竖横撇捺竖折横横" />
+	</introduce>
+	<pron value="xū">
+		<sense tag="副" vernacular="都；全">
+			<exam article="《答司马谏议书》" ref="然盘庚之迁，胥怨者民也。" />
+		</sense>
+		<sense tag="名" vernacular="小吏">
+			<exam article="《狱中杂记》" ref="余尝就老胥而问焉。" />
+			<exam article="《促织》" ref="里胥猾黠，假此科剑丁口。" />
+		</sense>
+	</pron>
+</character>

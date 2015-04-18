@@ -1,0 +1,41 @@
+<character value="精">
+	<introduce>
+		<pinyin value="jing1" writing="jīng" />
+		<bushou value="米" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="捺撇横竖撇捺横横竖横竖折横横" />
+	</introduce>
+	<pron value="jīng">
+		<sense tag="名" vernacular="精米；上等的细米">
+			<exam article="《庄子·人间世》" ref="鼓荚播精，足以食十人。" />
+		</sense>
+		<sense tag="名" vernacular="精华">
+			<exam article="《阿房宫赋》" ref="齐楚之精英。" />
+		</sense>
+		<sense tag="形" vernacular="精粹；精纯">
+			<exam article="《张衡传》" ref="阳嘉元年，复造候风地动仪，以精铜铸成。" />
+		</sense>
+		<sense tag="形" vernacular="精良；精锐">
+			<exam article="《赤壁之战》" ref="兵精粮多，足以立事。" />
+		</sense>
+		<sense tag="形" vernacular="精美；美好">
+			<exam article="《孔雀东南飞》" ref="纤纤作细步，精妙细无双。" />
+		</sense>
+		<sense tag="动" vernacular="精通；谙熟">
+			<exam article="《冯婉贞》" ref="精技击者不过百人。" />
+		</sense>
+		<sense tag="形" vernacular="精湛；精妙">
+			<exam article="《卖油翁》" ref="吾射不亦精乎？" />
+		</sense>
+		<sense tag="形" vernacular="精心；专一">
+			<exam article="《张衡传》" ref="精思附会，十年乃成。" />
+		</sense>
+		<sense tag="名" vernacular="精神；精力">
+			<exam article="《秋声赋》" ref="有动于中，必摇其精。" />
+		</sense>
+		<sense tag="形" vernacular="瘦，不肥">
+			<exam article="《鲁提辖拳打镇关西》" ref="却才精的，怕府里要裹馄饨，肥的臊子何用？" />
+		</sense>
+	</pron>
+</character>

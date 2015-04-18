@@ -1,0 +1,17 @@
+<character value="巳">
+	<introduce>
+		<pinyin value="si4" writing="sì" />
+		<bushou value="巳" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="折横折" />
+	</introduce>
+	<pron value="sì">
+		<sense tag="名" vernacular="十二地支的第六位；巳日">
+			<exam article="《殽之战》" ref="夏四月辛巳。" />
+		</sense>
+		<sense tag="名" vernacular="十二时辰之一，上午九时至十一时">
+			<exam article="《群英会蒋干中计》" ref="从巳时直杀到未时，周瑜虽得利，只恐寡不敌众，遂下令鸣金收住船只。" />
+		</sense>
+	</pron>
+</character>

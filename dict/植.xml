@@ -1,0 +1,34 @@
+<character value="植">
+	<introduce>
+		<pinyin value="zhi2" writing="zhí" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖撇捺横竖竖折横横横横" />
+	</introduce>
+	<pron value="zhí">
+		<sense tag="动" vernacular="栽种">
+			<exam article="《孔雀东南飞》" ref="东西植松柏，左右种梧桐。" />
+			<exam article="《项脊轩志》" ref="庭有枇杷树，吾妻死之年所手植也。" />
+		</sense>
+		<sense tag="动" vernacular="竖立；树立">
+			<exam article="《游黄山记》" ref="断者架木通之，悬者植梯接之。" />
+			<exam article="《童区寄传》" ref="一人卧，植刃道上。" />
+		</sense>
+		<sense tag="动" vernacular="倚着">
+			<exam article="《归去来兮辞》" ref="或植杖而耘耔。" />
+		</sense>
+		<sense tag="形" vernacular="直立的；陡立的">
+			<exam article="《雁荡山》" ref="世间沟壑中水凿之处，皆有植土龛岩。" />
+		</sense>
+		<sense tag="名" vernacular="植物">
+			<exam article="《察变》" ref="知动植庶品，率皆递有变迁。" />
+		</sense>
+		<sense tag="名" vernacular="关闭门户用的直木">
+			<exam article="《墨子·非儒》" ref="季孙与邑人争门关，决植。" />
+		</sense>
+		<sense tag="名" vernacular="古代军队中督办工事的将官">
+			<exam article="《左传·宣公二年》" ref="华元为值，巡功植。" />
+		</sense>
+	</pron>
+</character>

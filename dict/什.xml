@@ -1,0 +1,29 @@
+<character value="什">
+	<introduce>
+		<pinyin value="shen2" writing="shén" />
+		<pinyin value="shi2" writing="shí" />
+		<pinyin value="she2" writing="shé" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="撇竖横竖" />
+	</introduce>
+	<pron value="shí">
+		<sense tag="名" vernacular="以十个个体组成的一个单位">
+			<exam article="《韩非子·显学》" ref="恃人之为吾善也，境内不什数。" />
+		</sense>
+		<sense tag="名" vernacular="《诗经》的“雅”、“颂”各部分每十篇编成一组，称“……之什”">
+			<exam article="《诗经》的“雅”、“颂”各部分每十篇编成一组，称“……之什”。后代用“什”称诗篇或文章的卷数，也称诗文。姚合《送陈倜赴江南从事》" ref="新什定知饶景思。" />
+		</sense>
+		<sense tag="数" vernacular="十倍">
+			<exam article="《潜夫论·浮侈》" ref="浮末者什于农夫。" />
+		</sense>
+		<sense tag="数" vernacular="十分之……">
+			<exam article="《史记·高祖本纪》" ref="会天寒，士卒堕指者什二三。" />
+		</sense>
+	</pron>
+	<phrase value="什伍">
+		<sense value="古户籍与军队的基层编制" />
+		<sense value="户籍以五家为伍，互相担保，十家相连，叫什伍" />
+	</phrase>
+</character>

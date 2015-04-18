@@ -1,0 +1,79 @@
+<character value="行">
+	<introduce>
+		<pinyin value="xing2" writing="xíng" />
+		<pinyin value="hang2" writing="háng" />
+		<pinyin value="hang4" writing="hàng" />
+		<pinyin value="xing4" writing="xìng" />
+		<pinyin value="heng2" writing="héng" />
+		<bushou value="行" />
+		<bushoustroke value="6" />
+		<stroke value="6" />
+		<order value="撇撇竖横横竖" />
+	</introduce>
+	<pron value="xíng">
+		<sense tag="动" vernacular="行走">
+			<exam article="《论语》" ref="三人行，必有我师焉。" />
+		</sense>
+		<sense tag="动" vernacular="出行">
+			<exam article="《殽之战》" ref="为吾子之将行也。" />
+		</sense>
+		<sense tag="动" vernacular="运行">
+			<exam article="《刻舟求剑》" ref="舟已行矣，而剑不行。" />
+		</sense>
+		<sense tag="动" vernacular="传布">
+			<exam article="《原毁》" ref="士之处此世，而望名誉之光，道德行，难已。" />
+		</sense>
+		<sense tag="动" vernacular="实行；做">
+			<exam article="《训俭示康》" ref="君子寡欲则不役于物，可以直道而行。" />
+		</sense>
+		<sense tag="名" vernacular="动作；行动；举动">
+			<exam article="《鸿门宴》" ref="大行不顾细谨。" />
+		</sense>
+		<sense tag="名" vernacular="品行">
+			<exam article="《屈原列传》" ref="其志洁，其行廉。" />
+		</sense>
+		<sense tag="副" vernacular="将；即将">
+			<exam article="《归去来兮辞》" ref="善万物之得时，感吾生之行休。" />
+		</sense>
+		<sense tag="量" vernacular="遍；次">
+			<exam article="《训俭示康》" ref="客至未尝不置酒，或三行五行。" />
+		</sense>
+	</pron>
+	<pron value="háng">
+		<sense tag="名" vernacular="道路">
+			<exam article="《诗经·七月》" ref="遵彼微行。" />
+		</sense>
+		<sense tag="名" vernacular="行列；队伍">
+			<exam article="《国殇》" ref="凌余阵兮躐余行。" />
+		</sense>
+		<sense tag="名" vernacular="辈；辈分">
+			<exam article="《苏武传》" ref="汉天子，我丈人行也。" />
+		</sense>
+		<sense tag="量" vernacular="指成行的事物">
+			<exam article="《孔雀东南飞》" ref="出门登车去，涕落百余行。" />
+		</sense>
+	</pron>
+	<phrase value="行宫">
+		<sense value="皇帝外出临时居住的地方" />
+	</phrase>
+	<phrase value="行将">
+		<sense value="即将" />
+	</phrase>
+	<phrase value="行李">
+		<sense value="使者" />
+		<sense value="行装" />
+	</phrase>
+	<phrase value="行人">
+		<sense value="出使的人" />
+		<sense value="行路人" />
+		<sense value="出征的人" />
+	</phrase>
+	<phrase value="行者">
+		<sense value="行路人" />
+		<sense value="出征的人" />
+		<sense value="出家而受大的佛教徒；去游四方乞食的为生的僧人" />
+	</phrase>
+	<phrase value="行装">
+		<sense value="出门携带的衣物" />
+	</phrase>
+</character>

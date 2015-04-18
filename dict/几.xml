@@ -1,0 +1,35 @@
+<character value="几">
+	<introduce>
+		<pinyin value="ji3" writing="jĭ" />
+		<pinyin value="ji1" writing="jī" />
+		<bushou value="几" />
+		<bushoustroke value="2" />
+		<stroke value="2" />
+		<order value="撇折" />
+	</introduce>
+	<pron value="jǐ">
+		<sense tag="数" vernacular="多少">
+			<exam article="《阿房宫赋》" ref="矗不知其几千万落。" />
+		</sense>
+		<sense tag="数" vernacular="表示不确定的小数目">
+			<exam article="《江南逢李龟年》" ref="崔九堂前几度闻。" />
+		</sense>
+	</pron>
+	<pron value="jī">
+		<sense tag="名" vernacular="低矮的桌子">
+			<exam article="《项脊轩志》" ref="从余问古事，或凭几学书。" />
+		</sense>
+		<sense tag="动" vernacular="近；接近">
+			<exam article="《论积贮疏》" ref="汉之为汉，几四十年矣。" />
+		</sense>
+		<sense tag="副" vernacular="几乎；差一点">
+			<exam article="《捕蛇者说》" ref="今吾嗣为之十二年，几死者数矣。" />
+		</sense>
+		<sense tag="形" vernacular="细小；细微">
+			<exam article="《后汉书·陈宠传》" ref="今不蒙忠能之赏，而计几微之故。" />
+		</sense>
+		<sense tag="名" vernacular="事情的细微迹象或动向">
+			<exam article="《易·系辞下》" ref="君子见几而作，不俟终日。" />
+		</sense>
+	</pron>
+</character>

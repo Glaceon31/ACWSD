@@ -1,0 +1,20 @@
+<character value="蕴">
+	<introduce>
+		<pinyin value="yun4" writing="yùn" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="横竖竖折折横竖折横横竖折竖竖横" />
+	</introduce>
+	<pron value="yùn">
+		<sense tag="动" vernacular="积聚；蓄藏">
+			<exam article="《后汉书·周荣传》" ref="蕴匵古今，博物多闻。" />
+		</sense>
+		<sense tag="名" vernacular="深奥之处">
+			<exam article="《宋史·范祖禹传》" ref="平易明白，洞见底蕴。" />
+		</sense>
+		<sense tag="动" vernacular="郁结">
+			<exam article="《后汉书·王符传》" ref="志意蕴愤，乃隐居著书三余篇。" />
+		</sense>
+	</pron>
+</character>

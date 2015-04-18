@@ -1,0 +1,20 @@
+<character value="寿">
+	<introduce>
+		<pinyin value="shou4" writing="shòu" />
+		<bushou value="寸" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横横横撇横竖捺" />
+	</introduce>
+	<pron value="shòu">
+		<sense tag="形" vernacular="长寿">
+			<exam article="《察今》" ref="向之寿民，今为殇子矣。" />
+		</sense>
+		<sense tag="名" vernacular="寿命">
+			<exam article="《殽之战》" ref="中寿，尔墓之木拱矣。" />
+		</sense>
+		<sense tag="动" vernacular="敬酒、献礼祝人长寿">
+			<exam article="《鸿门宴》" ref="若入前为寿。" />
+		</sense>
+	</pron>
+</character>

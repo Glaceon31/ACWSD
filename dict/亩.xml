@@ -1,0 +1,17 @@
+<character value="亩">
+	<introduce>
+		<pinyin value="mu3" writing="mŭ" />
+		<bushou value="亠" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺横竖折横竖横" />
+	</introduce>
+	<pron value="mǔ">
+		<sense tag="名" vernacular="田埂；田中的高处">
+			<exam article="《左传·成公二年》" ref="使齐之封内尽东其亩。" />
+		</sense>
+		<sense tag="量" vernacular="计量土地的单位">
+			<exam article="《齐桓晋文之事》" ref="百亩之田，勿夺其时，八口之家可以无饥矣。" />
+		</sense>
+	</pron>
+</character>

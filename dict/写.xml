@@ -1,0 +1,29 @@
+<character value="写">
+	<introduce>
+		<pinyin value="xie3" writing="xiĕ" />
+		<pinyin value="xie4" writing="xiè" />
+		<bushou value="冖" />
+		<bushoustroke value="2" />
+		<stroke value="5" />
+		<order value="捺折横折横" />
+	</introduce>
+	<pron value="xiě">
+		<sense tag="动" vernacular="摹画">
+			<exam article="《齐民要术·园篱》" ref="复写鸟兽之状。" />
+		</sense>
+		<sense tag="动" vernacular="书写；写字">
+			<exam article="《莺啼序·丰乐楼节斋新建》" ref="殷勤待写，书中长恨。" />
+		</sense>
+		<sense tag="动" vernacular="倾注；倾泻">
+			<exam article="《周礼·地官·稻人》" ref="以浍写水。" />
+		</sense>
+		<sense tag="动" vernacular="消除">
+			<exam article="《诗经·邶风·泉水》" ref="以写我忧。" />
+		</sense>
+	</pron>
+	<pron value="xiè">
+		<sense tag="动" vernacular="卸除">
+			<exam article="《晋书·潘岳传》" ref="发槅写鞍，皆有所憩。" />
+		</sense>
+	</pron>
+</character>

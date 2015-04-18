@@ -1,0 +1,23 @@
+<character value="奠">
+	<introduce>
+		<pinyin value="dian4" writing="diàn" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺撇横竖折撇折横横横撇捺" />
+	</introduce>
+	<pron value="diàn">
+		<sense tag="动" vernacular="以酒食祭祀死者">
+			<exam article="《窦娥冤》" ref="遇时节将碗凉浆奠。" />
+		</sense>
+		<sense tag="动" vernacular="进献">
+			<exam article="《仪礼·乡饮酒》" ref="主人坐，奠爵于阶前。" />
+		</sense>
+		<sense tag="动" vernacular="放置">
+			<exam article="《礼记·内则》" ref="奠之，而后取之。" />
+		</sense>
+		<sense tag="动" vernacular="定；建立">
+			<exam article="《尚书·禹贡》" ref="奠高山大川。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="裎">
+	<introduce>
+		<pinyin value="cheng2" writing="chéng" />
+		<pinyin value="cheng3" writing="chĕng" />
+		<bushou value="衤" />
+		<bushoustroke value="5" />
+		<stroke value="12" />
+		<order value="捺折竖撇捺竖折横横横竖横" />
+	</introduce>
+	<pron value="chéng">
+		<sense tag="名" vernacular="裸体">
+			<exam article="《孟子·万章下》" ref="尔为尔，我为我，虽袒裼裸裎于我侧，尔焉能浼我哉！" />
+		</sense>
+		<sense tag="名" vernacular="系玉佩的带子" />
+		<sense vernacular="chěng对襟单衣" />
+	</pron>
+</character>

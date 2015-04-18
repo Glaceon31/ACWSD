@@ -1,0 +1,29 @@
+<character value="梼">
+	<introduce>
+		<pinyin value="tao2" writing="táo" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横竖撇捺横横横撇横竖捺" />
+	</introduce>
+	<pron value="chóu">
+		<sense tag="名" vernacular="乔木名" />
+		<sense tag="名" vernacular="通“筹”" />
+	</pron>
+	<pron value="táo">
+		<sense vernacular="见“梼昧”、“梼杌”" />
+	</pron>
+	<phrase value="梼昧">
+		<sense value="愚昧无知" />
+	</phrase>
+	<phrase value="梼杌">
+		<sense value="1" />
+		<sense value="传说中的凶兽名" />
+		<sense value="2" />
+		<sense value="比喻凶人" />
+		<sense value="3" />
+		<sense value="古代传说中的神名" />
+		<sense value="4" />
+		<sense value="楚国史书名" />
+	</phrase>
+</character>

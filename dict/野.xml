@@ -1,0 +1,41 @@
+<character value="野">
+	<introduce>
+		<pinyin value="ye3" writing="yĕ" />
+		<bushou value="里" />
+		<bushoustroke value="7" />
+		<stroke value="11" />
+		<order value="竖折横横竖横横折捺折竖" />
+	</introduce>
+	<pron value="yě">
+		<sense tag="名" vernacular="郊外；田野">
+			<exam article="《捕蛇者说》" ref="永州之野产异蛇。" />
+		</sense>
+		<sense tag="形" vernacular="野外自然生长的">
+			<exam article="《醉翁亭记》" ref="野芳发而幽香。" />
+		</sense>
+		<sense tag="名" vernacular="民间，与“朝”相对">
+			<exam article="《五人墓碑记》" ref="况草野之无闻者欤？" />
+		</sense>
+		<sense tag="形" vernacular="粗野">
+			<exam article="《芋老人传》" ref="天下有缙绅士大夫所不能言，而野老鄙夫能言者，往往而然。" />
+		</sense>
+	</pron>
+	<phrase value="野老">
+		<sense value="乡间老人" />
+	</phrase>
+	<phrase value="野马">
+		<sense value="产于北方的一种马" />
+		<sense value="春日野外林泽间的雾气" />
+	</phrase>
+	<phrase value="野人">
+		<sense value="乡野之民；农夫" />
+		<sense value="未开化的人" />
+		<sense value="无官职的平民" />
+	</phrase>
+	<phrase value="野史">
+		<sense value="由私人编撰的非官方的史书" />
+	</phrase>
+	<phrase value="野战">
+		<sense value="在要塞或城市以外的广大地区作战，又指不按常规作战" />
+	</phrase>
+</character>

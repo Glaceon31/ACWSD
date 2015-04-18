@@ -1,0 +1,41 @@
+<character value="先">
+	<introduce>
+		<pinyin value="xian1" writing="xiān" />
+		<bushou value="儿" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="撇横竖横撇折" />
+	</introduce>
+	<pron value="xiān">
+		<sense tag="形" vernacular="次序或时间在前的">
+			<exam article="《&lt;指南录&gt;后序》" ref="舟与哨相后先，几邂逅死。" />
+		</sense>
+		<sense tag="形意动" vernacular="以……为先；放在前面">
+			<exam article="《廉颇蔺相如列传》" ref="以先国家之急而后私仇也。" />
+		</sense>
+		<sense tag="动" vernacular="走在前面；向前走">
+			<exam article="《国殇》" ref="矢交坠兮士争先。" />
+		</sense>
+		<sense tag="名" vernacular="先导；前驱；表率">
+			<exam article="《五人墓碑记》" ref="吾社之行为士之先者，为之声义。" />
+		</sense>
+		<sense tag="动" vernacular="抢先；先做">
+			<exam article="《教战守策》" ref="战者，必然之势也，不先于我，则先于彼。" />
+		</sense>
+		<sense tag="形" vernacular="从前的；过去的">
+			<exam article="《孔雀东南飞》" ref="果不如先愿，又非君所详。" />
+		</sense>
+		<sense tag="形" vernacular="对已经死去的尊长或祖先的尊">
+			<exam article="《出师表》" ref="先帝创业未半而中道崩殂。" />
+		</sense>
+		<sense tag="名" vernacular="祖先">
+			<exam article="《史记·蒙恬列传》" ref="蒙恬者，其先齐人也。" />
+		</sense>
+		<sense tag="名" vernacular="前辈">
+			<exam article="《送东阳马生序》" ref="尝趋百里外从乡之先达执经叩问。" />
+		</sense>
+		<sense tag="副" vernacular="指事情、行为发生之前">
+			<exam article="《生于忧患，死于安乐》" ref="天将降大任于斯人也，必先苦其收志。" />
+		</sense>
+	</pron>
+</character>

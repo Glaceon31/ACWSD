@@ -1,0 +1,17 @@
+<character value="蜕">
+	<introduce>
+		<pinyin value="tui4" writing="tuì" />
+		<bushou value="虫" />
+		<bushoustroke value="6" />
+		<stroke value="13" />
+		<order value="竖折横竖横捺捺撇竖折横撇折" />
+	</introduce>
+	<pron value="tuì">
+		<sense tag="名" vernacular="蛇、蝉等动物脱下的皮">
+			<exam article="《庄子·寓言》" ref="予，蜩甲也，蛇蜕也，似之而非也。" />
+		</sense>
+		<sense tag="动" vernacular="脱去皮壳">
+			<exam article="《史记·屈原列传》" ref="蝉蜕于浊秽。" />
+		</sense>
+	</pron>
+</character>

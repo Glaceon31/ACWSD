@@ -1,0 +1,33 @@
+<character value="候">
+	<introduce>
+		<pinyin value="hou4" writing="hòu" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="撇竖竖折横撇横横撇捺" />
+	</introduce>
+	<pron value="hòu">
+		<sense tag="名" vernacular="五天为一候">
+			<exam article="《素问·藏象论》" ref="五日谓之候,三候谓之气,六气谓之时。" />
+		</sense>
+		<sense tag="名" vernacular="征候;征兆">
+			<exam article="《书洛阳名园记后》" ref="洛阳盛衰,天下治乱之候也。" />
+		</sense>
+		<sense tag="动" vernacular="守望">
+			<exam article="《赤壁之战》" ref="日遣逻吏于水次候望权军。" />
+		</sense>
+		<sense tag="动" vernacular="观测;测验">
+			<exam article="《张衡传》" ref="阳嘉元年,复造候风地动仪。" />
+		</sense>
+		<sense tag="动" vernacular="拜访;问候">
+			<exam article="《左忠毅公逸事》" ref="必躬造左公弟,候太公、太母起居。" />
+		</sense>
+		<sense tag="动" vernacular="等候" />
+	</pron>
+	<phrase value="候道">
+		<sense value="古代边郡侦察敌情筑的路" />
+	</phrase>
+	<phrase value="候楼">
+		<sense value="瞭望所" />
+	</phrase>
+</character>

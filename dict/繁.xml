@@ -1,0 +1,19 @@
+<character value="繁">
+	<introduce>
+		<pinyin value="fan2" writing="fán" />
+		<pinyin value="po2" writing="pó" />
+		<bushou value="糸" />
+		<bushoustroke value="6" />
+		<stroke value="17" />
+		<order value="撇横折折捺横捺撇横撇捺折折捺竖撇捺" />
+	</introduce>
+	<pron value="fán">
+		<sense tag="形" vernacular="多">
+			<exam article="《六国论》" ref="奉之弥繁，侵之愈急。" />
+			<exam article="《谏太守十思疏》" ref="善始者实繁，克终者盖寡。" />
+		</sense>
+		<sense tag="形" vernacular="茂盛">
+			<exam article="《醉翁亭记》" ref="佳木秀而繁阴。" />
+		</sense>
+	</pron>
+</character>

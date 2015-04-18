@@ -1,0 +1,22 @@
+<character value="隧">
+	<introduce>
+		<pinyin value="sui4" writing="suì" />
+		<bushou value="阝" />
+		<bushoustroke value="2" />
+		<stroke value="14" />
+		<order value="折竖捺撇横撇折撇撇撇捺捺折捺" />
+	</introduce>
+	<pron value="suì">
+		<sense tag="名" vernacular="地道">
+			<exam article="《左传·隐公元年》" ref="大隧之中。" />
+		</sense>
+		<sense tag="名" vernacular="通“燧”，烽火台">
+			<exam article="《北征赋》" ref="登障隧而遥望。" />
+		</sense>
+	</pron>
+	<pron value="zhuì">
+		<sense tag="动" vernacular="通“坠”">
+			<exam article="《淮南子·说林》" ref="悬垂之类，有时而隧。" />
+		</sense>
+	</pron>
+</character>

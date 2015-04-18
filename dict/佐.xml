@@ -1,0 +1,26 @@
+<character value="佐">
+	<introduce>
+		<pinyin value="zuo3" writing="zuŏ" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="撇竖横撇横竖横" />
+	</introduce>
+	<pron value="zuǒ">
+		<sense tag="动" vernacular="辅助；帮助">
+			<exam article="《陈涉世家》" ref="陈胜佐之，并杀两尉。" />
+		</sense>
+		<sense tag="名" vernacular="辅助的官员；助手">
+			<exam article="《左传·襄公三十年》" ref="有赵孟以为大夫，有伯瑕以为佐。" />
+		</sense>
+		<sense tag="动" vernacular="劝">
+			<exam article="《国语·晋语》" ref="召之使佐食。" />
+		</sense>
+	</pron>
+	<phrase value="佐酒">
+		<sense value="陪伴饮酒" />
+	</phrase>
+	<phrase value="佐命">
+		<sense value="辅助帝王创立帝业" />
+	</phrase>
+</character>

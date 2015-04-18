@@ -1,0 +1,23 @@
+<character value="弊">
+	<introduce>
+		<pinyin value="bi4" writing="bì" />
+		<bushou value="廾" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="捺撇竖折竖撇捺撇横撇捺横撇竖" />
+	</introduce>
+	<pron value="bì">
+		<sense tag="动" vernacular="败坏">
+			<exam article="《教战守策》" ref="数十年间,甲兵顿弊。" />
+			<exam article="《训俭示康》" ref="风俗颓弊如是。" />
+		</sense>
+		<sense tag="名" vernacular="弊病;害处">
+			<exam article="《六国论》" ref="非兵不利,战不善,弊在赂秦。" />
+			<exam article="《答司马谏议书》" ref="举先王之政,以兴利除弊。" />
+		</sense>
+		<sense tag="形" vernacular="困乏;疲惫">
+			<exam article="《过秦论》" ref="率疲弊之卒,将数百之众。" />
+			<exam article="《出师表》" ref="今天下三分,益州疲弊。" />
+		</sense>
+	</pron>
+</character>

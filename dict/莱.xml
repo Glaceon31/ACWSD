@@ -1,0 +1,24 @@
+<character value="莱">
+	<introduce>
+		<pinyin value="lai2" writing="lái" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖竖横捺撇横竖撇捺" />
+	</introduce>
+	<pron value="lái">
+		<sense tag="名" vernacular="草名，即藜，俗称臙脂菜">
+			<exam article="《诗经·小雅·南山有台》" ref="南山有台，北山有莱。" />
+		</sense>
+		<sense tag="动" vernacular="长满杂草；荒芜">
+			<exam article="《诗经·小雅·十月之交》" ref="田卒汙莱。" />
+		</sense>
+		<sense tag="名" vernacular="休耕的田">
+			<exam article="《周礼·地官·县师》" ref="而辨其夫家人民田莱之数。" />
+		</sense>
+		<sense tag="动" vernacular="除草">
+			<exam article="《周礼·地官·山虞》" ref="若大男猎，则莱山野之草。" />
+		</sense>
+		<sense tag="名" vernacular="古国名，在今山东省" />
+	</pron>
+</character>

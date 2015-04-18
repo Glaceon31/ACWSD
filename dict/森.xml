@@ -1,0 +1,26 @@
+<character value="森">
+	<introduce>
+		<pinyin value="sen1" writing="sēn" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖撇捺横竖撇捺横竖撇捺" />
+	</introduce>
+	<pron value="sēn">
+		<sense tag="形" vernacular="树木高耸茂密的样子">
+			<exam article="《冯婉贞》" ref="去村四里有森林，阴翳蔽日。" />
+		</sense>
+		<sense tag="形" vernacular="众多；繁多">
+			<exam article="《观巴黎油画记》" ref="极目四望，则见城堡、冈峦、溪涧、树林，森然布列。" />
+		</sense>
+		<sense tag="形" vernacular="高耸；峙立">
+			<exam article="《雁荡山》" ref="雁荡诸峰……自岭外望之，都无所见；至谷中则森然干霄。" />
+		</sense>
+		<sense tag="形" vernacular="森严">
+			<exam article="《李潮八分·小篆歌》" ref="况潮小篆逼秦相，快剑长戟森相向。" />
+		</sense>
+		<sense tag="动" vernacular="（因惊惧而毛发）耸起">
+			<exam article="《龙潭》" ref="下有灵物栖，倒影毛发森。" />
+		</sense>
+	</pron>
+</character>

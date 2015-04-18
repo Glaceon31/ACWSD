@@ -1,0 +1,56 @@
+<character value="朝">
+	<introduce>
+		<pinyin value="chao2" writing="cháo" />
+		<pinyin value="zhao1" writing="zhāo" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="12" />
+		<order value="横竖竖折横横横竖撇折横横" />
+	</introduce>
+	<pron value="zhāo">
+		<sense tag="名" vernacular="早晨">
+			<exam article="《岳阳楼记》" ref="朝晖夕阴，气象万千。" />
+		</sense>
+		<sense tag="名" vernacular="一日">
+			<exam article="《孟子·告子》" ref="虽与之天下，不能一朝居也。" />
+		</sense>
+	</pron>
+	<pron value="cháo">
+		<sense tag="动" vernacular="拜见；拜访">
+			<exam article="《史记·项羽本纪》" ref="项羽晨朝上将军宋义。" />
+		</sense>
+		<sense tag="动" vernacular="拜见君主">
+			<exam article="《送东阳马生序》" ref="余朝京师。" />
+		</sense>
+		<sense tag="动" vernacular="受臣下朝见">
+			<exam article="《荀子·尧问》" ref="王朝而有忧色。" />
+		</sense>
+		<sense tag="动" vernacular="归附；朝拜">
+			<exam article="《邹忌讽齐王纳谏》" ref="燕、赵、朝、魏闻之，皆朝于齐。" />
+		</sense>
+		<sense tag="名" vernacular="朝廷">
+			<exam article="《柳敬亭传》" ref="是时朝中皆畏宁南。" />
+		</sense>
+		<sense tag="动" vernacular="上朝">
+			<exam article="《赵威后问齐使》" ref="胡为至今不朝也。" />
+		</sense>
+		<sense tag="名" vernacular="官府的大堂">
+			<exam article="《后汉书·刘宠传》" ref="山谷鄙生，未尝识郡朝。" />
+		</sense>
+		<sense tag="名" vernacular="朝代">
+			<exam article="《陈情表》" ref="逮奉圣朝，沐浴清化。" />
+		</sense>
+	</pron>
+	<phrase value="朝报">
+		<sense value="封建王朝的公报" />
+	</phrase>
+	<phrase value="朝寄">
+		<sense value="朝廷的委托" />
+	</phrase>
+	<phrase value="朝眷">
+		<sense value="皇帝的宠恩" />
+	</phrase>
+	<phrase value="朝列">
+		<sense value="官吏在朝廷的位次" />
+	</phrase>
+</character>

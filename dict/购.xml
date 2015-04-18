@@ -1,0 +1,25 @@
+<character value="购">
+	<introduce>
+		<pinyin value="gou4" writing="gòu" />
+		<bushou value="贝" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="竖折撇捺撇折折捺" />
+	</introduce>
+	<pron value="gòu">
+		<sense tag="动" vernacular="悬赏征求">
+			<exam article="《荆轲刺秦王》" ref="今闻购将军之首，金千斤，邑万家。" />
+			<exam article="《&lt;指南录&gt;后序》" ref="穷饿无聊，追购又急。" />
+		</sense>
+		<sense tag="动" vernacular="买；购买">
+			<exam article="《病梅馆记》" ref="予购三百盆，皆病者，无一完者。" />
+		</sense>
+		<sense tag="动" vernacular="通“媾”，讲和">
+			<exam article="《史记·韩世家》" ref="将西购于秦。" />
+		</sense>
+	</pron>
+	<phrase value="购求">
+		<sense value="悬赏缉捕" />
+		<sense value="买物" />
+	</phrase>
+</character>

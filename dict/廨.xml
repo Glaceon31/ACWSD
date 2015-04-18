@@ -1,0 +1,14 @@
+<character value="廨">
+	<introduce>
+		<pinyin value="xie4" writing="xiè" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="捺横撇撇折竖折横横竖折撇撇横横竖" />
+	</introduce>
+	<pron value="xiè">
+		<sense tag="名" vernacular="官署；官吏办事的地方">
+			<exam article="《陶渊明传》" ref="所住公廨，近于马队。" />
+		</sense>
+	</pron>
+</character>

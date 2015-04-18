@@ -1,0 +1,27 @@
+<character value="层">
+	<introduce>
+		<pinyin value="ceng2" writing="céng" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="折横撇横横折捺" />
+	</introduce>
+	<pron value="céng">
+		<sense tag="形" vernacular="重叠的">
+			<exam article="《滕王阁序》" ref="层峦耸翠，上出重霄。" />
+			<exam article="《梦游天姥吟留别》" ref="熊咆龙吟殷岩泉，深林兮惊层巅。" />
+		</sense>
+		<sense tag="动" vernacular="重复；反复">
+			<exam article="《&lt;指南录&gt;后序》" ref="而境界危恶，层见错出，非人世所堪。" />
+		</sense>
+		<sense tag="量" vernacular="层">
+			<exam article="《登鹳鹊楼》" ref="欲穷千里目，更上一层楼。" />
+		</sense>
+	</pron>
+	<phrase value="层阿">
+		<sense value="重叠的冈岭" />
+	</phrase>
+	<phrase value="层霄">
+		<sense value="天空高远之处" />
+	</phrase>
+</character>

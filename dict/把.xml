@@ -1,0 +1,39 @@
+<character value="把">
+	<introduce>
+		<pinyin value="ba3" writing="bă" />
+		<pinyin value="ba4" writing="bà" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横竖横折竖横折" />
+	</introduce>
+	<pron value="bǎ">
+		<sense tag="动" vernacular="握,持,拿">
+			<exam article="《卖炭翁》" ref="手把文书口称敕。" />
+		</sense>
+		<sense tag="动" vernacular="专权,控制">
+			<exam article="《狱中杂记》" ref="以把持公仓,法应立决。" />
+		</sense>
+		<sense tag="动" vernacular="把守">
+			<exam article="《失街亭》" ref="街亭有兵守把。" />
+		</sense>
+		<sense tag="量" vernacular="《林教头风雪山神庙》：“先去街上买把解腕刀">
+			<exam article="《林教头风雪山神庙》" ref="先去街上买把解腕刀。" />
+		</sense>
+		<sense tag="介" vernacular="将;以">
+			<exam article="《饮湖上初晴后雨》" ref="欲把西湖比西子。" />
+		</sense>
+		<sense tag="动" vernacular="给">
+			<exam article="《范进中举》" ref="都把与你去丢在水里。" />
+		</sense>
+	</pron>
+	<phrase value="把酒">
+		<sense value="手持酒杯" />
+	</phrase>
+	<phrase value="把袂">
+		<sense value="握人手臂,以示亲热" />
+	</phrase>
+	<phrase value="把盏">
+		<sense value="举杯劝酒" />
+	</phrase>
+</character>

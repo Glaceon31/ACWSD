@@ -1,0 +1,27 @@
+<character value="奏">
+	<introduce>
+		<pinyin value="zou4" writing="zòu" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横横横撇捺横横撇捺" />
+	</introduce>
+	<pron value="zòu">
+		<sense tag="动" vernacular="进；运">
+			<exam article="《庖丁解牛》" ref="奏刀騞然，莫不中音。" />
+		</sense>
+		<sense tag="动" vernacular="进献">
+			<exam article="《廉颇蔺相如列传》" ref="相如奉壁奏秦王。" />
+		</sense>
+		<sense tag="动" vernacular="向君王进言或上书">
+			<exam article="《谭嗣同》" ref="君密奏请皇上结以恩遇。" />
+		</sense>
+		<sense tag="名" vernacular="奏章">
+			<exam article="《狱中杂记》" ref="俟封奏时潜易之而已。" />
+		</sense>
+		<sense tag="动" vernacular="演奏">
+			<exam article="《廉颇蔺相如列传》" ref="寡人窃闻赵王好音，请奏瑟。" />
+			<exam article="《滕王阁序》" ref="钟期既遇，奏流水以何惭。" />
+		</sense>
+	</pron>
+</character>

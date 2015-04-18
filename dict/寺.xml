@@ -1,0 +1,28 @@
+<character value="寺">
+	<introduce>
+		<pinyin value="si4" writing="sì" />
+		<bushou value="寸" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="横竖横横竖捺" />
+	</introduce>
+	<pron value="sì">
+		<sense tag="名" vernacular="官署">
+			<exam article="《后汉书·刘般传》" ref="时五校官显职闲，而府寺宽敞。" />
+		</sense>
+		<sense tag="名" vernacular="佛教庙宇">
+			<exam article="《左忠毅公逸事》" ref="一日，风雪严寒，从数骑出，微行入古寺。" />
+		</sense>
+		<sense tag="名" vernacular="宦官">
+			<exam article="《唐语林》" ref="命仆寺辈作乐。" />
+		</sense>
+	</pron>
+	<phrase value="寺人">
+		<sense value="古代宫中供使令的小臣" />
+		<sense value="后来专指宦官" />
+	</phrase>
+	<phrase value="寺舍">
+		<sense value="官舍" />
+		<sense value="僧舍" />
+	</phrase>
+</character>

@@ -1,0 +1,24 @@
+<character value="步">
+	<introduce>
+		<pinyin value="bu4" writing="bù" />
+		<bushou value="止" />
+		<bushoustroke value="4" />
+		<stroke value="7" />
+		<order value="竖横竖横竖撇撇" />
+	</introduce>
+	<pron value="bù">
+		<sense tag="动" vernacular="行走;步行">
+			<exam article="《触龙说赵太后》" ref="乃自强步,日三四里。" />
+		</sense>
+		<sense tag="名" vernacular="两脚各迈一次">
+			<exam article="《劝学》" ref="故不积跬步,无以至千里。" />
+		</sense>
+		<sense tag="名" vernacular="脚步">
+			<exam article="《孔雀东南飞》" ref="纤纤作细步,精妙世无双。" />
+		</sense>
+		<sense tag="名使动" vernacular="让……走上">
+			<exam article="《涉江》" ref="步余马兮山皋,邸余车兮方林。" />
+		</sense>
+		<sense tag="量" vernacular="长度单位" />
+	</pron>
+</character>

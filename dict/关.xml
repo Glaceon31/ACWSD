@@ -1,0 +1,46 @@
+<character value="关">
+	<introduce>
+		<pinyin value="guan1" writing="guān" />
+		<bushou value="丷" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺撇横横撇捺" />
+	</introduce>
+	<pron value="guān">
+		<sense vernacular="〈名&gt;门闩">
+			<exam article="《信陵君窃符救赵》" ref="嬴乃夷门抱关者也。" />
+		</sense>
+		<sense tag="动" vernacular="关门；关闭">
+			<exam article="《归去来兮辞》" ref="门虽设而常关。" />
+		</sense>
+		<sense tag="名" vernacular="门；城门">
+			<exam article="《归嵩山作》" ref="迢递嵩高下，归来且闭关。" />
+			<exam article="《木兰辞》" ref="关山度若飞。" />
+		</sense>
+		<sense tag="名" vernacular="关口；要塞">
+			<exam article="《过秦论》" ref="百万之师，叩关而攻秦。" />
+			<exam article="《鸿门宴》" ref="然不自意能先入关破秦。" />
+		</sense>
+		<sense tag="名" vernacular="关卡；税关">
+			<exam article="《孟子·滕文公》" ref="去关市之征。" />
+		</sense>
+		<sense tag="名" vernacular="关键；机械的发动处">
+			<exam article="《张衡传》" ref="中有都柱，傍行八道，施关发机。" />
+		</sense>
+		<sense tag="动" vernacular="关系；涉及">
+			<exam article="《促织》" ref="故天子一跬步皆关民命，不可忽也。" />
+		</sense>
+		<sense tag="动" vernacular="通“贯”，穿">
+			<exam article="《汉书·王嘉传》" ref="大臣括发关械，裸躬受笞。" />
+		</sense>
+		<sense tag="名" vernacular="关文，平行官府间来往的一种公文">
+			<exam article="《狱中杂记》" ref="其上闻及移关诸部，犹未敢然。" />
+		</sense>
+		<sense tag="名" vernacular="中医切脉部位名">
+			<exam article="《难经》" ref="脉有三部九侯。三部者：寸、关、尺也。" />
+		</sense>
+		<sense vernacular="⑾〈动〉领取；发放">
+			<exam article="《红楼梦》" ref="就一日五斤，每月打总儿关了去。" />
+		</sense>
+	</pron>
+</character>

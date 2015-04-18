@@ -1,0 +1,20 @@
+<character value="臆">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="17" />
+		<order value="撇折横横捺横捺撇横竖折横横捺折捺捺" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="名" vernacular="胸">
+			<exam article="《演连珠》" ref="抚臆论心。" />
+		</sense>
+		<sense tag="动" vernacular="主观想像猜测">
+			<exam article="《石钟山记》" ref="事不目见耳闻，而臆断其有无，可乎？" />
+		</sense>
+	</pron>
+	<phrase value="臆断">
+		<sense value="主观推断" />
+	</phrase>
+</character>

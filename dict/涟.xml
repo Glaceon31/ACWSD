@@ -1,0 +1,17 @@
+<character value="涟">
+	<introduce>
+		<pinyin value="lian2" writing="lián" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺横横折横竖捺折捺" />
+	</introduce>
+	<pron value="lián">
+		<sense tag="名" vernacular="水面细小的波纹；微波">
+			<exam article="《伐檀》" ref="河水清且涟猗。" />
+		</sense>
+		<sense tag="形" vernacular="泪流不断的样子">
+			<exam article="《诗经·氓》" ref="不见复关，泣涕涟涟。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,45 @@
+<character value="回">
+	<introduce>
+		<pinyin value="hui2" writing="huí" />
+		<bushou value="囗" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="竖折竖折横横" />
+	</introduce>
+	<pron value="huí">
+		<sense tag="动" vernacular="旋转；回旋">
+			<exam article="《三峡》" ref="春冬之时，则素湍绿潭，回清倒影。" />
+		</sense>
+		<sense tag="动" vernacular="运转；运行">
+			<exam article="《梦游天姥吟留别》" ref="虎鼓瑟兮鸾回车。" />
+		</sense>
+		<sense tag="动" vernacular="掉转；改变方向">
+			<exam article="《卖炭翁》" ref="手把文书口称敕，回车叱牛牵向北。" />
+		</sense>
+		<sense tag="形" vernacular="回环；曲折">
+			<exam article="《阿房宫赋》" ref="廊腰缦回，檐牙高啄。" />
+		</sense>
+		<sense tag="动" vernacular="返回；回归">
+			<exam article="《回乡偶书》" ref="少小离家老大回。" />
+		</sense>
+		<sense tag="动" vernacular="回复；答复">
+			<exam article="《柳毅传》" ref="脱获回耗，虽死必谢。" />
+		</sense>
+		<sense tag="形" vernacular="奸邪">
+			<exam article="《诗经·小雅·鼓钟》" ref="淑人君子，其德不回。" />
+		</sense>
+		<sense tag="量" vernacular="次">
+			<exam article="《漫兴》" ref="渐老逢春能几回？" />
+		</sense>
+	</pron>
+	<phrase value="回风">
+		<sense value="旋风" />
+	</phrase>
+	<phrase value="回肠">
+		<sense value="心中辗转，比喻离愁不解" />
+	</phrase>
+	<phrase value="回天">
+		<sense value="比喻权势大" />
+		<sense value="古代称皇帝为天，凡能谏止皇帝改变主意的叫回天" />
+	</phrase>
+</character>

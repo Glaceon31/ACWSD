@@ -1,0 +1,23 @@
+<character value="吓">
+	<introduce>
+		<pinyin value="he4" writing="hè" />
+		<pinyin value="xia4" writing="xià" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="竖折横横竖捺" />
+	</introduce>
+	<pron value="hè">
+		<sense tag="名" vernacular="怒叱声">
+			<exam article="《庄子·秋水》" ref="于是鸱得腐鼠，鵷雏过之，仰而视之曰，曰：吓﹗" />
+		</sense>
+		<sense tag="动" vernacular="张开">
+			<exam article="《江赋》" ref="或吓鳃乎岩间。" />
+		</sense>
+	</pron>
+	<pron value="xià">
+		<sense tag="动" vernacular="害怕，使人害怕">
+			<exam article="《桃花扇·哭主》" ref="不料今宵天翻地覆，吓死俺也。" />
+		</sense>
+	</pron>
+</character>

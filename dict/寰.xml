@@ -1,0 +1,17 @@
+<character value="寰">
+	<introduce>
+		<pinyin value="huan2" writing="huán" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="捺捺折竖折竖竖横横竖折横撇折撇捺" />
+	</introduce>
+	<pron value="huán">
+		<sense tag="名" vernacular="靠近国都的地方">
+			<exam article="《谷梁传·隐公元年》" ref="寰内诸侯，非有天子之命，不得出会诸侯。" />
+		</sense>
+		<sense tag="名" vernacular="广大的地域">
+			<exam article="《十渐不克终疏》" ref="道洽寰中，威加海外。" />
+		</sense>
+	</pron>
+</character>

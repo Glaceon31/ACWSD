@@ -1,0 +1,27 @@
+<character value="门">
+	<introduce>
+		<pinyin value="men2" writing="mén" />
+		<bushou value="门" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="捺竖折" />
+	</introduce>
+	<pron value="mén">
+		<sense tag="名" vernacular="房屋及其他建筑物的出入口">
+			<exam article="《项脊轩志》" ref="比去，以手阖门。" />
+		</sense>
+		<sense tag="名" vernacular="家门">
+			<exam article="《廉颇蔺相如列传》" ref="因宾客至蔺相如门谢罪。" />
+		</sense>
+		<sense tag="名" vernacular="做事的方法、途径、关键">
+			<exam article="《商君书·君臣》" ref="臣闻道民之门，在上所先。" />
+		</sense>
+		<sense tag="名" vernacular="家族；派别">
+			<exam article="《三国志·先主传》" ref="汝勿妄语，灭吾门也。" />
+			<exam article="《论衡·问孔》" ref="孔门之徒七十二子，才胜今之儒。" />
+		</sense>
+		<sense tag="名" vernacular="类别；门类">
+			<exam article="《旧唐书·杜佑传》" ref="书凡九门，计二百卷。" />
+		</sense>
+	</pron>
+</character>

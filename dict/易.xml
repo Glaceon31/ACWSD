@@ -1,0 +1,28 @@
+<character value="易">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="日" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="竖折横横撇折撇撇" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="动" vernacular="交换">
+			<exam article="《廉颇蔺相如列传》" ref="秦王以十五城请易寡人之璧。" />
+			<exam article="《论积贮疏》" ref="罢夫羸老易子而咬其骨。" />
+		</sense>
+		<sense tag="动" vernacular="改变；变换">
+			<exam article="《涉江》" ref="阴阳易位，时不当兮。" />
+		</sense>
+		<sense tag="形" vernacular="容易，与“难”相对">
+			<exam article="《滕王阁序》" ref="冯唐易老，李广难封。" />
+			<exam article="《为学》" ref="天下事有难易乎？" />
+		</sense>
+		<sense tag="动" vernacular="轻视">
+			<exam article="《童区寄传》" ref="贼易之，对饮酒，醉。" />
+		</sense>
+		<sense tag="形" vernacular="平坦">
+			<exam article="《李愬雪夜入蔡州》" ref="由是贼中险易远近虚实尽知之。" />
+		</sense>
+	</pron>
+</character>

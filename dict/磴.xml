@@ -1,0 +1,17 @@
+<character value="磴">
+	<introduce>
+		<pinyin value="deng4" writing="dèng" />
+		<bushou value="石" />
+		<bushoustroke value="5" />
+		<stroke value="17" />
+		<order value="横撇竖折横折捺撇撇捺横竖折横捺撇横" />
+	</introduce>
+	<pron value="dèng">
+		<sense tag="名" vernacular="石阶">
+			<exam article="《登泰山记》" ref="道中迷雾冰滑，磴几不可登。" />
+		</sense>
+		<sense tag="名" vernacular="石桥">
+			<exam article="《游天台山赋》" ref="跨穹隆之悬磴，临万丈之绝冥。" />
+		</sense>
+	</pron>
+</character>

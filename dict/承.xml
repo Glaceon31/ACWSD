@@ -1,0 +1,88 @@
+<character value="承">
+	<introduce>
+		<pinyin value="cheng2" writing="chéng" />
+		<bushou value="手" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="折竖横横横折撇捺" />
+	</introduce>
+	<pron value="chéng">
+		<sense tag="动" vernacular="捧着；托着">
+			<exam article="《登泰山记》" ref="日上正赤如丹，下有红光动摇承之。" />
+		</sense>
+		<sense tag="动" vernacular="承受；承接">
+			<exam article="《滕王阁序》" ref="临别赠言，幸承恩于伟饯。" />
+			<exam article="《谏太宗十思疏》" ref="凡百元首，承天景命。" />
+		</sense>
+		<sense tag="动" vernacular="承担">
+			<exam article="《狱中杂记》" ref="其乡人有杀人者，因代承之。" />
+		</sense>
+		<sense tag="动" vernacular="继承；继续">
+			<exam article="《孔雀东南飞》" ref="说有兰家女，承籍有宦官。" />
+		</sense>
+		<sense tag="动" vernacular="连接">
+			<exam article="《涉江》" ref="霰雪纷其无垠兮，云菲菲而承宇。" />
+		</sense>
+		<sense tag="名" vernacular="接连的次第；位次">
+			<exam article="《左传·昭公十三年》" ref="及盟，子产争承。" />
+		</sense>
+		<sense tag="动" vernacular="承认">
+			<exam article="《陈州粜米》" ref="拿到阶庭取下招承。" />
+		</sense>
+	</pron>
+	<phrase value="承乏">
+		<sense value="谦辞" />
+		<sense value="表示所任职因没有适当人选，暂由自己充数" />
+	</phrase>
+	<phrase value="承风">
+		<sense value="接受教化" />
+	</phrase>
+	<phrase value="承欢">
+		<sense value="1" />
+		<sense value="迎合别人的意旨，博取欢心" />
+	</phrase>
+	<phrase value="承教">
+		<sense value="受教，接受教令" />
+	</phrase>
+	<phrase value="承接">
+		<sense value="应酬，交际" />
+	</phrase>
+	<phrase value="承藉">
+		<sense value="1" />
+		<sense value="凭藉" />
+	</phrase>
+	<phrase value="承平">
+		<sense value="太平，治平相承" />
+	</phrase>
+	<phrase value="承前">
+		<sense value="1" />
+		<sense value="继承前者，如前" />
+		<sense value="2" />
+		<sense value="以前" />
+	</phrase>
+	<phrase value="承祀">
+		<sense value="承奉祭祀，指继帝位" />
+	</phrase>
+	<phrase value="承袭">
+		<sense value="继承；沿袭" />
+	</phrase>
+	<phrase value="承颜">
+		<sense value="1" />
+		<sense value="顺从他人的脸色" />
+		<sense value="多指侍奉尊长" />
+		<sense value="2" />
+		<sense value="言幸得见面" />
+	</phrase>
+	<phrase value="承运">
+		<sense value="秉承王命" />
+		<sense value="古代帝王自称受命于天，因用为称颂帝王的套语" />
+	</phrase>
+	<phrase value="承旨">
+		<sense value="1" />
+		<sense value="逢迎意旨" />
+	</phrase>
+	<phrase value="承制">
+		<sense value="1" />
+		<sense value="秉承皇帝旨意而便宜行事" />
+	</phrase>
+</character>

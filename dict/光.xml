@@ -1,0 +1,42 @@
+<character value="光">
+	<introduce>
+		<pinyin value="guang1" writing="guāng" />
+		<bushou value="儿" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="竖捺撇横撇折" />
+	</introduce>
+	<pron value="guāng">
+		<sense tag="名" vernacular="光芒；光亮">
+			<exam article="《静夜思》" ref="床前明月光。" />
+			<exam article="《桃花源记》" ref="山有小口，仿佛若有光。" />
+		</sense>
+		<sense tag="动" vernacular="发光">
+			<exam article="《涉江》" ref="与天地兮比寿，与日月兮齐光。" />
+		</sense>
+		<sense tag="动" vernacular="照耀">
+			<exam article="《尚书·洛诰》" ref="惟公德明光于上下。" />
+		</sense>
+		<sense tag="名" vernacular="光彩">
+			<exam article="《孔雀东南飞》" ref="葳蕤自生光。" />
+		</sense>
+		<sense tag="形" vernacular="明亮">
+			<exam article="《周易·大畜》" ref="刚健笃实辉光。" />
+		</sense>
+		<sense tag="名" vernacular="光荣；荣耀">
+			<exam article="《报任安书》" ref="以为宗族交游光宠。" />
+		</sense>
+		<sense tag="名" vernacular="光景；景色">
+			<exam article="《阿房宫赋》" ref="歌台暖响，春光融融。" />
+		</sense>
+		<sense tag="名" vernacular="时光；时间">
+			<exam article="《祭妹文》" ref="虽年光倒流，儿时可再，而亦无与印证者矣。" />
+		</sense>
+		<sense tag="动" vernacular="发扬光大">
+			<exam article="《出师表》" ref="以光先帝之遗德。" />
+		</sense>
+		<sense tag="形" vernacular="物体表面平滑">
+			<exam article="《进学解》" ref="刮垢磨光。" />
+		</sense>
+	</pron>
+</character>

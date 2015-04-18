@@ -1,0 +1,26 @@
+<character value="辚">
+	<introduce>
+		<pinyin value="lin2" writing="lín" />
+		<bushou value="车" />
+		<bushoustroke value="4" />
+		<stroke value="16" />
+		<order value="横折竖横捺撇横竖撇捺撇折捺横折竖" />
+	</introduce>
+	<pron value="lín">
+		<sense tag="名" vernacular="车轮">
+			<exam article="《仪礼·既夕礼》" ref="迁于祖用轴" />
+		</sense>
+		<sense tag="象" vernacular="车子行走的声音">
+			<exam article="《东京赋》" ref="肃肃习习，隐隐辚辚。" />
+			<exam article="《兵车行》" ref="车辚辚，马萧萧。" />
+		</sense>
+		<sense tag="名" vernacular="门槛">
+			<exam article="《淮南子·说林》" ref="虽欲谨，亡马不发户辚。" />
+		</sense>
+	</pron>
+	<pron value="lìn">
+		<sense tag="动" vernacular="车轮碾轧">
+			<exam article="《汉书·廉范传》" ref="虏自相辚藉，死者千余人。" />
+		</sense>
+	</pron>
+</character>

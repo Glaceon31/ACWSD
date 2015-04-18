@@ -1,0 +1,39 @@
+<character value="士">
+	<introduce>
+		<pinyin value="shi4" writing="shì" />
+		<bushou value="士" />
+		<bushoustroke value="3" />
+		<stroke value="3" />
+		<order value="横竖横" />
+	</introduce>
+	<pron value="shì">
+		<sense tag="名" vernacular="男子">
+			<exam article="《信陵君窃符救赵》" ref="此人力士。" />
+		</sense>
+		<sense tag="名" vernacular="古代奴隶主贵族阶级的最低层">
+			<exam article="《国语·晋语》" ref="大夫食邑，士食田。" />
+		</sense>
+		<sense tag="名" vernacular="泛指一般官吏">
+			<exam article="《&lt;指南录&gt;后序》" ref="缙绅、大夫、士萃于左丞相府。" />
+		</sense>
+		<sense tag="名" vernacular="有知识技能或道德品行的确">
+			<exam article="《桃花源记》" ref="南阳刘子骥，高尚士也。" />
+		</sense>
+		<sense tag="名" vernacular="读书人">
+			<exam article="《论语》" ref="士不可以不弘毅，任重而道远。" />
+		</sense>
+		<sense tag="名" vernacular="战士；士兵">
+			<exam article="《鸿门宴》" ref="旦日飨士卒，为击破沛公军。" />
+		</sense>
+		<sense tag="名" vernacular="执法官；狱官">
+			<exam article="《生于忧患，死于安乐》" ref="管夷吾于士。" />
+		</sense>
+	</pron>
+	<phrase value="士大夫">
+		<sense value="士和大夫" />
+		<sense value="特指有声望、有地位的读书人" />
+	</phrase>
+	<phrase value="士林">
+		<sense value="知识界" />
+	</phrase>
+</character>

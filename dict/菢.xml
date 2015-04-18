@@ -1,0 +1,14 @@
+<character value="菢">
+	<introduce>
+		<pinyin value="bao4" writing="bào" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖竖横竖横撇折折横折" />
+	</introduce>
+	<pron value="bào">
+		<sense tag="动" vernacular="孵，禽鸟伏卵">
+			<exam article="《荐士》" ref="鹤翎不天生，变化在啄菢。" />
+		</sense>
+	</pron>
+</character>

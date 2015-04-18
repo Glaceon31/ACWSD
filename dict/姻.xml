@@ -1,0 +1,23 @@
+<character value="姻">
+	<introduce>
+		<pinyin value="yin1" writing="yīn" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="折撇横竖折横撇捺横" />
+	</introduce>
+	<pron value="yīn">
+		<sense tag="名" vernacular="女婿的父亲">
+			<exam article="《左传·定公十年》" ref="荀寅，范吉射之姻也。" />
+		</sense>
+		<sense tag="名" vernacular="婚姻">
+			<exam article="《后汉书·戴良传》" ref="每有求姻，辄便许嫁。" />
+		</sense>
+	</pron>
+	<phrase value="姻故">
+		<sense value="亲戚故旧" />
+	</phrase>
+	<phrase value="姻亲">
+		<sense value="因为婚姻关系结成的亲戚" />
+	</phrase>
+</character>

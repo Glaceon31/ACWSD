@@ -1,0 +1,20 @@
+<character value="辙">
+	<introduce>
+		<pinyin value="zhe2" writing="zhé" />
+		<bushou value="车" />
+		<bushoustroke value="4" />
+		<stroke value="16" />
+		<order value="横折竖横捺横折捺竖折横横撇横撇捺" />
+	</introduce>
+	<pron value="zhé">
+		<sense tag="名" vernacular="车轮压出来的痕迹">
+			<exam article="《曹刿论战》" ref="下视其辙。" />
+		</sense>
+		<sense tag="名" vernacular="车辆行驰的路线">
+			<exam article="《赠白马王彪》" ref="改辙登高岗。" />
+		</sense>
+		<sense tag="名" vernacular="车辆">
+			<exam article="《&lt;指南录&gt;后序》" ref="会使辙交驰，北邀当国者相见。" />
+		</sense>
+	</pron>
+</character>

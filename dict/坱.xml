@@ -1,0 +1,16 @@
+<character value="坱">
+	<introduce>
+		<pinyin value="yang1" writing="yāng" />
+		<bushou value="土" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横竖折横撇捺" />
+	</introduce>
+	<pron value="yǎng">
+		<sense tag="名" vernacular="尘埃" />
+		<sense vernacular="见“坱圠”" />
+	</pron>
+	<phrase value="坱圠">
+		<sense value="茫茫无边际的样子" />
+	</phrase>
+</character>

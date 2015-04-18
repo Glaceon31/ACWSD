@@ -1,0 +1,20 @@
+<character value="恭">
+	<introduce>
+		<pinyin value="gong1" writing="gōng" />
+		<bushou value="小" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖竖横撇捺竖捺捺捺" />
+	</introduce>
+	<pron value="gōng">
+		<sense tag="形" vernacular="容貌端庄严肃；谦逊有礼">
+			<exam article="《信陵君窃符救赵》" ref="故久立公子车骑市中，过客，以观公子，公子愈恭。" />
+			<exam article="《谏太宗十思疏》" ref="终苟免而不怀仁，貌恭而不心服。" />
+		</sense>
+	</pron>
+	<phrase value="恭人">
+		<sense value="宽和谦恭之人" />
+		<sense value="贵妇人的封号" />
+		<sense value="宋元时期对官吏之妻的敬称" />
+	</phrase>
+</character>

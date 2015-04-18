@@ -1,0 +1,41 @@
+<character value="接">
+	<introduce>
+		<pinyin value="jie1" writing="jiē" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="横竖横捺横捺撇横折撇横" />
+	</introduce>
+	<pron value="jiē">
+		<sense tag="动" vernacular="接触；交接">
+			<exam article="《寡人之于国也》" ref="填然鼓之，兵刃既接，弃甲曳兵而走。" />
+		</sense>
+		<sense tag="动" vernacular="连接；毗连">
+			<exam article="《赤壁之战》" ref="操军方连船舰，首尾相接。" />
+		</sense>
+		<sense tag="动" vernacular="接待；交际">
+			<exam article="《屈原列传》" ref="出则接遇宾客，应对诸侯。" />
+		</sense>
+		<sense tag="动" vernacular="迎接">
+			<exam article="《宣和遗事·前集》" ref="笙箫细乐，却安排接驾。" />
+		</sense>
+		<sense tag="动" vernacular="接应；援接">
+			<exam article="《游黄山记》" ref="每至手足无可着处，澄源必先登垂接。" />
+		</sense>
+		<sense tag="动" vernacular="达到">
+			<exam article="《滕王阁序》" ref="北海虽赊，扶摇可接。" />
+		</sense>
+		<sense tag="动" vernacular="承接">
+			<exam article="《史记·平准书》" ref="汉兴，接秦之弊。" />
+		</sense>
+		<sense tag="动" vernacular="捆绑；束缚">
+			<exam article="《童区寄传》" ref="二豪贼劫持，反接，布囊其口。" />
+		</sense>
+		<sense tag="动" vernacular="对飞驰的东西迎面射击；射中">
+			<exam article="《白马篇》" ref="仰手接飞猱，俯身散马蹄。" />
+		</sense>
+		<sense tag="动" vernacular="标明">
+			<exam article="《墨池记》" ref="教授王君盛恐其不章也，书‘晋王右军墨池’之六字于楹间以接之。" />
+		</sense>
+	</pron>
+</character>

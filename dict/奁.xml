@@ -1,0 +1,17 @@
+<character value="奁">
+	<introduce>
+		<pinyin value="lian2" writing="lián" />
+		<bushou value="大" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横撇捺横撇捺折" />
+	</introduce>
+	<pron value="lián">
+		<sense tag="名" vernacular="古代妇女梳妆用的镜匣和盛其他化妆品的器皿">
+			<exam article="《后汉书·皇后纪上》" ref="视太后镜奁中物。" />
+		</sense>
+		<sense tag="名" vernacular="精巧的匣子">
+			<exam article="《宋书·范晔传》" ref="义康饷熙先铜匕、铜镊、袍段、棋奁等物。" />
+		</sense>
+	</pron>
+</character>

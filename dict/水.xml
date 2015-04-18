@@ -1,0 +1,23 @@
+<character value="水">
+	<introduce>
+		<pinyin value="shui3" writing="shuĭ" />
+		<bushou value="水" />
+		<bushoustroke value="4" />
+		<stroke value="4" />
+		<order value="竖折撇捺" />
+	</introduce>
+	<pron value="shuǐ">
+		<sense tag="名" vernacular="水">
+			<exam article="《劝学》" ref="冰，水为之，而寒于水。" />
+		</sense>
+		<sense tag="名" vernacular="河流">
+			<exam article="《登泰山记》" ref="泰山之阳，汶水西流。" />
+		</sense>
+		<sense tag="名" vernacular="泛指水域">
+			<exam article="《赤壁之战》" ref="刘备、周瑜水陆并进，追操至南郡。" />
+		</sense>
+		<sense tag="名" vernacular="水灾">
+			<exam article="《女娲补天》" ref="水浩洋而不息。" />
+		</sense>
+	</pron>
+</character>

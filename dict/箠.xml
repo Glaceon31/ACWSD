@@ -1,0 +1,18 @@
+<character value="箠">
+	<introduce>
+		<pinyin value="chui2" writing="chuí" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="撇横捺撇横捺撇横竖横竖竖横横" />
+	</introduce>
+	<pron value="chuí">
+		<sense tag="名" vernacular="鞭子">
+			<exam article="《列子·杨朱》" ref="百羊而群，使五尺童子荷箠而随之。" />
+		</sense>
+		<sense tag="动" vernacular="用棍打，杖刑">
+			<exam article="《订鬼》" ref="持箠杖殴击之。" />
+			<exam article="《董宣执法》" ref="召宣，欲箠杀之。" />
+		</sense>
+	</pron>
+</character>

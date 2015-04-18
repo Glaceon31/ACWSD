@@ -1,0 +1,17 @@
+<character value="釜">
+	<introduce>
+		<pinyin value="fu3" writing="fŭ" />
+		<bushou value="金" />
+		<bushoustroke value="8" />
+		<stroke value="10" />
+		<order value="撇捺撇捺横横竖捺撇横" />
+	</introduce>
+	<pron value="fǔ">
+		<sense tag="名" vernacular="一种锅">
+			<exam article="《七步诗》" ref="萁在釜下燃。" />
+		</sense>
+		<sense tag="量" vernacular="古代的容量单位，六斗四升为一釜">
+			<exam article="《左传·昭公三年》" ref="齐旧四量：豆、区、釜、钟。" />
+		</sense>
+	</pron>
+</character>

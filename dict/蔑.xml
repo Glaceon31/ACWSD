@@ -1,0 +1,20 @@
+<character value="蔑">
+	<introduce>
+		<pinyin value="mie4" writing="miè" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="14" />
+		<order value="横竖竖竖折竖竖横横撇捺折撇捺" />
+	</introduce>
+	<pron value="miè">
+		<sense tag="动" vernacular="无视；瞧不起">
+			<exam article="《韩非子·外储说左上》" ref="吾闻宋君无道，蔑侮长老。" />
+		</sense>
+		<sense tag="动" vernacular="无；没有">
+			<exam article="《左传·僖公十年》" ref="臣出晋君，君纳重耳，蔑不济矣。" />
+		</sense>
+		<sense tag="形" vernacular="微小">
+			<exam article="《法言·子行》" ref="视日月而知众星之蔑也。" />
+		</sense>
+	</pron>
+</character>

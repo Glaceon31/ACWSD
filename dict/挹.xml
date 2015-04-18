@@ -1,0 +1,26 @@
+<character value="挹">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖横竖折横折竖横折" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="动" vernacular="舀；把液体盛出来">
+			<exam article="《诗经·大雅·泂酌》" ref="挹彼注兹。" />
+		</sense>
+		<sense tag="动" vernacular="牵；拉">
+			<exam article="《游仙诗》" ref="左挹浮丘袖，右拍洪崖肩。" />
+		</sense>
+		<sense tag="动" vernacular="通“抑”">
+			<exam article="《汉书·杜邺传》" ref="钦欲挹损凤权。" />
+		</sense>
+		<sense tag="动" vernacular="通“揖”">
+			<exam article="《荀子·议兵》" ref="拱挹指麾。" />
+		</sense>
+	</pron>
+	<phrase value="挹退">
+		<sense value="谦让" />
+	</phrase>
+</character>

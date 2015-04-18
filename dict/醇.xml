@@ -1,0 +1,20 @@
+<character value="醇">
+	<introduce>
+		<pinyin value="chun2" writing="chún" />
+		<bushou value="酉" />
+		<bushoustroke value="7" />
+		<stroke value="15" />
+		<order value="横竖折撇折横横捺横竖折横折竖横" />
+	</introduce>
+	<pron value="chún">
+		<sense tag="形" vernacular="酒味厚，纯">
+			<exam article="《后汉书·仲长统传》" ref="清醇之酎，败而不可饮。" />
+		</sense>
+		<sense tag="形" vernacular="通“淳”">
+			<exam article="《汉书·景帝纪》" ref="黎民醇厚。" />
+		</sense>
+		<sense tag="形" vernacular="通“纯”">
+			<exam article="《汉书·食货志》" ref="自天子不能具醇驷。" />
+		</sense>
+	</pron>
+</character>

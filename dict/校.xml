@@ -1,0 +1,33 @@
+<character value="校">
+	<introduce>
+		<pinyin value="xiao4" writing="xiào" />
+		<pinyin value="jiao4" writing="jiào" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="横竖撇捺捺横撇捺撇捺" />
+	</introduce>
+	<pron value="xiào">
+		<sense tag="名" vernacular="学校">
+			<exam article="《孟子·滕文公上》" ref="夏曰校，殷曰序，周曰庠。学则三代共之。" />
+		</sense>
+		<sense tag="名" vernacular="古代军营名称">
+			<exam article="《汉书·卫青传》" ref="校者，营垒之际，故谓军之一部为一。" />
+		</sense>
+	</pron>
+	<pron value="jiào">
+		<sense tag="名" vernacular="古代囚具，即“枷”" />
+		<sense tag="动" vernacular="较量；计较">
+			<exam article="《论语·泰伯》" ref="有若无，实若虚，犯而不校。" />
+		</sense>
+		<sense tag="动" vernacular="称量">
+			<exam article="《以船称象》" ref="称物以载之，则不校可知矣。" />
+		</sense>
+		<sense tag="动" vernacular="查对；核计">
+			<exam article="《史记·平准书》" ref="京师之钱累百巨万，贯朽而不可校。" />
+		</sense>
+	</pron>
+	<phrase value="校场">
+		<sense value="操场或比武的场地" />
+	</phrase>
+</character>

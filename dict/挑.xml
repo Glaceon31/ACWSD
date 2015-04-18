@@ -1,0 +1,24 @@
+<character value="挑">
+	<introduce>
+		<pinyin value="tiao3" writing="tiăo" />
+		<pinyin value="tiao1" writing="tiāo" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横撇捺横折撇捺" />
+	</introduce>
+	<pron value="tiǎo">
+		<sense tag="动" vernacular="拨；拨动">
+			<exam article="《破阵子·为陈同父赋壮语以寄》" ref="醉里挑灯看剑。" />
+		</sense>
+		<sense tag="动" vernacular="挑逗；引诱">
+			<exam article="《史记·项羽本纪》" ref="乃披甲持戟挑战。" />
+			<exam article="《史记·司马相如列传》" ref="以琴心挑之。" />
+		</sense>
+	</pron>
+	<pron value="tiāo">
+		<sense tag="动" vernacular="担；挑">
+			<exam article="《自题传神》" ref="担挑双草屦，壁倚一乌藤。" />
+		</sense>
+	</pron>
+</character>

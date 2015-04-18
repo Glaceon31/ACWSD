@@ -1,0 +1,14 @@
+<character value="湄">
+	<introduce>
+		<pinyin value="mei2" writing="méi" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺横折竖横撇竖折横横横" />
+	</introduce>
+	<pron value="méi">
+		<sense tag="名" vernacular="岸边水草相接处">
+			<exam article="《诗经·秦风·蒹葭》" ref="所谓伊人，在水之湄。" />
+		</sense>
+	</pron>
+</character>

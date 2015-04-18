@@ -1,0 +1,23 @@
+<character value="廛">
+	<introduce>
+		<pinyin value="chan2" writing="chán" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="捺横撇竖折横横竖横横撇捺横竖横" />
+	</introduce>
+	<pron value="chán">
+		<sense tag="名" vernacular="古代一户人家在城邑的房地，为二亩半">
+			<exam article="《孟子·滕文公上》" ref="远方之人闻君行仁政，愿受一廛而为氓。" />
+		</sense>
+		<sense tag="名" vernacular="泛指居民的房地、房屋">
+			<exam article="《治平篇》" ref="隙地未尽辟，闲廛未尽居也。" />
+		</sense>
+		<sense tag="名" vernacular="货栈；店铺">
+			<exam article="《魏都赋》" ref="廓三市而开廛。" />
+		</sense>
+		<sense tag="量" vernacular="通“缠”">
+			<exam article="《伐檀》" ref="胡取禾三百廛兮！" />
+		</sense>
+	</pron>
+</character>

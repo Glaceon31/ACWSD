@@ -1,0 +1,31 @@
+<character value="辅">
+	<introduce>
+		<pinyin value="fu3" writing="fŭ" />
+		<bushou value="车" />
+		<bushoustroke value="4" />
+		<stroke value="11" />
+		<order value="横折竖横横竖折横横竖捺" />
+	</introduce>
+	<pron value="fǔ">
+		<sense tag="名" vernacular="绑在车轮外的两根直木">
+			<exam article="《诗经·正月》" ref="其车既载，乃弃尔辅。" />
+		</sense>
+		<sense tag="名" vernacular="腮；面颊">
+			<exam article="《进叔》" ref="小儿丰颊辅。" />
+		</sense>
+		<sense tag="动" vernacular="辅佐；协助">
+			<exam article="《谋攻》" ref="夫将者，国之辅也。" />
+			<exam article="《送杜少府之任蜀州》" ref="城阙辅三秦。" />
+		</sense>
+		<sense tag="名" vernacular="古代指京城附近的地方">
+			<exam article="《张衡传》" ref="衡少善属文，游于三辅。" />
+		</sense>
+	</pron>
+	<phrase value="辅车">
+		<sense value="颊骨与牙床" />
+		<sense value="比喻相互依存的事物" />
+	</phrase>
+	<phrase value="辅行">
+		<sense value="副使" />
+	</phrase>
+</character>

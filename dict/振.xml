@@ -1,0 +1,35 @@
+<character value="振">
+	<introduce>
+		<pinyin value="zhen4" writing="zhèn" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖横横撇横横折撇捺" />
+	</introduce>
+	<pron value="zhèn">
+		<sense tag="动" vernacular="举；举起">
+			<exam article="《过秦论》" ref="振长策而御宇内。" />
+		</sense>
+		<sense tag="动" vernacular="抖动">
+			<exam article="《屈原列传》" ref="新浴者必振衣。" />
+		</sense>
+		<sense tag="动" vernacular="奋起；振作">
+			<exam article="《教战守策》" ref="痿蹶而不复振。" />
+		</sense>
+		<sense tag="动" vernacular="整顿">
+			<exam article="《史记·主父偃传》" ref="诸侯春振旅，秋治兵，所以不忘战也。" />
+		</sense>
+		<sense tag="动" vernacular="通“赈”，救济">
+			<exam article="《论积贮疏》" ref="大命将泛，莫之振救。" />
+		</sense>
+		<sense tag="动" vernacular="通“震”，震动">
+			<exam article="《张衡传》" ref="如有地动，尊则振龙。" />
+		</sense>
+		<sense tag="形" vernacular="通“震”，惊恐">
+			<exam article="《荆轲刺秦王》" ref="秦武阳色变振恐。" />
+		</sense>
+		<sense tag="动" vernacular="通“震”，威吓">
+			<exam article="《谏太宗十思疏》" ref="振之以威怒。" />
+		</sense>
+	</pron>
+</character>

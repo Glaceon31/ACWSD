@@ -1,0 +1,46 @@
+<character value="冲">
+	<introduce>
+		<pinyin value="chong1" writing="chōng" />
+		<pinyin value="chong4" writing="chòng" />
+		<bushou value="冫" />
+		<bushoustroke value="2" />
+		<stroke value="6" />
+		<order value="捺横竖折横竖" />
+	</introduce>
+	<pron value="chōng">
+		<sense tag="动" vernacular="向上冲">
+			<exam article="《廉颇蔺相如列传》" ref="相如因持璧却立，倚柱，怒发上冲冠。" />
+		</sense>
+		<sense tag="形" vernacular="虚；空虚">
+			<exam article="《老子》" ref="大盈若冲，其用不穷。" />
+		</sense>
+		<sense tag="形" vernacular="谦虚">
+			<exam article="《谏太宗十思疏》" ref="念高危则思谦冲而自牧。" />
+		</sense>
+		<sense tag="名" vernacular="交通要道">
+			<exam article="《失街亭》" ref="今令汝接应街亭，当阳平关冲要道路，总守汉中咽喉。" />
+		</sense>
+		<sense tag="动" vernacular="快速向前冲">
+			<exam article="《雁荡山》" ref="原其理，当是为谷中大水冲激，沙土尽去。" />
+		</sense>
+		<sense tag="动" vernacular="碰撞；冲击">
+			<exam article="《黔之驴》" ref="稍近，益狎，荡倚冲冒。" />
+		</sense>
+		<sense tag="动" vernacular="侵袭；侵犯">
+			<exam article="《教战守策》" ref="其筋骸之所冲犯。" />
+		</sense>
+		<sense vernacular="以后各义属“衝”，今简化为“冲”" />
+	</pron>
+	<phrase value="冲冲">
+		<sense value="1" />
+		<sense value="凿冰声" />
+		<sense value="2" />
+		<sense value="感情激动的样子" />
+	</phrase>
+	<phrase value="冲喜">
+		<sense value="旧时迷信，在家里人病重时办喜事，借以破解不祥" />
+	</phrase>
+	<phrase value="冲要">
+		<sense value="军事或交通上的重要之地" />
+	</phrase>
+</character>

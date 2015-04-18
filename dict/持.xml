@@ -1,0 +1,72 @@
+<character value="持">
+	<introduce>
+		<pinyin value="chi2" writing="chí" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横横竖横横竖捺" />
+	</introduce>
+	<pron value="chí">
+		<sense tag="动" vernacular="拿着；握着；抓着">
+			<exam article="《狼》" ref="屠乃奔倚其下，驰担持刀。" />
+		</sense>
+		<sense tag="动" vernacular="">
+			<exam article="《段太尉逸事状》" ref="选老躄者一人持马。" />
+		</sense>
+		<sense tag="动" vernacular="把持，掌握">
+			<exam article="《狱中杂记》" ref="有某姓兄弟，以把持公仓，法应立决。" />
+		</sense>
+		<sense tag="动" vernacular="操持，治理">
+			<exam article="《察今》" ref="悖乱不可以持国。" />
+		</sense>
+		<sense tag="动" vernacular="扶持">
+			<exam article="《柳毅传》" ref="毅恐蹶仆地，君亲起持之曰：‘无惧。’" />
+		</sense>
+		<sense tag="动" vernacular="保持，维持">
+			<exam article="《苏武》" ref="使决人死生，不平心持正，反欲斗两主，观祸败。" />
+		</sense>
+		<sense tag="动" vernacular="抱着，坚持">
+			<exam article="《赤壁之战》" ref="诸人持议，甚失孤望。" />
+		</sense>
+		<sense tag="动" vernacular="携带，带着">
+			<exam article="《西门豹治邺》" ref="以故多持女远逃亡。" />
+		</sense>
+		<sense tag="动" vernacular="控制，挟持">
+			<exam article="《童区寄传》" ref="二豪贼劫持，反接，布囊其口。" />
+		</sense>
+		<sense tag="动" vernacular="对立，对峙">
+			<exam article="《赤壁之战》" ref="今寇众我寡，难与持久。" />
+		</sense>
+	</pron>
+	<phrase value="持操">
+		<sense value="保持气节操守" />
+	</phrase>
+	<phrase value="持衡">
+		<sense value="1" />
+		<sense value="用秤称物" />
+	</phrase>
+	<phrase value="持衡拥璇">
+		<sense value="比喻掌握国家权柄" />
+		<sense value="衡、璇，北斗七星中二星名" />
+	</phrase>
+	<phrase value="持寄">
+		<sense value="以物寄赠友人" />
+	</phrase>
+	<phrase value="持两端">
+		<sense value="动摇不定，怀有二心" />
+	</phrase>
+	<phrase value="持禄养交">
+		<sense value="结交权贵以保持禄位" />
+	</phrase>
+	<phrase value="持平">
+		<sense value="主持公道，不偏袒任何一方" />
+	</phrase>
+	<phrase value="持衰">
+		<sense value="不梳洗，不吃肉，不近女色" />
+	</phrase>
+	<phrase value="持重">
+		<sense value="1" />
+		<sense value="掌握重权" />
+		<sense value="《史记·魏其武安侯列传》：“魏其者，沾沾自喜耳，多易" />
+	</phrase>
+</character>

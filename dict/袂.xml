@@ -1,0 +1,14 @@
+<character value="袂">
+	<introduce>
+		<pinyin value="mei4" writing="mèi" />
+		<bushou value="衤" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="捺折竖撇捺折横撇捺" />
+	</introduce>
+	<pron value="mèi">
+		<sense tag="名" vernacular="衣袖">
+			<exam article="《书博鸡者事》" ref="第为上者不能察，使匹夫攘袂群起以伸其愤。" />
+		</sense>
+	</pron>
+</character>

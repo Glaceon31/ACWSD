@@ -1,0 +1,59 @@
+<character value="采">
+	<introduce>
+		<pinyin value="cai3" writing="căi" />
+		<pinyin value="cai4" writing="cài" />
+		<bushou value="采" />
+		<bushoustroke value="7" />
+		<stroke value="8" />
+		<order value="撇捺捺撇横竖撇捺" />
+	</introduce>
+	<pron value="cǎi">
+		<sense tag="动" vernacular="摘取">
+			<exam article="《陌上桑》" ref="罗敷善蚕桑，采桑城南隅。" />
+			<exam article="《采草药》" ref="用实者成实时采。" />
+		</sense>
+		<sense tag="动" vernacular="采取；选择">
+			<exam article="《史记·秦始皇本纪》" ref="采上古帝位号，号曰：‘皇帝’。" />
+		</sense>
+		<sense tag="名" vernacular="色彩，又写作“彩”">
+			<exam article="《鸿门宴》" ref="吾令人望其气，皆为龙虎，成五采。" />
+		</sense>
+		<sense tag="名" vernacular="彩色丝织品">
+			<exam article="《论贵粟疏》" ref="衣必文采，食必梁肉。" />
+		</sense>
+		<sense tag="名" vernacular="文章的词藻">
+			<exam article="《答韦中立论师道书》" ref="乃知文者以明道，是固不苟为炳炳烺烺，务采色，夸声音。" />
+		</sense>
+		<sense tag="名" vernacular="神态">
+			<exam article="《白马篇》" ref="酒后竞风采，三怀弄宝刀。" />
+		</sense>
+		<sense tag="名" vernacular="术名">
+			<exam article="《五蠹》" ref="茅茨不翦，采椽不斫。" />
+		</sense>
+	</pron>
+	<pron value="cài">
+		<sense tag="名" vernacular="古代卿大夫的封地">
+			<exam article="《礼记·礼运》" ref="大夫有采，以处其子孙。" />
+		</sense>
+	</pron>
+	<phrase value="采服">
+		<sense value="1" />
+		<sense value="古九服之一" />
+		<sense value="相传古代京畿以外地区按远近分为九等，叫九服" />
+	</phrase>
+	<phrase value="采纳">
+		<sense value="采取吸收；选用" />
+	</phrase>
+	<phrase value="采撷">
+		<sense value="采摘；采集" />
+	</phrase>
+	<phrase value="采薪之忧">
+		<sense value="疾病的婉辞" />
+	</phrase>
+	<phrase value="采摭">
+		<sense value="搜集拾取" />
+	</phrase>
+	<phrase value="采邑">
+		<sense value="卿大夫的封邑" />
+	</phrase>
+</character>

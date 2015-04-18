@@ -1,0 +1,15 @@
+<character value="沁">
+	<introduce>
+		<pinyin value="qin4" writing="qìn" />
+		<pinyin value="shen4" writing="shèn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺横捺折捺捺" />
+	</introduce>
+	<pron value="qìn">
+		<sense tag="动" vernacular="浸，渗入">
+			<exam article="《咏竹》" ref="醉卧凉阴沁骨清，石床冰簟梦难成。" />
+		</sense>
+	</pron>
+</character>

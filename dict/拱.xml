@@ -1,0 +1,33 @@
+<character value="拱">
+	<introduce>
+		<pinyin value="gong3" writing="gŏng" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖横横竖竖横撇捺" />
+	</introduce>
+	<pron value="gǒng">
+		<sense tag="动" vernacular="拱手，两手在胸前相合，表示恭敬">
+			<exam article="《荷蓧丈人》" ref="子路拱而立。" />
+		</sense>
+		<sense tag="动" vernacular="拱手，表示不费事">
+			<exam article="《过秦论》" ref="于是秦人拱手而取西河之外。" />
+		</sense>
+		<sense tag="动" vernacular="两臂合围，多表示粗细">
+			<exam article="《殽之战》" ref="尔何知，中寿，尔墓之木拱矣。" />
+			<exam article="《促织》" ref="大喜，笼归，举家庆贺，虽连城拱壁，不啻也。" />
+		</sense>
+		<sense tag="动" vernacular="环绕">
+			<exam article="《明君》" ref="众星拱北辰。" />
+		</sense>
+	</pron>
+	<phrase value="拱璧">
+		<sense value="大的玉璧，又比喻珍贵的东西" />
+	</phrase>
+	<phrase value="拱默">
+		<sense value="拱手而默无所言" />
+	</phrase>
+	<phrase value="拱揖指挥">
+		<sense value="从容安舒，指挥若定" />
+	</phrase>
+</character>

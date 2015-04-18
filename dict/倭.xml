@@ -1,0 +1,17 @@
+<character value="倭">
+	<introduce>
+		<pinyin value="wo1" writing="wō" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="10" />
+		<order value="撇竖撇横竖撇捺折撇横" />
+	</introduce>
+	<pron value="wō">
+		<sense tag="名" vernacular="我国古代对日本的称呼">
+			<exam article="《后汉书·东夷传》" ref="倭在韩东南大海中，依山岛为居。" />
+		</sense>
+	</pron>
+	<pron value="wēi">
+		<sense vernacular="见“逶迟”" />
+	</pron>
+</character>

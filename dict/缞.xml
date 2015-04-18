@@ -1,0 +1,14 @@
+<character value="缞">
+	<introduce>
+		<pinyin value="cui1" writing="cuī" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="折折横捺横竖折横横撇折撇捺" />
+	</introduce>
+	<pron value="cuī">
+		<sense vernacular="古代丧服，用麻布制成，披在胸前">
+			<exam article="《左传·襄公十七年》" ref="齐晏桓子卒，晏婴粗缞斩。" />
+		</sense>
+	</pron>
+</character>

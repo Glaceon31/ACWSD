@@ -1,0 +1,20 @@
+<character value="渡">
+	<introduce>
+		<pinyin value="du4" writing="dù" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="捺捺横捺横撇横竖竖横折捺" />
+	</introduce>
+	<pron value="dù">
+		<sense tag="动" vernacular="通过江河等">
+			<exam article="《史记·秦始皇本纪》" ref="乃西南渡淮水，之衡山、南郡。" />
+		</sense>
+		<sense tag="动" vernacular="通过；越过">
+			<exam article="《史记·高祖本纪》" ref="淮阴已受命东，未渡平原。" />
+		</sense>
+		<sense tag="名" vernacular="渡口">
+			<exam article="《滁州西涧》" ref="春潮带雨晚来急，野渡无人舟自横。" />
+		</sense>
+	</pron>
+</character>

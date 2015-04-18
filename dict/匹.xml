@@ -1,0 +1,47 @@
+<character value="匹">
+	<introduce>
+		<pinyin value="pi3" writing="pĭ" />
+		<pinyin value="pi1" writing="pī" />
+		<pinyin value="ya3" writing="yă" />
+		<bushou value="匚" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="横撇折折" />
+	</introduce>
+	<pron value="pí">
+		<sense tag="量" vernacular="计算布帛的长度单位">
+			<exam article="《孔雀东南飞》" ref="三日断五匹，大人故嫌迟。" />
+		</sense>
+		<sense tag="量" vernacular="计算马的头数的单位">
+			<exam article="《范进中举》" ref="只听得一片声的锣响，三匹马闯将来。" />
+		</sense>
+		<sense tag="形" vernacular="单独">
+			<exam article="《诉衷情·当年万里觅封侯》" ref="匹马戍梁州。" />
+		</sense>
+		<sense tag="形" vernacular="相当；匹敌">
+			<exam article="《左传·僖公二十三年》" ref="秦晋匹也，何以卑我？" />
+		</sense>
+		<sense tag="介" vernacular="当；迎；正对着">
+			<exam article="《高祖还乡》" ref="见一彪人马到庄门，匹头里几面旗舒。" />
+		</sense>
+		<sense tag="动" vernacular="对比；比较">
+			<exam article="《庄子·逍遥遊》" ref="而彭祖乃今以久特闻，众人匹之，不亦悲乎！" />
+		</sense>
+	</pron>
+	<phrase value="匹俦">
+		<sense value="配偶" />
+		<sense value="相当的；同类" />
+	</phrase>
+	<phrase value="匹夫">
+		<sense value="平常的人；平民百姓" />
+		<sense value="指没有智慧，没有谋略的人" />
+		<sense value="骂人的话" />
+	</phrase>
+	<phrase value="匹鸟">
+		<sense value="成对的鸟，特指鸳鸯" />
+	</phrase>
+	<phrase value="匹亚">
+		<sense value="彼此相当，不相上下" />
+		<sense value="配偶" />
+	</phrase>
+</character>

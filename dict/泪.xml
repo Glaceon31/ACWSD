@@ -1,0 +1,17 @@
+<character value="泪">
+	<introduce>
+		<pinyin value="lei4" writing="lèi" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺捺横竖折横横横" />
+	</introduce>
+	<pron value="lèi">
+		<sense tag="名" vernacular="眼泪">
+			<exam article="《闻官军收河南河北》" ref="初闻涕泪满衣裳。" />
+		</sense>
+		<sense tag="名" vernacular="像眼泪的东西">
+			<exam article="《更漏子》" ref="玉炉香，红蜡泪，偏照画堂秋思。" />
+		</sense>
+	</pron>
+</character>

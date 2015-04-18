@@ -1,0 +1,20 @@
+<character value="耗">
+	<introduce>
+		<pinyin value="hao4" writing="hào" />
+		<bushou value="耒" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="横横横竖撇捺撇横横折" />
+	</introduce>
+	<pron value="hào">
+		<sense tag="动" vernacular="减损；消耗">
+			<exam article="《教战守策》" ref="其刚心勇气消耗钝眊。" />
+		</sense>
+		<sense tag="名" vernacular="消息；音信">
+			<exam article="《柳毅传》" ref="长天苍苍，信耗莫通。" />
+		</sense>
+		<sense tag="名" vernacular="老鼠">
+			<exam article="《陈州粜米》" ref="都是些吃仓廒的鼠耗。" />
+		</sense>
+	</pron>
+</character>

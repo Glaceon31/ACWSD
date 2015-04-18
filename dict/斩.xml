@@ -1,0 +1,27 @@
+<character value="斩">
+	<introduce>
+		<pinyin value="zhan3" writing="zhăn" />
+		<bushou value="斤" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="横折竖横撇撇横竖" />
+	</introduce>
+	<pron value="zhǎn">
+		<sense tag="动" vernacular="杀">
+			<exam article="《荆轲刺秦王》" ref="左右既前，斩荆轲。" />
+		</sense>
+		<sense tag="动" vernacular="砍">
+			<exam article="《过秦论》" ref="斩木为兵，揭竿为旗。" />
+		</sense>
+		<sense tag="动" vernacular="断绝">
+			<exam article="《诗经·小雅·节南山》" ref="国既卒斩，何不用监。" />
+		</sense>
+	</pron>
+	<phrase value="斩衰">
+		<sense value="旧时五种丧服中最重的一种，用粗麻布制成，左右和下边不缝" />
+	</phrase>
+	<phrase value="斩斩">
+		<sense value="整齐；严肃" />
+		<sense value="堆垒的样子" />
+	</phrase>
+</character>

@@ -1,0 +1,14 @@
+<character value="箧">
+	<introduce>
+		<pinyin value="qie4" writing="qiè" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="14" />
+		<order value="撇横捺撇横捺横横捺撇横撇捺折" />
+	</introduce>
+	<pron value="qiè">
+		<sense tag="名" vernacular="小竹籍">
+			<exam article="《送东阳马生序》" ref="当余之从师也，负箧曳屣，行深山巨谷中。" />
+		</sense>
+	</pron>
+</character>

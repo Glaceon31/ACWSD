@@ -1,0 +1,14 @@
+<character value="笳">
+	<introduce>
+		<pinyin value="jia1" writing="jiā" />
+		<bushou value="竹" />
+		<bushoustroke value="6" />
+		<stroke value="11" />
+		<order value="撇横捺撇横捺折撇竖折横" />
+	</introduce>
+	<pron value="jiā">
+		<sense tag="名" vernacular="一种类似笛子的管乐器，汉代流行于塞北和西域">
+			<exam article="《悲愤诗》" ref="胡笳动兮边马鸣，孤雁归兮声嘤嘤。" />
+		</sense>
+	</pron>
+</character>

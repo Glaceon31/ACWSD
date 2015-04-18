@@ -1,0 +1,24 @@
+<character value="翳">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="羽" />
+		<bushoustroke value="6" />
+		<stroke value="17" />
+		<order value="横撇横横撇捺折撇折折捺折捺横折捺横" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="名" vernacular="用羽毛做的舞具">
+			<exam article="《山海经·海外西经》" ref="左手操翳。" />
+		</sense>
+		<sense tag="动" vernacular="遮蔽；覆盖">
+			<exam article="《送李愿归盘谷序》" ref="飘轻裾，翳长袖。" />
+			<exam article="《醉翁亭记》" ref="树林阴翳，鸣声上下。游人去而禽鸟乐也。" />
+		</sense>
+	</pron>
+	<phrase value="翳翳">
+		<sense value="阴暗的样子" />
+	</phrase>
+	<phrase value="翳景">
+		<sense value="遮蔽日月的阴影" />
+	</phrase>
+</character>

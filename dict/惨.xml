@@ -1,0 +1,71 @@
+<character value="惨">
+	<introduce>
+		<pinyin value="can3" writing="căn" />
+		<pinyin value="can4" writing="càn" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺竖折捺横撇捺撇撇撇" />
+	</introduce>
+	<pron value="cǎn">
+		<sense tag="形" vernacular="残酷；狠毒">
+			<exam article="《荀子·议兵》" ref="惨如蜂虿。" />
+		</sense>
+		<sense tag="形" vernacular="凄惨；悲痛">
+			<exam article="《琵琶行》" ref="醉不成欢惨将别，别时茫茫江浸月。" />
+		</sense>
+		<sense tag="形" vernacular="暗淡；阴暗">
+			<exam article="《登楼赋》" ref="风萧瑟而并兴兮，天惨而无色。" />
+		</sense>
+	</pron>
+	<phrase value="惨恻">
+		<sense value="悲痛伤感" />
+	</phrase>
+	<phrase value="惨怆">
+		<sense value="凄楚悲伤" />
+	</phrase>
+	<phrase value="惨悴">
+		<sense value="1" />
+		<sense value="凄惨忧愁" />
+		<sense value="2" />
+		<sense value="憔悴" />
+	</phrase>
+	<phrase value="惨怛">
+		<sense value="痛苦；悲伤" />
+	</phrase>
+	<phrase value="惨淡">
+		<sense value="1" />
+		<sense value="悲凉的景象" />
+		<sense value="2" />
+		<sense value="凄惨黯淡；不景气" />
+		<sense value="3" />
+		<sense value="光线暗淡" />
+	</phrase>
+	<phrase value="惨毒">
+		<sense value="1" />
+		<sense value="狠毒；虐害" />
+		<sense value="2" />
+		<sense value="强烈的怒愤" />
+	</phrase>
+	<phrase value="惨悸">
+		<sense value="凄切恐惧" />
+	</phrase>
+	<phrase value="惨沮">
+		<sense value="凄楚沮丧" />
+	</phrase>
+	<phrase value="惨刻">
+		<sense value="狠毒苛刻" />
+	</phrase>
+	<phrase value="惨慄">
+		<sense value="1" />
+		<sense value="极悲痛" />
+		<sense value="2" />
+		<sense value="极寒冷" />
+	</phrase>
+	<phrase value="惨懔">
+		<sense value="阴冷的样子" />
+	</phrase>
+	<phrase value="惨恤">
+		<sense value="丧事" />
+	</phrase>
+</character>

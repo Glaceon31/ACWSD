@@ -1,0 +1,25 @@
+<character value="颂">
+	<introduce>
+		<pinyin value="song4" writing="sòng" />
+		<bushou value="页" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="撇捺折捺横撇竖折撇捺" />
+	</introduce>
+	<pron value="sòng">
+		<sense tag="动" vernacular="歌颂；颂扬">
+			<exam article="《史记·秦始皇本纪》" ref="刻石颂秦德。" />
+		</sense>
+		<sense tag="名" vernacular="一种文体">
+			<exam article="《文心雕龙·公赞》" ref="颂惟典雅。" />
+		</sense>
+		<sense tag="动" vernacular="通“诵”，朗读；背诵">
+			<exam article="《孟子·万章下》" ref="颂其诗，读其书。" />
+		</sense>
+	</pron>
+	<pron value="róng">
+		<sense tag="名" vernacular="仪容之“容”本字">
+			<exam article="《汉书·儒林传》" ref="鲁徐生善为颂。" />
+		</sense>
+	</pron>
+</character>

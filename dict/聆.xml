@@ -1,0 +1,14 @@
+<character value="聆">
+	<introduce>
+		<pinyin value="ling2" writing="líng" />
+		<bushou value="耳" />
+		<bushoustroke value="6" />
+		<stroke value="11" />
+		<order value="横竖竖横横横撇捺捺折捺" />
+	</introduce>
+	<pron value="líng">
+		<sense tag="动" vernacular="仔细听；认真听">
+			<exam article="《石钟山记》" ref="得双石于潭，扣而聆之。" />
+		</sense>
+	</pron>
+</character>

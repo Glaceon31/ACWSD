@@ -1,0 +1,29 @@
+<character value="标">
+	<introduce>
+		<pinyin value="biao1" writing="biāo" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="横竖撇捺横横竖撇捺" />
+	</introduce>
+	<pron value="biāo">
+		<sense tag="名" vernacular="末端;顶端">
+			<exam article="《蜀道难》" ref="上有六龙回日之高标。" />
+		</sense>
+		<sense tag="动" vernacular="高举">
+			<exam article="《观潮》" ref="有乘骑、弄旗、标枪、舞刀于水面者。" />
+		</sense>
+		<sense tag="名" vernacular="标记;标志">
+			<exam article="《范进中举》" ref="手里插个草标。" />
+		</sense>
+		<sense tag="动" vernacular="写明">
+			<exam article="《哨遍·高祖还乡》" ref="明标着册历,见放着文书。" />
+		</sense>
+		<sense tag="名" vernacular="标准,榜样">
+			<exam article="《狱中杂记》" ref="械系不稍宽,为标准以警其余。" />
+		</sense>
+		<sense tag="名" vernacular="清代军队编制名称,一标辖三营">
+			<exam article="《三元里抗英》" ref="城内督标抚标旗满官兵,均欲奋勇出城决战。" />
+		</sense>
+	</pron>
+</character>

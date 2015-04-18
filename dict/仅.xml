@@ -1,0 +1,20 @@
+<character value="仅">
+	<introduce>
+		<pinyin value="jin3" writing="jĭn" />
+		<pinyin value="jin4" writing="jìn" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="4" />
+		<order value="撇竖折捺" />
+	</introduce>
+	<pron value="jǐn">
+		<sense tag="副" vernacular="仅仅；只才；不过">
+			<exam article="《项脊轩志》" ref="室仅方丈，可容一人居。" />
+		</sense>
+	</pron>
+	<pron value="jìn">
+		<sense tag="副" vernacular="几乎；将近；差不多">
+			<exam article="《柳毅传》" ref="后居南海，仅四十年。" />
+		</sense>
+	</pron>
+</character>

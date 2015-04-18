@@ -1,0 +1,30 @@
+<character value="拨">
+	<introduce>
+		<pinyin value="bo1" writing="bō" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横折撇折捺捺" />
+	</introduce>
+	<pron value="bō">
+		<sense tag="动" vernacular="治理">
+			<exam article="《史记·高祖本纪》" ref="高祖起细微，拨乱世，反之正。" />
+		</sense>
+		<sense tag="动" vernacular="拨开；拨动">
+			<exam article="《左忠毅公逸事》" ref="乃奋臂以指拨眦，目光如炬。" />
+			<exam article="《促织》" ref="试以猪鬣撩拨虫须。" />
+		</sense>
+		<sense tag="动" vernacular="弹拨">
+			<exam article="《琵琶行》" ref="转轴拨弦三两声。" />
+		</sense>
+		<sense tag="名" vernacular="拨动琴弦弹奏器的小木片">
+			<exam article="《琵琶行》" ref="沉吟放拨插弦中。" />
+		</sense>
+	</pron>
+	<phrase value="拨烦">
+		<sense value="处理繁重的政务" />
+	</phrase>
+	<phrase value="拨冗">
+		<sense value="客套话，请对方于百忙中，抽出时间" />
+	</phrase>
+</character>

@@ -1,0 +1,17 @@
+<character value="悒">
+	<introduce>
+		<pinyin value="yi4" writing="yì" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺竖竖折横折竖横折" />
+	</introduce>
+	<pron value="yì">
+		<sense tag="形" vernacular="愁闷不安的样子">
+			<exam article="《三国专·魏书·高柔传》" ref="群下之心，莫不悒戚。" />
+		</sense>
+	</pron>
+	<phrase value="悒悒">
+		<sense value="愁闷不安的样子" />
+	</phrase>
+</character>

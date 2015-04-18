@@ -1,0 +1,36 @@
+<character value="龙">
+	<introduce>
+		<pinyin value="long2" writing="lóng" />
+		<bushou value="龙" />
+		<bushoustroke value="5" />
+		<stroke value="5" />
+		<order value="横撇折撇捺" />
+	</introduce>
+	<pron value="lóng">
+		<sense tag="名" vernacular="古代传说中的一种神异的动物">
+			<exam article="《劝学》" ref="积水成渊，蛟龙生焉。" />
+		</sense>
+		<sense tag="名" vernacular="封建时代帝王的象征，也指帝王用的东西">
+			<exam article="《史记·高祖本纪》" ref="高祖为人，隆准而龙颜。" />
+		</sense>
+		<sense tag="名" vernacular="比喻杰出的人物">
+			<exam article="《隆中对》" ref="诸葛孔明者，卧龙也。" />
+		</sense>
+	</pron>
+	<phrase value="龙飞">
+		<sense value="比喻帝王将兴或即位" />
+		<sense value="比喻升官，得意" />
+	</phrase>
+	<phrase value="龙凤">
+		<sense value="指优异才能的人" />
+		<sense value="形容帝王的相貌" />
+	</phrase>
+	<phrase value="龙鳞">
+		<sense value="指皇帝或其威严" />
+	</phrase>
+	<phrase value="龙钟">
+		<sense value="衰老的样子" />
+		<sense value="潦倒的样子" />
+		<sense value="流泪的样子" />
+	</phrase>
+</character>

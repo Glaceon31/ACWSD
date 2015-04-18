@@ -1,0 +1,25 @@
+<character value="需">
+	<introduce>
+		<pinyin value="xu1" writing="xū" />
+		<bushou value="雨" />
+		<bushoustroke value="8" />
+		<stroke value="14" />
+		<order value="横捺折竖捺捺捺捺横撇竖折竖竖" />
+	</introduce>
+	<pron value="xū">
+		<sense tag="动" vernacular="等待">
+			<exam article="《周易·需卦》" ref="云上于天，需。" />
+		</sense>
+		<sense tag="动" vernacular="停步；不进">
+			<exam article="《应间》" ref="虽老氏‘曲全’，‘进道若退’，然行亦以需。" />
+		</sense>
+		<sense tag="动" vernacular="需要（后起意义）">
+			<exam article="《宋史·高定子传》" ref="长宁地接夷獠，公家百需皆仰淯井盐利。" />
+		</sense>
+	</pron>
+	<pron value="nuò">
+		<sense tag="形" vernacular="通“懦”">
+			<exam article="《战国策·秦策二》" ref="需弱者用，而健者不用矣。" />
+		</sense>
+	</pron>
+</character>

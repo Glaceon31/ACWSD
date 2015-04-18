@@ -1,0 +1,17 @@
+<character value="譬">
+	<introduce>
+		<pinyin value="pi4" writing="pì" />
+		<bushou value="言" />
+		<bushoustroke value="7" />
+		<stroke value="20" />
+		<order value="折横撇竖折横捺横捺撇横横竖捺横横横竖折横" />
+	</introduce>
+	<pron value="pì">
+		<sense tag="动" vernacular="打比方；比喻">
+			<exam article="《察今》" ref="譬之若良医，病万变，药亦万变。" />
+		</sense>
+		<sense tag="动" vernacular="明白；领悟">
+			<exam article="《后汉书·鲍永传》" ref="言之者虽诚，而闻之者未譬。" />
+		</sense>
+	</pron>
+</character>

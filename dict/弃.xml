@@ -1,0 +1,27 @@
+<character value="弃">
+	<introduce>
+		<pinyin value="qi4" writing="qì" />
+		<bushou value="廾" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺横折捺横撇竖" />
+	</introduce>
+	<pron value="qì">
+		<sense tag="动" vernacular="抛弃；舍弃">
+			<exam article="《六国论》" ref="举以予人，如弃草芥。" />
+		</sense>
+		<sense tag="动" vernacular="糟蹋">
+			<exam article="《陶侃》" ref="生无益于时，死无闻于后，是自弃也。" />
+		</sense>
+		<sense tag="形" vernacular="舍弃的；废弃的">
+			<exam article="《芙蕖》" ref="只有霜中败叶，零落难堪，似成弃物矣。" />
+		</sense>
+	</pron>
+	<phrase value="弃世">
+		<sense value="摒绝俗务，超脱世外" />
+		<sense value="死的委婉说法" />
+	</phrase>
+	<phrase value="弃市">
+		<sense value="古代在闹市执行死刑，并将尸体暴露街头示众，称“弃市”" />
+	</phrase>
+</character>

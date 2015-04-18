@@ -1,0 +1,23 @@
+<character value="毁">
+	<introduce>
+		<pinyin value="hui3" writing="huĭ" />
+		<bushou value="殳" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="撇竖横折横横横竖横撇折折捺" />
+	</introduce>
+	<pron value="huǐ">
+		<sense tag="动" vernacular="破坏；毁坏">
+			<exam article="《病梅馆记》" ref="毁其盆，悉埋于地。" />
+		</sense>
+		<sense tag="动" vernacular="诽谤；讲别人的坏话">
+			<exam article="《庄子·盗跖》" ref="好面誉人者，亦好背而毁之。" />
+		</sense>
+		<sense tag="动" vernacular="焚烧">
+			<exam article="《晋书·温峤传》" ref="遂毁犀角而照之。" />
+		</sense>
+	</pron>
+	<phrase value="毁齿">
+		<sense value="指儿童脱落乳齿，也借指换齿时的儿童" />
+	</phrase>
+</character>

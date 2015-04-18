@@ -1,0 +1,20 @@
+<character value="股">
+	<introduce>
+		<pinyin value="gu3" writing="gŭ" />
+		<bushou value="月" />
+		<bushoustroke value="4" />
+		<stroke value="8" />
+		<order value="撇折横横撇折折捺" />
+	</introduce>
+	<pron value="gǔ">
+		<sense tag="名" vernacular="大腿">
+			<exam article="《荆轲刺秦王》" ref="遂拔剑以击荆轲，断其左股。" />
+		</sense>
+		<sense tag="量" vernacular="用于事物的分支或一部分">
+			<exam article="《长恨歌》" ref="钗留一股合一扇。" />
+		</sense>
+		<sense tag="名" vernacular="不等腰直角三角形中构成直角的较长的边">
+			<exam article="《梦溪笔谈》" ref="又以半径减去所割数，余者为股。" />
+		</sense>
+	</pron>
+</character>

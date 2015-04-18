@@ -1,0 +1,17 @@
+<character value="怒">
+	<introduce>
+		<pinyin value="nu4" writing="nù" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="9" />
+		<order value="折撇横折捺捺折捺捺" />
+	</introduce>
+	<pron value="nù">
+		<sense tag="动" vernacular="发怒">
+			<exam article="《左忠毅公逸事》" ref="（左公）怒曰……。" />
+		</sense>
+		<sense tag="形" vernacular="气势强盛">
+			<exam article="《柳毅传》" ref="则皆矫顾怒步，饮龁甚异。" />
+		</sense>
+	</pron>
+</character>

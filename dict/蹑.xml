@@ -1,0 +1,30 @@
+<character value="蹑">
+	<introduce>
+		<pinyin value="nie4" writing="niè" />
+		<bushou value="足" />
+		<bushoustroke value="7" />
+		<stroke value="17" />
+		<order value="竖折横竖横竖横横竖竖横横横折捺折捺" />
+	</introduce>
+	<pron value="niè">
+		<sense tag="动" vernacular="踩；践踏">
+			<exam article="《过秦论》" ref="蹑足行伍之间，而倔起于阡陌之中。" />
+		</sense>
+		<sense tag="动" vernacular="穿上">
+			<exam article="《孔雀东南飞》" ref="新妇识马声，蹑履相逢迎。" />
+		</sense>
+		<sense tag="动" vernacular="登上；升迁">
+			<exam article="《咏史》" ref="世胄蹑高位，英俊沉下僚。" />
+		</sense>
+		<sense tag="动" vernacular="紧随在后">
+			<exam article="《三国志·邓艾传》" ref="(杨)欣等追蹑于缰川口。" />
+		</sense>
+	</pron>
+	<phrase value="蹑蹀">
+		<sense value="往来小步的样子" />
+	</phrase>
+	<phrase value="蹑景">
+		<sense value="追赶日影，形容疾速" />
+		<sense value="骏马名，谓其速能追赶日影" />
+	</phrase>
+</character>

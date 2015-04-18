@@ -1,0 +1,26 @@
+<character value="污">
+	<introduce>
+		<pinyin value="wu1" writing="wū" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="6" />
+		<order value="捺捺横横横折" />
+	</introduce>
+	<pron value="wū">
+		<sense tag="名" vernacular="停积不流的水">
+			<exam article="《吊屈原赋》" ref="彼寻常之污渎兮，岂能容夫吞舟之巨鱼？" />
+		</sense>
+		<sense tag="形" vernacular="污秽；不干净">
+			<exam article="《屈原列传》" ref="自疏濯淖污泥之中，蝉蜕于浊秽。" />
+		</sense>
+		<sense tag="动" vernacular="玷污">
+			<exam article="《乐羊子妻》" ref="况拾遗求利以污其行乎。" />
+		</sense>
+		<sense tag="动" vernacular="污蔑；诽谤">
+			<exam article="《书博鸡者事》" ref="又投间蔑污使君。" />
+		</sense>
+		<sense tag="动" vernacular="贪污">
+			<exam article="《芋老人传》" ref="及为吏，以污贿不饬罢。" />
+		</sense>
+	</pron>
+</character>

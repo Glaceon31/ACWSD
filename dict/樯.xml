@@ -1,0 +1,15 @@
+<character value="樯">
+	<introduce>
+		<pinyin value="qiang2" writing="qiáng" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="15" />
+		<order value="横竖撇捺横竖捺撇横竖折竖折横横" />
+	</introduce>
+	<pron value="qiáng">
+		<sense tag="名" vernacular="帆船上挂帆的桅杆">
+			<exam article="《岳阳楼记》" ref="商旅不行，樯倾楫摧。" />
+			<exam article="《念奴娇·赤壁怀古》" ref="樯橹灰飞烟灭。" />
+		</sense>
+	</pron>
+</character>

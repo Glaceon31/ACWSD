@@ -1,0 +1,51 @@
+<character value="功">
+	<introduce>
+		<pinyin value="gong1" writing="gōng" />
+		<bushou value="力" />
+		<bushoustroke value="2" />
+		<stroke value="5" />
+		<order value="横竖横折撇" />
+	</introduce>
+	<pron value="gōng">
+		<sense tag="名" vernacular="事情；工作">
+			<exam article="《诗经·豳风·七月》" ref="上入执宫功。" />
+			<exam article="《论贵粟疏》" ref="三日劝农功。" />
+		</sense>
+		<sense tag="名" vernacular="功效；成绩">
+			<exam article="《劝学》" ref="驽马十驾，功在不舍。" />
+			<exam article="《乐羊子妻》" ref="今若断斯织也，则捐失成功。" />
+		</sense>
+		<sense tag="名" vernacular="功业；事业">
+			<exam article="《孟子·公孙丑》" ref="管仲晏子之功，可复许乎？" />
+			<exam article="《晋书·谢尚等传论》" ref="降龄何促，功败垂成。" />
+		</sense>
+		<sense tag="名" vernacular="功劳；功勋">
+			<exam article="《廉颇蔺相如列传》" ref="以相如功大，拜为上卿。" />
+			<exam article="《触龙说赵太后》" ref="位尊而无功，奉厚而无劳。" />
+			<exam article="《鸿门宴》" ref="欲诛有功之人，此亡秦之续耳。" />
+		</sense>
+		<sense tag="名" vernacular="功用；用处">
+			<exam article="《信陵君窃符救赵》" ref="譬若以肉投馁虎，何功之有哉？" />
+		</sense>
+		<sense tag="名" vernacular="功德；恩德">
+			<exam article="《齐桓晋文之事》" ref="今恩足以及禽兽，而功不至于百姓者，独何与？" />
+			<exam article="《狱中杂记》" ref="良吏亦多以脱人于死为功，而不求其情。" />
+		</sense>
+		<sense tag="形" vernacular="精善">
+			<exam article="《管子·七法》" ref="器械不功。" />
+		</sense>
+		<sense tag="名" vernacular="丧服名">
+			<exam article="《陈情表》" ref="外无期功强近之亲，内载应门五尺之童。" />
+		</sense>
+	</pron>
+	<phrase value="功德">
+		<sense value="功劳与恩德" />
+		<sense value="佛教用语，指佛教徒念佛育经，为死者做佛事、行善等" />
+	</phrase>
+	<phrase value="功课">
+		<sense value="考核官吏的成绩" />
+	</phrase>
+	<phrase value="功令">
+		<sense value="古代国家考核和选用学官的法令" />
+	</phrase>
+</character>

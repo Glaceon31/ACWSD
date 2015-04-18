@@ -1,0 +1,15 @@
+<character value="娓">
+	<introduce>
+		<pinyin value="wei3" writing="wĕi" />
+		<bushou value="女" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="折撇横折横撇撇横横折" />
+	</introduce>
+	<pron value="wěi">
+		<sense vernacular="见“娓娓”" />
+	</pron>
+	<phrase value="娓娓">
+		<sense value="勤勉不倦的样子" />
+	</phrase>
+</character>

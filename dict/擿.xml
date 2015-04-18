@@ -1,0 +1,28 @@
+<character value="擿">
+	<introduce>
+		<pinyin value="zhi2" writing="zhí" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="17" />
+		<order value="横竖横捺横捺撇竖折横竖竖折横捺折捺" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="动" vernacular="搔；抓">
+			<exam article="《列子·黄帝》" ref="指擿无痟痒。" />
+		</sense>
+		<sense tag="名" vernacular="搔头，古代妇女头上的一种首饰">
+			<exam article="《后汉书·舆服志下》" ref="诸簪珥皆同制，其擿有等焉。" />
+		</sense>
+		<sense tag="动" vernacular="投掷">
+			<exam article="《庄子·胠箧》" ref="擿玉毁珠。" />
+		</sense>
+	</pron>
+	<pron value="tì">
+		<sense tag="动" vernacular="挑">
+			<exam article="《送穷文》" ref="擿块杳微。" />
+		</sense>
+		<sense tag="动" vernacular="挑动，指使">
+			<exam article="《汉书·谷永传》" ref="卫将军商密擿永令发去。" />
+		</sense>
+	</pron>
+</character>

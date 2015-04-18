@@ -1,0 +1,29 @@
+<character value="沧">
+	<introduce>
+		<pinyin value="cang1" writing="cāng" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺捺横撇捺折折" />
+	</introduce>
+	<pron value="cāng">
+		<sense tag="形" vernacular="寒冷">
+			<exam article="《两小儿辩日》" ref="日初出沧凉凉，及其日中如探汤。" />
+		</sense>
+		<sense tag="名" vernacular="青绿色">
+			<exam article="《赠郭桐庐》" ref="沧江路穷此，湍险方自兹。" />
+		</sense>
+	</pron>
+	<phrase value="沧海">
+		<sense value="1" />
+		<sense value="大海" />
+		<sense value="2" />
+		<sense value="我国东海的别称" />
+		<sense value="3" />
+		<sense value="神话中的海岛名" />
+	</phrase>
+	<phrase value="沧溟">
+		<sense value="1" />
+		<sense value="指高远的天空" />
+	</phrase>
+</character>

@@ -1,0 +1,25 @@
+<character value="召">
+	<introduce>
+		<pinyin value="zhao4" writing="zhào" />
+		<pinyin value="shao4" writing="shào" />
+		<pinyin value="zhao1" writing="zhāo" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="5" />
+		<order value="折撇竖折横" />
+	</introduce>
+	<pron value="zhào">
+		<sense tag="动" vernacular="呼唤">
+			<exam article="《荆轲刺秦王》" ref="方急时，不及召下兵。" />
+		</sense>
+		<sense tag="动" vernacular="召见">
+			<exam article="《张衡传》" ref="大将军邓陟奇其才，累召不应。" />
+		</sense>
+		<sense tag="动" vernacular="召集">
+			<exam article="《陈涉世家》" ref="号令召三老、豪杰与皆来会计事。" />
+		</sense>
+		<sense tag="动" vernacular="招致">
+			<exam article="《吕氏春秋·君守》" ref="此所谓以阳召阳，以阴召阴。" />
+		</sense>
+	</pron>
+</character>

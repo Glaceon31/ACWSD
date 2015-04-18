@@ -1,0 +1,21 @@
+<character value="皤">
+	<introduce>
+		<pinyin value="po2" writing="pó" />
+		<bushou value="白" />
+		<bushoustroke value="5" />
+		<stroke value="17" />
+		<order value="撇竖折横横撇捺撇横竖撇捺竖折横竖横" />
+	</introduce>
+	<pron value="pó">
+		<sense tag="形" vernacular="白色">
+			<exam article="《周易·贲卦》" ref="贲如皤如，白马翰如。" />
+		</sense>
+		<sense tag="形" vernacular="肚子大">
+			<exam article="《左传·宣公三年》" ref="皤其腹。" />
+		</sense>
+	</pron>
+	<phrase value="皤皤">
+		<sense value="头发白" />
+		<sense value="丰盛" />
+	</phrase>
+</character>

@@ -1,0 +1,29 @@
+<character value="谩">
+	<introduce>
+		<pinyin value="man2" writing="mán" />
+		<pinyin value="man4" writing="màn" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="13" />
+		<order value="捺折竖折横横竖折竖竖横折捺" />
+	</introduce>
+	<pron value="mán">
+		<sense tag="动" vernacular="欺骗">
+			<exam article="《九章·惜往日》" ref="或忠信而死节兮，或訑而不疑谩。" />
+		</sense>
+		<sense tag="动" vernacular="诋毁">
+			<exam article="《荀子·非相》" ref="乡则不若，偝则谩之。" />
+		</sense>
+	</pron>
+	<pron value="màn">
+		<sense tag="动" vernacular="通“慢”">
+			<exam article="《史记·孝武本纪》" ref="后世谩怠，故衰秏。" />
+		</sense>
+		<sense tag="动" vernacular="通“漫”，弥漫">
+			<exam article="《庄子·天道》" ref="太谩，愿闻其要。" />
+		</sense>
+		<sense tag="副" vernacular="通“漫”">
+			<exam article="《西厢记》" ref="谩言天上有姮娥。" />
+		</sense>
+	</pron>
+</character>

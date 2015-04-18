@@ -1,0 +1,14 @@
+<character value="罍">
+	<introduce>
+		<pinyin value="lei2" writing="léi" />
+		<bushou value="缶" />
+		<bushoustroke value="6" />
+		<stroke value="21" />
+		<order value="竖折横竖横竖折横竖横竖折横竖横撇横横竖折竖" />
+	</introduce>
+	<pron value="léi">
+		<sense tag="名" vernacular="盛酒或水的器具">
+			<exam article="《诗经·周南·卷耳》" ref="我姑酌彼金罍，维以不永怀。" />
+		</sense>
+	</pron>
+</character>

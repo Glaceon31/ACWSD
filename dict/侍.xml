@@ -1,0 +1,17 @@
+<character value="侍">
+	<introduce>
+		<pinyin value="shi4" writing="shì" />
+		<bushou value="亻" />
+		<bushoustroke value="2" />
+		<stroke value="8" />
+		<order value="撇竖横竖横横竖捺" />
+	</introduce>
+	<pron value="shì">
+		<sense tag="动" vernacular="在尊长旁边陪从">
+			<exam article="《汉书·文帝纪》" ref="遂即天子位，群臣以次侍。" />
+		</sense>
+		<sense tag="动" vernacular="侍奉；服侍">
+			<exam article="《荆轲刺秦王》" ref="虽欲长侍足下，岂可得哉。" />
+		</sense>
+	</pron>
+</character>

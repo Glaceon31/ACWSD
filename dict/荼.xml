@@ -1,0 +1,25 @@
+<character value="荼">
+	<introduce>
+		<pinyin value="tu2" writing="tú" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖竖撇捺横横竖撇捺" />
+	</introduce>
+	<pron value="tú">
+		<sense tag="名" vernacular="一种苦菜">
+			<exam article="《诗经·邶风·谷风》" ref="谁谓荼苦？其甘如荠。" />
+		</sense>
+		<sense tag="名" vernacular="茅、苇之类的白花">
+			<exam article="《国语·吴语》" ref="万人以为方阵，皆白裳、白旂、素甲、白羽之缯，望之如荼。" />
+		</sense>
+		<sense tag="名" vernacular="泥土">
+			<exam article="《为石仲容与孙皓书》" ref="生人陷荼炭之艰。" />
+		</sense>
+	</pron>
+	<pron value="shū">
+		<sense tag="副" vernacular="通“舒”">
+			<exam article="《考工记·弓人》" ref="鹠斵目必荼。" />
+		</sense>
+	</pron>
+</character>

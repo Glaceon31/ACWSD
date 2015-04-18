@@ -1,0 +1,28 @@
+<character value="洗">
+	<introduce>
+		<pinyin value="xi3" writing="xĭ" />
+		<pinyin value="xian3" writing="xiăn" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="捺捺横撇横竖横撇折" />
+	</introduce>
+	<pron value="xǐ">
+		<sense tag="动" vernacular="洗脚">
+			<exam article="《汉书·黥布传》" ref="汉王方踞床洗。" />
+		</sense>
+		<sense tag="动" vernacular="洗刷；用水去掉污垢">
+			<exam article="《泛溪》" ref="得鱼已割鳞，采藉不洗泥。" />
+		</sense>
+		<sense tag="名" vernacular="古代一种洗具">
+			<exam article="《仪礼·士冠礼》" ref="设洗直于东荣。" />
+		</sense>
+	</pron>
+	<pron value="xiǎn">
+		<sense vernacular="见“洗马”" />
+	</pron>
+	<phrase value="洗马">
+		<sense value="马前卒" />
+		<sense value="官名" />
+	</phrase>
+</character>

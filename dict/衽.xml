@@ -1,0 +1,20 @@
+<character value="衽">
+	<introduce>
+		<pinyin value="ren4" writing="rèn" />
+		<bushou value="衤" />
+		<bushoustroke value="5" />
+		<stroke value="9" />
+		<order value="捺折竖撇捺撇横竖横" />
+	</introduce>
+	<pron value="rèn">
+		<sense tag="名" vernacular="衣襟">
+			<exam article="《战国策·齐策》" ref="连衽成帷，举袂成幕。" />
+		</sense>
+		<sense tag="名" vernacular="衣袖；袖口">
+			<exam article="《盐铁论·非鞅》" ref="诸侯敛衽，西面而向风。" />
+		</sense>
+		<sense tag="名" vernacular="床席">
+			<exam article="《订鬼》" ref="故得病寝衽，畏惧鬼至。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,45 @@
+<character value="摄">
+	<introduce>
+		<pinyin value="she4" writing="shè" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="13" />
+		<order value="横竖横横竖竖横横横折捺折捺" />
+	</introduce>
+	<pron value="shè">
+		<sense tag="动" vernacular="拉；拽">
+			<exam article="《汉书·陈馀传》" ref="吏尝以过笞馀，馀欲起，耳摄使受笞。" />
+		</sense>
+		<sense tag="动" vernacular="收敛；收紧">
+			<exam article="《原君》" ref="摄缄滕，固扃鐍。" />
+		</sense>
+		<sense tag="动" vernacular="捉拿；拘捕">
+			<exam article="《国语·吴语》" ref="摄少司马兹与王士五人。" />
+		</sense>
+		<sense tag="动" vernacular="提起；撩起">
+			<exam article="《后赤壁之赋》" ref="予乃摄衣而上。" />
+		</sense>
+		<sense tag="动" vernacular="整理；整顿">
+			<exam article="《信陵君窃符救赵》" ref="侯生摄敝衣冠，直上载公子上坐。" />
+		</sense>
+		<sense tag="动" vernacular="代理">
+			<exam article="《史记·燕召公世家》" ref="成王既幼，周公摄政。" />
+		</sense>
+		<sense tag="动" vernacular="辅助；帮助">
+			<exam article="《潜夫论·赞学》" ref="摄之以良朋，教之以明师。" />
+		</sense>
+		<sense tag="动" vernacular="夹">
+			<exam article="《子路曾皙冉有公西华侍坐》" ref="千乘之国，摄乎大国之间。" />
+		</sense>
+		<sense tag="动" vernacular="保养">
+			<exam article="《韩非子·解老》" ref="动无死地，而谓之善摄生。" />
+		</sense>
+	</pron>
+	<phrase value="摄生">
+		<sense value="养生" />
+		<sense value="维持生命" />
+	</phrase>
+	<phrase value="摄政">
+		<sense value="代君王处理国政" />
+	</phrase>
+</character>

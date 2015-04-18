@@ -1,0 +1,23 @@
+<character value="寮">
+	<introduce>
+		<pinyin value="liao2" writing="liáo" />
+		<bushou value="宀" />
+		<bushoustroke value="3" />
+		<stroke value="15" />
+		<order value="捺捺折横撇捺捺撇竖折横横竖撇捺" />
+	</introduce>
+	<pron value="liáo">
+		<sense tag="名" vernacular="小窗">
+			<exam article="《侍皇太子宴》" ref="烟生翠幕，日照绮寮。" />
+		</sense>
+		<sense tag="名" vernacular="小屋">
+			<exam article="《贫居》" ref="屋窄似僧寮。" />
+		</sense>
+		<sense tag="名" vernacular="通“僚”">
+			<exam article="《三国志·魏书·苏则传》" ref="与董昭同寮。" />
+		</sense>
+		<sense tag="名" vernacular="特指一起做官的人">
+			<exam article="《东方朔画赞》" ref="戏万乘若寮友。" />
+		</sense>
+	</pron>
+</character>

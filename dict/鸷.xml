@@ -1,0 +1,17 @@
+<character value="鸷">
+	<introduce>
+		<pinyin value="zhi4" writing="zhì" />
+		<bushou value="鸟" />
+		<bushoustroke value="5" />
+		<stroke value="11" />
+		<order value="横竖横撇折捺撇折捺折横" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="名" vernacular="凶猛的鸟">
+			<exam article="《夸父逐日》" ref="猛兽食颛民，鸷鸟攫老弱。" />
+		</sense>
+		<sense tag="形" vernacular="凶猛">
+			<exam article="《冯婉贞》" ref="而便捷猛鸷终弗逮。" />
+		</sense>
+	</pron>
+</character>

@@ -1,0 +1,17 @@
+<character value="缳">
+	<introduce>
+		<pinyin value="huan2" writing="huán" />
+		<bushou value="纟" />
+		<bushoustroke value="3" />
+		<stroke value="16" />
+		<order value="折折横竖折竖竖横横竖折横撇折撇捺" />
+	</introduce>
+	<pron value="huán">
+		<sense tag="名" vernacular="绳圈；绞索">
+			<exam article="《五人墓碑记》" ref="待圣人之出而投缳道路。" />
+		</sense>
+		<sense tag="名" vernacular="系在旗上的结">
+			<exam article="《羽猎赋》" ref="青云为纷，虹蜺为缳。" />
+		</sense>
+	</pron>
+</character>

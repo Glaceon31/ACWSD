@@ -1,0 +1,18 @@
+<character value="榻">
+	<introduce>
+		<pinyin value="ta4" writing="tà" />
+		<bushou value="木" />
+		<bushoustroke value="4" />
+		<stroke value="14" />
+		<order value="横竖撇捺竖折横横折捺横折捺横" />
+	</introduce>
+	<pron value="tà">
+		<sense tag="名" vernacular="坐卧用具，形状狭长低矮">
+			<exam article="《孔雀东南飞》" ref="移我琉璃榻，出置前窗下。" />
+		</sense>
+		<sense tag="名" vernacular="泛指床">
+			<exam article="《芋老人传》" ref="城东有甲乙同学者，一砚，一灯，一窗，一榻，晨起不辨衣履。" />
+		</sense>
+	</pron>
+	<phrase value="榻布" />
+</character>

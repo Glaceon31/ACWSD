@@ -1,0 +1,29 @@
+<character value="雍">
+	<introduce>
+		<pinyin value="yong1" writing="yōng" />
+		<bushou value="隹" />
+		<bushoustroke value="8" />
+		<stroke value="13" />
+		<order value="捺横折折撇撇竖捺横横横竖横" />
+	</introduce>
+	<pron value="yōng">
+		<sense tag="形" vernacular="和谐">
+			<exam article="《国语·晋语九》" ref="夫幸非福，非德不当雍，雍不为幸，吾是以惧。" />
+		</sense>
+		<sense tag="动" vernacular="通“阻塞”">
+			<exam article="《汉书·匈奴传》" ref="隔以山谷，雍以沙幕。" />
+		</sense>
+		<sense tag="动" vernacular="通“拥”，拥有">
+			<exam article="《战国策·秦策》" ref="雍天下之国。" />
+		</sense>
+	</pron>
+	<phrase value="雍和">
+		<sense value="和睦；融洽" />
+	</phrase>
+	<phrase value="雍容">
+		<sense value="仪容温文，态度大方，从容不迫" />
+	</phrase>
+	<phrase value="雍州">
+		<sense value="古代九州之一，故址即今陕西、甘肃及内蒙额济纳旗一带" />
+	</phrase>
+</character>

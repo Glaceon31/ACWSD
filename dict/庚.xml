@@ -1,0 +1,19 @@
+<character value="庚">
+	<introduce>
+		<pinyin value="geng1" writing="gēng" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="捺横撇折横横撇捺" />
+	</introduce>
+	<pron value="gēng">
+		<sense tag="名" vernacular="天干第七位" />
+		<sense tag="名" vernacular="年龄" />
+		<sense tag="动" vernacular="赔偿">
+			<exam article="《礼记·檀弓下》" ref="季子皋葬其妻，犯人之禾，申祥以千，曰：‘请庚之’。" />
+		</sense>
+	</pron>
+	<phrase value="庚癸">
+		<sense value="下等货" />
+	</phrase>
+</character>

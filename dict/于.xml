@@ -1,0 +1,32 @@
+<character value="于">
+	<introduce>
+		<pinyin value="yu2" writing="yú" />
+		<bushou value="二" />
+		<bushoustroke value="2" />
+		<stroke value="3" />
+		<order value="横横竖" />
+	</introduce>
+	<pron value="yú">
+		<sense tag="介" vernacular="介绍动作行为发生时间、处所，可译为“在”、“到”、“从”等">
+			<exam article="《子鱼论战》" ref="宋公子及楚人战于泓。" />
+			<exam article="《出师表》" ref="受任于败军之际。" />
+		</sense>
+		<sense tag="介" vernacular="介绍动作行为产生的原因，可译为“由于”、“因为”">
+			<exam article="《进学解》" ref="业精于勤，荒于嬉。" />
+		</sense>
+		<sense tag="介" vernacular="介绍动作行为涉及的对象，可译为“对”、“向”等">
+			<exam article="《师说》" ref="于其身也，则耻师焉。" />
+			<exam article="《捕蛇者说》" ref="余将告于莅事者。" />
+		</sense>
+		<sense tag="介" vernacular="介绍动作行为的主动者，可译为“被”">
+			<exam article="《伶官传序》" ref="而智勇多困于所溺。" />
+			<exam article="《廉颇蔺相如列传》" ref="臣诚恐见欺于王而负赵。" />
+		</sense>
+		<sense tag="介" vernacular="介绍比较的对象，可译为“比”">
+			<exam article="《劝学》" ref="冰，水为之，而寒于水。" />
+		</sense>
+		<sense tag="词缀" vernacular="用在动词前，无义">
+			<exam article="《诗经·葛覃》" ref="黄鸟于飞。" />
+		</sense>
+	</pron>
+</character>

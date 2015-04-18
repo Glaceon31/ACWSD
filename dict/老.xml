@@ -1,0 +1,41 @@
+<character value="老">
+	<introduce>
+		<pinyin value="lao3" writing="lăo" />
+		<bushou value="耂" />
+		<bushoustroke value="4" />
+		<stroke value="6" />
+		<order value="横竖横撇撇折" />
+	</introduce>
+	<pron value="lǎo">
+		<sense tag="形" vernacular="年老；衰老">
+			<exam article="《涉江》" ref="年既老而不衰。" />
+		</sense>
+		<sense tag="名" vernacular="年老的日子">
+			<exam article="《要做则做》" ref="世人苦被明日累，春去秋来老将至。" />
+		</sense>
+		<sense tag="动" vernacular="老死">
+			<exam article="《五人墓碑记》" ref="令五人者保其首领以老于户牖之下。" />
+		</sense>
+		<sense tag="名" vernacular="老年人">
+			<exam article="《论积贮疏》" ref="罢夫老易子而咬其骨。" />
+		</sense>
+		<sense tag="名" vernacular="对辈、长者的称呼">
+			<exam article="《过小孤山大孤山》" ref="故得尽见杜老所谓‘幸有舟楫迟，得尽所历妙’也。" />
+		</sense>
+		<sense tag="动" vernacular="敬重；尊重；敬养">
+			<exam article="《齐桓晋文之事》" ref="老吾老，以及人之老。" />
+		</sense>
+		<sense tag="形" vernacular="陈旧的；时间久的">
+			<exam article="《项脊轩志》" ref="百年老屋，尘泥渗漉，雨泽下注。" />
+		</sense>
+		<sense tag="名" vernacular="老子及其学说的省称">
+			<exam article="《进学解》" ref="攘斥佛老。" />
+		</sense>
+	</pron>
+	<phrase value="老衲">
+		<sense value="老和尚" />
+	</phrase>
+	<phrase value="老拙">
+		<sense value="老年人自谦词" />
+	</phrase>
+</character>

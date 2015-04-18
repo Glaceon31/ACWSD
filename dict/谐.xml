@@ -1,0 +1,17 @@
+<character value="谐">
+	<introduce>
+		<pinyin value="xie2" writing="xié" />
+		<bushou value="讠" />
+		<bushoustroke value="2" />
+		<stroke value="11" />
+		<order value="捺折横折撇折撇竖折横横" />
+	</introduce>
+	<pron value="xié">
+		<sense tag="动" vernacular="和谐；融洽">
+			<exam article="《左传·襄公十一年》" ref="如乐之和，无所不谐。" />
+		</sense>
+		<sense tag="形" vernacular="诙谐；滑稽">
+			<exam article="《晋书·顾恺之传》" ref="恺之好谐谑，人多爱狎之。" />
+		</sense>
+	</pron>
+</character>

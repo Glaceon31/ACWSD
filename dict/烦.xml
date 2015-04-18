@@ -1,0 +1,26 @@
+<character value="烦">
+	<introduce>
+		<pinyin value="fan2" writing="fán" />
+		<bushou value="火" />
+		<bushoustroke value="4" />
+		<stroke value="10" />
+		<order value="捺撇撇捺横撇竖折撇捺" />
+	</introduce>
+	<pron value="fán">
+		<sense tag="名" vernacular="发热头痛">
+			<exam article="《说文》" ref="烦,热头痛也。" />
+		</sense>
+		<sense tag="形" vernacular="烦躁;烦闷">
+			<exam article="《孔雀东南飞》" ref="怅然心中烦。" />
+		</sense>
+		<sense tag="形" vernacular="繁杂;琐碎">
+			<exam article="《尚书·说命》" ref="礼烦则乱。" />
+		</sense>
+		<sense tag="动" vernacular="烦扰;搅动">
+			<exam article="《史记·乐书》" ref="水烦则鱼鳖不大。" />
+		</sense>
+		<sense tag="动" vernacular="烦劳;麻烦">
+			<exam article="《烛之武退秦师》" ref="若亡郑而有益于君,敢以烦执事。" />
+		</sense>
+	</pron>
+</character>

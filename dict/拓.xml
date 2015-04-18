@@ -1,0 +1,23 @@
+<character value="拓">
+	<introduce>
+		<pinyin value="tuo4" writing="tuò" />
+		<pinyin value="ta4" writing="tà" />
+		<bushou value="扌" />
+		<bushoustroke value="3" />
+		<stroke value="8" />
+		<order value="横竖横横撇竖折横" />
+	</introduce>
+	<pron value="tuò">
+		<sense tag="动" vernacular="推；举">
+			<exam article="《醉为马坠群公携酒相看》" ref="罢酒酣歌拓金戟。" />
+		</sense>
+		<sense tag="动" vernacular="开拓；扩大">
+			<exam article="《吴都赋》" ref="拓土画疆。" />
+		</sense>
+	</pron>
+	<pron value="tà">
+		<sense tag="动" vernacular="把石碑或器物上的文字、图像拓印在纸上">
+			<exam article="《隋书·经籍志一》" ref="其相承传拓之本，犹在秘府。" />
+		</sense>
+	</pron>
+</character>

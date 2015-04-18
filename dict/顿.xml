@@ -1,0 +1,50 @@
+<character value="顿">
+	<introduce>
+		<pinyin value="dun4" writing="dùn" />
+		<pinyin value="du2" writing="dú" />
+		<bushou value="页" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="横折竖折横撇竖折撇捺" />
+	</introduce>
+	<pron value="dùn">
+		<sense tag="动" vernacular="以头叩地">
+			<exam article="《中山狼传》" ref="因顿首杖下，俯伏听命。" />
+		</sense>
+		<sense tag="动" vernacular="用足跺地">
+			<exam article="《兵车行》" ref="牵衣顿足拦道哭，哭声直上干云霄。" />
+		</sense>
+		<sense tag="动" vernacular="上下抖动使整齐">
+			<exam article="《琵琶行》" ref="沉吟放拨插弦中，整顿衣裳起敛容。" />
+		</sense>
+		<sense tag="动" vernacular="停留；屯驻">
+			<exam article="《史记·李将军列传》" ref="就善水草顿舍。" />
+		</sense>
+		<sense tag="名" vernacular="停宿的地方">
+			<exam article="《海瑞传》" ref="士大夫出其境率不得供顿，由是怨颇兴。" />
+		</sense>
+		<sense tag="形" vernacular="困顿；疲弊">
+			<exam article="《谋攻》" ref="故民不顿而利可金。" />
+		</sense>
+		<sense tag="副" vernacular="马上；立刻">
+			<exam article="《训俭示康》" ref="家人习奢已久，不能顿俭，必致失所。" />
+		</sense>
+		<sense tag="形" vernacular="通“钝”，不锋利">
+			<exam article="《墨子·辞过》" ref="兵革不顿，士兵不劳，足以征不服。" />
+		</sense>
+		<sense tag="动" vernacular="舍弃">
+			<exam article="《七启》" ref="顿纲纵网。" />
+		</sense>
+		<sense tag="量" vernacular="一次；一回">
+			<exam article="《范进中举》" ref="被胡屠户知道，又骂了一顿。" />
+		</sense>
+		<sense vernacular="春秋时国名" />
+	</pron>
+	<pron value="zhūn">
+		<sense vernacular="见“顿顿”" />
+		<sense vernacular="dú冒（mò）顿，汉初匈奴族一个单于的名字" />
+	</pron>
+	<phrase value="顿顿">
+		<sense value="zhūnzhūn诚恳的样子" />
+	</phrase>
+</character>

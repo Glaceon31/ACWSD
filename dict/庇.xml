@@ -1,0 +1,18 @@
+<character value="庇">
+	<introduce>
+		<pinyin value="bi4" writing="bì" />
+		<bushou value="广" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="捺横撇横折撇折" />
+	</introduce>
+	<pron value="bì">
+		<sense tag="动" vernacular="遮蔽，掩蔽">
+			<exam article="《左传·文公七年》" ref="公族，公室之枝叶也，若去之，则本根无所庇荫也。" />
+		</sense>
+		<sense tag="动" vernacular="依托；寄托">
+			<exam article="《泷冈阡表》" ref="无一瓦之覆，一垄之植以庇而为生。" />
+		</sense>
+		<sense tag="动" vernacular="通“裨”，弥补，补助" />
+	</pron>
+</character>

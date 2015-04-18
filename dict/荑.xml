@@ -1,0 +1,13 @@
+<character value="荑">
+	<introduce>
+		<pinyin value="ti2" writing="tí" />
+		<pinyin value="yi2" writing="yí" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="9" />
+		<order value="横竖竖横折横折撇捺" />
+	</introduce>
+	<pron value="tí">
+		<sense tag="名" vernacular="茅草的嫩芽" />
+	</pron>
+</character>

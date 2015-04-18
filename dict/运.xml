@@ -1,0 +1,32 @@
+<character value="运">
+	<introduce>
+		<pinyin value="yun4" writing="yùn" />
+		<bushou value="辶" />
+		<bushoustroke value="3" />
+		<stroke value="7" />
+		<order value="横横折捺捺折捺" />
+	</introduce>
+	<pron value="yùn">
+		<sense tag="动" vernacular="转动">
+			<exam article="《齐桓晋文之事》" ref="天下可运于掌。" />
+		</sense>
+		<sense tag="动" vernacular="搬运">
+			<exam article="《愚公移山》" ref="叩石垦壤，箕畚运于勃海之尾。" />
+		</sense>
+		<sense tag="动" vernacular="用">
+			<exam article="《子孙·九地》" ref="运兵计谋，为不可测。" />
+		</sense>
+		<sense tag="名" vernacular="气数；运气">
+			<exam article="《滕王阁序》" ref="时运不齐，命途多舛。" />
+		</sense>
+		<sense tag="名" vernacular="南北距离">
+			<exam article="《国语·越语》" ref="广运百里。" />
+		</sense>
+	</pron>
+	<phrase value="运笔">
+		<sense value="书法用语，运腕用笔" />
+	</phrase>
+	<phrase value="运祚">
+		<sense value="寿命" />
+	</phrase>
+</character>

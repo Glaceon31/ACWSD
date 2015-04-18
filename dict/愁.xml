@@ -1,0 +1,31 @@
+<character value="愁">
+	<introduce>
+		<pinyin value="chou2" writing="chóu" />
+		<bushou value="心" />
+		<bushoustroke value="4" />
+		<stroke value="13" />
+		<order value="撇横竖撇捺捺撇撇捺捺折捺捺" />
+	</introduce>
+	<pron value="chóu">
+		<sense tag="形" vernacular="忧愁，忧虑">
+			<exam article="《闻官军收河南河北》" ref="却看妻子愁何在，漫卷诗书喜欲狂。" />
+			<exam article="《涉江》" ref="固将愁若而终穷。" />
+			<exam article="《虞美人》" ref="问君能有几多愁？恰似一江春水向东流。" />
+		</sense>
+		<sense tag="形" vernacular="凄惨，悲凉">
+			<exam article="《白雪歌送武判官归京》" ref="瀚海阑干百丈冰，愁云惨淡万里凝。" />
+		</sense>
+		<sense tag="形" vernacular="悲哀">
+			<exam article="《报刘一丈书》" ref="乡园多故，不能不动客子愁。" />
+		</sense>
+	</pron>
+	<phrase value="愁肠">
+		<sense value="忧思萦绕的心情" />
+	</phrase>
+	<phrase value="愁城">
+		<sense value="愁闷苦恼的境地" />
+	</phrase>
+	<phrase value="愁蛾">
+		<sense value="古代称女人愁时皱眉为愁蛾" />
+	</phrase>
+</character>

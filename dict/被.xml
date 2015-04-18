@@ -1,0 +1,34 @@
+<character value="被">
+	<introduce>
+		<pinyin value="bei4" writing="bèi" />
+		<pinyin value="pi1" writing="pī" />
+		<bushou value="衤" />
+		<bushoustroke value="5" />
+		<stroke value="10" />
+		<order value="捺折竖撇捺折撇竖折捺" />
+	</introduce>
+	<pron value="bèi">
+		<sense tag="名" vernacular="被子" />
+		<sense tag="动" vernacular="覆盖">
+			<exam article="《促织》" ref="成归,闻妻言,如被冰雪。" />
+		</sense>
+		<sense tag="动" vernacular="加在……之上,加于,给于">
+			<exam article="《哀郢》" ref="众谗人之嫉妒兮,被以不慈之伪名。" />
+		</sense>
+		<sense tag="动" vernacular="遭受;蒙受">
+			<exam article="《荆轲刺秦王》" ref="秦王复击轲,被八创。" />
+			<exam article="《论积贮疏》" ref="禹汤被之矣。" />
+		</sense>
+		<sense tag="介" vernacular="表被动">
+			<exam article="《屈原列传》" ref="信而见疑,忠而被谤。" />
+		</sense>
+	</pron>
+	<pron value="pī">
+		<sense vernacular="通“披”,穿在身上或披在身上">
+			<exam article="《陈涉世家》" ref="将军身被坚执锐,伐无道。" />
+		</sense>
+		<sense tag="动" vernacular="分散;散开">
+			<exam article="《屈原列传》" ref="屈原至j江滨,发行吟泽畔。" />
+		</sense>
+	</pron>
+</character>

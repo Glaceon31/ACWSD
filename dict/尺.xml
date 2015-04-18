@@ -1,0 +1,33 @@
+<character value="尺">
+	<introduce>
+		<pinyin value="chi3" writing="chĭ" />
+		<pinyin value="che3" writing="chĕ" />
+		<bushou value="尸" />
+		<bushoustroke value="3" />
+		<stroke value="4" />
+		<order value="折横撇捺" />
+	</introduce>
+	<pron value="chǐ">
+		<sense tag="量" vernacular="长度单位，十寸为一尺">
+			<exam article="《邹忌讽齐王纳谏》" ref="邹忌修八尺有余。" />
+		</sense>
+		<sense tag="名" vernacular="量长度的工具，尺子" />
+		<sense tag="形" vernacular="表示短、少">
+			<exam article="《荆轲刺秦王》" ref="群臣侍殿上者，不得持尺兵。" />
+		</sense>
+	</pron>
+	<phrase value="尺晷">
+		<sense value="晷，日影" />
+		<sense value="日影移动一尺" />
+		<sense value="比喻较短的时间" />
+	</phrase>
+	<phrase value="尺书">
+		<sense value="1" />
+		<sense value="信札；书信" />
+	</phrase>
+	<phrase value="尺素">
+		<sense value="1" />
+		<sense value="古人写文章或书信常用的长一尺左右的绢帛" />
+		<sense value="后泛指文章、书籍" />
+	</phrase>
+</character>

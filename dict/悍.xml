@@ -1,0 +1,20 @@
+<character value="悍">
+	<introduce>
+		<pinyin value="han4" writing="hàn" />
+		<bushou value="忄" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="捺捺竖竖折横横横横竖" />
+	</introduce>
+	<pron value="hàn">
+		<sense tag="形" vernacular="勇猛">
+			<exam article="《史记·孙子吴起列传》" ref="素悍勇而轻齐。" />
+		</sense>
+		<sense tag="形" vernacular="强劲">
+			<exam article="《淮南子·兵略》" ref="故水激则悍，矢激则远。" />
+		</sense>
+		<sense tag="形" vernacular="凶狠">
+			<exam article="《捕蛇者说》" ref="悍吏之来吾乡。" />
+		</sense>
+	</pron>
+</character>

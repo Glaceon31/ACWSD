@@ -1,0 +1,20 @@
+<character value="况">
+	<introduce>
+		<pinyin value="kuang4" writing="kuàng" />
+		<bushou value="冫" />
+		<bushoustroke value="2" />
+		<stroke value="7" />
+		<order value="捺横竖折横撇折" />
+	</introduce>
+	<pron value="kuàng">
+		<sense tag="动" vernacular="譬况；比拟">
+			<exam article="《盐铁论·忧边》" ref="及欲以闾里之治，而况国之大事。" />
+		</sense>
+		<sense tag="连" vernacular="何况；况且">
+			<exam article="《庖丁解牛》" ref="技经肯綮之未尝，而况大軱乎？" />
+		</sense>
+		<sense tag="名" vernacular="情况；情形">
+			<exam article="《送丁孝廉之钱塘》" ref="若见故人询旅况。" />
+		</sense>
+	</pron>
+</character>

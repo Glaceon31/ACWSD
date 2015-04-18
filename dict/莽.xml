@@ -1,0 +1,34 @@
+<character value="莽">
+	<introduce>
+		<pinyin value="mang3" writing="măng" />
+		<bushou value="艹" />
+		<bushoustroke value="3" />
+		<stroke value="10" />
+		<order value="横竖竖横撇捺捺横撇竖" />
+	</introduce>
+	<pron value="mǎng">
+		<sense tag="名" vernacular="草；密聚丛生的草">
+			<exam article="《方言》" ref="草，南楚江湘之间谓之莽。" />
+		</sense>
+		<sense tag="名" vernacular="草木丛生处">
+			<exam article="《周易·同人》" ref="伏戎于莽。" />
+		</sense>
+		<sense tag="名" vernacular="民间；草野">
+			<exam article="《察传》" ref="乃今重黎举夔于草莽之中而进之。" />
+		</sense>
+		<sense tag="形" vernacular="粗鲁；不精细">
+			<exam article="《庄子·则阳》" ref="昔予为禾，耕而卤莽之。" />
+		</sense>
+	</pron>
+	<phrase value="莽苍">
+		<sense value="迷茫的样子" />
+		<sense value="指郊野；近郊" />
+	</phrase>
+	<phrase value="莽浪">
+		<sense value="荒诞；虚浮" />
+	</phrase>
+	<phrase value="莽莽">
+		<sense value="草木茂密的样子" />
+		<sense value="广阔；旷远" />
+	</phrase>
+</character>

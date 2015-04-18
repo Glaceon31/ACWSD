@@ -1,0 +1,17 @@
+<character value="轘">
+	<introduce>
+		<pinyin value="huan4" writing="huàn" />
+		<bushou value="車" />
+		<bushoustroke value="7" />
+		<stroke value="20" />
+		<order value="横竖折横横横竖竖折竖竖横横竖折横撇折撇捺" />
+	</introduce>
+	<pron value="huàn">
+		<sense tag="名" vernacular="用车马分裂人的肢体的酷刑">
+			<exam article="《释名·释丧制》" ref="车裂曰轘，轘散也，肢体分散也。" />
+		</sense>
+		<sense vernacular="huán轘辕，山名">
+			<exam article="《管子·地图》" ref="凡兵主者必先审知地图。轘之险，……必尽知之。" />
+		</sense>
+	</pron>
+</character>

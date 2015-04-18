@@ -1,0 +1,42 @@
+<character value="淫">
+	<introduce>
+		<pinyin value="yin2" writing="yín" />
+		<bushou value="氵" />
+		<bushoustroke value="3" />
+		<stroke value="11" />
+		<order value="捺捺横撇捺捺撇撇横竖横" />
+	</introduce>
+	<pron value="yín">
+		<sense tag="动" vernacular="浸渍">
+			<exam article="《周礼·考工记》" ref="善防者淫之。" />
+		</sense>
+		<sense tag="形" vernacular="过分；无节制">
+			<exam article="《论积贮疏》" ref="淫侈之俗日日以长，是天下之大赋也。" />
+		</sense>
+		<sense tag="形" vernacular="大；洪大">
+			<exam article="《女娲补天》" ref="苍天补，四极正，淫水涸，冀州平，狡虫死，颛民生。" />
+		</sense>
+		<sense tag="形使动" vernacular="使……迷惑">
+			<exam article="《孟子·滕文公》" ref="宝贵不能淫。" />
+		</sense>
+		<sense tag="形" vernacular="不正当的男女关系">
+			<exam article="《荀子·天论》" ref="男女淫乱。" />
+		</sense>
+		<sense tag="动" vernacular="好色；纵欲">
+			<exam article="《左传·成公二年》" ref="贪色为淫。" />
+		</sense>
+	</pron>
+	<phrase value="淫巧">
+		<sense value="奇巧过度" />
+	</phrase>
+	<phrase value="淫威">
+		<sense value="本指盛大的威仪" />
+		<sense value="后用以指滥用权威，恣意施行暴政" />
+	</phrase>
+	<phrase value="淫伕">
+		<sense value="荒淫放荡" />
+	</phrase>
+	<phrase value="淫雨">
+		<sense value="连绵不断地下雨" />
+	</phrase>
+</character>

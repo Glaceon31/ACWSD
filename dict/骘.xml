@@ -1,0 +1,17 @@
+<character value="骘">
+	<introduce>
+		<pinyin value="zhi4" writing="zhì" />
+		<bushou value="马" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="折竖竖横竖横竖撇撇折折横" />
+	</introduce>
+	<pron value="zhì">
+		<sense tag="名" vernacular="公马">
+			<exam article="《尔雅·释畜》" ref="牡曰骘。" />
+		</sense>
+		<sense tag="形" vernacular="安定">
+			<exam article="《天论上》" ref="故阴骘之说胜焉。" />
+		</sense>
+	</pron>
+</character>

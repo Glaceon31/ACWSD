@@ -1,0 +1,21 @@
+<character value="翁">
+	<introduce>
+		<pinyin value="weng1" writing="wēng" />
+		<bushou value="羽" />
+		<bushoustroke value="6" />
+		<stroke value="10" />
+		<order value="撇捺折捺折捺横折捺横" />
+	</introduce>
+	<pron value="wēng">
+		<sense tag="名" vernacular="父亲">
+			<exam article="《促织》" ref="而翁归，自与复算耳。" />
+		</sense>
+		<sense tag="名" vernacular="泛指男性老人">
+			<exam article="《卖炭翁》" ref="卖炭翁，伐薪烧炭南山中。" />
+		</sense>
+		<sense tag="名" vernacular="指妻子的父亲；丈夫的父亲" />
+	</pron>
+	<phrase value="翁主">
+		<sense value="汉诸王之女称翁主" />
+	</phrase>
+</character>

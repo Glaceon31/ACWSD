@@ -1,0 +1,14 @@
+<character value="喈">
+	<introduce>
+		<pinyin value="jie1" writing="jiē" />
+		<bushou value="口" />
+		<bushoustroke value="3" />
+		<stroke value="12" />
+		<order value="竖折横横折撇折撇竖折横横" />
+	</introduce>
+	<pron value="jiē">
+		<sense tag="象声词" vernacular="鸟叫声音">
+			<exam article="《诗经·周南·葛覃》" ref="黄鸟于飞，集于灌木，其鸣喈喈。" />
+		</sense>
+	</pron>
+</character>
