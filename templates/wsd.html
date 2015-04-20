@@ -166,6 +166,7 @@
  	  	$.post('/register/'+jsondata,
  	  	function reg(data){
  	  		if (data == 'success'){
+ 	  			alert(data)
  	  		}
  	  		else{
  	  			alert(data)
@@ -176,13 +177,14 @@
  	  
  	  function login(){
  	  	d = {}
- 	  	d['username'] = document.getElementById("username").value
- 	  	d['password'] = document.getElementById("password").value
+ 	  	d['username'] = document.getElementById("usernamel").value
+ 	  	d['password'] = document.getElementById("passwordl").value
  	  	jsondata = JSON.stringify(d)
  	  	$.post('/login/'+jsondata,
  	  	function reg(data){
- 	  		if (data == 'success'){
- 	  		}
+ 	  		result = JSON.parse(data)
+ 	  		if (result['success'] == 0)
+ 	  			alert(result['message'])
  	  		else{
  	  			alert(data)
  	  		}
@@ -217,11 +219,11 @@
 		<table border='0' bgcolor="#FFFFFF">
 		<tr>
 			<td>用户名</td>
-			<td><input type="text" id="usernamer"/></td>
+			<td><input type="text" id="usernamel"/></td>
 		</tr>
 		<tr>
 			<td>密码</td>
-			<td><input type="password" id="password"/></td>
+			<td><input type="password" id="passwordl"/></td>
 		</tr>
 		<tr>
 			<td><input type="button" value="登录" onclick="login()"/></td>

@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
 import json
 
-def savelog(username, actiontype, datetime, sentence, sense, message):
+def savelog(userid, username, actiontype, datetime, sentence, sense, message):
     #db
     try:
         a = 1
