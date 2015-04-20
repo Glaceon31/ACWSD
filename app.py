@@ -12,6 +12,11 @@ global corpus
 corpus = json.loads(cfile.read())
 cfile.close()
 
+from pymongo import MongoClient
+client = MongoClient()
+
+db = client.wsd
+
 from user import *
 from wsd import *
 from mainpage import *

@@ -1,6 +1,10 @@
 #-*- coding: utf-8 -*-
 import json
+import datetime
+import traceback
 from app import *
+
+userdb = db.user
 
 @app.route('/register/<jsondata>', methods=['GET', 'POST'])
 def register(jsondata):
@@ -8,29 +12,42 @@ def register(jsondata):
     data = json.loads(jsondata)
     #db
     try:
-        a = 1
+        #same username
+        tmp = userdb.find_one({"username": data["username"]})
+        if tmp:
+            return 'username exists'
+        else:
+            user_id = userdb.insert_one(data).inserted_id
+            print user
+
+            return 'success'
     except:
-        print 'dberror'
+        traceback.print_exc()
         return 'dberror'
-    #
-    return 'success'
 
 @app.route('/login/<jsondata>', methods=['GET', 'POST'])
 def login(jsondata):
     data = json.loads(jsondata)
-    password = ''
+    result = {'success': 0}
     #db
     try:
-        a = 1
+        tmp = userdb.find_one({"username": data["username"]})
+        if not tmp:
+            result['message'] = 'user not exists'
+            return json.dumps(result)
+        else:
+            if tmp['password'] == data['password']:
+                result['success'] = 1
+                result['userid'] = str(tmp['_id'])
+                result['username'] = tmp['username']
+                return json.dumps(result)
+            else:
+                result['message'] = 'wrong password'
+                return json.dumps(result)
     except:
-        print 'dberror'
-        return 0
-    #
-    if data['password'] != password:
-        return 'wrong password'
-    token = ''
-    result = ''
-    return result
+        traceback.print_exc()
+        result['message'] = 'database error'
+        return json.dumps(result)
 
 @app.route('/logout/<jsondata>', methods=['GET', 'POST'])
 def logout(jsondata):
