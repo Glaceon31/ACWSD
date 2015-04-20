@@ -18,7 +18,7 @@
  	  	function(data){
  	  		senselist = []
  	  		predictlist = []
- 	  		sentence = eval(data)
+ 	  		sentence = JSON.parse(data)
  	  		document.getElementById("sense").innerHTML = ''
  	  		document.getElementById('result').innerHTML = ''
  	  		for (i in sentence){
@@ -129,16 +129,113 @@
  	  	)
  	  	return
  	  }
+ 	  
+ 	  function getEvent(){ //同时兼容ie和ff的写法 
+        if(document.all)   return window.event;    
+        func=getEvent.caller;        
+        while(func!=null){  
+            var arg0=func.arguments[0];
+            if(arg0){
+				var temp = typeof(arg0)=="object" * arg0.preventDefault * arg0.stopPropagation
+				if((arg0.constructor==Event || arg0.constructor ==MouseEvent) || temp){  
+				return arg0;
+              }
+            }
+            func=func.caller;
+        }
+        return null;
+	}
+ 	  
+ 	  function showform(formname){
+ 	  	event = getEvent()
+   		sx = document.body.scrollLeft
+   		sy = document.body.scrollTop
+   		x = event.clientX
+   		y = event.clientY
+   		document.getElementById(formname).style.left = String(x+sx)+"px"
+   		document.getElementById(formname).style.top = String(y+sy)+"px"
+   		document.getElementById(formname).style.display = ''
+ 	  }
+ 	  
+ 	  function register(){
+ 	  	d = {}
+ 	  	d['username'] = document.getElementById("usernamer").value
+ 	  	d['password'] = document.getElementById("passwordr").value
+ 	  	d['name'] = document.getElementById("namer").value
+ 	  	jsondata = JSON.stringify(d)
+ 	  	$.post('/register/'+jsondata,
+ 	  	function reg(data){
+ 	  		if (data == 'success'){
+ 	  		}
+ 	  		else{
+ 	  			alert(data)
+ 	  		}
+ 	  	}
+ 	  	)
+ 	  }
+ 	  
+ 	  function login(){
+ 	  	d = {}
+ 	  	d['username'] = document.getElementById("username").value
+ 	  	d['password'] = document.getElementById("password").value
+ 	  	jsondata = JSON.stringify(d)
+ 	  	$.post('/login/'+jsondata,
+ 	  	function reg(data){
+ 	  		if (data == 'success'){
+ 	  		}
+ 	  		else{
+ 	  			alert(data)
+ 	  		}
+ 	  	}
+ 	  	)
+ 	  }
   	 </script>
    </head>
    
 <body>
-
+	<div id="LayerRegister" style="position:absolute;display:none;position:absolute;z-index:1;">
+		<table border='0' bgcolor="#FFFFFF">
+			<tr>
+				<td>用户名</td>
+				<td><input type="text" id="usernamer"/></td>
+			</tr>
+			<tr>
+				<td>密码</td>
+				<td><input type="password" id="passwordr"/></td>
+			</tr>
+			<tr>
+				<td>姓名</td>
+				<td><input type="text" id="namer"/></td>
+			</tr>
+			<tr>
+				<td><input type="button" value="注册" onclick="register()"/></td>
+				<td><a href="#" onclick=document.getElementById("LayerRegister").style.display="none">关闭</a></td>
+			</tr>
+		</table>
+	</div>
+	<div id="LayerLogin" style="position:absolute;display:none;position:absolute;z-index:1;">
+		<table border='0' bgcolor="#FFFFFF">
+		<tr>
+			<td>用户名</td>
+			<td><input type="text" id="usernamer"/></td>
+		</tr>
+		<tr>
+			<td>密码</td>
+			<td><input type="password" id="password"/></td>
+		</tr>
+		<tr>
+			<td><input type="button" value="登录" onclick="login()"/></td>
+			<td><a href="#" onclick=document.getElementById("LayerLogin").style.display="none">关闭</a></td>
+		</tr>
+		</table>
+	</div>
 	<div id="header">
 			<div id="logo">
 				<img src="/static/thumt-logo.png"  alt="logo"/>
 			</div>
 			<h1>文言文词义消歧系统</h1>
+			<a href='#' onclick="showform('LayerRegister')">注册</a>
+			<a href='#' onclick="showform('LayerLogin')">登录</a>
 		</div>
 	<div id="input_area">
 		  <button id="segment_button" onclick="submit()">词义消歧</button>
