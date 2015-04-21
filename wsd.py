@@ -1,46 +1,75 @@
 #-*- coding: utf-8 -*-
 import json
+import traceback
 from app import *
+
+corpusdb = db.corpus
 
 @app.route('/wsd/<data>', methods=['GET', 'POST'])
 def sensedistribute(data):
-    global corpus
     sentence = []
     print len(wsdata.wordlist)
-    for i in data:
-        print repr(i)
-        if wsdata.wordlist.has_key(i):
-            if corpus.has_key(data):
-                predict = False
-                for j in range(0, len(corpus[data])):
-                    if data[j] == i and corpus[data][j] != '':
-                        #print 1
-                        sentence.append({'word':i,'sense':wsdata.wordlist[i],'predictsense': corpus[data][j]})
-                        predict = True
-                if not predict:
-                    sentence.append({'word':i,'sense':wsdata.wordlist[i],'predictsense':''})
+    dbsentence = ''
+    try:
+        dbsentence = corpusdb.find_one({'sentence': {'$regex':data}})
+        if dbsentence:
+            print dbsentence['sentence']
+    except:
+        print 'db error'
+        dbsentence = ''
+    for i in range(0, len(data)):
+        if wsdata.wordlist.has_key(data[i]):
+            if not dbsentence:
+                sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':''})
             else:
-                sentence.append({'word':i,'sense':wsdata.wordlist[i],'predictsense':''})
+                if len(dbsentence['senses'][i]) > 0 and dbsentence['senses'][i] != '[]':
+                    print data[i], dbsentence['senses'][i]
+                    sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':dbsentence['senses'][i][0]['sense']})
+                    print dbsentence['senses'][i][0]['sense']
+                else:
+                    sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':''})
         else:
-            sentence.append({'word':i,'sense':''})
+            sentence.append({'word':data[i],'sense':''})
     return json.dumps(sentence)
 
 @app.route('/update/<jsondata>', methods=['GET', 'POST'])
 def update(jsondata):
     global corpus
+    print jsondata
     data = json.loads(jsondata)
-    if corpus.has_key(data['sentence']):
+    dbsentence = ''
+    try:
+        dbsentence = corpusdb.find_one({'sentence': data['sentence']})
+        if dbsentence:
+            print dbsentence['sentence']
+    except:
+        traceback.print_exc()
+        print 'db error'
+        dbsentence = ''   
+    if not dbsentence:
+        tmp = {}
+        tmp['sentence'] = data['sentence']
+        tmp['senses'] = []
         for i in range(0, len(data['sentence'])):
-            if data['sentence'][i] == data['word']:
-                corpus[data['sentence']][i] = data['sense']
+            tmp['senses'].append([])
+        tmp['senses'][data['word']].append({'tagger': [data['tagger']], 'sense':data['sense']}) 
+        try:
+            corpusdb.insert_one(tmp)
+        except:
+            traceback.print_exc()
+            return 'db error'
     else:
-        corpus[data['sentence']] = []
-        for word in data['sentence']:
-            if word == data['word']:
-                corpus[data['sentence']].append(data['sense'])
-            else:
-                corpus[data['sentence']].append('')
-    cfile = open(u'corpus//corpus.txt', 'wb')
-    cfile.write(json.dumps(corpus))
-    cfile.close()
+        found = False
+        for sense in dbsentence['senses'][data['word']]:
+            if sense['sense'] == data['sense']:
+                found = True
+                sense['tagger'].append(data['tagger'])
+                break
+        if not found:
+            dbsentence['senses'][data['word']].append({'sense':data['sense'],'tagger':[data['tagger']]})
+        try:
+            corpusdb.update_one({'sentence': dbsentence['sentence']}, {'$set':{'senses': dbsentence['senses']}})
+        except:
+            traceback.print_exc()
+            return 'db error'
     return '1'

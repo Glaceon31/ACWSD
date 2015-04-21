@@ -1,3 +1,6 @@
+var senselist = []
+var predictlist = []
+
 function submit(){
    		text = document.getElementById('inputtextarea').value
  	  	$.post('/wsd/'+text,
@@ -16,7 +19,7 @@ function submit(){
  	  			else{
  	  				reg0 = new RegExp('\n', 'g')
  	  				reg1 = new RegExp('\t', 'g')
- 	  				senselist[i] = sentence[i].sense.senses//.replace(reg0, '').replace(reg1, '')
+ 	  				senselist[i] = sentence[i].sense//.replace(reg0, '').replace(reg1, '')
  	  				document.getElementById('result').innerHTML += '<nospan id="word'+String(i)+'" onmouseover="if (lock == 0) changesense('+String(i)+')" onclick=lockorunlock('+String(i)+')>'+sentence[i].word+'</nospan>'
  	  				if (sentence[i].predictsense != ''){
  	  					predictlist[i] = sentence[i].predictsense
@@ -86,7 +89,12 @@ function submit(){
  	  	tagsentence = ''
  	  	for (i in senselist)
  	  		tagsentence += document.getElementById('word'+String(i)).innerHTML
- 	  	jsondata = '{"word":"'+tagword+'", "sentence":"'+tagsentence+'","sense":"'+tagsense+'"}'
+ 	  	tagdata = {}
+ 	  	tagdata['word'] = current
+ 	  	tagdata['sentence'] = tagsentence
+ 	  	tagdata['sense'] = tagsense
+ 	  	tagdata['tagger'] = getCookie('userid')
+ 	  	jsondata = JSON.stringify(tagdata)
  	  	$.post('/update/'+jsondata,
  	  	function(data){
  	  		if (data == '1'){
