@@ -57,14 +57,14 @@ def addcorpus():
 				for i in range(0, len(sentence)):
 					senses.append('[]')
 					if sense[i] != '':
-						senses[i] = [{'sense':sense[i],'tagger':'0'}]
+						senses[i] = [{'sense':sense[i],'tagger':['0']}]
 				newsentence['senses'] = senses
 				corpusdb.insert_one(newsentence)
 			else:
 				senses = tmp['senses']
 				for i in range(0, len(sentence)):
 					if sense[i] != '':
-						senses[i] = [{'sense':sense[i],'tagger':'0'}]
+						senses[i] = [{'sense':sense[i],'tagger':['0']}]
 				corpusdb.update_one({'sentence': sentence}, {'$set':{'senses':senses}})
 		except:
 			traceback.print_exc()

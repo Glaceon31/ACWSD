@@ -1,6 +1,7 @@
 #-*- coding: utf-8 -*-
 import json
 import traceback
+import random
 from app import *
 
 corpusdb = db.corpus
@@ -73,3 +74,15 @@ def update(jsondata):
             traceback.print_exc()
             return 'db error'
     return '1'
+
+@app.route('/random', methods=['GET', 'POST'])
+def randomcorpus():
+    try:
+        sentencecount = corpusdb.count()
+        randnum = random.randrange(sentencecount)
+        tmpsentence = corpusdb.find()
+        print tmpsentence[randnum]
+        return tmpsentence[randnum]['sentence']
+    except Exception, e:
+        print 'db error'
+        return 'db error'

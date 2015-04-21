@@ -111,3 +111,11 @@ function submit(){
  	  	)
  	  	return
  	  }
+
+function randomsentence(){
+	$.post('/random',
+	function randre(data){
+		document.getElementById('inputtextarea').value = data
+	}
+	)
+}
