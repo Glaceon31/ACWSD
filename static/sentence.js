@@ -90,22 +90,27 @@ function submit(){
  	  	for (i in senselist)
  	  		tagsentence += document.getElementById('word'+String(i)).innerHTML
  	  	tagdata = {}
+ 	  	tagdata['token'] = getCookie('token')
  	  	tagdata['word'] = current
  	  	tagdata['sentence'] = tagsentence
  	  	tagdata['sense'] = tagsense
- 	  	tagdata['tagger'] = getCookie('userid')
+ 	  	tagdata['tagger'] = getCookie('username')
  	  	jsondata = JSON.stringify(tagdata)
  	  	$.post('/update/'+jsondata,
  	  	function(data){
- 	  		if (data == '1'){
+ 	  		result = JSON.parse(data)
+ 	  		if (result['success'] == 1){
  	  			lock = 0
  	  			var tmpcurrent = current
  	  			submit()
  	  			current = tmpcurrent
  	  			document.getElementById("sense").innerHTML = ''
  	  			changesense(current)
- 	  			alert('success')
+ 	  			alert(result['message'])
  	  			
+ 	  		}
+ 	  		else{
+ 	  			alert(result['message'])
  	  		}
  	  	}
  	  	)

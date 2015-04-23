@@ -9,6 +9,7 @@
         <script type="text/javascript" src="/static/cookie.js"></script>
         <script type="text/javascript" src="/static/user.js?v=1.0"></script>
         <script type="text/javascript" src="/static/sentence.js?v=1.1"></script>
+        <script type="text/javascript" src="/static/jquery.md5.js"></script>
 	<script>
   	
   	var current = -1
@@ -75,6 +76,10 @@
 				<td><input type="password" id="passwordr"/></td>
 			</tr>
 			<tr>
+				<td>确认密码</td>
+				<td><input type="password" id="repasswordr"/></td>
+			</tr>
+			<tr>
 				<td>姓名</td>
 				<td><input type="text" id="namer"/></td>
 			</tr>
@@ -100,6 +105,38 @@
 		</tr>
 		</table>
 	</div>
+	<div id="LayerModify" style="position:absolute;display:none;position:absolute;z-index:1;">
+		<table border='0' bgcolor="#FFFFFF">
+			<tr>
+				<td>姓名</td>
+				<td><input type="text" id="namem"/></td>
+			</tr>
+			<tr>
+				<td><input type="button" value="修改" onclick="modify()"/></td>
+				<td><a href="#" onclick=document.getElementById("LayerModify").style.display="none">关闭</a></td>
+			</tr>
+		</table>
+	</div>
+	<div id="LayerModifypassword" style="position:absolute;display:none;position:absolute;z-index:1;">
+		<table border='0' bgcolor="#FFFFFF">
+			<tr>
+				<td>原密码</td>
+				<td><input type="password" id="oldpass"/></td>
+			</tr>
+			<tr>
+				<td>新密码</td>
+				<td><input type="password" id="newpass"/></td>
+			</tr>
+			<tr>
+				<td>确认密码</td>
+				<td><input type="password" id="renewpass"/></td>
+			</tr>
+			<tr>
+				<td><input type="button" value="修改" onclick="modifypassword()"/></td>
+				<td><a href="#" onclick=document.getElementById("LayerModifypassword").style.display="none">关闭</a></td>
+			</tr>
+		</table>
+	</div>
 	<div id="header">
 			<div id="logo">
 				<img src="/static/thumt-logo.png"  alt="logo"/>
@@ -110,8 +147,9 @@
 			<a href='#' onclick="showform('LayerLogin')">登录</a>
 			</nospan>
 			<nospan id="logged" style='display:none'>
-			<a href='#' id='username'></a>
+			<a href='#' id='username' onclick="tomodify()"></a>
 			<a href='#' onclick="logout()">登出</a>
+			<a href='#' onclick="showform('LayerModifypassword')">修改密码</a>
 			</nospan>
 		</div>
 	<div id="input_area">
