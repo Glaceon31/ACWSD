@@ -7,11 +7,6 @@ import wsdata
 app = Flask(__name__)
 app.debug = True
 
-cfile = open(u'corpus//corpus.txt','rb')
-global corpus
-corpus = json.loads(cfile.read())
-cfile.close()
-
 from pymongo import MongoClient
 client = MongoClient()
 
@@ -22,5 +17,5 @@ from wsd import *
 from mainpage import *
 
 if __name__ == '__main__':
-    app.run('0.0.0.0')
+    app.run('0.0.0.0', port = 6789)
     

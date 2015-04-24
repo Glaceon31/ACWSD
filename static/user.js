@@ -10,12 +10,15 @@ function register(){
  	  	jsondata = JSON.stringify(d)
  	  	$.post('/register/'+jsondata,
  	  	function reg(data){
- 	  		if (data == 'success'){
+ 	  		result = JSON.parse(data)
+ 	  		if (result['success'] == 1){
  	  			document.getElementById('LayerRegister').style.display = 'none'
- 	  			alert(data)
+ 	  			document.getElementById('passwordr').value = ''
+ 	  			document.getElementById('repasswordr').value = ''
+ 	  			alert(result['message'])
  	  		}
  	  		else{
- 	  			alert(data)
+ 	  			alert(result['message'])
  	  		}
  	  	}
  	  	)

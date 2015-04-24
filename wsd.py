@@ -49,6 +49,9 @@ def update(jsondata):
         traceback.print_exc()
         print 'db error'
         dbsentence = '' 
+    if not tmpuser:
+        result['message'] = u'请先登录'
+        return json.dumps(result)  
     if data['token'] != tmpuser['token']:
         result['message'] = u'登录已失效，请重新登录'
         return json.dumps(result)  
@@ -61,6 +64,8 @@ def update(jsondata):
             tmp['senses'].append([])
         tmp['senses'][data['word']].append({'tagger': [data['tagger']], 'sense':data['sense']}) 
         try:
+            if not savelog(data['tagger'], 'addsentence', data['token'], data['sentence'], data['word'],data['sense']):
+                return u'后台错误'
             corpusdb.insert_one(tmp)
             result['message'] = u'标注成功'
             result['success'] = 1
@@ -76,20 +81,28 @@ def update(jsondata):
             if not isinstance(sense, dict):
                 dbsentence['senses'][data['word']] = []
                 continue
+            if data['tagger'] in sense['tagger']:
+                print data['tagger'], sense['tagger']
+                tagged = True
+                sense['tagger'].remove(data['tagger'])
             if sense['sense'] == data['sense']:
                 found = True
                 sense['tagger'].append(data['tagger'])
-            if data['tagger'] in sense['tagger']:
-                tagged = True
-                sense['tagger'].remove(data['tagger'])
         if not found:
             dbsentence['senses'][data['word']].append({'sense':data['sense'],'tagger':[data['tagger']]})
         try:
+            if tagged:
+                if not savelog(data['tagger'], 'modifytag', data['token'], data['sentence'], data['word'],data['sense']):
+                    return u'后台错误'
+            else:
+                if not savelog(data['tagger'], 'addtag', data['token'], data['sentence'], data['word'],data['sense']):
+                    return u'后台错误'
             corpusdb.update_one({'sentence': dbsentence['sentence']}, {'$set':{'senses': dbsentence['senses']}})
             if tagged:
                 result['message'] = u'修改标注成功'
             else:
                 result['message'] = u'标注成功'
+                userdb.update_one({'username':data['tagger']}, {'$inc': {'tagnum' : 1}})
             result['success'] = 1
             return json.dumps(result)
         except:
