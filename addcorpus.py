@@ -15,7 +15,7 @@ db = client.wsd
 corpusdb = db.corpus
 dictdb = db.dict
 
-def adddict():
+def adddict0():
 	wordlist={}
 	wordnum = 0
 	failnum = 0
@@ -40,12 +40,35 @@ def adddict():
 				print 'dberror'
 				return 'dberror'
 
+def adddict():
+	wordnum = 0
+	failnum = 0
+	words = json.loads(open('dict//dict.txt', 'rb').read())
+	for word in words:
+		tmp = dictdb.find_one({'word' :word['word']})
+		if not tmp:
+			wordnum += 1
+			print wordnum
+			dictdb.insert_one(word)
+
+def extractdict():
+	tmp = dictdb.find()
+	words = []
+	for i in tmp:
+		word = {}
+		word['word'] = i['word']
+		word['sensexml'] = i['sensexml']
+		words.append(word)
+	output = open('dict//dictex.txt', 'wb')
+	output.write(json.dumps(words))
+	output.close()
+
 cfile = open(u'corpus//corpus.txt','rb')
 global corpus
 corpus = json.loads(cfile.read())
 cfile.close()
 sentencenum = 0
-def addcorpus():
+def addcorpus0():
 	global corpus
 	for sentence, sense in corpus.items():
 		#print sentence, sense
@@ -59,6 +82,7 @@ def addcorpus():
 					if sense[i] != '':
 						senses[i] = [{'sense':sense[i],'tagger':['0']}]
 				newsentence['senses'] = senses
+				newsentence['adder'] = 'dict'
 				corpusdb.insert_one(newsentence)
 			else:
 				senses = tmp['senses']
@@ -71,4 +95,28 @@ def addcorpus():
 			print 'dberror'
 			return 'dberror'
 
-addcorpus()
+def addcorpus():
+	sentencenum = 0
+	failnum = 0
+	sentences = json.loads(open('corpus//corpus.txt', 'rb').read())
+	for sentence in sentences:
+		tmp = corpusdb.find_one({'sentence' :sentence['sentence']})
+		if not tmp:
+			sentencenum += 1
+			print sentencenum
+			corpusdb.insert_one(sentence)
+
+def extractcorpus():
+	tmp = corpusdb.find()
+	sentences = []
+	for i in tmp:
+		sentence = {}
+		sentence['sentence'] = i['sentence']
+		sentence['senses'] = i['senses']
+		sentence['adder'] = i['adder']
+		sentences.append(sentence)
+	output = open('corpus//corpusex.txt', 'wb')
+	output.write(json.dumps(sentences))
+	output.close()
+
+adddict()

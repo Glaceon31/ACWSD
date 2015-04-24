@@ -57,6 +57,7 @@ def login(jsondata):
                 result['username'] = tmp['username']
                 result['name'] = tmp['name']
                 result['token'] = token
+                result['tagnum'] = tmp['tagnum']
                 userdb.update_one({'_id': tmp['_id']}, {'$set':{'token' : token}})
                 return json.dumps(result)
             else:
