@@ -106,6 +106,10 @@ function submit(){
  	  			current = tmpcurrent
  	  			document.getElementById("sense").innerHTML = ''
  	  			changesense(current)
+ 	  			if (result['message'] == '标注成功'){
+ 	  				tmp = parseInt(getCookie('tagnum'))
+ 	  				setCookie('tagnum', String(tmp+1), 1)
+ 	  			}
  	  			alert(result['message'])
  	  			
  	  		}

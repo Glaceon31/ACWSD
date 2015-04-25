@@ -39,6 +39,7 @@ function register(){
  	  			setCookie('username', result['username'], 1)
  	  			setCookie('truename', result['name'], 1)
  	  			setCookie('token', result['token'], 1)
+ 	  			setCookie('tagnum', result['tagnum'], 1)
  	  			loginstatus()
  	  			document.getElementById('LayerLogin').style.display = 'none'
  	  			document.getElementById('passwordl').value = ''
@@ -55,6 +56,7 @@ function register(){
  	  	delCookie('userid')
  	  	delCookie('truename')
  	  	delCookie('token')
+ 	  	delCookie('tagnum')
  	  	jsondata = JSON.stringify(d)
  	  	$.post('/logout/'+jsondata)
  	  	loginstatus()
@@ -76,6 +78,7 @@ function register(){
  	  function tomodify(){
  	  	showform('LayerModify')
  	  	document.getElementById('namem').value = getCookie('truename')
+ 	  	document.getElementById('tagnumm').innerHTML = getCookie('tagnum')
  	  }
 
  	  function modify(){
