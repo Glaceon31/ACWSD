@@ -62,12 +62,13 @@ def extractdict():
 	output = open('dict//dictex.txt', 'wb')
 	output.write(json.dumps(words))
 	output.close()
-
+'''
 cfile = open(u'corpus//corpus.txt','rb')
 global corpus
 corpus = json.loads(cfile.read())
 cfile.close()
 sentencenum = 0
+'''
 def addcorpus0():
 	global corpus
 	for sentence, sense in corpus.items():
@@ -119,4 +120,23 @@ def extractcorpus():
 	output.write(json.dumps(sentences))
 	output.close()
 
-adddict()
+def addrawcorpus():
+        sentencenum = 0
+	failnum = 0
+	sentences = open('corpus//rawcorpus-midschool.txt', 'rb').read().split('\r\n')
+	for sentence in sentences:
+                tmp = corpusdb.find_one({'sentence' :sentence})
+                if not tmp:
+                        sentencenum += 1
+                        print sentencenum
+                        newsentence = {}
+                        newsentence['sentence'] = sentence
+                        newsentence['adder'] = 'Grit'
+                        newsentence['source'] = 'midschool'
+                        newsentence['senses'] = []
+                        for i in sentence:
+                                newsentence['senses'].append([])
+                        corpusdb.insert_one(newsentence)
+                        
+
+addrawcorpus()

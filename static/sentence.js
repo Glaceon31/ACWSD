@@ -128,3 +128,11 @@ function randomsentence(){
 	}
 	)
 }
+
+function randomsentencecond(cond){
+	$.post('/randomcond/'+cond,
+	function randcondre(data){
+		document.getElementById('inputtextarea').value = data
+	}
+	)
+}

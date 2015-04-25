@@ -121,3 +121,15 @@ def randomcorpus():
     except Exception, e:
         print 'db error'
         return u'后台错误'
+
+@app.route('/randomcond/<cond>', methods=['GET', 'POST'])
+def randomcorpuscond(cond):
+    try:
+        print cond
+        tmpsentence = corpusdb.find({'source': 'midschool'})
+        randnum = random.randrange(tmpsentence.count())
+        print tmpsentence.count(), randnum
+        return tmpsentence[randnum]['sentence']
+    except Exception, e:
+        traceback.print_exc()
+        return u'后台错误'

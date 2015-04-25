@@ -159,6 +159,7 @@
 	<div id="input_area">
 		  <button id="segment_button" onclick="submit()">词义消歧</button>
 		  <button id="segment_button" onclick="randomsentence()">随机例句</button>
+		  <button id="segment_button" onclick="randomsentencecond('midschool')">随机初中文言文</button>
 
 			<table border="0" width="100%" cellpadding="10">
 				<tr>
@@ -168,12 +169,12 @@
 				</tr>
 				<tr>
 					<td valign="top">
-						<p cols="50" rows="6" id="result" readonly></p >
+						<p id="result" cols="50" rows="6"style="word-wrap:break-word;word-break:break-all;" readonly></p >
 					</td>
 				</tr>
 				<tr>
 					<td valign="top">
-						<p cols="50" rows="6" id="sense" readonly></p >
+						<p id="sense" readonly></p >
 					</td>
 				</tr>
 			</table>
