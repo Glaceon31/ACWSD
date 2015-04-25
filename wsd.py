@@ -126,7 +126,7 @@ def randomcorpus():
 def randomcorpuscond(cond):
     try:
         print cond
-        tmpsentence = corpusdb.find({'source': 'midschool'})
+        tmpsentence = corpusdb.find({'source': cond})
         randnum = random.randrange(tmpsentence.count())
         print tmpsentence.count(), randnum
         return tmpsentence[randnum]['sentence']
