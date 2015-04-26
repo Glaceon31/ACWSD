@@ -76,13 +76,14 @@ function submit(text){
  	  			}
  	  			examtag = sensetag[j].getElementsByTagName('exam')
  	  			sense = sensetag[j].attributes.vernacular.nodeValue
- 	  			var sensehtml = String(tagsensenum+1)+'. '
+ 	  			var sensehtml = ''
  	  			if (lock == 1){
  	  				if (sense == taglist[sensenum])
  	  					sensehtml += '<input id="radio'+String(tagsensenum)+'" value="'+sense+'" name="sense" type="radio" checked/>';
  	  				else
  	  					sensehtml += '<input id="radio'+String(tagsensenum)+'" value="'+sense+'" name="sense" type="radio"/>';
  	  			}
+ 	  			sensehtml += String(tagsensenum+1)+'. '
  	  			sensehtml += '<'+pos+'> '+sense
  	  			if (predictlist[sensenum] == sense)
  	  				sensehtml = '<nospan style="color:red">'+sensehtml+'</nospan>'
@@ -110,13 +111,14 @@ function submit(text){
  	  		j = 0
  	  		for (;j < sensetag.length; j++){
  	  			sense = sensetag[j].attributes.value.nodeValue
- 	  			sensehtml = String(tagsensenum+1)+'. '
+ 	  			sensehtml = ''
  	  			if (lock == 1){
  	  				if (sense == taglist[sensenum])
  	  					sensehtml += '<input id="radio'+String(tagsensenum)+'" value="'+sense+'" name="sense" type="radio" checked/>';
  	  				else
  	  					sensehtml += '<input id="radio'+String(tagsensenum)+'" value="'+sense+'" name="sense" type="radio"/>';
  	  			}
+ 	  			sensehtml += String(tagsensenum+1)+'. '
  	  			sensehtml += sense
  	  			if (predictlist[sensenum] == sense)
  	  				sensehtml = '<nospan style="color:red">'+sensehtml+'</nospan>'
