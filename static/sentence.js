@@ -1,18 +1,24 @@
 var senselist = []
 var predictlist = []
+var taglist = []
 
-function submit(){
-   		text = document.getElementById('inputtextarea').value
- 	  	$.post('/wsd/'+text,
+function submit(text){
+   		d = {}
+   		d['sentence'] = text
+   		d['username'] = getCookie('username')
+   		jsondata = JSON.stringify(d)
+ 	  	$.post('/wsd/'+jsondata,
  	  	function(data){
  	  		senselist = []
  	  		predictlist = []
+ 	  		taglist = []
  	  		sentence = JSON.parse(data)
  	  		document.getElementById("sense").innerHTML = ''
  	  		document.getElementById('result').innerHTML = ''
  	  		for (i in sentence){
  	  			senselist.push('')
  	  			predictlist.push('')
+ 	  			taglist.push('')
  	  			if (sentence[i].sense == ''){
  	  				document.getElementById('result').innerHTML += '<nospan id="word'+String(i)+'">'+sentence[i].word+'</nospan>'
  	  			}
@@ -20,7 +26,12 @@ function submit(){
  	  				reg0 = new RegExp('\n', 'g')
  	  				reg1 = new RegExp('\t', 'g')
  	  				senselist[i] = sentence[i].sense//.replace(reg0, '').replace(reg1, '')
- 	  				document.getElementById('result').innerHTML += '<nospan id="word'+String(i)+'" onmouseover="if (lock == 0) changesense('+String(i)+')" onclick=lockorunlock('+String(i)+')>'+sentence[i].word+'</nospan>'
+ 	  				if (sentence[i].tagged == 1){
+ 	  					document.getElementById('result').innerHTML += '<nospan style="color:blue" id="word'+String(i)+'" onmouseover="if (lock == 0) changesense('+String(i)+')" onclick=lockorunlock('+String(i)+')>'+sentence[i].word+'</nospan>'
+ 	  					taglist[i] = sentence[i].usertag
+ 	  				}
+ 	  				else
+ 	  					document.getElementById('result').innerHTML += '<nospan id="word'+String(i)+'" onmouseover="if (lock == 0) changesense('+String(i)+')" onclick=lockorunlock('+String(i)+')>'+sentence[i].word+'</nospan>'
  	  				if (sentence[i].predictsense != ''){
  	  					predictlist[i] = sentence[i].predictsense
  	  				}
@@ -37,7 +48,10 @@ function submit(){
  	  //	if (lock == 1)
  	  //		return
  	  	if (current != -1){
- 	  		document.getElementById('word'+String(current)).style.color = ''
+ 	  		if (taglist[current] != '')
+ 	  			document.getElementById('word'+String(current)).style.color = 'blue'
+ 	  		else
+ 	  			document.getElementById('word'+String(current)).style.color = ''
  	  	}
  	  	document.getElementById('word'+String(sensenum)).style.color = 'red'
  	  	document.getElementById("sense").innerHTML = ''
@@ -60,14 +74,30 @@ function submit(){
  	  			}catch(e){
  	  				pos = '无'
  	  			}
+ 	  			examtag = sensetag[j].getElementsByTagName('exam')
  	  			sense = sensetag[j].attributes.vernacular.nodeValue
  	  			var sensehtml = ''
- 	  			if (lock == 1)
- 	  				sensehtml += '<'+pos+'> '+sense+'<input id="radio'+String(tagsensenum)+'" value="'+sense+'" name="sense" type="radio"/><br>'
- 	  			else
- 	  				sensehtml += '<'+pos+'> '+sense+'<br>'
+ 	  			if (lock == 1){
+ 	  				if (sense == taglist[sensenum])
+ 	  					sensehtml += '<input id="radio'+String(tagsensenum)+'" value="'+sense+'" name="sense" type="radio" checked/>';
+ 	  				else
+ 	  					sensehtml += '<input id="radio'+String(tagsensenum)+'" value="'+sense+'" name="sense" type="radio"/>';
+ 	  			}
+ 	  			sensehtml += '<'+pos+'> '+sense
  	  			if (predictlist[sensenum] == sense)
  	  				sensehtml = '<nospan style="color:red">'+sensehtml+'</nospan>'
+ 	  			if (examtag.length > 0){
+ 	  				sensehtml += '。'+examtag[0].attributes.article.nodeValue+': “'
+ 	  				for (k in examtag[0].attributes.ref.nodeValue){
+ 	  					addword = examtag[0].attributes.ref.nodeValue[k]
+ 	  					if (addword == ch)
+ 	  						sensehtml += '<nospan style="color:red">'+addword+'</nospan>'
+ 	  					else
+ 	  						sensehtml += addword
+ 	  				}
+ 	  				sensehtml += '”'
+ 	  			}
+ 	  			sensehtml += '<br>'
  	  			document.getElementById("sense").innerHTML += sensehtml
  	  			tagsensenum += 1
  	  		}
@@ -102,7 +132,7 @@ function submit(){
  	  		if (result['success'] == 1){
  	  			lock = 0
  	  			var tmpcurrent = current
- 	  			submit()
+ 	  			submit(tagsentence)
  	  			current = tmpcurrent
  	  			document.getElementById("sense").innerHTML = ''
  	  			changesense(current)
@@ -135,4 +165,9 @@ function randomsentencecond(cond){
 		document.getElementById('inputtextarea').value = data
 	}
 	)
+}
+
+function baidu(){
+	sentence = document.getElementById('inputtextarea').value
+	window.open('http://www.baidu.com/s?wd='+sentence, '_blank')
 }

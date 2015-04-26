@@ -3,7 +3,7 @@
    <head>
    	<meta http-equiv="Content-Type" content="text/html; charset=utf8" />
         <link href="favicon.png" rel="shortcut icon"/>
-        <title>文言文词义消歧系统</title>
+        <title>文言文词义消歧</title>
         <link rel="stylesheet" href="/static/layout.css" type="text/css">
         <script type="text/javascript" src="/static/jquery-1.3.2.min.js"></script>
         <script type="text/javascript" src="/static/cookie.js"></script>
@@ -157,10 +157,11 @@
 			</nospan>
 		</div>
 	<div id="input_area">
-		  <button id="segment_button" onclick="submit()">词义消歧</button>
+		  <button id="segment_button" onclick="submit(document.getElementById('inputtextarea').value)">词义消歧</button>
 		  <button id="segment_button" onclick="randomsentence()">随机例句</button>
 		  <button id="segment_button" onclick="randomsentencecond('midschool')">随机初中文言文</button>
 		  <button id="segment_button" onclick="randomsentencecond('highschool')">随机高中文言文</button>
+		  <button id="segment_button" onclick="baidu()">百度一下</button>
 
 			<table border="0" width="100%" cellpadding="10">
 				<tr>

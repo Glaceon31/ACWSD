@@ -6,8 +6,11 @@ from app import *
 
 corpusdb = db.corpus
 
-@app.route('/wsd/<data>', methods=['GET', 'POST'])
-def sensedistribute(data):
+@app.route('/wsd/<jsondata>', methods=['GET', 'POST'])
+def sensedistribute(jsondata):
+    data = json.loads(jsondata)
+    username = data['username']
+    data = data['sentence']
     sentence = []
     print len(wsdata.wordlist)
     dbsentence = ''
@@ -25,7 +28,26 @@ def sensedistribute(data):
             else:
                 if len(dbsentence['senses'][i]) > 0 and dbsentence['senses'][i] != '[]':
                     print data[i], dbsentence['senses'][i]
-                    sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':dbsentence['senses'][i][0]['sense']})
+                    predictsense = ''
+                    tagnum = 0
+                    tagged = False
+                    usertag = ''
+                    for sense in dbsentence['senses'][i]:
+                        if 'dict' in sense['tagger']:
+                            predictsense = sense['sense']
+                            tagnum = 10000
+                        elif len(sense['tagger']) > tagnum:
+                            predictsense = sense['sense']
+                            tagnum = len(sense['tagger'])
+                        if not username == '':
+                            if username in sense['tagger']:
+                                tagged = True
+                                usertag = sense['sense']
+                    #print tagged
+                    if tagged:
+                        sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':predictsense, 'tagged':1, 'usertag':usertag})
+                    else:
+                        sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':predictsense})
                     print dbsentence['senses'][i][0]['sense']
                 else:
                     sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':''})
