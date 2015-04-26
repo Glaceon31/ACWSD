@@ -19,10 +19,10 @@ def adddict0():
 	wordlist={}
 	wordnum = 0
 	failnum = 0
-	for parents,dirnames,filenames in os.walk(r'dict'):
+	for parents,dirnames,filenames in os.walk(r'dictxml'):
 		for f in filenames:
 			word = {}
-			word['senses'] = open('dict//'+f,'rb').read()
+			word['senses'] = open('dictxml//'+f,'rb').read()
 			ordname = ''
 			if platform.system() == 'Windows':
 				wordname = os.path.splitext(f)[0].decode('gbk')

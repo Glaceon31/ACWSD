@@ -76,7 +76,7 @@ function submit(text){
  	  			}
  	  			examtag = sensetag[j].getElementsByTagName('exam')
  	  			sense = sensetag[j].attributes.vernacular.nodeValue
- 	  			var sensehtml = ''
+ 	  			var sensehtml = String(tagsensenum+1)+'. '
  	  			if (lock == 1){
  	  				if (sense == taglist[sensenum])
  	  					sensehtml += '<input id="radio'+String(tagsensenum)+'" value="'+sense+'" name="sense" type="radio" checked/>';
@@ -102,6 +102,30 @@ function submit(text){
  	  			tagsensenum += 1
  	  		}
  	  	}
+ 	  	phrasetag = root[0].getElementsByTagName('phrase')
+ 	  	i = 0
+ 	  	for (; i < phrasetag.length; i++){
+ 	  		document.getElementById("sense").innerHTML += '【'+phrasetag[i].attributes.value.nodeValue+'】<br>'
+ 	  		sensetag = phrasetag[i].getElementsByTagName('sense')
+ 	  		j = 0
+ 	  		for (;j < sensetag.length; j++){
+ 	  			sense = sensetag[j].attributes.value.nodeValue
+ 	  			sensehtml = String(tagsensenum+1)+'. '
+ 	  			if (lock == 1){
+ 	  				if (sense == taglist[sensenum])
+ 	  					sensehtml += '<input id="radio'+String(tagsensenum)+'" value="'+sense+'" name="sense" type="radio" checked/>';
+ 	  				else
+ 	  					sensehtml += '<input id="radio'+String(tagsensenum)+'" value="'+sense+'" name="sense" type="radio"/>';
+ 	  			}
+ 	  			sensehtml += sense
+ 	  			if (predictlist[sensenum] == sense)
+ 	  				sensehtml = '<nospan style="color:red">'+sensehtml+'</nospan>'
+ 	  			sensehtml += '<br>'
+ 	  			document.getElementById("sense").innerHTML += sensehtml
+ 	  			tagsensenum += 1
+ 	  		}
+ 	  	}
+
  	  	if (lock == 1)
  	  		document.getElementById("sense").innerHTML += '<input type="button" id="tagcorpus" value="提交标注" onclick="updatecorpus()"/>'
  	  }
