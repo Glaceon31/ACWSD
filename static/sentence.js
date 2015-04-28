@@ -63,6 +63,8 @@ function submit(text){
  	  	prontag = root[0].getElementsByTagName('pron')
  	  	var i = 0
  	  	tagsensenum = 0
+ 	  	if (lock == 1)
+ 	  		document.getElementById("sense").innerHTML += '<input type="button" id="tagcorpus" value="提交标注" onclick="updatecorpus()"/><br>'
  	  	for (;i<prontag.length; i++){
  	  		pron = prontag[i].attributes.value.nodeValue
  	  		document.getElementById("sense").innerHTML += pron+'<br>'
@@ -128,8 +130,7 @@ function submit(text){
  	  		}
  	  	}
 
- 	  	if (lock == 1)
- 	  		document.getElementById("sense").innerHTML += '<input type="button" id="tagcorpus" value="提交标注" onclick="updatecorpus()"/>'
+ 	  	
  	  }
 
  	  function updatecorpus(){
