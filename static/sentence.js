@@ -254,6 +254,10 @@ function submit(text){
  	  	$.post('/addsense/'+jsondata,
  	  		function addsensere(data){
  	  			result = JSON.parse(data)
+ 	  			tagsentence = ''
+ 	  			for (i in senselist)
+ 	  				tagsentence += document.getElementById('word'+String(i)).innerHTML
+ 	  			submit(tagsentence)
  	  			alert(result['message'])
  	  		}
  	  	)

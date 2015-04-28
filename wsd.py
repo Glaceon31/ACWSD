@@ -159,6 +159,8 @@ def addsense(jsondata):
         if not dbword.has_key('usersense'):
             dbword['usersense'] = []
         dbword['usersense'].append({'pos':data['pos'], 'sense':data['sense'],'username': data['username'],'pron':data['pron'], 'example':data['example']})
+        if not savelog(data['username'], 'addsense', data['token'], data['example'], data['word'],data['sense']):
+            return u'后台错误'
         dictdb.update_one({'word' :data['word']}, {'$set':{'usersense':dbword['usersense']}})
         result['success'] = 1
         result['message'] = u'添加成功'
