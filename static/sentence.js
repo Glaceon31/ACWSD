@@ -166,7 +166,7 @@ function submit(text){
  	  				tmp = parseInt(getCookie('tagnum'))
  	  				setCookie('tagnum', String(tmp+1), 1)
  	  			}
- 	  			alert(result['message'])
+ 	  			//alert(result['message'])
  	  			
  	  		}
  	  		else{
@@ -175,6 +175,10 @@ function submit(text){
  	  	}
  	  	)
  	  	return
+ 	  }
+
+ 	  function addsense(){
+ 	  	
  	  }
 
 function randomsentence(){
