@@ -13,6 +13,9 @@ def register(jsondata):
     print jsondata
     data = json.loads(jsondata)
     result = {'success' :0}
+    if len(data['username']) < 3:
+        result['message'] = u'用户名过短'
+        return json.dumps(result)
     #db
     try:
         #same username

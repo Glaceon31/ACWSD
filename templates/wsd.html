@@ -141,6 +141,15 @@
 			</tr>
 		</table>
 	</div>
+	<div id="help" style="position:absolute;display:none;position:absolute;z-index:1;background:#FFFFFF;border:2px solid #0000FF">
+		<p>
+		1. 在文本框中输入文言文，或者点击按钮随机从语料中选择一句文言文<br>
+		2. 点击词义消歧，将鼠标移动到文本框下方的字上来查看释义（标红）<br>
+		3. 点击文本框下方句子中对应的字来进行标注，再次点击可取消锁定状态<br>
+		4. 词义消歧算法仍未完成，释义中标红的为词典释义或标注释义<br>
+		<input type="button" onclick=document.getElementById("help").style.display="none" value="关闭">
+		</p>
+	</div>
 	<div id="header">
 			<div id="logo">
 				<img src="/static/thumt-logo.png"  alt="logo"/>
@@ -162,6 +171,7 @@
 		  <button id="segment_button" onclick="randomsentencecond('midschool')">随机初中文言文</button>
 		  <button id="segment_button" onclick="randomsentencecond('highschool')">随机高中文言文</button>
 		  <button id="segment_button" onclick="baidu()">百度一下</button>
+		  <button id="segment_button" onclick="showform('help')">显示帮助</button>
 
 			<table border="0" width="100%" cellpadding="10">
 				<tr>

@@ -5,6 +5,7 @@ import random
 from app import *
 
 corpusdb = db.corpus
+dictdb = db.dict
 
 @app.route('/wsd/<jsondata>', methods=['GET', 'POST'])
 def sensedistribute(jsondata):
@@ -23,6 +24,7 @@ def sensedistribute(jsondata):
         dbsentence = ''
     for i in range(0, len(data)):
         if wsdata.wordlist.has_key(data[i]):
+            print wsdata.wordlist[data[i]]
             if not dbsentence:
                 sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':''})
             else:
@@ -131,6 +133,41 @@ def update(jsondata):
             traceback.print_exc()
             result['message'] = u'后台错误'
             return json.dumps(result)
+
+@app.route('/addsense/<jsondata>', methods=['GET', 'POST'])
+def addsense(jsondata):
+    print jsondata
+    data = json.loads(jsondata)
+    result = {'success': 0}
+    tmpuser = {}
+    try:
+        tmpuser = userdb.find_one({'username': data['username']})
+        dbword = dictdb.find_one({'word': data['word']})
+        if dbword:
+            print dbword['word']
+    except:
+        traceback.print_exc()
+        result['message'] = u'后台错误'
+        return json.dumps(result)
+    if not tmpuser:
+        result['message'] = u'请先登录'
+        return json.dumps(result)  
+    if data['token'] != tmpuser['token']:
+        result['message'] = u'登录已失效，请重新登录'
+        return json.dumps(result)
+    try:
+        if not dbword.has_key('usersense'):
+            dbword['usersense'] = []
+        dbword['usersense'].append({'pos':data['pos'], 'sense':data['sense'],'username': data['username'],'pron':data['pron'], 'example':data['example']})
+        dictdb.update_one({'word' :data['word']}, {'$set':{'usersense':dbword['usersense']}})
+        result['success'] = 1
+        result['message'] = u'添加成功'
+        wsdata.refreshdict()
+        return json.dumps(result)
+    except:
+        traceback.print_exc()
+        result['message'] = u'后台错误'
+        return json.dumps(result)
 
 @app.route('/random', methods=['GET', 'POST'])
 def randomcorpus():

@@ -9,10 +9,24 @@ from app import *
 
 dictdb = db.dict
 
-wordlist={}
-wordnum = 0
-tmp = dictdb.find()
-for i in tmp:
-    wordlist[i['word']] = i['sensexml']
-    wordnum += 1
-    print wordnum, i['word']
+global wordlist
+
+def refreshdict():
+	global wordlist
+	wordlist = {}
+	wordnum = 0
+	tmp = dictdb.find()
+	print tmp.count()
+	for i in tmp:
+		wordlist[i['word']] = {}
+		wordlist[i['word']]['dictsense'] = i['sensexml']
+		#print wordlist[i['word']]
+		if i.has_key('usersense'):
+			wordlist[i['word']]['usersense'] = i['usersense']
+		else:
+			wordlist[i['word']]['usersense'] = []
+		wordnum += 1
+		print wordnum, i['word'] 
+
+refreshdict()
+

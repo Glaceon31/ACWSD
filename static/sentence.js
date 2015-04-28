@@ -1,6 +1,8 @@
 var senselist = []
+var usersenselist = []
 var predictlist = []
 var taglist = []
+var sentence = []
 
 function submit(text){
    		d = {}
@@ -10,6 +12,7 @@ function submit(text){
  	  	$.post('/wsd/'+jsondata,
  	  	function(data){
  	  		senselist = []
+ 	  		usersenselist = []
  	  		predictlist = []
  	  		taglist = []
  	  		sentence = JSON.parse(data)
@@ -57,7 +60,8 @@ function submit(text){
  	  	document.getElementById("sense").innerHTML = ''
  	  	current = sensenum
  	  	parser = new DOMParser()
- 	  	xml = parser.parseFromString(senselist[sensenum],'text/xml')
+ 	  	sensedata = senselist[sensenum]
+ 	  	xml = parser.parseFromString(sensedata['dictsense'],'text/xml')
  	  	root = xml.getElementsByTagName('character')
  	  	ch = root[0].attributes.value.nodeValue
  	  	prontag = root[0].getElementsByTagName('pron')
@@ -105,6 +109,39 @@ function submit(text){
  	  			tagsensenum += 1
  	  		}
  	  	}
+ 	  	i = 0
+ 	  	usersense = sensedata['usersense']
+ 	  	if (usersense.length > 0){
+ 	  		document.getElementById("sense").innerHTML += '用户添加义项<br>'
+ 	  		for (; i<usersense.length; i++){
+ 	  			sensehtml = ''
+ 	  			if (lock == 1){
+ 	  				if (sense == taglist[sensenum])
+ 	  					sensehtml += '<input id="radio'+String(tagsensenum)+'" value="'+sense+'" name="sense" type="radio" checked/>';
+ 	  				else
+ 	  					sensehtml += '<input id="radio'+String(tagsensenum)+'" value="'+sense+'" name="sense" type="radio"/>';
+ 	  			}
+ 	  			sensehtml += String(tagsensenum+1)+'. '
+ 	  			sensehtml += '<'+usersense[i]['pos']+'> '+usersense[i]['sense']
+ 	  			if (predictlist[sensenum] == sense)
+ 	  				sensehtml = '<nospan style="color:red">'+sensehtml+'</nospan>'
+ 	  			if (usersense[i]['example'].length > 0){
+ 	  				sensehtml += '。“'
+ 	  				for (k in usersense[i]['example']){
+ 	  					addword = usersense[i]['example'][k]
+ 	  					if (addword == ch)
+ 	  						sensehtml += '<nospan style="color:red">'+addword+'</nospan>'
+ 	  					else
+ 	  						sensehtml += addword
+ 	  				}
+ 	  				sensehtml += '”'
+ 	  			}
+ 	  			sensehtml += '<br>'
+ 	  			document.getElementById("sense").innerHTML += sensehtml
+ 	  			tagsensenum += 1
+ 	  		}
+ 	  		
+ 	  	}
  	  	phrasetag = root[0].getElementsByTagName('phrase')
  	  	i = 0
  	  	for (; i < phrasetag.length; i++){
@@ -129,8 +166,30 @@ function submit(text){
  	  			tagsensenum += 1
  	  		}
  	  	}
+ 	  	if (lock == 1){
+ 	  		sensehtml = '添加新的义项<br>词性<select id="newpos">'
+ 	  		sensehtml += posoption('名')
+ 	  		sensehtml += posoption('动')
+ 	  		sensehtml += posoption('代')
+ 	  		sensehtml += posoption('副')
+ 	  		sensehtml += posoption('介')
+ 	  		sensehtml += posoption('助')
+ 	  		sensehtml += posoption('形')
+ 	  		sensehtml += posoption('连')
+ 	  		sensehtml += posoption('无')
+ 	  		sensehtml += posoption('数')
+ 	  		sensehtml += posoption('量')
+ 	  		sensehtml += posoption('名使动')
+ 	  		sensehtml += '</select><br>发音<input type="text" id="newpron" size=3></input><br>'
+ 	  		sensehtml += '释义<input type="text" id="newsense"></input><br>'
+ 	  		sensehtml += '例句<input type="text" id="newexample"></input>'
+ 	  		sensehtml += '<br><input type="button" onclick="addsense()" value="添加义项"/><br>'
+ 	  		document.getElementById("sense").innerHTML += sensehtml
+ 	  	}
+ 	  }
 
- 	  	
+ 	  function posoption(pos){
+ 	  	return '<option value="'+pos+'">'+pos+'</option>'
  	  }
 
  	  function updatecorpus(){
@@ -179,7 +238,29 @@ function submit(text){
  	  }
 
  	  function addsense(){
- 	  	
+ 	  	d = {}
+ 	  	d['pron'] = document.getElementById('newpron').value
+ 	  	d['example'] = document.getElementById('newexample').value
+ 	  	d['word'] = sentence[current].word
+ 	  	d['username'] = getCookie('username')
+ 	  	d['token'] = getCookie('token')
+ 	  	d['pos'] = document.getElementById('newpos').value
+ 	  	d['sense']  = document.getElementById('newsense').value
+ 	  	if (d['sense'] == ''){
+ 	  		alert('义项不能为空')
+ 	  		return
+ 	  	}
+ 	  	jsondata = JSON.stringify(d)
+ 	  	$.post('/addsense/'+jsondata,
+ 	  		function addsensere(data){
+ 	  			result = JSON.parse(data)
+ 	  			alert(result['message'])
+ 	  		}
+ 	  	)
+ 	  }
+
+ 	  function deletesense(){
+
  	  }
 
 function randomsentence(){
