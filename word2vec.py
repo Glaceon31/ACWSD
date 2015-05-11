@@ -2,11 +2,10 @@
 import gensim, logging
 import argparse
 from pymongo import MongoClient
+from setting import *
 client = MongoClient()
 db = client.wsd
 corpusdb = db.corpus
-
-modelpath = 'model//Word2Vec'
 
 dbsentences = corpusdb.find()
 
@@ -27,11 +26,11 @@ def trainewmodel():
 		totaltoken += len(','.join(sen).split(','))
 		sentences.append(','.join(sen).split(','))
 	print totaltoken, tls, len(sentences), sentences[2]
-	model = gensim.models.Word2Vec(sentences, size=50, min_count = 2)
-	model.save(modelpath)
+	model = gensim.models.Word2Vec(sentences, size=vector_size, min_count = 2)
+	model.save(word2vecmodelpath)
 	
 def testsimiliarity(simword):
-	model = gensim.models.Word2Vec.load(modelpath)
+	model = gensim.models.Word2Vec.load(word2vecmodelpath)
 	for i in model.most_similar(positive=[simword]):
 		print i[0], i[1]
 	return 
