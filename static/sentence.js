@@ -283,6 +283,14 @@ function randomsentencecond(cond){
 	)
 }
 
+function randomsentencesub(){
+	$.post('/randomsub',
+	function randcondre(data){
+		document.getElementById('inputtextarea').value = data
+	}
+	)
+}
+
 function baidu(){
 	sentence = document.getElementById('inputtextarea').value
 	window.open('http://www.baidu.com/s?wd='+sentence, '_blank')

@@ -3,6 +3,7 @@ import json
 import traceback
 import random
 from app import *
+from setting import *
 
 corpusdb = db.corpus
 dictdb = db.dict
@@ -188,6 +189,17 @@ def randomcorpuscond(cond):
     try:
         print cond
         tmpsentence = corpusdb.find({'source': cond})
+        randnum = random.randrange(tmpsentence.count())
+        print tmpsentence.count(), randnum
+        return tmpsentence[randnum]['sentence']
+    except Exception, e:
+        traceback.print_exc()
+        return u'后台错误'
+
+@app.route('/randomsub', methods=['GET', 'POST'])
+def randomcorpussub():
+    try:
+        tmpsentence = corpusdb.find({'sentence': {'$regex': subregex}})
         randnum = random.randrange(tmpsentence.count())
         print tmpsentence.count(), randnum
         return tmpsentence[randnum]['sentence']
