@@ -4,6 +4,7 @@ import sys
 import time
 
 import numpy
+import argparse
 
 import theano
 import theano.tensor as T
@@ -21,6 +22,10 @@ client = MongoClient()
 
 db = client.wsd
 dictdb = db.dict
+
+parser = argparse.ArgumentParser()
+parser.add_argument('keyword')
+args = parser.parse_args()
 
 def load_data_random():
     featurenum = 350
@@ -265,4 +270,4 @@ def trainword(keyword):
                           ' ran for %.2fm' % ((end_time - start_time) / 60.))
 
 if __name__ == '__main__':
-    trainword(u'我')
+    trainword(args.keyword.decode('utf-8'))

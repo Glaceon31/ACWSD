@@ -2,6 +2,7 @@
 from pymongo import MongoClient
 from setting import *
 import numpy
+import argparse
 import theano
 import theano.tensor as T
 import gensim, logging
@@ -11,6 +12,10 @@ db = client.wsd
 corpusdb = db.corpus
 dictdb = db.dict
 traindict = db.traindict
+
+parser = argparse.ArgumentParser()
+parser.add_argument('keyword')
+args = parser.parse_args()
 
 def getsense(sentence, i):
 	if len(sentence['senses'][i]) > 0 and sentence['senses'][i] != '[]':
@@ -55,8 +60,6 @@ def load_data_word(keyword):
     						dataarray = numpy.hstack((dataarray,numpy.array([0]*50)))
     					else:
     						dataarray = numpy.hstack((dataarray,model[text[j]]))
-    						print dataarray.shape
-    						#print type(model[text[j]])
     				data_x.append(dataarray) 
 
     print 'sensenum: '+str(len(senselist))
@@ -119,4 +122,4 @@ def load_data_word(keyword):
 
 
 if __name__ == '__main__':
-    load_data_word(u'乃')
+    load_data_word(args.keyword.decode('utf-8'))
