@@ -130,7 +130,7 @@ def trainword(keyword):
         input=layer0_input,
         image_shape=(batch_size, 1, 2*window_radius+1, vector_size),
         filter_shape=(1, 1, 3, 1),
-        poolsize=(1, vector_size)
+        poolsize=(1, 1)
     )
 
     layer1_input = layer0.output.flatten(2)
@@ -138,12 +138,12 @@ def trainword(keyword):
     layer1 = HiddenLayer(
         rng,
         input=layer1_input,
-        n_in=2*window_radius-1,
-        n_out=3,
+        n_in=100*window_radius-50,
+        n_out=50,
         activation=T.tanh
     )
 
-    layer2 = LogisticRegression(input=layer1.output, n_in=3, n_out=20)
+    layer2 = LogisticRegression(input=layer1.output, n_in=50, n_out=20)
 
     cost = layer2.negative_log_likelihood(y)
 
@@ -167,7 +167,7 @@ def trainword(keyword):
 
     output_model = theano.function(
         [index],
-        [layer0.output.shape, layer1.output.shape],
+        [layer0.output.shape, layer1_input.shape, layer1.output.shape],
         givens={
             x: test_set_x[index * batch_size: (index + 1) * batch_size]
         }
@@ -222,6 +222,7 @@ def trainword(keyword):
             if iter % 100 == 0:
                 print 'training @ iter = ', iter
             cost_ij = train_model(minibatch_index)
+            print output_model(minibatch_index)
 
             if (iter + 1) % validation_frequency == 0:
 
