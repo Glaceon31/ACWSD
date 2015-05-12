@@ -88,6 +88,13 @@ def load_data_word(keyword):
 
     valid_set = (validnumpydata_x,validnumpydata_y)
 
+    #insert senselist into db
+    tmptdict = traindict.find_one({'word':keyword})
+    if not tmptdict:
+        traindict.insert_one({'word':keyword, 'senses':senselist})
+    else:
+        traindict.update_one({'word':keyword}, {'$set':{'senses': senselist}})
+
     def shared_dataset(data_xy, borrow=True):
         data_x, data_y = data_xy
         shared_x = theano.shared(numpy.asarray(data_x,
