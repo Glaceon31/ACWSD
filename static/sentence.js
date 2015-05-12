@@ -268,27 +268,53 @@ function submit(text){
  	  }
 
 function randomsentence(){
-	$.post('/random',
-	function randre(data){
-		document.getElementById('inputtextarea').value = data
+	mid = document.getElementById('midschool').checked
+	high = document.getElementById('highschool').checked
+	if (mid && high){
+		alert('请不要复选')
+		return
 	}
-	)
-}
-
-function randomsentencecond(cond){
-	$.post('/randomcond/'+cond,
-	function randcondre(data){
-		document.getElementById('inputtextarea').value = data
+	if (!mid && !high){
+		$.post('/random',
+		function randre(data){
+			document.getElementById('inputtextarea').value = data
+		}
+		)
 	}
-	)
+	else{
+		if (mid) cond = 'midschool'
+		if (high) cond = 'highschool'
+		$.post('/randomcond/'+cond,
+		function randcondre(data){
+			document.getElementById('inputtextarea').value = data
+		}
+		)
+	}
 }
 
 function randomsentencesub(){
-	$.post('/randomsub',
-	function randcondre(data){
-		document.getElementById('inputtextarea').value = data
+	mid = document.getElementById('midschool').checked
+	high = document.getElementById('highschool').checked
+	if (mid && high){
+		alert('请不要复选')
+		return
 	}
-	)
+	if (!mid && !high){
+		$.post('/randomsub',
+		function randcondre(data){
+			document.getElementById('inputtextarea').value = data
+		}
+		)
+	}
+	else{
+		if (mid) cond = 'midschool'
+		if (high) cond = 'highschool'
+		$.post('/randomsubcond/'+cond,
+		function randcondre(data){
+			document.getElementById('inputtextarea').value = data
+		}
+		)
+	}
 }
 
 function baidu(){

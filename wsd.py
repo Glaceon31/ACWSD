@@ -206,3 +206,14 @@ def randomcorpussub():
     except Exception, e:
         traceback.print_exc()
         return u'后台错误'
+
+@app.route('/randomsubcond/<cond>', methods=['GET', 'POST'])
+def randomcorpussubcond(cond):
+    try:
+        tmpsentence = corpusdb.find({'sentence': {'$regex': subregex},'source':cond})
+        randnum = random.randrange(tmpsentence.count())
+        print tmpsentence.count(), randnum
+        return tmpsentence[randnum]['sentence']
+    except Exception, e:
+        traceback.print_exc()
+        return u'后台错误'

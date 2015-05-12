@@ -166,14 +166,24 @@
 			</nospan>
 		</div>
 	<div id="input_area">
+		<div style='float:left'>
 		  <button id="segment_button" onclick="submit(document.getElementById('inputtextarea').value)">词义消歧</button>
 		  <button id="segment_button" onclick="randomsentence()">随机例句</button>
-		  <button id="segment_button" onclick="randomsentencecond('midschool')">随机初中文言文</button>
-		  <button id="segment_button" onclick="randomsentencecond('highschool')">随机高中文言文</button>
 		  <button id="segment_button" onclick="randomsentencesub()">集中标注</button>
 		  <button id="segment_button" onclick="baidu()">百度一下</button>
 		  <button id="segment_button" onclick="showform('help')">显示帮助</button>
-
+		 </div>
+		 <div style='float:left'>
+		  <table>
+		  	<tr>
+		  	<td><input type='checkbox' id='midschool'>初中文言文</input></td>
+			</tr>
+			<tr>
+		  	<td><input type='checkbox' id='highschool'>高中文言文</input></td>
+			</tr>
+			</table>
+		 </div>
+		 <br>
 			<table border="0" width="100%" cellpadding="10">
 				<tr>
 					<td valign="top">
