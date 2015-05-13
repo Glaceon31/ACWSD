@@ -103,10 +103,11 @@ def trainword(keyword):
     rng = numpy.random.RandomState(23455)
     datasets = load_data_word(keyword)
 
-    train_set_x, train_set_y = datasets[0]
-    valid_set_x, valid_set_y = datasets[1]
-    test_set_x, test_set_y = datasets[2]
+    train_set_x, train_set_y, trainsentence = datasets[0][0]
+    valid_set_x, valid_set_y, validsentence = datasets[0][1]
+    test_set_x, test_set_y, testsentence = datasets[0][2]
 
+    senselist = datasets[1]
 
     n_train_batches = train_set_x.get_value(borrow=True).shape[0]
     n_valid_batches = valid_set_x.get_value(borrow=True).shape[0]
@@ -222,6 +223,7 @@ def trainword(keyword):
                                   # check every epoch
 
     best_validation_loss = numpy.inf
+    #best_param = 
     best_iter = 0
     test_score = 0.
     start_time = time.clock()
@@ -244,9 +246,9 @@ def trainword(keyword):
                 # compute zero-one loss on validation set
                 validation_losses = [validate_model(i) for i
                                      in xrange(n_valid_batches)]
-                for index in range(0, n_valid_batches):
-                    print output_model(index)
-                    print valid_set_y[index * batch_size: (index + 1) * batch_size].eval()
+                #for index in range(0, n_valid_batches):
+                #    print output_model(index)
+                #    print valid_set_y[index * batch_size: (index + 1) * batch_size].eval()
                 this_validation_loss = numpy.mean(validation_losses)
                 print('epoch %i, minibatch %i/%i, validation error %f %%' %
                       (epoch, minibatch_index + 1, n_train_batches,
@@ -271,8 +273,10 @@ def trainword(keyword):
                     ]
                     test_score = numpy.mean(test_losses)
                     for index in range(0, n_test_batches):
-                        print output_model(index)
-                        print test_set_y[index * batch_size: (index + 1) * batch_size].eval()
+                        for i in range(0, batch_size):
+                            true_i = batch_size*index+i
+                            #print output_model(index)
+                            print testsentence[true_i], '\t',senselist[output_model(index)[0][i]], '\t', senselist[test_set_y[true_i].eval()]
                     print(('     epoch %i, minibatch %i/%i, test error of '
                            'best model %f %%') %
                           (epoch, minibatch_index + 1, n_train_batches,
@@ -284,9 +288,6 @@ def trainword(keyword):
 
     end_time = time.clock()
     print('Optimization complete.')
-    for index in range(0, n_test_batches):
-        print output_model(index)
-        print test_set_y[index * batch_size: (index + 1) * batch_size].eval()
     print('Best validation score of %f %% obtained at iteration %i, '
           'with test performance %f %%' %
           (best_validation_loss * 100., best_iter + 1, test_score * 100.))

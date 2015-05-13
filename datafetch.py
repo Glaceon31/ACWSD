@@ -43,24 +43,29 @@ def load_data_word(keyword):
     
     data_x = []
     data_y = []
+    data_sentence = []
     for sentence in tmpcorpus:
-    	text = sentence['sentence']
-    	for i in range(0,len(text)):
-    		word = text[i]
-    		if word == keyword:
-    			wordsense = getsense(sentence, i)
-    			if wordsense != '':
-    				if not wordsense in senselist:
-    					senselist.append(wordsense)
-    				senseindex = senselist.index(wordsense)
-    				data_y.append(senseindex)
-    				dataarray = numpy.array([])
-    				for j in range(i-window_radius,i+window_radius+1):
-    					if j < 0 or j >= len(text):
-    						dataarray = numpy.hstack((dataarray,numpy.array([0]*50)))
-    					else:
-    						dataarray = numpy.hstack((dataarray,model[text[j]]))
-    				data_x.append(dataarray) 
+        text = sentence['sentence']
+        for i in range(0,len(text)):
+            word = text[i]
+            if word == keyword:
+                wordsense = getsense(sentence, i)
+                if wordsense != '':
+                    sen = ''
+                    if not wordsense in senselist:
+                        senselist.append(wordsense)
+                    senseindex = senselist.index(wordsense)
+                    data_y.append(senseindex)
+                    dataarray = numpy.array([])
+                    for j in range(i-window_radius,i+window_radius+1):
+                        if j < 0 or j >= len(text):
+                            dataarray = numpy.hstack((dataarray,numpy.array([0]*50)))
+                        else:
+                            sen = sen+text[j]
+                            dataarray = numpy.hstack((dataarray,model[text[j]]))
+                    data_x.append(dataarray)
+                    data_sentence.append(sen)
+
 
     print 'sensenum: '+str(len(senselist))
     print 'sentencenum: '+str(tmpcorpus.count())
@@ -68,23 +73,29 @@ def load_data_word(keyword):
 
     trainnumpydata_x = []
     trainnumpydata_y = []
+    trainsentence = []
     for i in range(0,int(len(data_x)*0.6)):
         trainnumpydata_x.append(data_x[i])
         trainnumpydata_y.append(numpy.int64(data_y[i]))
+        trainsentence.append(data_sentence[i])
     train_set =  (trainnumpydata_x,trainnumpydata_y)
     
     testnumpydata_x = []
     testnumpydata_y = []
+    testsentence = []
     for i in range(int(len(data_x)*0.6),int(len(data_x)*0.8)):
         testnumpydata_x.append(data_x[i])
         testnumpydata_y.append(numpy.int64(data_y[i]))
+        testsentence.append(data_sentence[i])
     test_set = (testnumpydata_x,testnumpydata_y)
 
     validnumpydata_x = []
     validnumpydata_y = []
+    validsentence = []
     for i in range(int(len(data_x)*0.8),int(len(data_x))):
         validnumpydata_x.append(data_x[i])
         validnumpydata_y.append(numpy.int64(data_y[i]))
+        validsentence.append(data_sentence[i])
 
     valid_set = (validnumpydata_x,validnumpydata_y)
 
@@ -122,9 +133,9 @@ def load_data_word(keyword):
     valid_set_x, valid_set_y = shared_dataset(valid_set)
     train_set_x, train_set_y = shared_dataset(train_set)
 
-    rval = [(train_set_x, train_set_y), (valid_set_x, valid_set_y),
-            (test_set_x, test_set_y)]
-    return rval
+    rval = [(train_set_x, train_set_y, trainsentence), (valid_set_x, valid_set_y, validsentence),
+            (test_set_x, test_set_y, testsentence)]
+    return (rval, senselist)
 
 
 
