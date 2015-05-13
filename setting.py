@@ -9,4 +9,4 @@ maxtagnum = 10000
 
 word2vecmodelpath = 'model//Word2Vec'
 
-subregex = u'[乃|属|信|之]'
+subregex = u'[乃|属|信]'

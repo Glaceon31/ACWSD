@@ -52,19 +52,23 @@ def load_data_word(keyword):
                 wordsense = getsense(sentence, i)
                 if wordsense != '':
                     sen = ''
-                    if not wordsense in senselist:
-                        senselist.append(wordsense)
-                    senseindex = senselist.index(wordsense)
-                    data_y.append(senseindex)
-                    dataarray = numpy.array([])
-                    for j in range(i-window_radius,i+window_radius+1):
-                        if j < 0 or j >= len(text):
-                            dataarray = numpy.hstack((dataarray,numpy.array([0]*50)))
-                        else:
-                            sen = sen+text[j]
-                            dataarray = numpy.hstack((dataarray,model[text[j]]))
-                    data_x.append(dataarray)
-                    data_sentence.append(sen)
+                    try:
+                        if not wordsense in senselist:
+                            senselist.append(wordsense)
+                        senseindex = senselist.index(wordsense)
+                    
+                        dataarray = numpy.array([])
+                        for j in range(i-window_radius,i+window_radius+1):
+                            if j < 0 or j >= len(text):
+                                dataarray = numpy.hstack((dataarray,numpy.array([0]*50)))
+                            else:
+                                sen = sen+text[j]
+                                dataarray = numpy.hstack((dataarray,model[text[j]]))
+                        data_y.append(senseindex)
+                        data_x.append(dataarray)
+                        data_sentence.append(sen)
+                    except:
+                        a = 1
 
 
     print 'sensenum: '+str(len(senselist))
