@@ -271,12 +271,19 @@ def trainword(keyword):
                         test_model(i)
                         for i in xrange(n_test_batches)
                     ]
+                    print validation_losses
+                    for index in range(0, n_valid_batches):
+                        for i in range(0, batch_size):
+                            true_i = batch_size*index+i
+                            #print output_model(index)
+                            print validsentence[true_i], '\t',senselist[output_model(index)[0][i]], '\t', senselist[valid_set_y[true_i].eval()]
+                    print test_losses
                     test_score = numpy.mean(test_losses)
                     for index in range(0, n_test_batches):
                         for i in range(0, batch_size):
                             true_i = batch_size*index+i
                             #print output_model(index)
-                            print testsentence[true_i], '\t',senselist[output_model(index)[0][i]], '\t', senselist[test_set_y[true_i].eval()]
+                            print testsentence[true_i], '\t',senselist[output_test(index)[0][i]], '\t', senselist[test_set_y[true_i].eval()]
                     print(('     epoch %i, minibatch %i/%i, test error of '
                            'best model %f %%') %
                           (epoch, minibatch_index + 1, n_train_batches,
