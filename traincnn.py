@@ -2,6 +2,7 @@
 import os
 import sys
 import time
+import copy
 
 import numpy
 import argparse
@@ -223,7 +224,7 @@ def trainword(keyword):
                                   # check every epoch
 
     best_validation_loss = numpy.inf
-    #best_param = 
+    best_params = 0
     best_iter = 0
     test_score = 0.
     start_time = time.clock()
@@ -265,12 +266,15 @@ def trainword(keyword):
                     # save best validation score and iteration number
                     best_validation_loss = this_validation_loss
                     best_iter = iter
+                    best_params = [copy.deepcopy(layer0.params), copy.deepcopy(layer1.params), copy.deepcopy(layer2.params)]
 
                     # test it on the test set
                     test_losses = [
                         test_model(i)
                         for i in xrange(n_test_batches)
                     ]
+                    print params[0].eval()
+                    print (params[0].eval() == layer2.params[0].eval())
                     print validation_losses
                     for index in range(0, n_valid_batches):
                         for i in range(0, batch_size):
@@ -295,6 +299,25 @@ def trainword(keyword):
 
     end_time = time.clock()
     print('Optimization complete.')
+    for index in range(0, n_test_batches):
+        for i in range(0, batch_size):
+            true_i = batch_size*index+i
+            #print output_model(index)
+            print testsentence[true_i], '\t',senselist[output_test(index)[0][i]], '\t', senselist[test_set_y[true_i].eval()]
+    layer0.W = copy.deepcopy(best_params[0][0])
+    layer0.b = copy.deepcopy(best_params[0][1])
+    #layer0.params = [layer0.W, layer0.b]
+    layer1.W = copy.deepcopy(best_params[1][0])
+    layer1.b = copy.deepcopy(best_params[1][1])
+    #layer1.params = [layer1.W, layer1.b]
+    layer2.W = copy.deepcopy(best_params[2][0])
+    layer2.b = copy.deepcopy(best_params[2][1])
+    #layer2.params = [layer2.W, layer2.b]
+    for index in range(0, n_test_batches):
+        for i in range(0, batch_size):
+            true_i = batch_size*index+i
+            #print output_model(index)
+            print testsentence[true_i], '\t',senselist[output_test(index)[0][i]], '\t', senselist[test_set_y[true_i].eval()]
     print('Best validation score of %f %% obtained at iteration %i, '
           'with test performance %f %%' %
           (best_validation_loss * 100., best_iter + 1, test_score * 100.))

@@ -123,7 +123,7 @@ def extractcorpus():
 def addrawcorpus():
         sentencenum = 0
 	failnum = 0
-	sentences = open('corpus//rawcorpus-highschool.txt', 'rb').read().split('\r\n')
+	sentences = open('corpus//rawcorpus-gushiwen.txt', 'rb').read().split('\r\n')
 	for sentence in sentences:
                 tmp = corpusdb.find_one({'sentence' :sentence})
                 if not tmp:
@@ -132,7 +132,7 @@ def addrawcorpus():
                         newsentence = {}
                         newsentence['sentence'] = sentence
                         newsentence['adder'] = 'Grit'
-                        newsentence['source'] = 'highschool'
+                        newsentence['source'] = 'gushiwen'
                         newsentence['senses'] = []
                         for i in sentence:
                                 newsentence['senses'].append([])
