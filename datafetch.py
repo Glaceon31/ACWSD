@@ -13,10 +13,6 @@ corpusdb = db.corpus
 dictdb = db.dict
 traindict = db.traindict
 
-parser = argparse.ArgumentParser()
-parser.add_argument('keyword')
-args = parser.parse_args()
-
 def getsense(sentence, i):
 	if len(sentence['senses'][i]) > 0 and sentence['senses'][i] != '[]':
 		predictsense = ''
@@ -34,7 +30,8 @@ def getsense(sentence, i):
 
 
 
-def load_data_word(keyword):
+def load_data_word(keyword, window_radius):
+    print 'fetching data for '+keyword
     model = gensim.models.Word2Vec.load(word2vecmodelpath)
 
     tmpcorpus = corpusdb.find({'sentence': {'$regex':keyword}})
@@ -144,4 +141,7 @@ def load_data_word(keyword):
 
 
 if __name__ == '__main__':
-    load_data_word(args.keyword.decode('utf-8'))
+    parser = argparse.ArgumentParser()
+    parser.add_argument('keyword')
+    args = parser.parse_args()
+    load_data_word(args.keyword.decode('utf-8'), 3)
