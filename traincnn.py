@@ -280,15 +280,15 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
                         test_model(i)
                         for i in xrange(n_test_batches)
                     ]
-                    print params[0].eval()
-                    print (params[0].eval() == layer2.params[0].eval())
-                    print validation_losses
+                    #print params[0].eval()
+                    #print (params[0].eval() == layer2.params[0].eval())
+                    #print validation_losses
                     for index in range(0, n_valid_batches):
                         for i in range(0, batch_size):
                             true_i = batch_size*index+i
                             #print output_model(index)
                             print validsentence[true_i], '\t',senselist[output_model(index)[0][i]], '\t', senselist[valid_set_y[true_i].eval()]
-                    print test_losses
+                    #print test_losses
                     test_score = numpy.mean(test_losses)
                     for index in range(0, n_test_batches):
                         for i in range(0, batch_size):
