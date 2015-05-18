@@ -115,7 +115,7 @@ function submit(text){
  	  		document.getElementById("sense").innerHTML += '用户添加义项<br>'
  	  		for (; i<usersense.length; i++){
  	  			sensehtml = ''
- 	  			sense = usersense[i]
+ 	  			sense = usersense[i]['sense']
  	  			if (lock == 1){
  	  				if (sense == taglist[sensenum])
  	  					sensehtml += '<input id="radio'+String(tagsensenum)+'" value="'+sense+'" name="sense" type="radio" checked/>';

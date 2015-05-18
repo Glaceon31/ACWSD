@@ -71,6 +71,8 @@ def load_data_word(keyword, window_radius):
     print 'sensenum: '+str(len(senselist))
     print 'sentencenum: '+str(tmpcorpus.count())
     print 'traindatanum: '+str(len(data_x))
+    for i in senselist:
+        print i
 
     trainnumpydata_x = []
     trainnumpydata_y = []
