@@ -25,7 +25,7 @@ def sensedistribute(jsondata):
         dbsentence = ''
     for i in range(0, len(data)):
         if wsdata.wordlist.has_key(data[i]):
-            print wsdata.wordlist[data[i]]
+            #print wsdata.wordlist[data[i]]
             if not dbsentence:
                 sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':''})
             else:

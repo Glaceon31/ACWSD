@@ -97,7 +97,7 @@ def load_data_random():
             (test_set_x, test_set_y)]
     return rval
 
-def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1, filter_width = 50, pool_width = 1, loginput_num = 50):
+def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1,filter_width = 50, pool_width = 1, loginput_num = 50):
 
     print '==training parameters=='
     print 'window_radius: '+str(window_radius)
