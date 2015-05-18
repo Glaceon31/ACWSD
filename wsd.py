@@ -175,11 +175,13 @@ def addsense(jsondata):
 @app.route('/random', methods=['GET', 'POST'])
 def randomcorpus():
     try:
-        sentencecount = corpusdb.count()
-        randnum = random.randrange(sentencecount)
         tmpsentence = corpusdb.find()
-        print tmpsentence[randnum]
-        return tmpsentence[randnum]['sentence']
+        sentencecount = tmpsentence.count()
+        while True:
+            randnum = random.randrange(sentencecount)
+            if len(tmpsentence[randnum]['sentence']) <= length_limit:
+                print tmpsentence[randnum]
+                return tmpsentence[randnum]['sentence']
     except Exception, e:
         print 'db error'
         return u'后台错误'
@@ -189,9 +191,12 @@ def randomcorpuscond(cond):
     try:
         print cond
         tmpsentence = corpusdb.find({'source': cond})
-        randnum = random.randrange(tmpsentence.count())
-        print tmpsentence.count(), randnum
-        return tmpsentence[randnum]['sentence']
+        sentencecount = tmpsentence.count()
+        while True:
+            randnum = random.randrange(sentencecount)
+            if len(tmpsentence[randnum]['sentence']) <= length_limit:
+                print tmpsentence[randnum]
+                return tmpsentence[randnum]['sentence']
     except Exception, e:
         traceback.print_exc()
         return u'后台错误'
@@ -200,9 +205,12 @@ def randomcorpuscond(cond):
 def randomcorpussub():
     try:
         tmpsentence = corpusdb.find({'sentence': {'$regex': subregex}})
-        randnum = random.randrange(tmpsentence.count())
-        print tmpsentence.count(), randnum
-        return tmpsentence[randnum]['sentence']
+        sentencecount = tmpsentence.count()
+        while True:
+            randnum = random.randrange(sentencecount)
+            if len(tmpsentence[randnum]['sentence']) <= length_limit:
+                print tmpsentence[randnum]
+                return tmpsentence[randnum]['sentence']
     except Exception, e:
         traceback.print_exc()
         return u'后台错误'
@@ -211,9 +219,12 @@ def randomcorpussub():
 def randomcorpussubcond(cond):
     try:
         tmpsentence = corpusdb.find({'sentence': {'$regex': subregex},'source':cond})
-        randnum = random.randrange(tmpsentence.count())
-        print tmpsentence.count(), randnum
-        return tmpsentence[randnum]['sentence']
+        sentencecount = tmpsentence.count()
+        while True:
+            randnum = random.randrange(sentencecount)
+            if len(tmpsentence[randnum]['sentence']) <= length_limit:
+                print tmpsentence[randnum]
+                return tmpsentence[randnum]['sentence']
     except Exception, e:
         traceback.print_exc()
         return u'后台错误'
