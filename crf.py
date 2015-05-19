@@ -116,6 +116,7 @@ def crf(keyword, window_size):
     predictnum = 0
     rightnum = 0
     inp = open('crf/output/'+keyword.encode('utf-8')+'_crf.txt', 'rb').read()
+    print inp 
     words = inp.split('\n')
     for word in words:
         if word == '':
