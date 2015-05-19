@@ -58,6 +58,7 @@ def load_data_word(keyword, window_radius):
                         for j in range(i-window_radius,i+window_radius+1):
                             if j < 0 or j >= len(text):
                                 dataarray = numpy.hstack((dataarray,numpy.array([0]*50)))
+                                sen = sen+' '
                             else:
                                 sen = sen+text[j]
                                 dataarray = numpy.hstack((dataarray,model[text[j]]))
