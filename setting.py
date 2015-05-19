@@ -10,6 +10,7 @@ maxtagnum = 10000
 word2vecmodelpath = 'model//Word2Vec'
 
 length_limit = 200
+long_length_limit = 500
 
 subregex = u'[属|信]'
 #subregex = u'[我]'

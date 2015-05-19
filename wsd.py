@@ -194,7 +194,7 @@ def randomcorpuscond(cond):
         sentencecount = tmpsentence.count()
         while True:
             randnum = random.randrange(sentencecount)
-            if len(tmpsentence[randnum]['sentence']) <= length_limit:
+            if len(tmpsentence[randnum]['sentence']) <= long_length_limit:
                 print tmpsentence[randnum]
                 return tmpsentence[randnum]['sentence']
     except Exception, e:
@@ -222,7 +222,7 @@ def randomcorpussubcond(cond):
         sentencecount = tmpsentence.count()
         while True:
             randnum = random.randrange(sentencecount)
-            if len(tmpsentence[randnum]['sentence']) <= length_limit:
+            if len(tmpsentence[randnum]['sentence']) <= long_length_limit:
                 print tmpsentence[randnum]
                 return tmpsentence[randnum]['sentence']
     except Exception, e:
