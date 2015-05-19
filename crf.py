@@ -177,6 +177,8 @@ def crf(keyword, window_size):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
+    parser.add_argument('-w', '--window_radius', action="store",dest="window_radius", type=int,default=3)
     parser.add_argument('keyword')
     args = parser.parse_args()
-    crf(args.keyword.decode('utf-8'), 3)
+    window_radius = args.window_radius
+    crf(args.keyword.decode('utf-8'), window_radius)
