@@ -78,29 +78,31 @@ def load_data_word(keyword, window_radius):
     trainnumpydata_x = []
     trainnumpydata_y = []
     trainsentence = []
-    for i in range(0,int(len(data_x)*0.6)):
-        trainnumpydata_x.append(data_x[i])
-        trainnumpydata_y.append(numpy.int64(data_y[i]))
-        trainsentence.append(data_sentence[i])
-    train_set =  (trainnumpydata_x,trainnumpydata_y)
     
     testnumpydata_x = []
     testnumpydata_y = []
-    testsentence = []
-    for i in range(int(len(data_x)*0.6),int(len(data_x)*0.8)):
-        testnumpydata_x.append(data_x[i])
-        testnumpydata_y.append(numpy.int64(data_y[i]))
-        testsentence.append(data_sentence[i])
-    test_set = (testnumpydata_x,testnumpydata_y)
+    testsentence = []       
 
     validnumpydata_x = []
     validnumpydata_y = []
     validsentence = []
-    for i in range(int(len(data_x)*0.8),int(len(data_x))):
-        validnumpydata_x.append(data_x[i])
-        validnumpydata_y.append(numpy.int64(data_y[i]))
-        validsentence.append(data_sentence[i])
 
+    for i in range(0, len(data_x)):
+        if i % 5 == 3:
+            testnumpydata_x.append(data_x[i])
+            testnumpydata_y.append(numpy.int64(data_y[i]))
+            testsentence.append(data_sentence[i])
+        if i % 5 == 4:
+            validnumpydata_x.append(data_x[i])
+            validnumpydata_y.append(numpy.int64(data_y[i]))
+            validsentence.append(data_sentence[i])
+        else:
+            trainnumpydata_x.append(data_x[i])
+            trainnumpydata_y.append(numpy.int64(data_y[i]))
+            trainsentence.append(data_sentence[i])
+
+    train_set =  (trainnumpydata_x,trainnumpydata_y)
+    test_set = (testnumpydata_x,testnumpydata_y)
     valid_set = (validnumpydata_x,validnumpydata_y)
 
     #insert senselist into db
