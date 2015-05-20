@@ -145,7 +145,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
 
     layer1_input = layer0.output.flatten(2)
     #layer1_input = layer0_input.flatten(2)
-
+    
     layer1 = HiddenLayer(
         rng,
         input=layer1_input,
@@ -154,8 +154,8 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
         n_out=loginput_num,
         activation=T.tanh
     )
-
-    layer2 = LogisticRegression(input=layer1.output, n_in=loginput_num, n_out=20)
+    
+    layer2 = LogisticRegression(input=layer1_input, n_in=(2*window_radius+2-filter_height)*(vector_size+1-filter_width+1-pool_width), n_out=20)
 
     cost = layer2.negative_log_likelihood(y)
 
@@ -179,7 +179,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
 
     output_size = theano.function(
         [index],
-        [layer0.output.shape, layer1_input.shape, layer1.output.shape],
+        [layer0.output.shape],
         givens={
             x: test_set_x[index * batch_size: (index + 1) * batch_size]
         }
@@ -201,7 +201,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
         }
     )
 
-    params = layer2.params + layer1.params + layer0.params
+    params = layer2.params + layer0.params
 
     grads = T.grad(cost, params)
 
@@ -343,7 +343,7 @@ if __name__ == '__main__':
     parser.add_argument('-fw', '--filter_width', action="store",dest="filter_width", type=int,default=1)
     parser.add_argument('-p', '--pool_width', action="store",dest="pool_width", type=int,default=1)
     parser.add_argument('-b', '--batch_size', action="store",dest="batch_size", type=int,default=1)
-    parser.add_argument('-n', '--n_epochs', action="store",dest="n_epochs", type=int,default=500)
+    parser.add_argument('-n', '--n_epochs', action="store",dest="n_epochs", type=int,default=100)
     parser.add_argument('-ln', '--loginput_num', action="store",dest="loginput_num", type=int,default=50)
     parser.add_argument('-l', '--learning_rate', action="store",dest="learning_rate", type=float,default=0.1)
     parser.add_argument('keyword')
