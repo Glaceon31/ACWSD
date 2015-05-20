@@ -92,7 +92,7 @@ def load_data_word(keyword, window_radius):
             testnumpydata_x.append(data_x[i])
             testnumpydata_y.append(numpy.int64(data_y[i]))
             testsentence.append(data_sentence[i])
-        if i % 5 == 4:
+        elif i % 5 == 4:
             validnumpydata_x.append(data_x[i])
             validnumpydata_y.append(numpy.int64(data_y[i]))
             validsentence.append(data_sentence[i])
