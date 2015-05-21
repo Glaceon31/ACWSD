@@ -80,7 +80,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
         rng,
         input=layer1_input,
         #n_in=(2*window_radius+1)*(vector_size+1-filter_width+1-pool_width),
-        n_in=int((2*window_radius+2-filter_height)/float(pool_height))*(vector_size+1-filter_width+1-pool_width),
+        n_in=int((2*window_radius+2-filter_height)/float(pool_height))*int((vector_size+1-filter_width)/float(pool_width)),
         n_out=loginput_num,
         activation=T.tanh
     )
