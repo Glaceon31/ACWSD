@@ -24,79 +24,6 @@ client = MongoClient()
 db = client.wsd
 dictdb = db.dict
 
-
-
-def load_data_random():
-    featurenum = 350
-    input = open('randomdata.txt','rb')
-    data = input.read().split('\n')
-    del data[len(data)-1]
-
-    trainnumpydata_x = []
-    trainnumpydata_y = []
-    for i in data[0:int(len(data)*0.6)]:
-    	dataarray = i.split(',')
-    	dataarray = [float(j) for j in dataarray]
-    	#print type(dataarray[0])
-    	if len(dataarray) != featurenum+1:
-    		continue
-        trainnumpydata_x.append(numpy.array(dataarray[0:featurenum]))
-        trainnumpydata_y.append(numpy.int64(dataarray[-1]))
-    train_set =  (trainnumpydata_x,trainnumpydata_y)
-    
-    testnumpydata_x = []
-    testnumpydata_y = []
-    for i in data[int(len(data)*0.6):int(len(data)*0.8)]:
-    	dataarray = i.split(',')
-    	if len(dataarray) != featurenum+1:
-    		continue
-        testnumpydata_x.append(numpy.array(dataarray[0:featurenum]))
-        testnumpydata_y.append(numpy.int64(dataarray[-1]))
-
-    test_set = (testnumpydata_x,testnumpydata_y)
-
-    validnumpydata_x = []
-    validnumpydata_y = []
-    for i in data[int(len(data)*0.8):len(data)]:
-    	dataarray = i.split(',')
-    	if len(dataarray) != featurenum+1:
-    		continue
-        validnumpydata_x.append(numpy.array(dataarray[0:featurenum]))
-        validnumpydata_y.append(numpy.int64(dataarray[-1]))
-
-    valid_set = (validnumpydata_x,validnumpydata_y)
-
-    def shared_dataset(data_xy, borrow=True):
-        data_x, data_y = data_xy
-        shared_x = theano.shared(numpy.asarray(data_x,
-                                               dtype=theano.config.floatX),
-                                 borrow=borrow)
-        shared_y = theano.shared(numpy.asarray(data_y,
-                                               dtype=theano.config.floatX),
-                                 borrow=borrow)
-        '''
-        print shared_x, shared_y
-        print len(data_x), len(data_y)
-        print type(data_x[1]), type(data_y[1])
-        print data_x[1].shape
-        '''
-        # When storing data on the GPU it has to be stored as floats
-        # therefore we will store the labels as ``floatX`` as well
-        # (``shared_y`` does exactly that). But during our computations
-        # we need them as ints (we use labels as index, and if they are
-        # floats it doesn't make sense) therefore instead of returning
-        # ``shared_y`` we will have to cast it to int. This little hack
-        # lets ous get around this issue
-        return shared_x, T.cast(shared_y, 'int32')
-
-    test_set_x, test_set_y = shared_dataset(test_set)
-    valid_set_x, valid_set_y = shared_dataset(valid_set)
-    train_set_x, train_set_y = shared_dataset(train_set)
-
-    rval = [(train_set_x, train_set_y), (valid_set_x, valid_set_y),
-            (test_set_x, test_set_y)]
-    return rval
-
 def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1,filter_height=3,filter_width = 50, pool_width = 1, loginput_num = 50):
 
     print '==training parameters=='
@@ -110,7 +37,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
     print 'batch_size: '+str(batch_size)
 
     rng = numpy.random.RandomState(23455)
-    datasets = load_data_word(keyword, window_radius)
+    datasets = load_data_word(keyword, window_radius, vector_size)
 
     train_set_x, train_set_y, trainsentence = datasets[0][0]
     valid_set_x, valid_set_y, validsentence = datasets[0][1]

@@ -30,9 +30,9 @@ def getsense(sentence, i):
 
 
 
-def load_data_word(keyword, window_radius):
+def load_data_word(keyword, window_radius, vector_size):
     print 'fetching data for '+keyword
-    model = gensim.models.Word2Vec.load(word2vecmodelpath)
+    model = gensim.models.Word2Vec.load(word2vecmodelpath+'_'+str(vector_size))
 
     tmpcorpus = corpusdb.find({'sentence': {'$regex':keyword}})
 
@@ -57,7 +57,7 @@ def load_data_word(keyword, window_radius):
                         dataarray = numpy.array([])
                         for j in range(i-window_radius,i+window_radius+1):
                             if j < 0 or j >= len(text):
-                                dataarray = numpy.hstack((dataarray,numpy.array([0]*50)))
+                                dataarray = numpy.hstack((dataarray,numpy.array([0]*vector_size)))
                                 sen = sen+' '
                             else:
                                 sen = sen+text[j]
@@ -149,4 +149,4 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('keyword')
     args = parser.parse_args()
-    load_data_word(args.keyword.decode('utf-8'), 3)
+    load_data_word(args.keyword.decode('utf-8'), 3, 50)

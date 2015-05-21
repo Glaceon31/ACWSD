@@ -4,7 +4,7 @@
 #window_radius = 3
 #n_epochs = 10
 
-vector_size = 50
+#vector_size = 50
 maxtagnum = 10000
 
 word2vecmodelpath = 'model//Word2Vec'

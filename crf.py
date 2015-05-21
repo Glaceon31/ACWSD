@@ -5,8 +5,8 @@ import codecs
 import os
 import time
 
-def crf(keyword, window_size):
-    datasets = load_data_word(keyword, window_size)
+def crf(keyword, window_size, vector_size):
+    datasets = load_data_word(keyword, window_size, vector_size)
 
     train_set_x, train_set_y, trainsentence = datasets[0][0]
     valid_set_x, valid_set_y, validsentence = datasets[0][1]
@@ -22,7 +22,7 @@ def crf(keyword, window_size):
     for i in range(0, len(trainsentence)):
         vector = train_set_x[i].eval()
         for j in range(0, len(trainsentence[i])):
-            for k in range(50*j, 50*j+50):
+            for k in range(vector_size*j, vector_size*j+vector_size):
                 vectorcontent += str(vector[k])+' '
             if j != len(trainsentence[i])/2:
                 vectorcontent += ' 0 X\n'
@@ -43,7 +43,7 @@ def crf(keyword, window_size):
     for i in range(0, len(validsentence)):
         vector = valid_set_x[i].eval()
         for j in range(0, len(validsentence[i])):
-            for k in range(50*j, 50*j+50):
+            for k in range(vector_size*j, vector_size*j+vector_size):
                 vectorcontent += str(vector[k])+' '
             if j != len(validsentence[i])/2:
                 vectorcontent += ' 0 X\n'
@@ -65,7 +65,7 @@ def crf(keyword, window_size):
     for i in range(0, len(testsentence)):
         vector = test_set_x[i].eval()
         for j in range(0, len(testsentence[i])):
-            for k in range(50*j, 50*j+50):
+            for k in range(vector_size*j, vector_size*j+vector_size):
                 testvectorcontent += str(vector[k])+' '
             if j != len(testsentence[i])/2:
                 testvectorcontent += ' 0 X\n'
@@ -154,13 +154,13 @@ def crf(keyword, window_size):
         if word == '':
             continue
         tokens = word.split('\t')
-        if tokens[50] == '1':
+        if tokens[vector_size] == '1':
             num += 1
-            if tokens[51] != 'X':
+            if tokens[vector_size+1] != 'X':
                 taggednum += 1
-                if tokens[52] != 'X':
+                if tokens[vector_size+2] != 'X':
                     predictnum += 1
-                    if tokens[51] == tokens[52]:
+                    if tokens[vector_size+1] == tokens[vector_size+2]:
                         rightnum += 1
 
     print 'tagged: '+str(taggednum)
@@ -179,7 +179,9 @@ def crf(keyword, window_size):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-w', '--window_radius', action="store",dest="window_radius", type=int,default=3)
+    parser.add_argument('-v', '--vector_size', action="store", dest="vector_size",type=int,default=50)
     parser.add_argument('keyword')
     args = parser.parse_args()
     window_radius = args.window_radius
-    crf(args.keyword.decode('utf-8'), window_radius)
+    vector_size = args.vector_size
+    crf(args.keyword.decode('utf-8'), window_radius, vector_size)

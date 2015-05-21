@@ -11,12 +11,12 @@ dbsentences = corpusdb.find()
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-n', '--new', action="store_true")
-parser.add_argument('-s', '--similarity', action="store_true")
-parser.add_argument('simword')
+parser.add_argument('-v', '--vector_size', action="store", type=int,default=50)
+parser.add_argument('-s', '--simword', action="store")
 
 args = parser.parse_args()
 
-def trainewmodel():
+def trainewmodel(vector_size):
 	totaltoken = 0
 	tls = 0
 	sentences = []
@@ -27,17 +27,17 @@ def trainewmodel():
 		sentences.append(','.join(sen).split(','))
 	print totaltoken, tls, len(sentences), sentences[2]
 	model = gensim.models.Word2Vec(sentences, size=vector_size, min_count = 2)
-	model.save(word2vecmodelpath)
+	model.save(word2vecmodelpath+'_'+str(vector_size))
 	
-def testsimiliarity(simword):
-	model = gensim.models.Word2Vec.load(word2vecmodelpath)
+def testsimiliarity(simword, vector_size):
+	model = gensim.models.Word2Vec.load(word2vecmodelpath+'_'+str(vector_size))
 	for i in model.most_similar(positive=[simword]):
 		print i[0], i[1]
 	return 
 
 if args.new:
-	trainewmodel()
+	trainewmodel(args.vector_size)
 	exit()
 else:
-	if args.similarity:
-		testsimiliarity(args.simword.decode('utf-8'))
+	if args.simword:
+		testsimiliarity(args.simword.decode('utf-8'),args.vector_size)

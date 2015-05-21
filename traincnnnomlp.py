@@ -97,7 +97,7 @@ def load_data_random():
             (test_set_x, test_set_y)]
     return rval
 
-def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1,filter_height=3,filter_width = 50, pool_width = 1, loginput_num = 50):
+def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1,filter_height=3,filter_width = 50, pool_width = 1, loginput_num = 50, vector_size = 50):
 
     print '==training parameters=='
     print 'window_radius: '+str(window_radius)
@@ -346,6 +346,8 @@ if __name__ == '__main__':
     parser.add_argument('-n', '--n_epochs', action="store",dest="n_epochs", type=int,default=100)
     parser.add_argument('-ln', '--loginput_num', action="store",dest="loginput_num", type=int,default=50)
     parser.add_argument('-l', '--learning_rate', action="store",dest="learning_rate", type=float,default=0.1)
+    parser.add_argument('-v', '--vector_size', action="store", dest="vector_size",type=int,default=50)
+
     parser.add_argument('keyword')
     args = parser.parse_args()
     window_radius = args.window_radius
@@ -356,4 +358,5 @@ if __name__ == '__main__':
     filter_width = args.filter_width
     pool_width = args.pool_width
     loginput_num = args.loginput_num
-    trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,filter_height,filter_width,pool_width,loginput_num)
+    vector_size = args.vector_size
+    trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,filter_height,filter_width,pool_width,loginput_num,vector_size)
