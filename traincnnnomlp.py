@@ -24,85 +24,14 @@ client = MongoClient()
 db = client.wsd
 dictdb = db.dict
 
-
-
-def load_data_random():
-    featurenum = 350
-    input = open('randomdata.txt','rb')
-    data = input.read().split('\n')
-    del data[len(data)-1]
-
-    trainnumpydata_x = []
-    trainnumpydata_y = []
-    for i in data[0:int(len(data)*0.6)]:
-    	dataarray = i.split(',')
-    	dataarray = [float(j) for j in dataarray]
-    	#print type(dataarray[0])
-    	if len(dataarray) != featurenum+1:
-    		continue
-        trainnumpydata_x.append(numpy.array(dataarray[0:featurenum]))
-        trainnumpydata_y.append(numpy.int64(dataarray[-1]))
-    train_set =  (trainnumpydata_x,trainnumpydata_y)
-    
-    testnumpydata_x = []
-    testnumpydata_y = []
-    for i in data[int(len(data)*0.6):int(len(data)*0.8)]:
-    	dataarray = i.split(',')
-    	if len(dataarray) != featurenum+1:
-    		continue
-        testnumpydata_x.append(numpy.array(dataarray[0:featurenum]))
-        testnumpydata_y.append(numpy.int64(dataarray[-1]))
-
-    test_set = (testnumpydata_x,testnumpydata_y)
-
-    validnumpydata_x = []
-    validnumpydata_y = []
-    for i in data[int(len(data)*0.8):len(data)]:
-    	dataarray = i.split(',')
-    	if len(dataarray) != featurenum+1:
-    		continue
-        validnumpydata_x.append(numpy.array(dataarray[0:featurenum]))
-        validnumpydata_y.append(numpy.int64(dataarray[-1]))
-
-    valid_set = (validnumpydata_x,validnumpydata_y)
-
-    def shared_dataset(data_xy, borrow=True):
-        data_x, data_y = data_xy
-        shared_x = theano.shared(numpy.asarray(data_x,
-                                               dtype=theano.config.floatX),
-                                 borrow=borrow)
-        shared_y = theano.shared(numpy.asarray(data_y,
-                                               dtype=theano.config.floatX),
-                                 borrow=borrow)
-        '''
-        print shared_x, shared_y
-        print len(data_x), len(data_y)
-        print type(data_x[1]), type(data_y[1])
-        print data_x[1].shape
-        '''
-        # When storing data on the GPU it has to be stored as floats
-        # therefore we will store the labels as ``floatX`` as well
-        # (``shared_y`` does exactly that). But during our computations
-        # we need them as ints (we use labels as index, and if they are
-        # floats it doesn't make sense) therefore instead of returning
-        # ``shared_y`` we will have to cast it to int. This little hack
-        # lets ous get around this issue
-        return shared_x, T.cast(shared_y, 'int32')
-
-    test_set_x, test_set_y = shared_dataset(test_set)
-    valid_set_x, valid_set_y = shared_dataset(valid_set)
-    train_set_x, train_set_y = shared_dataset(train_set)
-
-    rval = [(train_set_x, train_set_y), (valid_set_x, valid_set_y),
-            (test_set_x, test_set_y)]
-    return rval
-
 def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1,filter_height=3,filter_width = 50, pool_height=1,pool_width = 1, loginput_num = 50, vector_size = 50):
 
     print '==training parameters=='
     print 'window_radius: '+str(window_radius)
+    print 'vector_size: '+str(vector_size)
     print 'filter_height: '+str(filter_height)
     print 'filter_width: '+str(filter_width)
+    print 'pool_height: '+str(pool_height)
     print 'pool_width: '+str(pool_width)
     print 'loginput_num: '+str(loginput_num)
     print 'learning_rate: '+str(learning_rate)
@@ -140,7 +69,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
         input=layer0_input,
         image_shape=(batch_size, 1, 2*window_radius+1, vector_size),
         filter_shape=(1, 1, filter_height, filter_width),
-        poolsize=(1, pool_width)
+        poolsize=(pool_height, pool_width)
     )
 
     layer1_input = layer0.output.flatten(2)
@@ -150,12 +79,12 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
         rng,
         input=layer1_input,
         #n_in=(2*window_radius+1)*(vector_size+1-filter_width+1-pool_width),
-        n_in=(2*window_radius+2-filter_height)*(vector_size+1-filter_width+1-pool_width),
+        n_in=int((2*window_radius+2-filter_height)/float(pool_height))*int((vector_size+1-filter_width)/float(pool_width)),
         n_out=loginput_num,
         activation=T.tanh
     )
     
-    layer2 = LogisticRegression(input=layer1_input, n_in=(2*window_radius+2-filter_height)*(vector_size+1-filter_width+1-pool_width), n_out=20)
+    layer2 = LogisticRegression(input=layer1_input, n_in=int((2*window_radius+2-filter_height)/float(pool_height))*int((vector_size+1-filter_width)/float(pool_width)), n_out=20)
 
     cost = layer2.negative_log_likelihood(y)
 
@@ -341,7 +270,8 @@ if __name__ == '__main__':
     parser.add_argument('-w', '--window_radius', action="store",dest="window_radius", type=int,default=3)
     parser.add_argument('-fh', '--filter_height', action="store",dest="filter_height", type=int,default=3)
     parser.add_argument('-fw', '--filter_width', action="store",dest="filter_width", type=int,default=1)
-    parser.add_argument('-p', '--pool_width', action="store",dest="pool_width", type=int,default=1)
+    parser.add_argument('-ph', '--pool_height', action="store",dest="pool_height", type=int,default=1)
+    parser.add_argument('-pw', '--pool_width', action="store",dest="pool_width", type=int,default=1)
     parser.add_argument('-b', '--batch_size', action="store",dest="batch_size", type=int,default=1)
     parser.add_argument('-n', '--n_epochs', action="store",dest="n_epochs", type=int,default=100)
     parser.add_argument('-ln', '--loginput_num', action="store",dest="loginput_num", type=int,default=50)
@@ -357,6 +287,7 @@ if __name__ == '__main__':
     filter_height = args.filter_height
     filter_width = args.filter_width
     pool_width = args.pool_width
+    pool_height = args.pool_height
     loginput_num = args.loginput_num
     vector_size = args.vector_size
-    trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,filter_height,filter_width,pool_width,loginput_num,vector_size)
+    trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,filter_height,filter_width,pool_height,pool_width,loginput_num,vector_size)
