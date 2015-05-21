@@ -25,7 +25,7 @@ client = MongoClient()
 db = client.wsd
 dictdb = db.dict
 
-def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1,filter_height=3,filter_width = 50, pool_height=1,pool_width = 1, loginput_num = 50, vector_size = 50, normalized = False):
+def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1,filter_height=3,filter_width = 50, pool_height=1,pool_width = 1, loginput_num = 50, vector_size = 50):
 
     print '==training parameters=='
     print 'window_radius: '+str(window_radius)
@@ -40,7 +40,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
     print 'batch_size: '+str(batch_size)
 
     rng = numpy.random.RandomState(23455)
-    datasets = load_data_word(keyword, window_radius, vector_size, normalized)
+    datasets = load_data_word(keyword, window_radius, vector_size)
 
     train_set_x, train_set_y, trainsentence = datasets[0][0]
     valid_set_x, valid_set_y, validsentence = datasets[0][1]
@@ -65,6 +65,19 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
 
     layer0_input = x.reshape((batch_size, 1, 2*window_radius+1, vector_size))
 
+    layer0 = []
+    for i in range(1,2*window_radius+2):
+        print i ,2*window_radius+2-i
+        layer0.append(WsdConvPoolLayer(
+            rng,
+        input=layer0_input,
+        image_shape=(batch_size, 1, 2*window_radius+1, vector_size),
+        filter_shape=(1, 1, i, filter_width),
+        poolsize=(2*window_radius+2-i, pool_width)
+        ))
+
+    print 'len: '+str(len(layer0))
+    '''
     layer0 = WsdConvPoolLayer(
         rng,
         input=layer0_input,
@@ -72,15 +85,19 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
         filter_shape=(1, 1, filter_height, filter_width),
         poolsize=(pool_height, pool_width)
     )
-
-    layer1_input = layer0.output.flatten(2)
-    #layer1_input = layer0_input.flatten(2)
+    '''
+    #layer0_output = layer0[0].output.flatten(2)
+    layer1_input = theano.tensor.concatenate([layer0[i].output[0][0][0] for i in range(0, len(layer0))])
+    #for i in range(1, len(layer0)):
+        #print i, layer0[i].output.shape[0]
+        #layer0_output = theano.tensor.row(layer0_output, layer0)
+    #layer1_input = layer0_output.flatten(2)
 
     layer1 = HiddenLayer(
         rng,
         input=layer1_input,
         #n_in=(2*window_radius+1)*(vector_size+1-filter_width+1-pool_width),
-        n_in=int((2*window_radius+2-filter_height)/float(pool_height))*int((vector_size+1-filter_width)/float(pool_width)),
+        n_in=2*window_radius+1,
         n_out=loginput_num,
         activation=T.tanh
     )
@@ -107,27 +124,11 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
         }
     )
 
-    output_size = theano.function(
-        [index],
-        [layer0.output.shape, layer1_input.shape, layer1.output.shape],
-        givens={
-            x: test_set_x[index * batch_size: (index + 1) * batch_size]
-        }
-    )
-
     output_model = theano.function(
         [index],
         [layer2.y_pred],
         givens={
             x: valid_set_x[index * batch_size: (index + 1) * batch_size]
-        }
-    )
-
-    output_test = theano.function(
-        [index],
-        [layer2.y_pred],
-        givens={
-            x: test_set_x[index * batch_size: (index + 1) * batch_size]
         }
     )
 
@@ -139,7 +140,16 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
             x: test_set_x[index * batch_size: (index + 1) * batch_size]
         }
     )
-    params = layer2.params + layer1.params + layer0.params
+
+    output_test = theano.function(
+        [index],
+        [layer2.y_pred],
+        givens={
+            x: test_set_x[index * batch_size: (index + 1) * batch_size]
+        }
+    )
+
+    params = layer2.params + layer1.params #+ layer0.params
 
     grads = T.grad(cost, params)
 
@@ -214,7 +224,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
                     # save best validation score and iteration number
                     best_validation_loss = this_validation_loss
                     best_iter = iter
-                    best_params = [copy.deepcopy(layer0.params), copy.deepcopy(layer1.params), copy.deepcopy(layer2.params)]
+                    #best_params = [copy.deepcopy(layer0.params), copy.deepcopy(layer1.params), copy.deepcopy(layer2.params)]
 
                     # test it on the test set
                     test_losses = [
@@ -252,21 +262,14 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
             true_i = batch_size*index+i
             #print output_model(index)
             print testsentence[true_i], '\t',senselist[output_test(index)[0][i]], '\t', senselist[test_set_y[true_i].eval()]
-    layer0.W = copy.deepcopy(best_params[0][0])
-    layer0.b = copy.deepcopy(best_params[0][1])
-    #layer0.params = [layer0.W, layer0.b]
-    layer1.W = copy.deepcopy(best_params[1][0])
-    layer1.b = copy.deepcopy(best_params[1][1])
-    #layer1.params = [layer1.W, layer1.b]
-    layer2.W = copy.deepcopy(best_params[2][0])
-    layer2.b = copy.deepcopy(best_params[2][1])
+
     #layer2.params = [layer2.W, layer2.b]
-    #print output_test2(0)
     for index in range(0, n_test_batches):
         for i in range(0, batch_size):
             true_i = batch_size*index+i
             #print output_model(index)
             print testsentence[true_i], '\t',senselist[output_test(index)[0][i]], '\t', senselist[test_set_y[true_i].eval()]
+    #print output_test2(0)
     print('Best validation score of %f %% obtained at iteration %i, '
           'with test performance %f %%' %
           (best_validation_loss * 100., best_iter + 1, test_score * 100.))
@@ -287,7 +290,6 @@ if __name__ == '__main__':
     parser.add_argument('-ln', '--loginput_num', action="store",dest="loginput_num", type=int,default=50)
     parser.add_argument('-l', '--learning_rate', action="store",dest="learning_rate", type=float,default=0.1)
     parser.add_argument('-v', '--vector_size', action="store", dest="vector_size",type=int,default=50)
-    parser.add_argument('-nor', '--normalized', action="store_true", dest="normalized")
     parser.add_argument('keyword')
     args = parser.parse_args()
     window_radius = args.window_radius
@@ -300,5 +302,4 @@ if __name__ == '__main__':
     pool_height = args.pool_height
     loginput_num = args.loginput_num
     vector_size = args.vector_size
-    normalized = args.normalized
-    trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,filter_height,filter_width,pool_height,pool_width,loginput_num, vector_size,normalized)
+    trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,filter_height,filter_width,pool_height,pool_width,loginput_num, vector_size)
