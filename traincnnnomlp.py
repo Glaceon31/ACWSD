@@ -110,7 +110,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
     print 'batch_size: '+str(batch_size)
 
     rng = numpy.random.RandomState(23455)
-    datasets = load_data_word(keyword, window_radius)
+    datasets = load_data_word(keyword, window_radius, vector_size)
 
     train_set_x, train_set_y, trainsentence = datasets[0][0]
     valid_set_x, valid_set_y, validsentence = datasets[0][1]
