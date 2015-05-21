@@ -150,6 +150,8 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
     )
 
     params = layer2.params + layer1.params #+ layer0.params
+    for i in range(0, len(layer0)):
+        params += layer0[i].params
 
     grads = T.grad(cost, params)
 
