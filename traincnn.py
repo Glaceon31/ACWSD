@@ -25,7 +25,7 @@ client = MongoClient()
 db = client.wsd
 dictdb = db.dict
 
-def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1,filter_height=3,filter_width = 50, pool_height=1,pool_width = 1, loginput_num = 50, vector_size = 50):
+def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1,filter_height=3,filter_width = 50, pool_height=1,pool_width = 1, loginput_num = 50, vector_size = 50, normalized = False):
 
     print '==training parameters=='
     print 'window_radius: '+str(window_radius)
@@ -40,7 +40,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
     print 'batch_size: '+str(batch_size)
 
     rng = numpy.random.RandomState(23455)
-    datasets = load_data_word(keyword, window_radius, vector_size)
+    datasets = load_data_word(keyword, window_radius, vector_size, normalized)
 
     train_set_x, train_set_y, trainsentence = datasets[0][0]
     valid_set_x, valid_set_y, validsentence = datasets[0][1]
@@ -278,6 +278,7 @@ if __name__ == '__main__':
     parser.add_argument('-ln', '--loginput_num', action="store",dest="loginput_num", type=int,default=50)
     parser.add_argument('-l', '--learning_rate', action="store",dest="learning_rate", type=float,default=0.1)
     parser.add_argument('-v', '--vector_size', action="store", dest="vector_size",type=int,default=50)
+    parser.add_argument('-nor', '--normalized', action="store_true", dest="normalized")
     parser.add_argument('keyword')
     args = parser.parse_args()
     window_radius = args.window_radius
@@ -290,4 +291,5 @@ if __name__ == '__main__':
     pool_height = args.pool_height
     loginput_num = args.loginput_num
     vector_size = args.vector_size
-    trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,filter_height,filter_width,pool_height,pool_width,loginput_num, vector_size)
+    normalized = args.normalized
+    trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,filter_height,filter_width,pool_height,pool_width,loginput_num, vector_size,normalized)

@@ -13,6 +13,13 @@ corpusdb = db.corpus
 dictdb = db.dict
 traindict = db.traindict
 
+def normalize(a):
+    sqr = 0
+    for i in range(0,len(a)):
+        sqr += a[i]*a[i]
+    result = [a[i]/sqr for i in range(0, len(a))]
+    return result
+
 def getsense(sentence, i):
 	if len(sentence['senses'][i]) > 0 and sentence['senses'][i] != '[]':
 		predictsense = ''
@@ -30,7 +37,7 @@ def getsense(sentence, i):
 
 
 
-def load_data_word(keyword, window_radius, vector_size):
+def load_data_word(keyword, window_radius, vector_size, nomralized = False):
     print 'fetching data for '+keyword
     model = gensim.models.Word2Vec.load(word2vecmodelpath+'_'+str(vector_size))
 
@@ -61,7 +68,10 @@ def load_data_word(keyword, window_radius, vector_size):
                                 sen = sen+' '
                             else:
                                 sen = sen+text[j]
-                                dataarray = numpy.hstack((dataarray,model[text[j]]))
+                                if nomralized:
+                                    dataarray = numpy.hstack((dataarray,normalize(model[text[j]])))
+                                else:
+                                    dataarray = numpy.hstack((dataarray,model[text[j]]))
                         data_y.append(senseindex)
                         data_x.append(dataarray)
                         data_sentence.append(sen)
@@ -149,4 +159,4 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('keyword')
     args = parser.parse_args()
-    load_data_word(args.keyword.decode('utf-8'), 3, 50)
+    load_data_word(args.keyword.decode('utf-8'), 3, 50, True)
