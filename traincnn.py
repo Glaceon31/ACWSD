@@ -25,7 +25,7 @@ client = MongoClient()
 db = client.wsd
 dictdb = db.dict
 
-def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1,filter_height=3,filter_width = 50, pool_height=1,pool_width = 1, loginput_num = 50, vector_size = 50, normalized = False):
+def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1, nkerns = 1,filter_height=3,filter_width = 50, pool_height=1,pool_width = 1, loginput_num = 50, vector_size = 50, normalized = False):
 
     print '==training parameters=='
     print 'window_radius: '+str(window_radius)
@@ -34,6 +34,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
     print 'filter_width: '+str(filter_width)
     print 'pool_height: '+str(pool_height)
     print 'pool_width: '+str(pool_width)
+    print 'nkerns: '+str(nkerns)
     print 'loginput_num: '+str(loginput_num)
     print 'learning_rate: '+str(learning_rate)
     print 'n_epochs: '+str(n_epochs)
@@ -69,7 +70,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
         rng,
         input=layer0_input,
         image_shape=(batch_size, 1, 2*window_radius+1, vector_size),
-        filter_shape=(1, 1, filter_height, filter_width),
+        filter_shape=(nkerns, 1, filter_height, filter_width),
         poolsize=(pool_height, pool_width)
     )
 
@@ -80,7 +81,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
         rng,
         input=layer1_input,
         #n_in=(2*window_radius+1)*(vector_size+1-filter_width+1-pool_width),
-        n_in=int((2*window_radius+2-filter_height)/float(pool_height))*int((vector_size+1-filter_width)/float(pool_width)),
+        n_in= nkerns * int((2*window_radius+2-filter_height)/float(pool_height))*int((vector_size+1-filter_width)/float(pool_width)),
         n_out=loginput_num,
         activation=T.tanh
     )
@@ -285,6 +286,7 @@ if __name__ == '__main__':
     parser.add_argument('-ph', '--pool_height', action="store",dest="pool_height", type=int,default=1)
     parser.add_argument('-pw', '--pool_width', action="store",dest="pool_width", type=int,default=1)
     parser.add_argument('-b', '--batch_size', action="store",dest="batch_size", type=int,default=1)
+    parser.add_argument('-nk', '--nkerns', action="store",dest="nkerns", type=int,default=1)
     parser.add_argument('-n', '--n_epochs', action="store",dest="n_epochs", type=int,default=500)
     parser.add_argument('-ln', '--loginput_num', action="store",dest="loginput_num", type=int,default=50)
     parser.add_argument('-l', '--learning_rate', action="store",dest="learning_rate", type=float,default=0.1)
@@ -294,6 +296,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     window_radius = args.window_radius
     learning_rate = args.learning_rate
+    nkerns = args.nkerns
     n_epochs = args.n_epochs
     batch_size = args.batch_size
     filter_height = args.filter_height
@@ -303,4 +306,4 @@ if __name__ == '__main__':
     loginput_num = args.loginput_num
     vector_size = args.vector_size
     normalized = args.normalized
-    trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,filter_height,filter_width,pool_height,pool_width,loginput_num, vector_size,normalized)
+    trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,nkerns, filter_height,filter_width,pool_height,pool_width,loginput_num, vector_size,normalized)

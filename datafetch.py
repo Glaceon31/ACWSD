@@ -37,7 +37,7 @@ def getsense(sentence, i):
 
 
 
-def load_data_word(keyword, window_radius, vector_size, nomralized = False):
+def load_data_word(keyword, window_radius, vector_size, nomralized = False, border = False):
     print 'fetching data for '+keyword
     model = gensim.models.Word2Vec.load(word2vecmodelpath+'_'+str(vector_size))
 
