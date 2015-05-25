@@ -25,7 +25,7 @@ client = MongoClient()
 db = client.wsd
 dictdb = db.dict
 
-def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1,filter_height=3,filter_width = 50, pool_height=1,pool_width = 1, loginput_num = 50, vector_size = 50):
+def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1,nkerns = 1,filter_height=3,filter_width = 50, pool_height=1,pool_width = 1, loginput_num = 50, vector_size = 50):
 
     print '==training parameters=='
     print 'window_radius: '+str(window_radius)
@@ -34,6 +34,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
     print 'filter_width: '+str(filter_width)
     print 'pool_height: '+str(pool_height)
     print 'pool_width: '+str(pool_width)
+    print 'nkerns: '+str(nkerns)
     print 'loginput_num: '+str(loginput_num)
     print 'learning_rate: '+str(learning_rate)
     print 'n_epochs: '+str(n_epochs)
@@ -72,7 +73,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
             rng,
         input=layer0_input,
         image_shape=(batch_size, 1, 2*window_radius+1, vector_size),
-        filter_shape=(1, 1, i, filter_width),
+        filter_shape=(nkerns, 1, i, filter_width),
         poolsize=(2*window_radius+2-i, pool_width)
         ))
 
@@ -87,17 +88,19 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
     )
     '''
     #layer0_output = layer0[0].output.flatten(2)
-    layer1_input = theano.tensor.concatenate([layer0[i].output[0][0][0] for i in range(0, len(layer0))])
+    layer0_output = theano.tensor.concatenate([layer0[i].output for i in range(0, len(layer0))])
+    #layer1_input = theano.tensor.concatenate([[layer0[i].output[0][j][0] for j in range(0,nkerns)] for i in range(0, len(layer0))])
     #for i in range(1, len(layer0)):
         #print i, layer0[i].output.shape[0]
         #layer0_output = theano.tensor.row(layer0_output, layer0)
     #layer1_input = layer0_output.flatten(2)
+    layer1_input = layer0_output.flatten(1)
 
     layer1 = HiddenLayer(
         rng,
         input=layer1_input,
         #n_in=(2*window_radius+1)*(vector_size+1-filter_width+1-pool_width),
-        n_in=2*window_radius+1,
+        n_in=nkerns*(2*window_radius+1),
         n_out=loginput_num,
         activation=T.tanh
     )
@@ -134,13 +137,13 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
 
     output_test2 = theano.function(
         [index],
-        #[layer0[0].output, layer0_output, layer1_input],
-        [layer1_input],
+        [layer0[0].output, layer0_output,layer1_input],
+        #[layer1_input],
         givens={
             x: test_set_x[index * batch_size: (index + 1) * batch_size]
         }
     )
-
+    #print output_test2(0)
     output_test = theano.function(
         [index],
         [layer2.y_pred],
@@ -273,7 +276,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
             #print output_model(index)
             print testsentence[true_i], '\t',senselist[output_test(index)[0][i]], '\t', senselist[test_set_y[true_i].eval()]
     '''
-    #print output_test2(0)
+    
     print('Best validation score of %f %% obtained at iteration %i, '
           'with test performance %f %%' %
           (best_validation_loss * 100., best_iter + 1, test_score * 100.))
@@ -290,6 +293,7 @@ if __name__ == '__main__':
     parser.add_argument('-ph', '--pool_height', action="store",dest="pool_height", type=int,default=1)
     parser.add_argument('-pw', '--pool_width', action="store",dest="pool_width", type=int,default=1)
     parser.add_argument('-b', '--batch_size', action="store",dest="batch_size", type=int,default=1)
+    parser.add_argument('-nk', '--nkerns', action="store",dest="nkerns", type=int,default=1)
     parser.add_argument('-n', '--n_epochs', action="store",dest="n_epochs", type=int,default=500)
     parser.add_argument('-ln', '--loginput_num', action="store",dest="loginput_num", type=int,default=50)
     parser.add_argument('-l', '--learning_rate', action="store",dest="learning_rate", type=float,default=0.1)
@@ -298,6 +302,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     window_radius = args.window_radius
     learning_rate = args.learning_rate
+    nkerns = args.nkerns
     n_epochs = args.n_epochs
     batch_size = args.batch_size
     filter_height = args.filter_height
@@ -306,4 +311,4 @@ if __name__ == '__main__':
     pool_height = args.pool_height
     loginput_num = args.loginput_num
     vector_size = args.vector_size
-    trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,filter_height,filter_width,pool_height,pool_width,loginput_num, vector_size)
+    trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,nkerns,filter_height,filter_width,pool_height,pool_width,loginput_num, vector_size)

@@ -134,12 +134,13 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
 
     output_test2 = theano.function(
         [index],
-        #[layer0[0].output, layer0_output, layer1_input],
-        [layer1_input],
+        [layer0.output, layer1_input],
+        #[layer1_input],
         givens={
             x: test_set_x[index * batch_size: (index + 1) * batch_size]
         }
     )
+    print output_test2(0)
     params = layer2.params + layer1.params + layer0.params
 
     grads = T.grad(cost, params)
