@@ -5,7 +5,7 @@ import codecs
 import os
 import time
 
-def crf(keyword, window_size, vector_size):
+def crf(keyword, window_size, vector_size, valid_to_test = 0):
     datasets = load_data_word(keyword, window_size, vector_size)
 
     train_set_x, train_set_y, trainsentence = datasets[0][0]
@@ -40,26 +40,48 @@ def crf(keyword, window_size, vector_size):
             content += trainsentence[i][j]+' 0 '+'X\n'
         content += '\n'
     
-    for i in range(0, len(validsentence)):
-        vector = valid_set_x[i].eval()
-        for j in range(0, len(validsentence[i])):
-            for k in range(vector_size*j, vector_size*j+vector_size):
-                vectorcontent += str(vector[k])+' '
-            if j != len(validsentence[i])/2:
-                vectorcontent += ' 0 X\n'
-            else:
-                vectorcontent += ' 1 '+senselist[valid_set_y[i].eval()]+'\n'
-        vectorcontent += '\n'
-        for j in range(0, len(validsentence[i])/2):
-            if validsentence[i][j] == ' ':
-                continue
-            content += validsentence[i][j]+' 0 '+'X\n'
-        content +=validsentence[i][len(validsentence[i])/2]+' 1 '+senselist[valid_set_y[i].eval()]+'\n'
-        for j in range(len(validsentence[i])/2+1, len(validsentence[i])):
-            if validsentence[i][j] == ' ':
-                continue
-            content += validsentence[i][j]+' 0 '+'X\n'
-        content += '\n'
+    if valid_to_test:
+        for i in range(0, len(validsentence)):
+            vector = valid_set_x[i].eval()
+            for j in range(0, len(validsentence[i])):
+                for k in range(vector_size*j, vector_size*j+vector_size):
+                    testvectorcontent += str(vector[k])+' '
+                if j != len(validsentence[i])/2:
+                    testvectorcontent += ' 0 X\n'
+                else:
+                    testvectorcontent += ' 1 '+senselist[valid_set_y[i].eval()]+'\n'
+            testvectorcontent += '\n'
+            for j in range(0, len(validsentence[i])/2):
+                if validsentence[i][j] == ' ':
+                    continue
+                testcontent += validsentence[i][j]+' 0 '+'X\n'
+            testcontent +=validsentence[i][len(validsentence[i])/2]+' 1 '+senselist[valid_set_y[i].eval()]+'\n'
+            for j in range(len(validsentence[i])/2+1, len(validsentence[i])):
+                if validsentence[i][j] == ' ':
+                    continue
+                testcontent += validsentence[i][j]+' 0 '+'X\n'
+            testcontent += '\n'
+    else:
+        for i in range(0, len(validsentence)):
+            vector = valid_set_x[i].eval()
+            for j in range(0, len(validsentence[i])):
+                for k in range(vector_size*j, vector_size*j+vector_size):
+                    vectorcontent += str(vector[k])+' '
+                if j != len(validsentence[i])/2:
+                    vectorcontent += ' 0 X\n'
+                else:
+                    vectorcontent += ' 1 '+senselist[valid_set_y[i].eval()]+'\n'
+            vectorcontent += '\n'
+            for j in range(0, len(validsentence[i])/2):
+                if validsentence[i][j] == ' ':
+                    continue
+                content += validsentence[i][j]+' 0 '+'X\n'
+            content +=validsentence[i][len(validsentence[i])/2]+' 1 '+senselist[valid_set_y[i].eval()]+'\n'
+            for j in range(len(validsentence[i])/2+1, len(validsentence[i])):
+                if validsentence[i][j] == ' ':
+                    continue
+                content += validsentence[i][j]+' 0 '+'X\n'
+            content += '\n'
     
 
     for i in range(0, len(testsentence)):
@@ -180,8 +202,10 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-w', '--window_radius', action="store",dest="window_radius", type=int,default=3)
     parser.add_argument('-v', '--vector_size', action="store", dest="vector_size",type=int,default=50)
+    parser.add_argument('-t', '--valid_to_test', action="store_true")
     parser.add_argument('keyword')
     args = parser.parse_args()
     window_radius = args.window_radius
+    valid_to_test = args.valid_to_test
     vector_size = args.vector_size
-    crf(args.keyword.decode('utf-8'), window_radius, vector_size)
+    crf(args.keyword.decode('utf-8'), window_radius, vector_size, valid_to_test)

@@ -266,11 +266,13 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
             print testsentence[true_i], '\t',senselist[output_test(index)[0][i]], '\t', senselist[test_set_y[true_i].eval()]
 
     #layer2.params = [layer2.W, layer2.b]
+    '''
     for index in range(0, n_test_batches):
         for i in range(0, batch_size):
             true_i = batch_size*index+i
             #print output_model(index)
             print testsentence[true_i], '\t',senselist[output_test(index)[0][i]], '\t', senselist[test_set_y[true_i].eval()]
+    '''
     #print output_test2(0)
     print('Best validation score of %f %% obtained at iteration %i, '
           'with test performance %f %%' %
