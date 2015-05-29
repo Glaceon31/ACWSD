@@ -12,5 +12,5 @@ word2vecmodelpath = 'model//Word2Vec'
 length_limit = 200
 long_length_limit = 500
 
-subregex = u'[属|信]'
+subregex = u'[乃|将|之]'
 #subregex = u'[我]'

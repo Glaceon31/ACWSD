@@ -37,7 +37,7 @@ def getsense(sentence, i):
 
 
 
-def load_data_word(keyword, window_radius, vector_size, nomralized = False, border = False):
+def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized = False, border = False):
     print 'fetching data for '+keyword
     model = gensim.models.Word2Vec.load(word2vecmodelpath+'_'+str(vector_size))
 
@@ -98,11 +98,11 @@ def load_data_word(keyword, window_radius, vector_size, nomralized = False, bord
     validsentence = []
 
     for i in range(0, len(data_x)):
-        if i % 5 == 3:
+        if i % 5 == (3+sequence) % 5:
             testnumpydata_x.append(data_x[i])
             testnumpydata_y.append(numpy.int64(data_y[i]))
             testsentence.append(data_sentence[i])
-        elif i % 5 == 4:
+        elif i % 5 == (4+sequence) % 5:
             validnumpydata_x.append(data_x[i])
             validnumpydata_y.append(numpy.int64(data_y[i]))
             validsentence.append(data_sentence[i])

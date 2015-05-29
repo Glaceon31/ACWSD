@@ -25,7 +25,7 @@ client = MongoClient()
 db = client.wsd
 dictdb = db.dict
 
-def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1, nkerns = 1,filter_height=3,filter_width = 50, pool_height=1,pool_width = 1, loginput_num = 50, vector_size = 50, normalized = False):
+def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1, nkerns = 1,filter_height=3,filter_width = 50, pool_height=1,pool_width = 1, loginput_num = 50, vector_size = 50, normalized = False, sequence = 0):
 
     print '==training parameters=='
     print 'window_radius: '+str(window_radius)
@@ -41,7 +41,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
     print 'batch_size: '+str(batch_size)
 
     rng = numpy.random.RandomState(23455)
-    datasets = load_data_word(keyword, window_radius, vector_size, normalized)
+    datasets = load_data_word(keyword, window_radius, vector_size, normalized, sequence)
 
     train_set_x, train_set_y, trainsentence = datasets[0][0]
     valid_set_x, valid_set_y, validsentence = datasets[0][1]
@@ -140,7 +140,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
             x: test_set_x[index * batch_size: (index + 1) * batch_size]
         }
     )
-    print output_test2(0)
+    #print output_test2(0)
     params = layer2.params + layer1.params + layer0.params
 
     grads = T.grad(cost, params)
@@ -216,7 +216,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
                     # save best validation score and iteration number
                     best_validation_loss = this_validation_loss
                     best_iter = iter
-                    best_params = [copy.deepcopy(layer0.params), copy.deepcopy(layer1.params), copy.deepcopy(layer2.params)]
+                    #best_params = [copy.deepcopy(layer0.params), copy.deepcopy(layer1.params), copy.deepcopy(layer2.params)]
 
                     # test it on the test set
                     test_losses = [
@@ -254,15 +254,6 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
             true_i = batch_size*index+i
             #print output_model(index)
             print testsentence[true_i], '\t',senselist[output_test(index)[0][i]], '\t', senselist[test_set_y[true_i].eval()]
-    layer0.W = copy.deepcopy(best_params[0][0])
-    layer0.b = copy.deepcopy(best_params[0][1])
-    #layer0.params = [layer0.W, layer0.b]
-    layer1.W = copy.deepcopy(best_params[1][0])
-    layer1.b = copy.deepcopy(best_params[1][1])
-    #layer1.params = [layer1.W, layer1.b]
-    layer2.W = copy.deepcopy(best_params[2][0])
-    layer2.b = copy.deepcopy(best_params[2][1])
-    #layer2.params = [layer2.W, layer2.b]
     #print output_test2(0)
     '''
     for index in range(0, n_test_batches):
@@ -277,12 +268,13 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
     print >> sys.stderr, ('The code for file ' +
                           os.path.split(__file__)[1] +
                           ' ran for %.2fm' % ((end_time - start_time) / 60.))
+    return [best_validation_loss * 100., test_score * 100.]
 
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='traincnn')
     parser.add_argument('-w', '--window_radius', action="store",dest="window_radius", type=int,default=3)
-    parser.add_argument('-fh', '--filter_height', action="store",dest="filter_height", type=int,default=3)
+    parser.add_argument('-fh', '--filter_height', action="store",dest="filter_height", type=int,default=1)
     parser.add_argument('-fw', '--filter_width', action="store",dest="filter_width", type=int,default=1)
     parser.add_argument('-ph', '--pool_height', action="store",dest="pool_height", type=int,default=1)
     parser.add_argument('-pw', '--pool_width', action="store",dest="pool_width", type=int,default=1)
@@ -290,7 +282,7 @@ if __name__ == '__main__':
     parser.add_argument('-nk', '--nkerns', action="store",dest="nkerns", type=int,default=1)
     parser.add_argument('-n', '--n_epochs', action="store",dest="n_epochs", type=int,default=500)
     parser.add_argument('-ln', '--loginput_num', action="store",dest="loginput_num", type=int,default=50)
-    parser.add_argument('-l', '--learning_rate', action="store",dest="learning_rate", type=float,default=0.1)
+    parser.add_argument('-l', '--learning_rate', action="store",dest="learning_rate", type=float,default=0.01)
     parser.add_argument('-v', '--vector_size', action="store", dest="vector_size",type=int,default=50)
     parser.add_argument('-nor', '--normalized', action="store_true", dest="normalized")
     parser.add_argument('keyword')
@@ -307,4 +299,34 @@ if __name__ == '__main__':
     loginput_num = args.loginput_num
     vector_size = args.vector_size
     normalized = args.normalized
-    trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,nkerns, filter_height,filter_width,pool_height,pool_width,loginput_num, vector_size,normalized)
+    acc = []
+    validaverage = 0
+    testaverage = 0
+    for sequence in range(0, 5):
+        acc.append(trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,nkerns, filter_height,filter_width,pool_height,pool_width,loginput_num, vector_size,normalized, sequence))
+        validaverage += acc[sequence][0]
+        testaverage += acc[sequence][1]
+    print acc 
+    validaverage /= len(acc)
+    testaverage /= len(acc)
+    print 100-validaverage, 100-testaverage
+
+    content = str(acc)
+    content += '\r\n'+ '==training parameters=='
+    content += '\r\n'+ 'window_radius: '+str(window_radius)
+    content += '\r\n'+ 'vector_size: '+str(vector_size)
+    content += '\r\n'+ 'filter_height: '+str(filter_height)
+    content += '\r\n'+ 'filter_width: '+str(filter_width)
+    content += '\r\n'+ 'pool_height: '+str(pool_height)
+    content += '\r\n'+ 'pool_width: '+str(pool_width)
+    content += '\r\n'+ 'nkerns: '+str(nkerns)
+    content += '\r\n'+ 'loginput_num: '+str(loginput_num)
+    content += '\r\n'+ 'learning_rate: '+str(learning_rate)
+    content += '\r\n'+ 'n_epochs: '+str(n_epochs)
+    content += '\r\n'+ 'batch_size: '+str(batch_size)
+    content += '\r\n'
+    content += '\r\n valid: '+str(100-validaverage)
+    content += '\r\n test: '+str(100-testaverage)
+    output = open('result//traincnn'+str(window_radius)+str(vector_size)+str(nkerns)+str(loginput_num)+str(learning_rate)+args.keyword.decode('utf-8')+'.txt', 'wb')
+    output.write(content)
+    output.close()

@@ -5,8 +5,8 @@ import codecs
 import os
 import time
 
-def crf(keyword, window_size, vector_size, valid_to_test = 0):
-    datasets = load_data_word(keyword, window_size, vector_size)
+def crf(keyword, window_size, vector_size, valid_to_test = 0, sequence = 0):
+    datasets = load_data_word(keyword, window_size, vector_size, sequence)
 
     train_set_x, train_set_y, trainsentence = datasets[0][0]
     valid_set_x, valid_set_y, validsentence = datasets[0][1]
@@ -126,11 +126,11 @@ def crf(keyword, window_size, vector_size, valid_to_test = 0):
     time.sleep(1)
     os.system('crf_test -m crf/model/'+keyword.encode('utf-8')+'_crf crf/test/'+keyword.encode('utf-8')+'_crf.txt > crf/output/'+keyword.encode('utf-8')+'_crf.txt')
 
-    
+    '''
     os.system('crf_learn crf/template crf/train/'+keyword.encode('utf-8')+'_vector_crf.txt crf/model/'+keyword.encode('utf-8')+'_vector_crf')
     time.sleep(1)
     os.system('crf_test -m crf/model/'+keyword.encode('utf-8')+'_vector_crf crf/test/'+keyword.encode('utf-8')+'_vector_crf.txt > crf/output/'+keyword.encode('utf-8')+'_vector_crf.txt')
-
+    '''
     #check resuilt
     print '== normal test =='
     num = 0
@@ -164,6 +164,7 @@ def crf(keyword, window_size, vector_size, valid_to_test = 0):
     else:
         F = 2*precision*recall/(precision+recall)
     print 'precision: '+str(precision)+' recall: '+str(recall)+' F: '+str(F)
+    return F
 
     print '== vector test =='
     num = 0
@@ -208,4 +209,11 @@ if __name__ == '__main__':
     window_radius = args.window_radius
     valid_to_test = args.valid_to_test
     vector_size = args.vector_size
-    crf(args.keyword.decode('utf-8'), window_radius, vector_size, valid_to_test)
+    acc = []
+    average = 0
+    for sequence in range(0, 5):
+        acc.append(crf(args.keyword.decode('utf-8'), window_radius, vector_size, valid_to_test, sequence))
+        average += acc[sequence]
+    print acc
+    average /= len(acc)
+    print average
