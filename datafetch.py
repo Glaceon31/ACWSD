@@ -83,8 +83,8 @@ def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized
     print 'sensenum: '+str(len(senselist))
     print 'sentencenum: '+str(tmpcorpus.count())
     print 'traindatanum: '+str(len(data_x))
-    for i in data_sentence:
-        print i
+    for i in range(0, len(data_sentence)):
+        print data_sentence[i], senselist[data_y[i]]
 
     trainnumpydata_x = []
     trainnumpydata_y = []
