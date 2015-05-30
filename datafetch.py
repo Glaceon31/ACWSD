@@ -37,7 +37,7 @@ def getsense(sentence, i):
 
 
 
-def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized = False, border = False):
+def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized = False, border = False, showsentence = False):
     print 'fetching data for '+keyword
     model = gensim.models.Word2Vec.load(word2vecmodelpath+'_'+str(vector_size))
 
@@ -56,6 +56,7 @@ def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized
                 wordsense = getsense(sentence, i)
                 if wordsense != '':
                     sen = ''
+                    print text, wordsense
                     try:
                         if not wordsense in senselist:
                             senselist.append(wordsense)
@@ -159,4 +160,4 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('keyword')
     args = parser.parse_args()
-    load_data_word(args.keyword.decode('utf-8'), 3, 50, True)
+    load_data_word(args.keyword.decode('utf-8'), 3, 50, showsentence = True)
