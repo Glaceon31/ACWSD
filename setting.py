@@ -12,5 +12,5 @@ word2vecmodelpath = 'model//Word2Vec'
 length_limit = 200
 long_length_limit = 500
 
-subregex = u'[之]'
+subregex = u'[将]'
 #subregex = u'[我]'
