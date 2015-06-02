@@ -35,7 +35,12 @@ def getsense(sentence, i):
 	else:
 		return ''
 
-
+def sensemap(sense):
+    maplist = {u'用在“前”、“后”、“内”、“外”等词语和它们的修饰语之间，表示对方位、时间、范围等的限制': u'用在定语和中心词之间，表示修饰、领属的关系，相当于“的”'}
+    if maplist.has_key(sense):
+        return maplist[sense]
+    else:
+        return sense
 
 def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized = False, border = False, showsentence = False):
     print 'fetching data for '+keyword
@@ -55,8 +60,10 @@ def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized
             if word == keyword:
                 wordsense = getsense(sentence, i)
                 if wordsense != '':
+                    wordsense = sensemap(wordsense)
                     sen = ''
-                    print text, wordsense
+                    if showsentence:
+                        print text, wordsense
                     try:
                         if not wordsense in senselist:
                             senselist.append(wordsense)
@@ -83,8 +90,8 @@ def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized
     print 'sensenum: '+str(len(senselist))
     print 'sentencenum: '+str(tmpcorpus.count())
     print 'traindatanum: '+str(len(data_x))
-    for i in range(0, len(data_sentence)):
-        print data_sentence[i], senselist[data_y[i]]
+    #for i in range(0, len(data_sentence)):
+    #   print data_sentence[i], senselist[data_y[i]]
 
     trainnumpydata_x = []
     trainnumpydata_y = []
