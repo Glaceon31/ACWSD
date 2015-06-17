@@ -11,15 +11,7 @@ dictdb = db.dict
 
 global wordlist
 
-keywordlist = [u'信',u'属',u'之',u'将',u'乃']
-global senselist
-
 def refreshdict():
-	global senselist
-	senselist = {}
-	for keyword in keywordlist:
-		datasets = load_data_word(keyword, 1, 50, sequence = 0)
-		senselist[keyword] = datasets[1]
 	global wordlist
 	wordlist = {}
 	wordnum = 0
