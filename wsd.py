@@ -4,6 +4,8 @@ import traceback
 import random
 from app import *
 from setting import *
+from testcnn import testcnn
+from crfpredict import crfpredict
 
 corpusdb = db.corpus
 dictdb = db.dict
@@ -23,11 +25,13 @@ def sensedistribute(jsondata):
     except:
         print 'db error'
         dbsentence = ''
+    cnnpredictlist = testcnn(data)
+    crfpredictlist = crfpredict(data)
     for i in range(0, len(data)):
         if wsdata.wordlist.has_key(data[i]):
             #print wsdata.wordlist[data[i]]
             if not dbsentence:
-                sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':''})
+                sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':'','cnnpredictsense':cnnpredictlist[i],'crfpredictsense':crfpredictlist[i]})
             else:
                 if len(dbsentence['senses'][i]) > 0 and dbsentence['senses'][i] != '[]':
                     print data[i], dbsentence['senses'][i]
@@ -48,12 +52,12 @@ def sensedistribute(jsondata):
                                 usertag = sense['sense']
                     #print tagged
                     if tagged:
-                        sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':predictsense, 'tagged':1, 'usertag':usertag})
+                        sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':predictsense, 'tagged':1, 'usertag':usertag,'cnnpredictsense':cnnpredictlist[i],'crfpredictsense':crfpredictlist[i]})
                     else:
-                        sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':predictsense})
+                        sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':predictsense,'cnnpredictsense':cnnpredictlist[i],'crfpredictsense':crfpredictlist[i]})
                     print dbsentence['senses'][i][0]['sense']
                 else:
-                    sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':''})
+                    sentence.append({'word':data[i],'sense':wsdata.wordlist[data[i]],'predictsense':'','cnnpredictsense':cnnpredictlist[i],'crfpredictsense':crfpredictlist[i]})
         else:
             sentence.append({'word':data[i],'sense':''})
     return json.dumps(sentence)

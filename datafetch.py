@@ -13,6 +13,17 @@ corpusdb = db.corpus
 dictdb = db.dict
 traindict = db.traindict
 
+def sentence2vector(sentence, window_radius, vector_size, i):  
+    word2vecmodel = gensim.models.Word2Vec.load(word2vecmodelpath+'_'+str(vector_size))               
+    dataarray = numpy.array([])
+    for j in range(i-window_radius,i+window_radius+1):
+        if j < 0 or j >= len(sentence):
+            dataarray = numpy.hstack((dataarray,numpy.array([0]*vector_size)))
+        else:
+            dataarray = numpy.hstack((dataarray,word2vecmodel[sentence[j]]))
+    print dataarray
+    return dataarray
+
 def normalize(a):
     sqr = 0
     for i in range(0,len(a)):
@@ -49,7 +60,8 @@ def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized
     tmpcorpus = corpusdb.find({'sentence': {'$regex':keyword}})
 
     senselist = []
-    
+    sensecount = []
+
     data_x = []
     data_y = []
     data_sentence = []
@@ -67,7 +79,9 @@ def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized
                     try:
                         if not wordsense in senselist:
                             senselist.append(wordsense)
+                            sensecount.append(0)
                         senseindex = senselist.index(wordsense)
+                        sensecount[senseindex] += 1
                     
                         dataarray = numpy.array([])
                         for j in range(i-window_radius,i+window_radius+1):
@@ -92,6 +106,8 @@ def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized
     print 'traindatanum: '+str(len(data_x))
     #for i in range(0, len(data_sentence)):
     #   print data_sentence[i], senselist[data_y[i]]
+    print senselist
+    print sensecount
 
     trainnumpydata_x = []
     trainnumpydata_y = []
@@ -167,4 +183,4 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('keyword')
     args = parser.parse_args()
-    load_data_word(args.keyword.decode('utf-8'), 3, 50, showsentence = True)
+    load_data_word(args.keyword.decode('utf-8'), 3, 50, showsentence = False)

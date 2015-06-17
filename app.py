@@ -15,7 +15,8 @@ db = client.wsd
 from user import *
 from wsd import *
 from mainpage import *
+from datafetch import load_data_word
+
 
 if __name__ == '__main__':
     app.run('0.0.0.0', port = 6789)
-    

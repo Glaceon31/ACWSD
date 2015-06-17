@@ -7,7 +7,6 @@ import math
 
 import numpy
 import argparse
-import cPickle
 
 import theano
 import theano.tensor as T
@@ -18,7 +17,6 @@ from logistic_sgd import LogisticRegression
 from mlp import HiddenLayer
 from convolution import WsdConvPoolLayer
 from setting import *
-from cnnmodel import cnnmodel
 from datafetch import load_data_word
 
 from pymongo import MongoClient
@@ -26,7 +24,6 @@ client = MongoClient()
 
 db = client.wsd
 dictdb = db.dict
-
 
 def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,batch_size = 1,nkerns = 1,filter_height=3,filter_width = 50, pool_height=1,pool_width = 1, loginput_num = 50, vector_size = 50, sequence = 0):
 
@@ -63,9 +60,6 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
 
     index = T.lscalar()
 
-    model = cnnmodel(rng, window_radius, learning_rate, batch_size, nkerns, loginput_num, vector_size)
-
-    '''
     x = T.matrix('x')   
     y = T.ivector('y')
 
@@ -88,6 +82,15 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
         ))
 
     print 'len: '+str(len(layer0))
+    '''
+    layer0 = WsdConvPoolLayer(
+        rng,
+        input=layer0_input,
+        image_shape=(batch_size, 1, 2*window_radius+1, vector_size),
+        filter_shape=(1, 1, filter_height, filter_width),
+        poolsize=(pool_height, pool_width)
+    )
+    '''
     #layer0_output = layer0[0].output.flatten(2)
     layer0_output = theano.tensor.concatenate([layer0[i].output for i in range(0, len(layer0))])
     if args.no_pool:
@@ -112,47 +115,55 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
     )
 
     layer2 = LogisticRegression(input=layer1.output, n_in=loginput_num, n_out=20)
-    '''
-    cost = model.layer2.negative_log_likelihood(model.y)
+
+    cost = layer2.negative_log_likelihood(y)
 
     test_model = theano.function(
         [index],
-        model.layer2.errors(model.y),
+        layer2.errors(y),
         givens={
-            model.x: test_set_x[index * batch_size: (index + 1) * batch_size],
-            model.y: test_set_y[index * batch_size: (index + 1) * batch_size]
+            x: test_set_x[index * batch_size: (index + 1) * batch_size],
+            y: test_set_y[index * batch_size: (index + 1) * batch_size]
         }
     )
 
     validate_model = theano.function(
         [index],
-        model.layer2.errors(model.y),
+        layer2.errors(y),
         givens={
-            model.x: valid_set_x[index * batch_size: (index + 1) * batch_size],
-            model.y: valid_set_y[index * batch_size: (index + 1) * batch_size]
+            x: valid_set_x[index * batch_size: (index + 1) * batch_size],
+            y: valid_set_y[index * batch_size: (index + 1) * batch_size]
         }
     )
 
     output_model = theano.function(
         [index],
-        [model.layer2.y_pred],
+        [layer2.y_pred],
         givens={
-            model.x: valid_set_x[index * batch_size: (index + 1) * batch_size]
+            x: valid_set_x[index * batch_size: (index + 1) * batch_size]
         }
     )
 
+    output_test2 = theano.function(
+        [index],
+        [layer0[0].output, layer0[i].output.flatten(2)],#, layer0_output,layer1_input],
+        #[layer1_input],
+        givens={
+            x: test_set_x[index * batch_size: (index + 1) * batch_size]
+        }
+    )
     #print output_test2(0)
     output_test = theano.function(
         [index],
-        [model.layer2.y_pred],
+        [layer2.y_pred],
         givens={
-            model.x: test_set_x[index * batch_size: (index + 1) * batch_size]
+            x: test_set_x[index * batch_size: (index + 1) * batch_size]
         }
     )
 
-    params = model.layer2.params + model.layer1.params #+ layer0.params
-    for i in range(0, len(model.layer0)):
-        params += model.layer0[i].params
+    params = layer2.params + layer1.params #+ layer0.params
+    for i in range(0, len(layer0)):
+        params += layer0[i].params
 
     grads = T.grad(cost, params)
 
@@ -166,8 +177,8 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
         cost,
         updates=updates,
         givens={
-            model.x: train_set_x[index * batch_size: (index + 1) * batch_size],
-            model.y: train_set_y[index * batch_size: (index + 1) * batch_size]
+            x: train_set_x[index * batch_size: (index + 1) * batch_size],
+            y: train_set_y[index * batch_size: (index + 1) * batch_size]
         }
     )
 
@@ -244,15 +255,13 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
                             #print output_model(index)
                             print validsentence[true_i], '\t',senselist[output_model(index)[0][i]], '\t', senselist[valid_set_y[true_i].eval()]
                     #print test_losses
-                    '''
-
+                   
                     for index in range(0, n_test_batches):
                         for i in range(0, batch_size):
                             true_i = batch_size*index+i
                             #print output_model(index)
-                            print testsentence[true_i], '\t',output_test(index)[0][i], '\t', test_set_y[true_i].eval()
-                    savefile = open('model//cnn//'+keyword, 'wb')
-                    cPickle.dump(model,savefile,-1)
+                            print testsentence[true_i], '\t',senselist[output_test(index)[0][i]], '\t', senselist[test_set_y[true_i].eval()]
+                    '''
                     test_score = numpy.mean(test_losses)
                     print(('     epoch %i, minibatch %i/%i, test error of '
                            'best model %f %%') %
@@ -321,7 +330,7 @@ if __name__ == '__main__':
     acc = []
     validaverage = 0
     testaverage = 0
-    for sequence in range(0, 1):
+    for sequence in range(0, 5):
         acc.append(trainword(args.keyword.decode('utf-8'), window_radius, learning_rate, n_epochs, batch_size,nkerns,filter_height,filter_width,pool_height,pool_width,loginput_num, vector_size, sequence))
         validaverage += acc[sequence][0]
         testaverage += acc[sequence][1]

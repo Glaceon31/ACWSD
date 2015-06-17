@@ -6,3 +6,4 @@ dict/*.xml
 model
 result
 run.sh
+corpusfetch

@@ -1,6 +1,8 @@
 var senselist = []
 var usersenselist = []
 var predictlist = []
+var crfpredictlist = []
+var cnnpredictlist = []
 var taglist = []
 var sentence = []
 
@@ -21,6 +23,8 @@ function submit(text){
  	  		for (i in sentence){
  	  			senselist.push('')
  	  			predictlist.push('')
+ 	  			crfpredictlist.push('')
+ 	  			cnnpredictlist.push('')
  	  			taglist.push('')
  	  			if (sentence[i].sense == ''){
  	  				document.getElementById('result').innerHTML += '<nospan id="word'+String(i)+'">'+sentence[i].word+'</nospan>'
@@ -37,6 +41,12 @@ function submit(text){
  	  					document.getElementById('result').innerHTML += '<nospan id="word'+String(i)+'" onmouseover="if (lock == 0) changesense('+String(i)+')" onclick=lockorunlock('+String(i)+')>'+sentence[i].word+'</nospan>'
  	  				if (sentence[i].predictsense != ''){
  	  					predictlist[i] = sentence[i].predictsense
+ 	  				}
+ 	  				if (sentence[i].crfpredictsense != ''){
+ 	  					crfpredictlist[i] = sentence[i].crfpredictsense
+ 	  				}
+ 	  				if (sentence[i].cnnpredictsense != ''){
+ 	  					cnnpredictlist[i] = sentence[i].cnnpredictsense
  	  				}
  	  			}
  	  			
@@ -104,6 +114,10 @@ function submit(text){
  	  				}
  	  				sensehtml += '”'
  	  			}
+ 	  			if (crfpredictlist[sensenum] == sense)
+ 	  				sensehtml += ' <nospan style="color:green">CRF预测</nospan>'
+ 	  			if (cnnpredictlist[sensenum] == sense)
+ 	  				sensehtml += ' <nospan style="color:blue">CNN预测</nospan>'
  	  			sensehtml += '<br>'
  	  			document.getElementById("sense").innerHTML += sensehtml
  	  			tagsensenum += 1
