@@ -22,7 +22,7 @@ from cnnmodel import cnnmodel
 from setting import *
 from datafetch import load_data_word, sentence2vector
 
-wordlist = [u'信',u'属',u'之',u'将',u'乃']
+wordlist = [u'信',u'属',u'之',u'将',u'乃',u'其', u'忍', u'者', u'至', u'遂']
 
 def crfpredict(sentence):
 

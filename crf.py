@@ -121,18 +121,17 @@ def crf(keyword, window_size, vector_size, valid_to_test = 0, sequence = 0):
 
     time.sleep(1)
 
-    '''
     os.system('crf_learn crf/template crf/train/'+keyword.encode('utf-8')+'_crf.txt crf/model/'+keyword.encode('utf-8')+'_crf')
     time.sleep(1)
     os.system('crf_test -m crf/model/'+keyword.encode('utf-8')+'_crf crf/test/'+keyword.encode('utf-8')+'_crf.txt > crf/output/'+keyword.encode('utf-8')+'_crf.txt')
+
     '''
-    
     os.system('crf_learn crf/template crf/train/'+keyword.encode('utf-8')+'_vector_crf.txt crf/model/'+keyword.encode('utf-8')+'_vector_crf')
     time.sleep(1)
     os.system('crf_test -m crf/model/'+keyword.encode('utf-8')+'_vector_crf crf/test/'+keyword.encode('utf-8')+'_vector_crf.txt > crf/output/'+keyword.encode('utf-8')+'_vector_crf.txt')
-    
-    #check resuilt
     '''
+    #check resuilt
+    
     print '== normal test =='
     num = 0
     taggednum = 0
@@ -166,7 +165,7 @@ def crf(keyword, window_size, vector_size, valid_to_test = 0, sequence = 0):
         F = 2*precision*recall/(precision+recall)
     print 'precision: '+str(precision)+' recall: '+str(recall)+' F: '+str(F)
     return F
-    '''
+
 
     print '== vector test =='
     num = 0

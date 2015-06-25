@@ -1,5 +1,26 @@
-python traincnndoublemulti.py -w 4 -ln 2000 -nk 50 -v 250 -fw 250 将
-python traincnndoublemulti.py -w 4 -ln 2000 -nk 50 -v 250 -fw 250 乃
-python traincnndoublemulti.py -w 4 -ln 2000 -nk 50 -v 300 -fw 300 将
-python traincnndoublemulti.py -w 5 -ln 2000 -nk 50 -v 300 -fw 300 之
-python traincnndoublemulti.py -w 5 -ln 2000 -nk 50 -v 300 -fw 300 乃
+python traincnnmulti.py -w 4 -ln 2000 -nk 50 -v 200 -fw 200 其
+python traincnnmulti.py -w 4 -ln 2000 -nk 50 -v 200 -fw 200 忍
+
+python traincnnmulti.py -w 3 -ln 500 -nk 20 -v 300 -fw 300 至
+python traincnnmulti.py -w 3 -ln 1000 -nk 20 -v 300 -fw 300 至
+python traincnnmulti.py -w 3 -ln 2000 -nk 50 -v 300 -fw 300 至
+python traincnnmulti.py -w 4 -ln 2000 -nk 50 -v 200 -fw 200 至
+python traincnnmulti.py -w 4 -ln 2000 -nk 50 -v 300 -fw 300 至
+python traincnnmulti.py -w 4 -ln 1000 -nk 50 -v 300 -fw 300 至
+python traincnnmulti.py -w 4 -ln 1000 -nk 10 -v 300 -fw 300 至
+python traincnnmulti.py -w 5 -ln 2000 -nk 50 -v 300 -fw 300 至
+python traincnnmulti.py -w 5 -ln 2000 -nk 50 -v 200 -fw 200 至
+python traincnnmulti.py -w 5 -ln 2500 -nk 100 -v 300 -fw 300 至
+python traincnnmulti.py -w 5 -ln 5000 -nk 50 -v 300 -fw 300 至
+
+python traincnnmulti.py -w 3 -ln 500 -nk 20 -v 300 -fw 300 忍
+python traincnnmulti.py -w 3 -ln 1000 -nk 20 -v 300 -fw 300 忍
+python traincnnmulti.py -w 3 -ln 2000 -nk 50 -v 300 -fw 300 忍
+python traincnnmulti.py -w 4 -ln 2000 -nk 50 -v 200 -fw 200 忍
+python traincnnmulti.py -w 4 -ln 2000 -nk 50 -v 300 -fw 300 忍
+python traincnnmulti.py -w 4 -ln 1000 -nk 50 -v 300 -fw 300 忍
+python traincnnmulti.py -w 4 -ln 1000 -nk 10 -v 300 -fw 300 忍
+python traincnnmulti.py -w 5 -ln 2000 -nk 50 -v 300 -fw 300 忍
+python traincnnmulti.py -w 5 -ln 2000 -nk 50 -v 200 -fw 200 忍
+python traincnnmulti.py -w 5 -ln 2500 -nk 100 -v 300 -fw 300 忍
+python traincnnmulti.py -w 5 -ln 5000 -nk 50 -v 300 -fw 300 忍
