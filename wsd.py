@@ -10,6 +10,40 @@ from crfpredict import crfpredict
 corpusdb = db.corpus
 dictdb = db.dict
 
+segdict = json.loads(open('phrases.txt', 'rb').read())
+
+@app.route('/seg', methods=['GET', 'POST'])
+def seg():
+    return render_template('seg.html')
+
+@app.route('/wordseg/<text>', methods=['GET', 'POST'])
+def wordseg(text):
+    pos = 0
+    nextpos = 1
+    #text = text[:3]+'1'+text[3:]
+
+    while pos < len(text)-1:
+        print pos,nextpos,text,text[pos]
+        if not segdict.has_key(text[pos]):
+            text = text[:pos+1]+'/'+text[pos+1:]
+            pos += 2
+            nextpos = pos+1
+            continue
+        dictpos = segdict[text[pos]]
+        while nextpos < len(text):
+            if not dictpos.has_key(text[nextpos]):
+                if nextpos >= len(text)-1:
+                    break
+                text = text[:nextpos]+'/'+text[nextpos:]
+                pos = nextpos+1
+                nextpos = pos+1
+                break
+            else:
+                dictpos = dictpos[text[nextpos]]
+            nextpos += 1
+
+    return text
+
 @app.route('/wsd/<jsondata>', methods=['GET', 'POST'])
 def sensedistribute(jsondata):
     data = json.loads(jsondata)
