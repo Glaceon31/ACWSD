@@ -125,8 +125,8 @@ def addrawcorpus():
 	failnum = 0
 	sentences = open('corpus//rawcorpus-gushiwen.txt', 'rb').read().split('\r\n')
 	for sentence in sentences:
-                tmp = corpusdb.find_one({'sentence' :sentence})
-                if not tmp:
+                #tmp = corpusdb.find_one({'sentence' :sentence})
+                if True:
                         sentencenum += 1
                         print sentencenum
                         newsentence = {}

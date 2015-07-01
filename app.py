@@ -52,5 +52,5 @@ def wordseg(text):
     return text
 
 if __name__ == '__main__':
-	segdict = json.loads(open('phrases.txt', 'rb').read())
+    segdict = json.loads(open('phrases.txt', 'rb').read())
     app.run('0.0.0.0', port = 6789)
