@@ -32,9 +32,12 @@ def wordseg(text):
             continue
         dictpos = segdict[text[pos]]
         while nextpos <= len(text):
+            if nextpos >= len(text):
+                result.append(text[pos:nextpos])
+                pos = nextpos
+                nextpos = pos+1
+                break
             if not dictpos.has_key(text[nextpos]):
-                if nextpos >= len(text):
-                    break
                 result.append(text[pos:nextpos])
                 pos = nextpos
                 nextpos = pos+1
