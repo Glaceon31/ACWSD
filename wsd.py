@@ -23,7 +23,7 @@ def wordseg(text):
     nextpos = 1
     #text = text[:3]+'1'+text[3:]
 
-    while pos < len(text)-1:
+    while pos < len(text):
         print pos,nextpos,len(text),result,text[pos]
         if not segdict.has_key(text[pos]):
             result.append(text[pos:nextpos])
@@ -31,7 +31,7 @@ def wordseg(text):
             nextpos = pos+1
             continue
         dictpos = segdict[text[pos]]
-        while nextpos < len(text):
+        while nextpos <= len(text):
             if not dictpos.has_key(text[nextpos]):
                 if nextpos >= len(text):
                     break
