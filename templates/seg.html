@@ -14,7 +14,13 @@
   	function submit(text){
  	  	$.post('/wordseg/'+text,
  	  	function(data){
- 	  		document.getElementById('result').innerHTML = data
+ 	  		result = JSON.parse(data)
+ 	  		document.getElementById('result').innerHTML = ''
+ 	  		for (i in result){
+ 	  			document.getElementById('result').innerHTML += result[i]
+ 	  			if (i != result.length-1)
+ 	  				document.getElementById('result').innerHTML += '/'
+ 	  		}
  	  	}
  	  	)
  	  }

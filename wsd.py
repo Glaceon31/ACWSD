@@ -18,31 +18,32 @@ def seg():
 
 @app.route('/wordseg/<text>', methods=['GET', 'POST'])
 def wordseg(text):
+    result = []
     pos = 0
     nextpos = 1
     #text = text[:3]+'1'+text[3:]
 
     while pos < len(text)-1:
-        print pos,nextpos,text,text[pos]
+        print pos,nextpos,len(text),result,text[pos]
         if not segdict.has_key(text[pos]):
-            text = text[:pos+1]+'/'+text[pos+1:]
-            pos += 2
+            result.append(text[pos:nextpos])
+            pos = nextpos
             nextpos = pos+1
             continue
         dictpos = segdict[text[pos]]
         while nextpos < len(text):
             if not dictpos.has_key(text[nextpos]):
-                if nextpos >= len(text)-1:
+                if nextpos >= len(text):
                     break
-                text = text[:nextpos]+'/'+text[nextpos:]
-                pos = nextpos+1
+                result.append(text[pos:nextpos])
+                pos = nextpos
                 nextpos = pos+1
                 break
             else:
                 dictpos = dictpos[text[nextpos]]
             nextpos += 1
 
-    return text
+    return json.dumps(result)
 
 @app.route('/wsd/<jsondata>', methods=['GET', 'POST'])
 def sensedistribute(jsondata):
