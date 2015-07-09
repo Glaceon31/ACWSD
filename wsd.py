@@ -71,7 +71,7 @@ def wordseg2(text):
     showresult = result[0]
     for i in result[1:]:
         showresult += ' '+i
-    print showresult
+    return showresult
 
 @app.route('/wsd/<jsondata>', methods=['GET', 'POST'])
 def sensedistribute(jsondata):
