@@ -10,21 +10,39 @@ from crfpredict import crfpredict
 corpusdb = db.corpus
 dictdb = db.dict
 
-segdict = json.loads(open('phrases.txt', 'rb').read())
+def addpharse(phrase, segdict):
+    #print phrase
+    nowpos = segdict
+    for i in range(0, len(phrase)):
+        if nowpos.has_key(phrase[i]):
+            nowpos = nowpos[phrase[i]]
+            continue
+        else:
+            nowpos[phrase[i]] = {}
+            nowpos = nowpos[phrase[i]]
+            continue
+
+def makedict(filename):
+    segdict = {}
+    phrases = json.loads(open(filename, 'rb').read())
+    for i in phrases:
+        addpharse(i,segdict)
+    return segdict
+
+segdict = makedict('phrasetext.txt')
 
 @app.route('/seg', methods=['GET', 'POST'])
 def seg():
     return render_template('seg.html')
 
-@app.route('/wordseg/<text>', methods=['GET', 'POST'])
-def wordseg(text):
+def wordseg(text, segdict):
     result = []
     pos = 0
     nextpos = 1
     #text = text[:3]+'1'+text[3:]
 
     while pos < len(text):
-        print pos,nextpos,len(text),result,text[pos]
+        #print pos,nextpos,len(text),result,text[pos]
         if not segdict.has_key(text[pos]):
             result.append(text[pos:nextpos])
             pos = nextpos
@@ -45,8 +63,15 @@ def wordseg(text):
             else:
                 dictpos = dictpos[text[nextpos]]
             nextpos += 1
+    return result
 
-    return json.dumps(result)
+@app.route('/wordseg/<text>', methods=['GET', 'POST'])
+def wordseg2(text):
+    result = wordseg(text, segdict)
+    showresult = result[0]
+    for i in result[1:]:
+        showresult += ' '+i
+    print showresult
 
 @app.route('/wsd/<jsondata>', methods=['GET', 'POST'])
 def sensedistribute(jsondata):
