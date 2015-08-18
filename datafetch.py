@@ -53,7 +53,7 @@ def sensemap(sense):
     else:
         return sense
 
-def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized = False, border = False, showsentence = False):
+def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized = False, border = False, showsentence = False, outputtxt = False):
     print 'fetching data for '+keyword
     model = gensim.models.Word2Vec.load(word2vecmodelpath+'_'+str(vector_size))
 
@@ -62,6 +62,7 @@ def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized
     senselist = []
     sensecount = []
 
+    outputcontent = ''
     data_x = []
     data_y = []
     data_sentence = []
@@ -76,6 +77,8 @@ def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized
                     sen = ''
                     if showsentence:
                         print text, wordsense
+                    if outputtxt:
+                        outputcontent += wordsense+'\t'+text+'\r\n'
                     try:
                         if not wordsense in senselist:
                             senselist.append(wordsense)
@@ -100,7 +103,10 @@ def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized
                     except:
                         a = 1
 
-
+    if outputtxt:
+        output = open(keyword+'.txt')
+        output.write(outputcontent)
+        output.close()
     print 'sensenum: '+str(len(senselist))
     print 'sentencenum: '+str(tmpcorpus.count())
     print 'traindatanum: '+str(len(data_x))
@@ -183,4 +189,4 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('keyword')
     args = parser.parse_args()
-    load_data_word(args.keyword.decode('utf-8'), 3, 50, showsentence = False)
+    load_data_word(args.keyword.decode('utf-8'), 3, 50, showsentence = True, outputtxt = True)
