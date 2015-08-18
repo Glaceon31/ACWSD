@@ -104,7 +104,7 @@ def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized
                         a = 1
 
     if outputtxt:
-        output = open(keyword+'.txt')
+        output = open(keyword+'.txt', 'wb')
         output.write(outputcontent)
         output.close()
     print 'sensenum: '+str(len(senselist))
