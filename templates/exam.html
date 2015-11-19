@@ -24,15 +24,62 @@
  				document.getElementById('result').innerHTML = '发生错误'
  				return
  			}
+ 			editdistance = [getEditDistance(result,d['select1']),getEditDistance(result,d['select2']),getEditDistance(result,d['select3']),getEditDistance(result,d['select4'])]
+ 			mind = 10000
+ 			ans = -1
+ 			for (i in editdistance){
+ 				if (editdistance[i] < mind){
+ 					ans = i
+ 					mind = editdistance[i]
+ 				}
+ 			}
  			if (result['type'] == 'tagging'){
- 				document.getElementById('result').innerHTML = '释义：'+result['sense']
+ 				document.getElementById('result').innerHTML = '释义：'+result['sense']+'<br>选项一距离：<br>'+editdistance[0]+'<br>选项二距离：<br>'+editdistance[1]+'<br>选项三距离：<br>'+editdistance[2]+'<br>选项四距离：<br>'+editdistance[3]+'<br>答案：选项'+String(ans+1)
  			}
  			if (result['type'] == 'sentence_pair'){
- 				document.getElementById('result').innerHTML = '释义'
+ 				document.getElementById('result').innerHTML = '选项一：<br>释义1：'+result['sense1_1']+'<br>释义2：'+result['sense1_2']+'<br>相似度：'+result['sim1']+'<br>选项二：<br>释义1：'+result['sense2_1']+'<br>释义2：'+result['sense2_2']+'<br>相似度：'+result['sim2']+'<br>选项三：<br>释义1：'+result['sense3_1']+'<br>释义2：'+result['sense3_2']+'<br>相似度：'+result['sim3']+'<br>选项四：<br>释义1：'+result['sense4_1']+'<br>释义2：'+result['sense4_2']+'<br>相似度：'+result['sim4']+'<br>答案：'
  			}
  			//document.getElementById('result').innerHTML = data
  		}
  		)
+ 	}
+
+ 	function getEditDistance(a, b){
+  if(a.length == 0) return b.length; 
+  if(b.length == 0) return a.length; 
+
+  var matrix = [];
+
+  // increment along the first column of each row
+  var i;
+  for(i = 0; i <= b.length; i++){
+    matrix[i] = [i];
+  }
+
+  // increment each column in the first row
+  var j;
+  for(j = 0; j <= a.length; j++){
+    matrix[0][j] = j;
+  }
+
+  // Fill in the rest of the matrix
+  for(i = 1; i <= b.length; i++){
+    for(j = 1; j <= a.length; j++){
+      if(b.charAt(i-1) == a.charAt(j-1)){
+        matrix[i][j] = matrix[i-1][j-1];
+      } else {
+        matrix[i][j] = Math.min(matrix[i-1][j-1] + 1, // substitution
+                                Math.min(matrix[i][j-1] + 1, // insertion
+                                         matrix[i-1][j] + 1)); // deletion
+      }
+    }
+  }
+
+  return matrix[b.length][a.length];
+};
+
+ 	function test(){
+ 		alert(getEditDistance('1111','12312'))
  	}
 
 	</script>
@@ -48,6 +95,7 @@
 
 	<div id="input_area">
 		<button id="segment_button" onclick="solve()">解题</button>
+		<button id="segment_button" onclick="test()">测试</button>
 		 <br>
 			<table border="0" width="100%" cellpadding="10">
 				<tr>
