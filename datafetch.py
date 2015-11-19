@@ -4,6 +4,7 @@ from setting import *
 import numpy
 import argparse
 import theano
+import codecs
 import theano.tensor as T
 import gensim, logging
 client = MongoClient()
@@ -78,7 +79,7 @@ def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized
                     if showsentence:
                         print text, wordsense
                     if outputtxt:
-                        outputcontent += wordsense+'\t'+text+'\r\n'
+                        outputcontent += wordsense+'\t'+str(i+1)+'\t'+text+'\r\n'
                     try:
                         if not wordsense in senselist:
                             senselist.append(wordsense)
@@ -104,7 +105,7 @@ def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized
                         a = 1
 
     if outputtxt:
-        output = open(keyword+'.txt', 'wb')
+        output = codecs.open('tagged/'+keyword+'.txt', 'wb', 'utf-8')
         output.write(outputcontent)
         output.close()
     print 'sensenum: '+str(len(senselist))

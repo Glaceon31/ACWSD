@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   	<meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+        <link href="favicon.png" rel="shortcut icon"/>
+        <title>文言文词义消歧</title>
+        <link rel="stylesheet" href="/static/layout.css" type="text/css">
+        <script type="text/javascript" src="/static/jquery-1.3.2.min.js"></script>
+        <script type="text/javascript" src="/static/cookie.js"></script>
+        <script type="text/javascript" src="/static/user.js?v=1.0"></script>
+        <script type="text/javascript" src="/static/sentence.js?v=1.1"></script>
+        <script type="text/javascript" src="/static/jquery.md5.js"></script>
+	<script>
+ 	function solve(){
+ 		d = {}
+ 		tags = ['stem','substem','select1', 'select2', 'select3', 'select4','subselect1', 'subselect2', 'subselect3', 'subselect4']
+ 		for (i in tags)
+ 			d[tags[i]] = document.getElementById(tags[i]).value
+ 		jsondata = JSON.stringify(d)
+ 		$.post('/solve/'+jsondata,
+ 		function(data){
+ 			result = JSON.parse(data)
+ 			if (result['success'] == 0){
+ 				document.getElementById('result').innerHTML = '发生错误'
+ 				return
+ 			}
+ 			if (result['type'] == 'tagging'){
+ 				document.getElementById('result').innerHTML = '释义：'+result['sense']
+ 			}
+ 			if (result['type'] == 'sentence_pair'){
+ 				document.getElementById('result').innerHTML = '释义'
+ 			}
+ 			//document.getElementById('result').innerHTML = data
+ 		}
+ 		)
+ 	}
+
+	</script>
+   </head>
+   
+<body>
+	<div id="header">
+			<div id="logo">
+				<img src="/static/thumt-logo.png"  alt="logo"/>
+			</div>
+			<h1>文言文词义消歧系统</h1>
+		</div>
+
+	<div id="input_area">
+		<button id="segment_button" onclick="solve()">解题</button>
+		 <br>
+			<table border="0" width="100%" cellpadding="10">
+				<tr>
+					<td valign="top">
+					题干: <input type="text" size=50 id="stem">
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">
+					副题干: <input type="text" size=30 id="substem">
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">
+					选项一: <input type="text" size=20 id="select1"> <input type="text" size=20 id="subselect1">
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">
+					选项二: <input type="text" size=20 id="select2"> <input type="text" size=20 id="subselect2">
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">
+					选项三: <input type="text" size=20 id="select3"> <input type="text" size=20 id="subselect3">
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">
+					选项四: <input type="text" size=20 id="select4"> <input type="text" size=20 id="subselect4">
+					</td>
+				</tr>
+				<tr>
+					<td>
+					结果: <p id='result'>11</p>
+					</td>
+				</tr>
+			</table>
+			<br/>
+		</div>
+		
+</body>
+</html>

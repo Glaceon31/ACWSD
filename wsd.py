@@ -2,6 +2,7 @@
 import json
 import traceback
 import random
+import re
 from app import *
 from setting import *
 from testcnn import testcnn
@@ -124,6 +125,66 @@ def sensedistribute(jsondata):
         else:
             sentence.append({'word':data[i],'sense':''})
     return json.dumps(sentence)
+
+@app.route('/exam', methods=['GET', 'POST'])
+def exam():
+    return render_template('exam.html')
+
+def get_keyword(stem):
+    kre = re.compile('<.*?>(.*?)<\..*?>')
+    result = kre.findall(stem)
+    if len(result) >= 0:
+        return result[0]
+    else:
+        return '' 
+
+@app.route('/solve/<jsondata>', methods=['GET', 'POST'])
+def solve(jsondata):
+    data = json.loads(jsondata)
+    print data
+    result = {'success':0}
+    #choose meaning of key word
+    if u'解释' in data['stem']:
+        result['type'] = 'tagging'
+        #choose right
+        keyword = get_keyword(data['substem'])
+        result['keyword'] = keyword
+        sentence = data['substem'].replace('<>','').replace('<.>','')
+        result['sentence'] = sentence
+        cnnpredictlist = testcnn(sentence)
+        sense = cnnpredictlist[sentence.index(keyword)]
+        result['sense'] = sense
+        result['success'] = 1
+    #choose word-sense pair
+    #compare meaning of key word in 2 sentences
+    if u'组句' in data['stem']:
+        result['type'] = 'sentence_pair'
+        for i in range(1,5):
+            keyword = get_keyword(data['select'+str(i)])
+            sentence1 = data['select'+str(i)].replace('<>','').replace('<.>','')
+            sentence2 = data['subselect'+str(i)].replace('<>','').replace('<.>','')
+            result['keyword'+str(i)] = keyword
+            cnnpredictlist1 = testcnn(sentence1)
+            cnnpredictlist2 = testcnn(sentence2)
+            sense1 = cnnpredictlist1[sentence1.index(keyword)]
+            result['sense1_'+str(i)] = sense1
+            sense2 = cnnpredictlist2[sentence2.index(keyword)]
+            result['sense2_'+str(i)] = sense2
+            result['sim'+str(i)] = 0
+        #choose correct
+        if u'相同' in data['stem']:
+            if sense1 == sense2:
+                result['pair'+str(i)] = 1
+            else:
+                result['pair'+str(i)] = 0
+        else:
+            if sense1 == sense2:
+                result['pair'+str(i)] = 0
+            else:
+                result['pair'+str(i)] = 1
+        result['success'] = 1
+    print result
+    return json.dumps(result)
 
 @app.route('/update/<jsondata>', methods=['GET', 'POST'])
 def update(jsondata):
