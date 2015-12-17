@@ -5,8 +5,10 @@ import random
 import re
 from app import *
 from setting import *
-from testcnn import testcnn
+from testcnn import testcnn, testcnnp
 from crfpredict import crfpredict
+import numpy as np
+import urllib
 
 corpusdb = db.corpus
 dictdb = db.dict
@@ -131,7 +133,7 @@ def exam():
     return render_template('exam.html')
 
 def get_keyword(stem):
-    kre = re.compile('<.*?>(.*?)<\..*?>')
+    kre = re.compile('<point>(.*?)</point>')
     result = kre.findall(stem)
     if len(result) >= 0:
         return result[0]
@@ -140,49 +142,92 @@ def get_keyword(stem):
 
 @app.route('/solve/<jsondata>', methods=['GET', 'POST'])
 def solve(jsondata):
-    data = json.loads(jsondata)
-    print data
-    result = {'success':0}
-    #choose meaning of key word
-    if u'解释' in data['stem']:
-        result['type'] = 'tagging'
-        #choose right
-        keyword = get_keyword(data['substem'])
-        result['keyword'] = keyword
-        sentence = data['substem'].replace('<>','').replace('<.>','')
-        result['sentence'] = sentence
-        cnnpredictlist = testcnn(sentence)
-        sense = cnnpredictlist[sentence.index(keyword)]
-        result['sense'] = sense
-        result['success'] = 1
-    #choose word-sense pair
-    #compare meaning of key word in 2 sentences
-    if u'组句' in data['stem']:
-        result['type'] = 'sentence_pair'
-        for i in range(1,5):
-            keyword = get_keyword(data['select'+str(i)])
-            sentence1 = data['select'+str(i)].replace('<>','').replace('<.>','')
-            sentence2 = data['subselect'+str(i)].replace('<>','').replace('<.>','')
-            result['keyword'+str(i)] = keyword
-            cnnpredictlist1 = testcnn(sentence1)
-            cnnpredictlist2 = testcnn(sentence2)
-            sense1 = cnnpredictlist1[sentence1.index(keyword)]
-            result['sense1_'+str(i)] = sense1
-            sense2 = cnnpredictlist2[sentence2.index(keyword)]
-            result['sense2_'+str(i)] = sense2
-            result['sim'+str(i)] = 0
-        #choose correct
-        if u'相同' in data['stem']:
-            if sense1 == sense2:
-                result['pair'+str(i)] = 1
-            else:
-                result['pair'+str(i)] = 0
+    jsondata = urllib.unquote(jsondata)
+    jsondata = jsondata.replace('nya', '/')
+    print jsondata
+    result = {'success':0, 'error':'unknown error'}
+    data ={}
+    #parse xml
+    try:
+        rehead = re.compile('<headtext>(.*?)</headtext>')
+        if len(rehead.findall(jsondata)) > 0:
+            data['stem'] = rehead.findall(jsondata)[0]
+            retext = re.compile('<text.*?>(.*?)</text>')
+            data['substem'] = retext.findall(jsondata)[0]
         else:
-            if sense1 == sense2:
-                result['pair'+str(i)] = 0
+            retext = re.compile('<text.*?>(.*?)</text>')
+            data['stem'] = retext.findall(jsondata)[0]
+        for i in range(1,5):
+            #print '<value="'+chr(64+i)+'">(.*?)</option>'
+            reselect = re.compile('value="'+chr(64+i)+'">([\s\S]*?)</option>')
+            select = reselect.findall(jsondata)[0]
+            reselecttext = re.compile('\S+')
+            selecttext = reselecttext.findall(select)
+            data['select'+str(i)] = selecttext[0]
+            result['select'+str(i)] = selecttext[0]
+            if len(selecttext) == 2:
+                data['subselect'+str(i)] = selecttext[0]
+                result['subselect'+str(i)] = selecttext[0]
+    except:
+        print data
+        result['error'] = 'invalid xml format'
+        return json.dumps(result)
+    #choose meaning of key word
+    print data
+    try:
+        if u'解释' in data['stem']:
+            result['type'] = 'tagging'
+            #choose right
+            keyword = get_keyword(data['substem'])
+            result['keyword'] = keyword
+            sentence = data['substem'].replace('<point>','').replace('</point>','')
+            result['sentence'] = sentence
+            cnnpredictlist = testcnn(sentence)
+            sense = cnnpredictlist[sentence.index(keyword)]
+            result['sense'] = sense
+            result['success'] = 1
+        #choose word-sense pair
+        #compare meaning of key word in 2 sentences
+        if u'组句' in data['stem']:
+            result['type'] = 'sentence_pair'
+            for i in range(1,5):
+                keyword = get_keyword(data['select'+str(i)])
+                sentence1 = data['select'+str(i)].replace('<point>','').replace('</point>','')
+                sentence2 = data['subselect'+str(i)].replace('<point>','').replace('</point>','')
+                result['keyword'+str(i)] = keyword
+                cnnpredictlist1 = testcnn(sentence1)
+                cnnpredictlist2 = testcnn(sentence2)
+                cnnp1 = testcnnp(sentence1)
+                cnnp2 = testcnnp(sentence2)
+                #print cnnp1
+                #print cnnp2
+                sense1 = cnnpredictlist1[sentence1.index(keyword)]
+                p1 = cnnp1[sentence1.index(keyword)]
+                result['sense'+str(i)+'_1'] = sense1
+                sense2 = cnnpredictlist2[sentence2.index(keyword)]
+                p2 = cnnp2[sentence2.index(keyword)]
+                result['sense'+str(i)+'_2'] = sense2
+                print p1
+                print p2
+                result['sim'+str(i)] = np.dot(p1, p2)
+            #choose correct
+            if u'相同' in data['stem']:
+                result['same'] = 1
+                if sense1 == sense2:
+                    result['pair'+str(i)] = 1
+                else:
+                    result['pair'+str(i)] = 0
             else:
-                result['pair'+str(i)] = 1
-        result['success'] = 1
+                result['same'] = 0
+                if sense1 == sense2:
+                    result['pair'+str(i)] = 0
+                else:
+                    result['pair'+str(i)] = 1
+            result['success'] = 1
+    except:
+        print result
+        print traceback.print_exc()
+        return json.dumps(result)
     print result
     return json.dumps(result)
 

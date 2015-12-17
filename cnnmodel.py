@@ -34,7 +34,7 @@ class cnnmodel(object):
         self.layer0 = []
         for i in range(1,2*window_radius+2):
             ph = 2*window_radius+2-i
-            print ph
+            #print ph
             self.layer0.append(WsdConvPoolLayer(
                 rng,
             input=self.layer0_input,

@@ -51,7 +51,7 @@ def testcnn(sentence):
                                                dtype=theano.config.floatX),
                                  borrow=True)
 
-            print test_set_x
+            #print test_set_x
             index = T.lscalar()
             output_model = theano.function(
                 [index],
@@ -61,8 +61,39 @@ def testcnn(sentence):
                 }
             )
 
-            print sentence, '\t',output_model(0)[0][0]
+            #print sentence, '\t',output_model(0)[0][0]
             result.append(senselist[sentence[i]][output_model(0)[0][0]])
+        else:
+            result.append('')
+    return result 
+
+def testcnnp(sentence):
+    
+    result = []
+
+    for i in range(0,len(sentence)):
+
+        if sentence[i] in wordlist:
+            savefile = open('model//cnn//'+sentence[i])
+            model = cPickle.load(savefile)
+            data_x = [sentence2vector(sentence, model.window_radius, model.vector_size,i)]
+
+            test_set_x = theano.shared(numpy.asarray(data_x,
+                                               dtype=theano.config.floatX),
+                                 borrow=True)
+
+            #print test_set_x
+            index = T.lscalar()
+            output_model = theano.function(
+                [index],
+                [model.layer2.p_y_given_x],
+                givens={
+                    model.x: test_set_x[index:(index+1)]
+                }
+            )
+
+            #print sentence, '\t',output_model(0)[0][0]
+            result.append(output_model(0)[0][0])
         else:
             result.append('')
     return result 
