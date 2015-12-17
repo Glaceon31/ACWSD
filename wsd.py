@@ -166,8 +166,8 @@ def solve(jsondata):
             data['select'+str(i)] = selecttext[0]
             result['select'+str(i)] = selecttext[0]
             if len(selecttext) == 2:
-                data['subselect'+str(i)] = selecttext[0]
-                result['subselect'+str(i)] = selecttext[0]
+                data['subselect'+str(i)] = selecttext[1]
+                result['subselect'+str(i)] = selecttext[1]
     except:
         print data
         result['error'] = 'invalid xml format'
