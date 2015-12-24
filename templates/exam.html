@@ -13,6 +13,7 @@
 	<script>
  	function solve(){
  		//d = {}
+ 		hanzi = ['','一','二','三','四']
  		var reg = new RegExp('/', 'g')
  		jsondata = encodeURI(document.getElementById('xml').value).replace(reg, 'nya')
  		//jsondata = JSON.stringify(d)
@@ -26,15 +27,16 @@
  			}
  			if (result['type'] == 'tagging'){
  				editdistance = [getEditDistance(result['sense'],result['select1']),getEditDistance(result['sense'],result['select2']),getEditDistance(result['sense'],result['select3']),getEditDistance(result['sense'],result['select4'])]
- 				mind = 10000
+ 				max_matching = [max_length_matching(result['sense'],result['select1']),max_length_matching(result['sense'],result['select2']),max_length_matching(result['sense'],result['select3']),max_length_matching(result['sense'],result['select4'])]
+ 				mind = 100000
  				ans = -1
- 				for (i in editdistance){
-	 				if (editdistance[i] < mind){
+ 				for (i =0; i < 4;i++){
+	 				if (editdistance[i]+100-max_matching[i] < mind){
 	 					ans = i
-	 					mind = editdistance[i]
+	 					mind = editdistance[i]+100-max_matching[i]
 	 				}
 	 			}
- 				document.getElementById('result').innerHTML = '释义：'+result['sense']+'<br>选项一距离：'+editdistance[0]+'<br>选项二距离：'+editdistance[1]+'<br>选项三距离：'+editdistance[2]+'<br>选项四距离：'+editdistance[3]+'<br>答案：选项'+String(parseInt(ans)+1)
+ 				document.getElementById('result').innerHTML = '释义：'+result['sense']+'<br>选项一距离：'+editdistance[0]+'；  最长匹配：'+max_matching[0]+'<br>选项二距离：'+editdistance[1]+'；  最长匹配：'+max_matching[1]+'<br>选项三距离：'+editdistance[2]+'；  最长匹配：'+max_matching[2]+'<br>选项四距离：'+editdistance[3]+'；  最长匹配：'+max_matching[3]+'<br>答案：选项'+hanzi[String(parseInt(ans)+1)]
  			}
  			if (result['type'] == 'sentence_pair'){
  				if (result['same'] == 1){
@@ -65,7 +67,7 @@
  						}
  					}
  				}
- 				document.getElementById('result').innerHTML = '选项一：<br>释义1：'+result['sense1_1']+'<br>释义2：'+result['sense1_2']+'<br>相似度：'+result['sim1']+'<br>选项二：<br>释义1：'+result['sense2_1']+'<br>释义2：'+result['sense2_2']+'<br>相似度：'+result['sim2']+'<br>选项三：<br>释义1：'+result['sense3_1']+'<br>释义2：'+result['sense3_2']+'<br>相似度：'+result['sim3']+'<br>选项四：<br>释义1：'+result['sense4_1']+'<br>释义2：'+result['sense4_2']+'<br>相似度：'+result['sim4']+'<br>答案：选项'+String(parseInt(ans))
+ 				document.getElementById('result').innerHTML = '选项一：<br>释义1：'+result['sense1_1']+'<br>释义2：'+result['sense1_2']+'<br>相似度：'+result['sim1']+'<br>选项二：<br>释义1：'+result['sense2_1']+'<br>释义2：'+result['sense2_2']+'<br>相似度：'+result['sim2']+'<br>选项三：<br>释义1：'+result['sense3_1']+'<br>释义2：'+result['sense3_2']+'<br>相似度：'+result['sim3']+'<br>选项四：<br>释义1：'+result['sense4_1']+'<br>释义2：'+result['sense4_2']+'<br>相似度：'+result['sim4']+'<br>答案：选项'+hanzi[String(parseInt(ans))]
  			}
  			//document.getElementById('result').innerHTML = data
  		}
@@ -107,7 +109,26 @@
 };
 
  	function test(){
- 		alert(getEditDistance('1111','12312'))
+ 		alert(max_length_matching('1111','12312'))
+ 	}
+
+ 	function max_length_matching(a, b){
+ 		if (a.length > b.length){
+ 			tmp = a
+ 			a = b
+ 			b = tmp
+ 		}
+ 		var result = a.length
+ 		while (result > 0){
+ 			matched = false
+ 			for (i = 0; i <= a.length-result; i++){
+ 				if (b.indexOf(a.substr(i, result)) >= 0)
+ 					matched = true
+ 			}
+ 			if (matched) break
+ 			result = result-1
+ 		}
+ 		return result
  	}
 
 	</script>
@@ -185,7 +206,7 @@
 				</tr>
 			</table>
 		-->
-		结果: <p id='result'>11</p>
+		结果: <p id='result'></p>
 			<br/>
 		</div>
 		

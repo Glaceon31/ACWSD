@@ -145,7 +145,7 @@ def solve(jsondata):
     jsondata = urllib.unquote(jsondata)
     jsondata = jsondata.replace('nya', '/')
     print jsondata
-    result = {'success':0, 'error':'unknown error'}
+    result = {'success':0, 'error':u'无法解题'}
     data ={}
     #parse xml
     try:
@@ -170,7 +170,7 @@ def solve(jsondata):
                 result['subselect'+str(i)] = selecttext[1]
     except:
         print data
-        result['error'] = 'invalid xml format'
+        result['error'] = u'XML格式错误'
         return json.dumps(result)
     #choose meaning of key word
     print data
