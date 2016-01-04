@@ -36,17 +36,20 @@
 	 					mind = editdistance[i]+100-max_matching[i]
 	 				}
 	 			}
- 				document.getElementById('result').innerHTML = '释义：'+result['sense']+'<br>选项一距离：'+editdistance[0]+'；  最长匹配：'+max_matching[0]+'<br>选项二距离：'+editdistance[1]+'；  最长匹配：'+max_matching[1]+'<br>选项三距离：'+editdistance[2]+'；  最长匹配：'+max_matching[2]+'<br>选项四距离：'+editdistance[3]+'；  最长匹配：'+max_matching[3]+'<br>答案：选项'+hanzi[String(parseInt(ans)+1)]
+ 				document.getElementById('result').innerHTML = '释义：'+result['sense']+'<br><br>选项一<br>编辑距离：'+editdistance[0]+'<br>最长匹配长度：'+max_matching[0]+'<br><br>选项二<br>编辑距离：'+editdistance[1]+'<br>最长匹配长度：'+max_matching[1]+'<br><br>选项三<br>编辑距离：'+editdistance[2]+'<br>最长匹配长度：'+max_matching[2]+'<br><br>选项四<br>编辑距离：'+editdistance[3]+'<br>最长匹配长度：'+max_matching[3]+'<br><br>答案：选项'+hanzi[String(parseInt(ans)+1)]
  			}
  			if (result['type'] == 'sentence_pair'){
+ 				match = ['0%','0%','0%','0%','0%']
  				if (result['same'] == 1){
  					ans = 0
  					i = 1
  					sim = 0
  					for (;i<=4;i++){
  						comval = result['sim'+String(i)]
- 						if (result['sense'+String(i)+'_1'] == result['sense'+String(i)+'_2'] )
+ 						if (result['sense'+String(i)+'_1'] == result['sense'+String(i)+'_2'] ){
+ 							match[i] = '100%'
  							comval = result['sim'+String(i)]+1.0	
+ 						}
  						if (comval > sim){
  							ans = i
  							sim = comval
@@ -59,15 +62,18 @@
  					sim = 1
  					for (;i<=4;i++){
  						comval = result['sim'+String(i)]
- 						if (result['sense'+String(i)+'_1'] != result['sense'+String(i)+'_2'] )
+ 						match[i] = '100%'
+ 						if (result['sense'+String(i)+'_1'] != result['sense'+String(i)+'_2'] ){
+ 							match[i] = '0%'
  							comval = result['sim'+String(i)]-1.0	
+ 						}
  						if (comval < sim){
  							ans = i
  							sim = comval
  						}
  					}
  				}
- 				document.getElementById('result').innerHTML = '选项一：<br>释义1：'+result['sense1_1']+'<br>释义2：'+result['sense1_2']+'<br>相似度：'+result['sim1']+'<br>选项二：<br>释义1：'+result['sense2_1']+'<br>释义2：'+result['sense2_2']+'<br>相似度：'+result['sim2']+'<br>选项三：<br>释义1：'+result['sense3_1']+'<br>释义2：'+result['sense3_2']+'<br>相似度：'+result['sim3']+'<br>选项四：<br>释义1：'+result['sense4_1']+'<br>释义2：'+result['sense4_2']+'<br>相似度：'+result['sim4']+'<br>答案：选项'+hanzi[String(parseInt(ans))]
+ 				document.getElementById('result').innerHTML = '选项一：<br>释义1：'+result['sense1_1']+'<br>释义2：'+result['sense1_2']+'<br>释义匹配度：'+match[1]+'<br>义项概率分布相似度：'+100*result['sim1'].toFixed(3)+'%<br><br>选项二：<br>释义1：'+result['sense2_1']+'<br>释义2：'+result['sense2_2']+'<br>释义匹配度：'+match[2]+'<br>义项概率分布相似度：'+100*result['sim2'].toFixed(3)+'%<br><br>选项三：<br>释义1：'+result['sense3_1']+'<br>释义2：'+result['sense3_2']+'<br>释义匹配度：'+match[3]+'<br>义项概率分布相似度：'+100*result['sim3'].toFixed(3)+'%<br><br>选项四：<br>释义1：'+result['sense4_1']+'<br>释义2：'+result['sense4_2']+'<br>释义匹配度：'+match[4]+'<br>义项概率分布相似度：'+100*result['sim4'].toFixed(3)+'%<br><br>答案：选项'+hanzi[String(parseInt(ans))]
  			}
  			//document.getElementById('result').innerHTML = data
  		}
