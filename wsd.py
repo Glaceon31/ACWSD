@@ -189,7 +189,7 @@ def solve(jsondata):
             result['success'] = 1
         #choose word-sense pair
         #compare meaning of key word in 2 sentences
-        if u'组句' in data['stem']:
+        if u'组句' in data['stem'] or u'组语句' in data['stem']:
             result['type'] = 'sentence_pair'
             for i in range(1,5):
                 keyword = get_keyword(data['select'+str(i)])
