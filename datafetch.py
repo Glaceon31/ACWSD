@@ -5,6 +5,7 @@ import numpy
 import argparse
 import theano
 import codecs
+import json
 import theano.tensor as T
 import gensim, logging
 client = MongoClient()
@@ -53,6 +54,42 @@ def sensemap(sense):
         return maplist[sense]
     else:
         return sense
+
+def produce_senselist(keyword):
+    print 'produce senselist for', keyword
+    tmpcorpus = corpusdb.find({'sentence': {'$regex':keyword}})
+
+    senselist = []
+    sensecount = []
+
+    for sentence in tmpcorpus:
+        text = sentence['sentence']
+        for i in range(0,len(text)):
+            word = text[i]
+            if word == keyword:
+                wordsense = getsense(sentence, i)
+                if wordsense != '':
+                    wordsense = sensemap(wordsense)
+                    sen = ''
+                    try:
+                        if not wordsense in senselist:
+                            senselist.append(wordsense)
+                    except:
+                        a = 1
+
+    output = codecs.open('senselist/'+keyword+'.txt', 'wb', 'utf-8')
+    output.write(json.dumps(senselist))
+    output.close()
+    return senselist
+
+def get_senselist(keyword):
+    try:
+        input = codecs.open('senselist/'+keyword+'.txt', 'rb', 'utf-8')
+        senselist = json.loads(input.read())
+        input.close()
+    except:
+        senselist = produce_senselist(keyword)
+    return senselist
 
 def load_data_word(keyword, window_radius, vector_size, sequence = 0, nomralized = False, border = False, showsentence = False, outputtxt = False):
     print 'fetching data for '+keyword
@@ -190,4 +227,5 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('keyword')
     args = parser.parse_args()
-    load_data_word(args.keyword.decode('utf-8'), 3, 50, showsentence = True, outputtxt = True)
+    get_senselist(args.keyword.decode('utf-8'))
+    #load_data_word(args.keyword.decode('utf-8'), 3, 50, showsentence = True, outputtxt = True)
