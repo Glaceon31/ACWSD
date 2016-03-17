@@ -170,6 +170,7 @@ def solve(jsondata):
                 result['subselect'+str(i)] = selecttext[1]
     except:
         print data
+        print traceback.print_exc()
         result['error'] = u'XML格式错误'
         return json.dumps(result)
     #choose meaning of key word
