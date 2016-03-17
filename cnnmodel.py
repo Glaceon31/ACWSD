@@ -56,7 +56,7 @@ class cnnmodel(object):
             activation=T.tanh
         )
 
-        self.layer2 = LogisticRegression(input=self.layer1.output, n_in=loginput_num, n_out=20)
+        self.layer2 = LogisticRegression(input=self.layer1.output, n_in=loginput_num, n_out=30)
 
 
 
