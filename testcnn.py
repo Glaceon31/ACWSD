@@ -26,6 +26,8 @@ wordlist = [u'信',u'属',u'之',u'将',u'乃',u'其',u'忍',u'者',u'至',u'遂
             u'以',u'所',u'为',u'而',u'使',u'臣',u'何',u'然',u'多',u'败',\
             u'常',u'愿',u'易',u'虞',u'籍',u'典',u'预',u'仍',u'假',u'竟',\
             u'舍',u'反',u'略']
+
+#wordlist = [u'信',u'属',u'之',u'将',u'乃',u'其',u'忍',u'者',u'至',u'遂']
 senselist = {}
 for word in wordlist:
     senselist[word] = get_senselist(word) 

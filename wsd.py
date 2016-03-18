@@ -140,6 +140,7 @@ def get_keyword(stem):
     else:
         return '' 
 
+
 @app.route('/solve/<jsondata>', methods=['GET', 'POST'])
 def solve(jsondata):
     jsondata = urllib.unquote(jsondata)
@@ -176,15 +177,34 @@ def solve(jsondata):
     #choose meaning of key word
     print data
     try:
-        if u'加点词语' in data['stem']:
+        if u'解释' in data['stem'] and u'下列语句' in data['stem']:
             result['type'] = 'taggingjudge'
-            #choose wrong
-            if u'不正确' in data['stem']:
-                result['same'] = 0
-                if sense1 == sense2:
-                    result['pair'+str(i)] = 1
+            for i in range(1,5):
+                print i
+                keyword = get_keyword(data['select'+str(i)])
+                sentence = data['select'+str(i)].split('$$')[0].replace('<point>','').replace('</point>','')
+                result['keyword'+str(i)] = keyword
+                judgesense = data['select'+str(i)].split('$$')[1]
+                print keyword, sentence, judgesense
+                cnnpredictlist = testcnn(sentence)
+                cnnp = testcnnp(sentence)
+                
+                print cnnpredictlist
+                print cnnp
+                if cnnp[sentence.index(keyword)] == '':
+                    p = ''
                 else:
-                    result['pair'+str(i)] = 0
+                    p = max(cnnp[sentence.index(keyword)])
+                sense = cnnpredictlist[sentence.index(keyword)]
+                result['judgesense'+str(i)] = judgesense
+                result['sense'+str(i)] = sense
+                result['p'+str(i)] = p
+                #choose wrong
+                if u'不正确' in data['stem']:
+                    result['same'] = 0
+                else:
+                    result['same'] = 1
+            result['success'] = 1
         elif u'解释' in data['stem']:
             result['type'] = 'tagging'
             #choose right
@@ -206,6 +226,7 @@ def solve(jsondata):
                 sentence1 = sentencepair[0]
                 sentence2 = sentencepair[1]
                 result['keyword'+str(i)] = keyword
+                print keyword, sentence1, sentence2
                 cnnpredictlist1 = testcnn(sentence1)
                 cnnpredictlist2 = testcnn(sentence2)
                 cnnp1 = testcnnp(sentence1)
@@ -239,6 +260,7 @@ def solve(jsondata):
         print result
         print traceback.print_exc()
         return json.dumps(result)
+    print 'end'
     print result
     return json.dumps(result)
 
