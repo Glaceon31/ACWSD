@@ -176,7 +176,16 @@ def solve(jsondata):
     #choose meaning of key word
     print data
     try:
-        if u'解释' in data['stem']:
+        if u'加点词语' in data['stem']:
+            result['type'] = 'taggingjudge'
+            #choose wrong
+            if u'不正确' in data['stem']:
+                result['same'] = 0
+                if sense1 == sense2:
+                    result['pair'+str(i)] = 1
+                else:
+                    result['pair'+str(i)] = 0
+        elif u'解释' in data['stem']:
             result['type'] = 'tagging'
             #choose right
             keyword = get_keyword(data['substem'])
@@ -189,12 +198,13 @@ def solve(jsondata):
             result['success'] = 1
         #choose word-sense pair
         #compare meaning of key word in 2 sentences
-        if u'组句' in data['stem'] or u'组语句' in data['stem']:
+        elif u'组句' in data['stem'] or u'组语句' in data['stem']:
             result['type'] = 'sentence_pair'
             for i in range(1,5):
                 keyword = get_keyword(data['select'+str(i)])
-                sentence1 = data['select'+str(i)].replace('<point>','').replace('</point>','')
-                sentence2 = data['subselect'+str(i)].replace('<point>','').replace('</point>','')
+                sentencepair = data['select'+str(i)].replace('<point>','').replace('</point>','').split('$$')
+                sentence1 = sentencepair[0]
+                sentence2 = sentencepair[1]
                 result['keyword'+str(i)] = keyword
                 cnnpredictlist1 = testcnn(sentence1)
                 cnnpredictlist2 = testcnn(sentence2)
