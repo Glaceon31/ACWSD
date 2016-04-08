@@ -37,7 +37,7 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
     print 'filter_width: '+str(filter_width)
     print 'pool_height: '+str(pool_height)
     print 'pool_width: '+str(pool_width)
-    print 'no_pool: '+str(args.no_pool)
+    print 'no_pool: '+str(False)
     print 'nkerns: '+str(nkerns)
     print 'loginput_num: '+str(loginput_num)
     print 'learning_rate: '+str(learning_rate)
