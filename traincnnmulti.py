@@ -51,6 +51,10 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
     valid_set_x, valid_set_y, validsentence = datasets[0][1]
     test_set_x, test_set_y, testsentence = datasets[0][2]
 
+    if valid_set_x.get_value(borrow=True).shape[0] == 0:
+        valid_set_x, valid_set_y, validsentence = train_set_x, train_set_y, trainsentence
+    if test_set_x.get_value(borrow=True).shape[0] == 0:
+        test_set_x, test_set_y, testsentence = train_set_x, train_set_y, trainsentence
     senselist = datasets[1]
 
     n_train_batches = train_set_x.get_value(borrow=True).shape[0]

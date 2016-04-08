@@ -24,10 +24,13 @@ for i in tmp:
 		print 'have'
 	else:
 		trainnum += 1
+		#trainword(i['word'],4,0.01,500,1,50,1,250,1,1,2000,250,0)
+		
 		try:
 			trainword(i['word'],4,0.01,500,1,50,1,250,1,1,2000,250,0)
 		except:
 			failnum += 1
+		
 
 print 'trainnum:', trainnum
 print 'failnum:', failnum 
