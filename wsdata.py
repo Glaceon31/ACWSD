@@ -11,6 +11,14 @@ dictdb = db.dict
 
 global wordlist
 
+def getwordlist():
+	tmp = dictdb.find()
+	print tmp.count()
+	result = []
+	for i in tmp:
+		result.append(i['word'])
+	return result
+
 def refreshdict():
 	global wordlist
 	wordlist = {}
