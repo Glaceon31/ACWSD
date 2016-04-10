@@ -29,6 +29,7 @@ wordlist = [u'信',u'属',u'之',u'将',u'乃',u'其',u'忍',u'者',u'至',u'遂
             u'舍',u'反',u'略']
 '''
 from pymongo import MongoClient
+client = MongoClient()
 db = client.wsd
 dictdb = db.dict
 
