@@ -89,8 +89,10 @@ def testcnn(sentence):
                 #print sentence, '\t',output_model(0)[0][0]
                 result.append(senselist[sentence[i]][output_model(0)[0][0]])
             except:
-                print senselist[sentence[i]]
-                result.append(senselist[sentence[i]][0])
+                try:
+                    result.append(senselist[sentence[i]][0])
+                except:
+                    result.append('')
         else:
             result.append('')
     return result 
