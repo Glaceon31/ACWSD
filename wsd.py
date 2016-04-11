@@ -178,7 +178,7 @@ def solve(jsondata):
     #choose meaning of key word
     print data
     try:
-        if u'解释' in data['stem'] and (u'下列语句' in data['stem'] or u'下列句子' in data['stem']):
+        if u'解释' in data['stem'] and not data.has_key('substem'):#(u'下列语句' in data['stem'] or u'下列句子' in data['stem']):
             result['type'] = 'taggingjudge'
             print 'taggingjudge'
             for i in range(1,5):
