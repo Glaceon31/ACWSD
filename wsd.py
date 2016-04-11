@@ -221,7 +221,7 @@ def solve(jsondata):
             result['success'] = 1
         #choose word-sense pair
         #compare meaning of key word in 2 sentences
-        elif u'组句' in data['stem'] or u'组语句' in data['stem'] or u'组词语' in data['stem']:
+        elif u'组句' in data['stem'] or u'组语句' in data['stem'] or u'组词语' in data['stem'] or u'下列句子' in data['stem']:
             print 'sentencepair'
             result['type'] = 'sentence_pair'
             for i in range(1,5):
