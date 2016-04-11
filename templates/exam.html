@@ -98,10 +98,11 @@
  						}
  					}
  				}
- 				document.getElementById('result').innerHTML = '选项一：<br>释义1：'+result['sense1_1']+'<br>释义2：'+result['sense1_2']+'<br>释义匹配度：'+match[1]+'<br>义项概率分布相似度：'+100*result['sim1'].toFixed(3)+'%<br><br>选项二：<br>释义1：'+result['sense2_1']+'<br>释义2：'+result['sense2_2']+'<br>释义匹配度：'+match[2]+'<br>义项概率分布相似度：'+100*result['sim2'].toFixed(3)+'%<br><br>选项三：<br>释义1：'+result['sense3_1']+'<br>释义2：'+result['sense3_2']+'<br>释义匹配度：'+match[3]+'<br>义项概率分布相似度：'+100*result['sim3'].toFixed(3)+'%<br><br>选项四：<br>释义1：'+result['sense4_1']+'<br>释义2：'+result['sense4_2']+'<br>释义匹配度：'+match[4]+'<br>义项概率分布相似度：'+100*result['sim4'].toFixed(3)+'%<br><br>答案：选项'+hanzi[String(parseInt(ans))]
+ 				ans -=1
+ 				document.getElementById('result').innerHTML = '选项一：<br>释义1：'+result['sense1_1']+'<br>释义2：'+result['sense1_2']+'<br>释义匹配度：'+match[1]+'<br>义项概率分布相似度：'+100*result['sim1'].toFixed(3)+'%<br><br>选项二：<br>释义1：'+result['sense2_1']+'<br>释义2：'+result['sense2_2']+'<br>释义匹配度：'+match[2]+'<br>义项概率分布相似度：'+100*result['sim2'].toFixed(3)+'%<br><br>选项三：<br>释义1：'+result['sense3_1']+'<br>释义2：'+result['sense3_2']+'<br>释义匹配度：'+match[3]+'<br>义项概率分布相似度：'+100*result['sim3'].toFixed(3)+'%<br><br>选项四：<br>释义1：'+result['sense4_1']+'<br>释义2：'+result['sense4_2']+'<br>释义匹配度：'+match[4]+'<br>义项概率分布相似度：'+100*result['sim4'].toFixed(3)+'%<br><br>答案：选项'+hanzi[String(parseInt(ans)+1)]
  			}
  			ansselect = ['','A','B','C','D']
- 			xmlanswer = document.getElementById('xml').value.replace('</question>','			<answer org="THU">\n			'+ansselect[String(parseInt(ans))]+'\n			</answer>\n</question>')
+ 			xmlanswer = document.getElementById('xml').value.replace('</question>','<answer org="THU">\n			'+ansselect[String(parseInt(ans)+1)]+'\n			</answer>\n</question>')
  			document.getElementById('xmlanswer').innerHTML = xmlanswer
  			//document.getElementById('result').innerHTML = data
  		}
