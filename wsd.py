@@ -172,6 +172,7 @@ def solve(jsondata):
     except:
         print data
         print traceback.print_exc()
+        print 'XML format error'
         result['error'] = u'XML格式错误'
         return json.dumps(result)
     #choose meaning of key word
@@ -179,6 +180,7 @@ def solve(jsondata):
     try:
         if u'解释' in data['stem'] and u'下列语句' in data['stem']:
             result['type'] = 'taggingjudge'
+            print 'taggingjudge'
             for i in range(1,5):
                 print i
                 keyword = get_keyword(data['select'+str(i)])
@@ -206,6 +208,7 @@ def solve(jsondata):
                     result['same'] = 1
             result['success'] = 1
         elif u'解释' in data['stem']:
+            print 'tagging'
             result['type'] = 'tagging'
             #choose right
             keyword = get_keyword(data['substem'])
@@ -219,6 +222,7 @@ def solve(jsondata):
         #choose word-sense pair
         #compare meaning of key word in 2 sentences
         elif u'组句' in data['stem'] or u'组语句' in data['stem']:
+            print 'sentencepair'
             result['type'] = 'sentence_pair'
             for i in range(1,5):
                 keyword = get_keyword(data['select'+str(i)])
