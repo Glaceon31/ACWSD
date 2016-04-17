@@ -273,10 +273,10 @@ def solve(jsondata):
 
 @app.route('/interface', methods=['POST'])
 def interface():
-    jsondata = request.form
+    jsondata = request.form['xml']
     print jsondata
-    solveprocess(jsondata)
-    return jsondata
+    result = solveprocess(jsondata)
+    return json.dumps(result)
 
 @app.route('/update/<jsondata>', methods=['GET', 'POST'])
 def update(jsondata):
