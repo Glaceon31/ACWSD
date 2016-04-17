@@ -263,6 +263,40 @@ def solveprocess(jsondata):
     print 'end'
     return result
 
+def geteditdistance(a,b):
+    if len(a) == 0:
+        return len(b)
+    if len(b) == 0:
+        return len(a)
+    matrix = np.zeros((len(b)+1, len(a)+1))
+    for i in xrange(len(b)):
+        matrix[i][0] = i
+    for j in xrange(len(a)):
+        matrix[0][j] = j
+    for i in range(1,len(b)+1):
+        for j in range(1,len(a)+1):
+            if b[i-1] == a[j-1]:
+                matrix[i][j] = matrix[i-1][j-1]
+            else:
+                matrix[i][j] = min(matrix[i-1][j-1]+1,matrix[i][j-1]+1,matrix[i-1][j]+1)        
+    return matrix[len(b)][len(a)]
+
+def max_matching(a,b):
+    if len(a) > len(b):
+        tmp = a
+        a = b
+        b = tmp
+    result = len(a)
+    while result > 0:
+        matched = False
+        for i in xrange(len(a)-result+1):
+            if b.find(a[i:i+result]) >= 0:
+                matched = True
+        if matched:
+            break
+        result = result-1
+    return result
+
 @app.route('/solve/<jsondata>', methods=['GET', 'POST'])
 def solve(jsondata):
     jsondata = urllib.unquote(jsondata)
@@ -276,7 +310,58 @@ def interface():
     jsondata = request.form['xml']
     print jsondata
     result = solveprocess(jsondata)
-    return json.dumps(result)
+    responsexml = jsondata
+    if result['type'] == 'taggingjudge':
+        if result['same'] == 1
+            mind = 100000
+            ans = -1
+        else:
+            maxd = 0
+            ans = -1
+        for i in range(1,5):
+            ed=geteditdistance(result['sense'+str(i)], result['judgesense'+str(i)])
+            mm=max_matching(result['sense'+str(i)], result['judgesense'+str(i)])
+            if result['same'] == 1:
+                if ed+100-mm < mind:
+                    ans = i
+                    mind = ed+100-mm
+            else:
+                if ed+100-mm > maxd:
+                    ans = i
+                    maxd = ed+100-mm
+    elif result['type'] == 'tagging':
+        mind = 100000
+        ans = -1
+        for i in range(1,5):
+            ed=geteditdistance(result['sense'+str(i)], result['judgesense'+str(i)])
+            mm=max_matching(result['sense'+str(i)], result['judgesense'+str(i)])
+            if ed+100-mm < mind:
+                ans = i
+                mind = ed+100-mm
+    elif result['type'] == 'sentencepair':
+        ans = -1
+        if result['same'] == 1:
+            sim = 0
+        else:
+            sim = 1.
+        for i in range(1,5):
+            comval = result['sim'+str(i)]
+            if result['same'] == 1:
+                if result['sense'+str(i)+'_1'] == result['sense'+str(i)+'_2']:
+                    comval += 1.0
+                if comval > sim:
+                    ans = i
+                    sim = comval
+            else:
+                if result['sense'+str(i)+'_1'] != result['sense'+str(i)+'_2']:
+                    comval -= 1.0
+                if comval < sim:
+                    ans = i
+                    sim = comval
+
+    ansselect = ['','A','B','C','D']
+    responsexml = responsexml.replace('</question>','<answer org="THU">\n           '+ansselect[ans]+'\n            </answer>\n</question>')
+    return responsexml
 
 @app.route('/update/<jsondata>', methods=['GET', 'POST'])
 def update(jsondata):
