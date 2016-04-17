@@ -261,18 +261,20 @@ def solveprocess(jsondata):
         print traceback.print_exc()
         return json.dumps(result)
     print 'end'
+    return result
 
 @app.route('/solve/<jsondata>', methods=['GET', 'POST'])
 def solve(jsondata):
     jsondata = urllib.unquote(jsondata)
     jsondata = jsondata.replace('nya', '/')
-    solveprocess(jsondata)
+    result = solveprocess(jsondata)
     print result
     return json.dumps(result)
 
 @app.route('/interface', methods=['POST'])
 def interface(jsondata):
     print jsondata
+    solveprocess(jsondata)
     return jsondata
 
 @app.route('/update/<jsondata>', methods=['GET', 'POST'])
