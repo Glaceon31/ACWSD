@@ -272,7 +272,8 @@ def solve(jsondata):
     return json.dumps(result)
 
 @app.route('/interface', methods=['POST'])
-def interface(jsondata):
+def interface():
+    jsondata = request.form
     print jsondata
     solveprocess(jsondata)
     return jsondata
