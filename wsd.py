@@ -312,6 +312,7 @@ def interface():
     result = solveprocess(jsondata)
     responsexml = jsondata
     if result['type'] == 'taggingjudge':
+        print 'taggingjudge'
         if result['same'] == 1:
             mind = 100000
             ans = -1
@@ -321,6 +322,7 @@ def interface():
         for i in range(1,5):
             ed=geteditdistance(result['sense'+str(i)], result['judgesense'+str(i)])
             mm=max_matching(result['sense'+str(i)], result['judgesense'+str(i)])
+            print ed, mm
             if result['same'] == 1:
                 if ed+100-mm < mind:
                     ans = i
@@ -330,15 +332,18 @@ def interface():
                     ans = i
                     maxd = ed+100-mm
     elif result['type'] == 'tagging':
+        print 'tagging'
         mind = 100000
         ans = -1
         for i in range(1,5):
             ed=geteditdistance(result['sense'+str(i)], result['judgesense'+str(i)])
             mm=max_matching(result['sense'+str(i)], result['judgesense'+str(i)])
+            print ed, mm
             if ed+100-mm < mind:
                 ans = i
                 mind = ed+100-mm
     elif result['type'] == 'sentencepair':
+        print 'sentencepair'
         ans = -1
         if result['same'] == 1:
             sim = 0
@@ -346,6 +351,7 @@ def interface():
             sim = 1.
         for i in range(1,5):
             comval = result['sim'+str(i)]
+            print comval
             if result['same'] == 1:
                 if result['sense'+str(i)+'_1'] == result['sense'+str(i)+'_2']:
                     comval += 1.0
