@@ -140,11 +140,7 @@ def get_keyword(stem):
     else:
         return '' 
 
-
-@app.route('/solve/<jsondata>', methods=['GET', 'POST'])
-def solve(jsondata):
-    jsondata = urllib.unquote(jsondata)
-    jsondata = jsondata.replace('nya', '/')
+def solveprocess(jsondata):
     print jsondata
     result = {'success':0, 'error':u'无法解题'}
     data ={}
@@ -265,8 +261,19 @@ def solve(jsondata):
         print traceback.print_exc()
         return json.dumps(result)
     print 'end'
+
+@app.route('/solve/<jsondata>', methods=['GET', 'POST'])
+def solve(jsondata):
+    jsondata = urllib.unquote(jsondata)
+    jsondata = jsondata.replace('nya', '/')
+    solveprocess(jsondata)
     print result
     return json.dumps(result)
+
+@app.route('/interface', methods=['POST'])
+def interface(jsondata):
+    print jsondata
+    return jsondata
 
 @app.route('/update/<jsondata>', methods=['GET', 'POST'])
 def update(jsondata):
