@@ -312,7 +312,7 @@ def interface():
     result = solveprocess(jsondata)
     responsexml = jsondata
     if result['type'] == 'taggingjudge':
-        if result['same'] == 1
+        if result['same'] == 1:
             mind = 100000
             ans = -1
         else:
