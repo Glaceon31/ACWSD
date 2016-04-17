@@ -305,7 +305,7 @@ def solve(jsondata):
     print result
     return json.dumps(result)
 
-@app.route('/interface', methods=['POST'])
+@app.route('/wsdinterface', methods=['POST'])
 def interface():
     jsondata = request.form['xml']
     print jsondata
