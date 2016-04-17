@@ -269,9 +269,9 @@ def geteditdistance(a,b):
     if len(b) == 0:
         return len(a)
     matrix = np.zeros((len(b)+1, len(a)+1))
-    for i in xrange(len(b)):
+    for i in xrange(len(b)+1):
         matrix[i][0] = i
-    for j in xrange(len(a)):
+    for j in xrange(len(a)+1):
         matrix[0][j] = j
     for i in range(1,len(b)+1):
         for j in range(1,len(a)+1):
@@ -286,16 +286,16 @@ def max_matching(a,b):
         tmp = a
         a = b
         b = tmp
-    result = len(a)
-    while result > 0:
+    res = len(a)
+    while res > 0:
         matched = False
-        for i in xrange(len(a)-result+1):
-            if b.find(a[i:i+result]) >= 0:
+        for i in xrange(len(a)-res+1):
+            if b.find(a[i:i+res]) >= 0:
                 matched = True
         if matched:
             break
-        result = result-1
-    return result
+        res = res-1
+    return res
 
 @app.route('/solve/<jsondata>', methods=['GET', 'POST'])
 def solve(jsondata):
