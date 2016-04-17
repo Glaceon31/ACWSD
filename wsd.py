@@ -322,7 +322,7 @@ def interface():
         for i in range(1,5):
             ed=geteditdistance(result['sense'+str(i)], result['judgesense'+str(i)])
             mm=max_matching(result['sense'+str(i)], result['judgesense'+str(i)])
-            print ed, mm
+            print result['sense'+str(i)], result['judgesense'+str(i)], ed, mm
             if result['same'] == 1:
                 if ed+100-mm < mind:
                     ans = i
@@ -336,9 +336,9 @@ def interface():
         mind = 100000
         ans = -1
         for i in range(1,5):
-            ed=geteditdistance(result['sense'+str(i)], result['judgesense'+str(i)])
-            mm=max_matching(result['sense'+str(i)], result['judgesense'+str(i)])
-            print ed, mm
+            ed=geteditdistance(result['sense'], result['select'+str(i)])
+            mm=max_matching(result['sense'], result['select'+str(i)])
+            print result['sense'], result['select'+str(i)],ed, mm
             if ed+100-mm < mind:
                 ans = i
                 mind = ed+100-mm
@@ -351,7 +351,7 @@ def interface():
             sim = 1.
         for i in range(1,5):
             comval = result['sim'+str(i)]
-            print comval
+            print result['sense'+str(i)+'_1'],result['sense'+str(i)+'_2'],comval
             if result['same'] == 1:
                 if result['sense'+str(i)+'_1'] == result['sense'+str(i)+'_2']:
                     comval += 1.0
