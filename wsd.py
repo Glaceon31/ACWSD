@@ -214,6 +214,7 @@ def solveprocess(jsondata):
             cnnpredictlist = testcnn(sentence)
             sense = cnnpredictlist[sentence.index(keyword)]
             result['sense'] = sense
+            print sense
             result['success'] = 1
         #choose word-sense pair
         #compare meaning of key word in 2 sentences
