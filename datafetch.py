@@ -228,4 +228,4 @@ if __name__ == '__main__':
     parser.add_argument('keyword')
     args = parser.parse_args()
     get_senselist(args.keyword.decode('utf-8'))
-    #load_data_word(args.keyword.decode('utf-8'), 3, 50, showsentence = True, outputtxt = True)
+    load_data_word(args.keyword.decode('utf-8'), 3, 50, showsentence = True, outputtxt = True)
