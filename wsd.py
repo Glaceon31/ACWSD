@@ -312,6 +312,7 @@ def interface():
     print jsondata
     result = solveprocess(jsondata)
     responsexml = jsondata
+    print result
     if result['type'] == 'taggingjudge':
         print 'taggingjudge'
         if result['same'] == 1:
