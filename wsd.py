@@ -312,6 +312,7 @@ def interface():
     print jsondata
     result = solveprocess(jsondata)
     responsexml = jsondata
+    print result
     if result['type'] == 'taggingjudge':
         print 'taggingjudge'
         if result['same'] == 1:
@@ -343,7 +344,7 @@ def interface():
             if ed+100-mm < mind:
                 ans = i
                 mind = ed+100-mm
-    elif result['type'] == 'sentencepair':
+    elif result['type'] == 'sentence_pair':
         print 'sentencepair'
         ans = -1
         if result['same'] == 1:
