@@ -371,6 +371,70 @@ def interface():
     responsexml = responsexml.replace('</question>','<answer org="THU">\n           '+ansselect[ans]+'\n            </answer>\n</question>')
     return responsexml
 
+@app.route('/wsdansinterface', methods=['POST'])
+def ansinterface():
+    jsondata = request.form['xml']
+    print jsondata
+    result = solveprocess(jsondata)
+    responsexml = jsondata
+    print result
+    if result['type'] == 'taggingjudge':
+        print 'taggingjudge'
+        if result['same'] == 1:
+            mind = 100000
+            ans = -1
+        else:
+            maxd = 0
+            ans = -1
+        for i in range(1,5):
+            ed=geteditdistance(result['sense'+str(i)], result['judgesense'+str(i)])
+            mm=max_matching(result['sense'+str(i)], result['judgesense'+str(i)])
+            print result['sense'+str(i)], result['judgesense'+str(i)], ed, mm
+            if result['same'] == 1:
+                if ed+100-mm < mind:
+                    ans = i
+                    mind = ed+100-mm
+            else:
+                if ed+100-mm > maxd:
+                    ans = i
+                    maxd = ed+100-mm
+    elif result['type'] == 'tagging':
+        print 'tagging'
+        mind = 100000
+        ans = -1
+        for i in range(1,5):
+            ed=geteditdistance(result['sense'], result['select'+str(i)])
+            mm=max_matching(result['sense'], result['select'+str(i)])
+            print result['sense'], result['select'+str(i)],ed, mm
+            if ed+100-mm < mind:
+                ans = i
+                mind = ed+100-mm
+    elif result['type'] == 'sentence_pair':
+        print 'sentencepair'
+        ans = -1
+        if result['same'] == 1:
+            sim = 0
+        else:
+            sim = 1.
+        for i in range(1,5):
+            comval = result['sim'+str(i)]
+            print result['sense'+str(i)+'_1'],result['sense'+str(i)+'_2'],comval
+            if result['same'] == 1:
+                if result['sense'+str(i)+'_1'] == result['sense'+str(i)+'_2']:
+                    comval += 1.0
+                if comval > sim:
+                    ans = i
+                    sim = comval
+            else:
+                if result['sense'+str(i)+'_1'] != result['sense'+str(i)+'_2']:
+                    comval -= 1.0
+                if comval < sim:
+                    ans = i
+                    sim = comval
+
+    ansselect = ['','A','B','C','D']
+    return ansselect[ans]
+ 
 @app.route('/update/<jsondata>', methods=['GET', 'POST'])
 def update(jsondata):
     print jsondata
