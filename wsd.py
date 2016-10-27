@@ -5,7 +5,7 @@ import random
 import re
 from app import *
 from setting import *
-from testcnn import testcnn, testcnnp
+from testcnn import testcnn, testcnnp, testcnn_one, testcnnp_one
 from crfpredict import crfpredict
 import numpy as np
 import urllib
@@ -184,16 +184,20 @@ def solveprocess(jsondata):
                 result['keyword'+str(i)] = keyword
                 judgesense = data['select'+str(i)].split('$$')[1]
                 print keyword, sentence, judgesense
-                cnnpredictlist = testcnn(sentence)
-                cnnp = testcnnp(sentence)
+                position = sentence.index(keyword)
+                cnnpredictlist = testcnn_one(sentence,position)
+                cnnp = testcnnp_one(sentence,position)
+                #cnnpredictlist = testcnn(sentence)
+                #cnnp = testcnnp(sentence)
                 
                 print cnnpredictlist
                 print cnnp
-                if cnnp[sentence.index(keyword)] == '':
+                if cnnp[0] == '':#cnnp[sentence.index(keyword)] == '':
                     p = ''
                 else:
-                    p = max(cnnp[sentence.index(keyword)])
-                sense = cnnpredictlist[sentence.index(keyword)]
+                    p = max(cnnp[0])#max(cnnp[sentence.index(keyword)])
+                sense = cnnpredictlist[0]
+                #sense = cnnpredictlist[sentence.index(keyword)]
                 result['judgesense'+str(i)] = judgesense
                 result['sense'+str(i)] = sense
                 result['p'+str(i)] = p
@@ -228,17 +232,29 @@ def solveprocess(jsondata):
                 sentence2 = sentencepair[1]
                 result['keyword'+str(i)] = keyword
                 print keyword, sentence1, sentence2
+                position1 = sentence1.index(keyword)
+                position2 = sentence2.index(keyword)
+                cnnpredictlist1 = testcnn_one(sentence1,position1)
+                cnnpredictlist2 = testcnn_one(sentence2,position2)
+                cnnp1 = testcnnp_one(sentence1,position1)
+                cnnp2 = testcnnp_one(sentence2,position2)
+                '''
                 cnnpredictlist1 = testcnn(sentence1)
                 cnnpredictlist2 = testcnn(sentence2)
                 cnnp1 = testcnnp(sentence1)
                 cnnp2 = testcnnp(sentence2)
+                '''
                 #print cnnp1
                 #print cnnp2
-                sense1 = cnnpredictlist1[sentence1.index(keyword)]
-                p1 = cnnp1[sentence1.index(keyword)]
+                #sense1 = cnnpredictlist1[sentence1.index(keyword)]
+                #p1 = cnnp1[sentence1.index(keyword)]
+                sense1 = cnnpredictlist1[0]
+                p1 = cnnp1[0]
                 result['sense'+str(i)+'_1'] = sense1
-                sense2 = cnnpredictlist2[sentence2.index(keyword)]
-                p2 = cnnp2[sentence2.index(keyword)]
+                #sense2 = cnnpredictlist2[sentence2.index(keyword)]
+                #p2 = cnnp2[sentence2.index(keyword)]
+                sense2 = cnnpredictlist2[0]
+                p2 = cnnp2[0]
                 result['sense'+str(i)+'_2'] = sense2
                 print p1
                 print p2

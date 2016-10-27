@@ -248,13 +248,14 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
                             #print output_model(index)
                             print validsentence[true_i], '\t',senselist[output_model(index)[0][i]], '\t', senselist[valid_set_y[true_i].eval()]
                     #print test_losses
-                    '''
+                    
 
                     for index in range(0, n_test_batches):
                         for i in range(0, batch_size):
                             true_i = batch_size*index+i
                             #print output_model(index)
                             print testsentence[true_i], '\t',output_test(index)[0][i], '\t', test_set_y[true_i].eval()
+                    '''
                     savefile = open('model//cnn//'+keyword, 'wb')
                     cPickle.dump(model,savefile,-1)
                     test_score = numpy.mean(test_losses)
