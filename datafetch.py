@@ -23,7 +23,7 @@ def sentence2vector(sentence, window_radius, vector_size, i):
             dataarray = numpy.hstack((dataarray,numpy.array([0]*vector_size)))
         else:
             dataarray = numpy.hstack((dataarray,word2vecmodel[sentence[j]]))
-    print dataarray
+    #print dataarray
     return dataarray
 
 def normalize(a):

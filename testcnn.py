@@ -8,7 +8,7 @@ import math
 import numpy
 import argparse
 import cPickle
-
+import traceback
 import theano
 import theano.tensor as T
 from theano.tensor.signal import downsample
@@ -160,6 +160,7 @@ def testcnn_one(sentence,position):
                 #print sentence, '\t',output_model(0)[0][0]
                 result.append(senselist[sentence[i]][output_model(0)[0][0]])
             except:
+		#traceback.print_exc()
                 try:
                     result.append(senselist[sentence[i]][0])
                 except:
@@ -197,6 +198,7 @@ def testcnnp_one(sentence,position):
                 #print sentence, '\t',output_model(0)[0][0]
                 result.append(output_model(0)[0][0])
             except:
+		#traceback.print_exc()
                 result.append(numpy.ones((1,)))
         else:
             result.append('')

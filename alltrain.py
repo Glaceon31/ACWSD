@@ -4,10 +4,13 @@ import os.path
 import json
 import string
 import sys
+import codecs
 
 from traincnnmulti import trainword
 from pymongo import MongoClient
 client = MongoClient()
+
+#sys.stdout = codecs.getwriter('utf8')(sys.stdout)
 
 db = client.wsd
 

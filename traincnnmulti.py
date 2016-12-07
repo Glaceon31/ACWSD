@@ -177,12 +177,12 @@ def trainword(keyword, window_radius = 3, learning_rate = 0.1, n_epochs = 10,bat
 
     print '... training'
     # early-stopping parameters
-    patience = 12000  # look as this many examples regardless
+    patience = max(n_train_batches*5,20000)  # look as this many examples regardless
     patience_increase = 2  # wait this much longer when a new best is
                            # found
     improvement_threshold = 0.995  # a relative improvement of this much is
                                    # considered significant
-    validation_frequency = min(n_train_batches, patience / 2)
+    validation_frequency = min(n_train_batches, patience / 4)
                                   # go through this many
                                   # minibatche before checking the network
                                   # on the validation set; in this case we
