@@ -242,7 +242,7 @@ def sim(p1,p2):
 			pass
 	return cos_sim(vec1,vec2)
 
-def solve(xml, verbose=False):
+def solve(xml, verbose=False, web=False):
 	result = solveprocess(xml)
 	choice = ['A', 'B', 'C', 'D']
 	if result['type'] == 'tagging':
@@ -254,7 +254,10 @@ def solve(xml, verbose=False):
 			matchscore = gram(result['sense'], result['select'+str(i+1)])
 			distpenal = min([geteditdistance(s, result['select'+str(i+1)]) for s in re.split(u'；|，',result['sense'])])#/len(result['select'+str(i+1)])
 			score_sim[i] = 5*matchscore-distpenal+0.001*sim(result['sense'], result['select'+str(i+1)])
-			if verbose:
+			result['matchscore'+str(i+1)] = matchscore
+            result['distpenal'+str(i+1)] = distpenal
+            result['sensesim'+str(i+1)] = sim(result['sense'], result['select'+str(i+1)])
+            if verbose:
 				print matchscore,distpenal,sim(result['sense'], result['select'+str(i+1)])
 	elif result['type'] == 'taggingjudge':
 		score_sim = [0.]*4
@@ -262,7 +265,10 @@ def solve(xml, verbose=False):
 			matchscore = gram(result['sense'+str(i+1)], result['judgesense'+str(i+1)])
 			distpenal = min([geteditdistance(s, result['judgesense'+str(i+1)]) for s in re.split(u'；|，',result['sense'+str(i+1)])])#/len(result['judgesense'+str(i+1)])
 			score_sim[i] = 5*matchscore-distpenal+0.001*sim(result['sense'+str(i+1)], result['judgesense'+str(i+1)])
-			if verbose:
+			result['matchscore'+str(i+1)] = matchscore
+            result['distpenal'+str(i+1)] = distpenal
+            result['sensesim'+str(i+1)] = sim(result['sense'], result['select'+str(i+1)])
+            if verbose:
 				print result['sense'+str(i+1)],matchscore,distpenal,sim(result['sense'+str(i+1)], result['judgesense'+str(i+1)])
 	elif result['type'] == 'sentence_pair':
 		score_sim = [0.]*4
@@ -278,6 +284,9 @@ def solve(xml, verbose=False):
 		ans = numpy.argmin(score_sim)
 	if verbose:
 		print result['type'],score_sim
+    if web:
+        result['ans'] = choice[ans]
+        return result
 	return result['type'],result['same'],choice[ans]
 			 
 
