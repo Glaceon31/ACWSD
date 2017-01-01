@@ -52,7 +52,7 @@
  				document.getElementById('result').innerHTML = '选项一<br>预测释义：'+result['sense1']+'<br>题内释义：'+result['judgesense1']+'<br>编辑距离：'+result['distpenal1']+'<br>匹配词数：'+result['matchscore1']+'<br><br>选项二<br>预测释义：'+result['sense2']+'<br>题内释义：'+result['judgesense2']+'<br>编辑距离：'+result['distpenal2']+'<br>匹配词数：'+result['matchscore2']+'<br><br>选项三<br>预测释义：'+result['sense3']+'<br>题内释义：'+result['judgesense3']+'<br>编辑距离：'+result['distpenal3']+'<br>匹配词数：'+result['matchscore3']+'<br><br>选项四<br>预测释义：'+result['sense4']+'<br>题内释义：'+result['judgesense4']+'<br>编辑距离：'+result['distpenal4']+'<br>匹配词数：'+result['matchscore4']+'<br><br>答案：选项'+hanzi[String(parseInt(result['ans'])+1)]
  			}
  			if (result['type'] == 'tagging'){
- 				editdistance = [getEditDistance(result['sense'],result['select1']),getEditDistance(result['sense'],result['select2']),getEditDistance(result['sense'],result['select3']),getEditDistance(result['sense'],result['select4'])]
+ 				/*editdistance = [getEditDistance(result['sense'],result['select1']),getEditDistance(result['sense'],result['select2']),getEditDistance(result['sense'],result['select3']),getEditDistance(result['sense'],result['select4'])]
  				max_matching = [max_length_matching(result['sense'],result['select1']),max_length_matching(result['sense'],result['select2']),max_length_matching(result['sense'],result['select3']),max_length_matching(result['sense'],result['select4'])]
  				mind = 100000
  				ans = -1
@@ -61,8 +61,8 @@
 	 					ans = i
 	 					mind = editdistance[i]+100-max_matching[i]
 	 				}
-	 			}
- 				document.getElementById('result').innerHTML = '释义：'+result['sense']+'<br><br>选项一<br>编辑距离：'+editdistance[0]+'<br>最长匹配长度：'+max_matching[0]+'<br><br>选项二<br>编辑距离：'+editdistance[1]+'<br>最长匹配长度：'+max_matching[1]+'<br><br>选项三<br>编辑距离：'+editdistance[2]+'<br>最长匹配长度：'+max_matching[2]+'<br><br>选项四<br>编辑距离：'+editdistance[3]+'<br>最长匹配长度：'+max_matching[3]+'<br><br>答案：选项'+hanzi[String(parseInt(ans)+1)]
+	 			}*/
+ 				document.getElementById('result').innerHTML = '释义：'+result['sense']+'<br><br>选项一<br>编辑距离：'+result['distpenal1']+'<br>匹配词数：'+result['matchscore1']+'<br><br>选项二<br>编辑距离：'+result['distpenal2']+'<br>匹配词数：'+result['matchscore2']+'<br><br>选项三<br>编辑距离：'+result['distpenal3']+'<br>匹配词数：'+result['matchscore3']+'<br><br>选项四<br>编辑距离：'+result['distpenal4']+'<br>匹配词数：'+result['matchscore4']+'<br><br>答案：选项'+hanzi[String(parseInt(result['ans'])+1)]
  			}
  			if (result['type'] == 'sentence_pair'){
  				match = ['0%','0%','0%','0%','0%']

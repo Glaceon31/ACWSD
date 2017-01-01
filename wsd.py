@@ -8,6 +8,7 @@ from setting import *
 from testcnn import testcnn, testcnnp, testcnn_one, testcnnp_one
 from crfpredict import crfpredict
 from solve import solveprocess
+from solve import solve as solveweb
 import numpy as np
 import urllib
 
@@ -180,7 +181,7 @@ def max_matching(a,b):
 def solve(jsondata):
     jsondata = urllib.unquote(jsondata)
     jsondata = jsondata.replace('nya', '/')
-    result = solveprocess(jsondata)
+    result = solveweb(jsondata, web=True)
     print result
     return json.dumps(result)
 
